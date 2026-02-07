@@ -22,6 +22,7 @@ eventually:
 misc:
  https://stupied.neocities.org/about/faq 
  https://teppyslayouts.neocities.org
+ https://ribo.zone/free/layouts/
  become webmaster I AM THE webmaster
 okay im glad i am no longer coding on the neocities website. thank god i learned how to
 do that. and upload my shit to github automatically. unfortunately i was too lazy to 
