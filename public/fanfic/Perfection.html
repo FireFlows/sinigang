@@ -16,6 +16,25 @@
 "That's what I'm asking you. But, yes, I would."</p><p>"Okay." Of course, he dreaded seeing everyone else's ugly faces, but with Takumi, it should be a bit more tolerable. "Okay, I'll come with you. Can you hold my hand?"</p><p>"…Sure. I'll hold your hand, Aotsuki. But don't get too excited."</p><p>It was a bit too late for that, but Eito smiled and grabbed Takumi's hand. "I love you."<br>
 <br>
 Takumi didn't look at Eito. He quickly ran to the Cafeteria, dragging Eito along like a tassel. He forced Eito to let go before opening the door.</p>
-   
+<script>
+function clickCounter() {
+  const x = document.getElementById("result");
+  if (typeof(Storage) !== "undefined") {
+    if (localStorage.perfect) {
+      localStorage.perfect = Number(localStorage.perfect)+1;
+    } else {
+      localStorage.perfect = 1;
+    }
+    x.innerHTML = "You have given kudos " + localStorage.perfect + " time(s)!";
+  } else {
+    x.innerHTML = "Sorry, no Web storage support!";
+  }
+}
+</script>
+<hr>
+<p id="result"></p>
+<button class="button" onclick="clickCounter()">💜 Kudos</button>
+</div></div>
+</script>
 </body>
 </html>

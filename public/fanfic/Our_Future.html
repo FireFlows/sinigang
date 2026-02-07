@@ -10,7 +10,27 @@
 	<div class="page">
     <h2>Our Future</h2>
       <p>The boy staring back at Takumi was not Eito. He looked enough like Eito (despite the blood and decomposition), but this "Eito" no longer thought or spoke coherently. His brain had been completely devoured by the male G'ie.</p><p>Wasn't that Takumi's fault? If he hadn't killed Eito on Day 2, perhaps there would be no G'ie. No, he shouldn't think about what "could have been" — he'd already chosen to kill Eito; this was the ending that Takumi created.</p><p>Eito's reanimated corpse was impaled by the spikes in the pit. Takumi's idea. For the second time, Takumi had killed Eito Aotsuki.</p>
+<script>
+function clickCounter() {
+  const x = document.getElementById("result");
+  if (typeof(Storage) !== "undefined") {
+    if (localStorage.slasher) {
+      localStorage.slasher = Number(localStorage.slasher)+1;
+    } else {
+      localStorage.slasher = 1;
+    }
+    x.innerHTML = "You have given kudos " + localStorage.slasher + " time(s)!";
+  } else {
+    x.innerHTML = "Sorry, no Web storage support!";
+  }
+}
+</script>
+<hr>
+<p id="result"></p>
+<button class="button" onclick="clickCounter()">💜 Kudos</button>
+</script>
     </div>
+
 </div>
 </body>
 </html>
