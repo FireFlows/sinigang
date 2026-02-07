@@ -16,12 +16,12 @@
 function clickCounter() {
   const x = document.getElementById("result");
   if (typeof(Storage) !== "undefined") {
-    if (localStorage.clickcount2) {
-      localStorage.clickcount2 = Number(localStorage.clickcount2)+1;
+    if (localStorage.laundry) {
+      localStorage.laundry = Number(localStorage.laundry)+1;
     } else {
-      localStorage.clickcount2 = 1;
+      localStorage.laundry = 1;
     }
-    x.innerHTML = "You have given kudos " + localStorage.clickcount2 + " time(s)!";
+    x.innerHTML = "You have given kudos " + localStorage.laundry + " time(s)!";
   } else {
     x.innerHTML = "Sorry, no Web storage support!";
   }
