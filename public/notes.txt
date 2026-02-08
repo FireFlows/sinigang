@@ -12,8 +12,6 @@ links to creators of merch instead of just plaintext
 mobile-friendly (?)
 create hyperlink directly to #about page (using like header? idk lel)
 create hyperlink directly to certain headings in /public/stuff.html
- view-source:https://rice.place/bookmark.html
-
 
 ## links
 https://www.reddit.com/r/neocities/comments/1qwsjvg/comment/o3rkg8x/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
@@ -23,7 +21,7 @@ https://sadgrl.online/resources/
 https://developer.mozilla.org/en-US/docs/Web/HTML/Guides/Date_and_time_formats
 https://www.w3schools.com/html/  
 https://perfectmotherfuckingwebsite.com/ 
-https://fire7541.tumblr.com/private/795337334259384320/tumblr_ttCAa6siszYPmHMCZ?source=share <== Can people see this tumblr post if i link it im scared
+https://fire7541.tumblr.com/private/795337334259384320/tumblr_ttCAa6siszYPmHMCZ?source=share
 https://stupied.neocities.org/about/faq 
 https://teppyslayouts.neocities.org
 https://ribo.zone/free/layouts/
@@ -31,3 +29,4 @@ https://codepen.io/jinsouls/pen/WNYRogj
 https://ginacities.com/
 https://rice.place/template.html 
 https://rice.place/bookmark.html
+https://github.com/biancarosa/lastfm-last-played 
