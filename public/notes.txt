@@ -14,6 +14,7 @@ create hyperlink directly to #about page (using like header? idk lel)
 create hyperlink directly to certain headings in /public/stuff.html
 
 ## links
+https://cssgridgenerator.io
 https://www.reddit.com/r/neocities/comments/1qwsjvg/comment/o3rkg8x/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
 https://mouseling.net/100webmaster
 https://yatagarasu.nekoweb.org/about.html 
