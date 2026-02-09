@@ -1,6 +1,7 @@
 2/9/26
 - added clock on sidebar!
 - added fun 404 not found page
+- added moon phases
 
 2/8/26
 - removed iframes from site 
