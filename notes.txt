@@ -11,7 +11,6 @@ kudos button that works
 links to creators of merch instead of just plaintext 
 mobile-friendly (?)
 create hyperlink directly to certain headings in /public/stuff.html
-no more iframes (IN PROGRESS)
 
 ## links
 https://cssgridgenerator.io

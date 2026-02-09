@@ -1,0 +1,4 @@
+2/8/26
+- removed iframes from site 
+- added a cute eito sprite on the right
+- created changelog because...why not? LOL. 
