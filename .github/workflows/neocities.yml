@@ -23,4 +23,3 @@ jobs:
       with:
         api_token: 4a008542d025507988687ec2dca2c094
         cleanup: false
-        dist_dir: public
