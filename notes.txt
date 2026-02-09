@@ -32,3 +32,4 @@ https://rice.place/bookmark.html
 https://github.com/biancarosa/lastfm-last-played 
 https://azure-valley.neocities.org/ 
 https://www.w3schools.com/tags/tag_a.asp
+https://characters.numbersstory.com/favorites
