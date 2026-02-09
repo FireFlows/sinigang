@@ -1,8 +1,7 @@
 ## to add
 online shrine
 cd collection
-make it feel less cramped
-create custom 404 page
+make it feel less cramped (!!! seriously, the page looks weird from the thumbnail)
 better music player
 paper doll (?)
 cute banner images drawn by me
@@ -11,7 +10,8 @@ thing that grabs my favorite songs from vocadb (? is this even possible lol)
 kudos button that works
 links to creators of merch instead of just plaintext 
 mobile-friendly (?)
-create hyperlink directly to certain headings in /public/stuff.html
+create hyperlink directly to certain headings in /stuff.html
+add favicon
 
 ## links
 https://cssgridgenerator.io
@@ -38,6 +38,7 @@ https://eitaku.neocities.org/
 https://hndrline.gg8473.com/fanlisting/
 https://www.cbox.ws/
 https://clap.fc2.com/en/ 
+https://en.wikipedia.org/wiki/Favicon#How_to_use
 
 ## misc
 <iframe src="https://www3.cbox.ws/box/?boxid=3552194&boxtag=P3aaPu" width="100%" height="450" allowtransparency="yes" allow="autoplay" frameborder="0" marginheight="0" marginwidth="0" scrolling="auto"></iframe>	
