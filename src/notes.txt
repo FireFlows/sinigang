@@ -1,8 +1,9 @@
 ## to add
 online shrine
 cd collection
+make it feel less cramped
+create custom 404 page
 better music player
-clock embed
 paper doll (?)
 cute banner images drawn by me
 custom cursor (?)
@@ -33,3 +34,10 @@ https://github.com/biancarosa/lastfm-last-played
 https://azure-valley.neocities.org/ 
 https://www.w3schools.com/tags/tag_a.asp
 https://characters.numbersstory.com/favorites
+https://eitaku.neocities.org/
+https://hndrline.gg8473.com/fanlisting/
+https://www.cbox.ws/
+https://clap.fc2.com/en/ 
+
+## misc
+<iframe src="https://www3.cbox.ws/box/?boxid=3552194&boxtag=P3aaPu" width="100%" height="450" allowtransparency="yes" allow="autoplay" frameborder="0" marginheight="0" marginwidth="0" scrolling="auto"></iframe>	

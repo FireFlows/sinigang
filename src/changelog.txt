@@ -1,3 +1,5 @@
+2/9/26
+- added clock on sidebar!
 2/8/26
 - removed iframes from site 
 - improved organization
