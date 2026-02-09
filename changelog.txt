@@ -1,4 +1,6 @@
 2/8/26
 - removed iframes from site 
+- improved organization
 - added a cute eito sprite on the right
 - created changelog because...why not? LOL. 
+- added sitemap!
