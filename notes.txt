@@ -10,8 +10,8 @@ thing that grabs my favorite songs from vocadb
 kudos button that works
 links to creators of merch instead of just plaintext 
 mobile-friendly (?)
-create hyperlink directly to #about page (using like header? idk lel)
 create hyperlink directly to certain headings in /public/stuff.html
+no more iframes (IN PROGRESS)
 
 ## links
 https://cssgridgenerator.io
@@ -31,3 +31,4 @@ https://ginacities.com/
 https://rice.place/template.html 
 https://rice.place/bookmark.html
 https://github.com/biancarosa/lastfm-last-played 
+https://azure-valley.neocities.org/ 
