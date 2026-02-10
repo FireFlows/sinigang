@@ -6,6 +6,11 @@ am still working on thaaat.
 - space is much bigger now in general!
 - removed eito hallucination sprite because it was causing issues.
 RIP. he will return when I'm a better coder lol
+- added clap button!
+- added results of animal jam quiz! P.S. i should totes get 
+back into AJ Q_Q
+- quest to make site mobile-friendly is nearly finished. Check it out
+by resizing your browser.
 
 2/9/26
 - added clock on sidebar!

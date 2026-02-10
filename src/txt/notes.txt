@@ -15,7 +15,10 @@ add favicon
 archive of song obsessions 
 make sitemap.html into actual tree
 i could probably make it so you hover over albums/games to see their name
-
+make the navigation ONE page that i just constantly refer to instead 
+of the same thing copy and pasted because it is so fucking annoying to have to
+keep doing this shit
+what last defense academy member are you?
 ## links
 https://cssgridgenerator.io
 https://www.reddit.com/r/neocities/comments/1qwsjvg/comment/o3rkg8x/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
@@ -48,6 +51,7 @@ https://validator.w3.org/#validate_by_input
 https://www.w3schools.com/howto/howto_js_popup.asp
 https://www.w3schools.com/html/html_responsive.asp
 https://chimerathing.neocities.org/home
+https://myrtletribe.neocities.org/
 
 ## misc
 <iframe src="https://www3.cbox.ws/box/?boxid=3552194&boxtag=P3aaPu" width="100%" height="450" allowtransparency="yes" allow="autoplay" frameborder="0" marginheight="0" marginwidth="0" scrolling="auto"></iframe>	
