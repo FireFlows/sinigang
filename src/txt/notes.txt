@@ -13,6 +13,8 @@ mobile-friendly (?)
 create hyperlink directly to certain headings in /stuff.html
 add favicon
 make code less ugly oh my god bruh
+archive of song obsessions 
+make sitemap.html into actual tree
 
 ## links
 https://cssgridgenerator.io
@@ -41,6 +43,7 @@ https://www.cbox.ws/
 https://clap.fc2.com/en/ 
 https://en.wikipedia.org/wiki/Favicon#How_to_use
 https://32bit.cafe/
+https://validator.w3.org/#validate_by_input
 
 ## misc
 <iframe src="https://www3.cbox.ws/box/?boxid=3552194&boxtag=P3aaPu" width="100%" height="450" allowtransparency="yes" allow="autoplay" frameborder="0" marginheight="0" marginwidth="0" scrolling="auto"></iframe>	

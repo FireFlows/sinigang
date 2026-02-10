@@ -2,6 +2,11 @@
 - added clock on sidebar!
 - added fun 404 not found page
 - added moon phases
+- added robots.txt file. since my website is 
+very old it did not come with one lol. 
+- moved robots.txt, changelog.txt, notes.txt 
+into a new folder "txt" 
+- made code look less ugly so i can actually read it
 
 2/8/26
 - removed iframes from site 
