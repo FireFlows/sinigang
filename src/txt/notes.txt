@@ -1,6 +1,6 @@
 ## to add
 online shrine
-cd collection
+- john/tooboe shrine..? OMG.
 make it feel less cramped (!!! seriously, the page looks weird from the thumbnail)
 better music player
 paper doll (?)
@@ -12,9 +12,9 @@ links to creators of merch instead of just plaintext
 mobile-friendly (?)
 create hyperlink directly to certain headings in /stuff.html
 add favicon
-make code less ugly oh my god bruh
 archive of song obsessions 
 make sitemap.html into actual tree
+i could probably make it so you hover over albums/games to see their name
 
 ## links
 https://cssgridgenerator.io
@@ -30,6 +30,7 @@ https://stupied.neocities.org/about/faq
 https://teppyslayouts.neocities.org
 https://ribo.zone/free/layouts/
 https://codepen.io/jinsouls/pen/WNYRogj
+https://codepen.io/ in general 
 https://ginacities.com/
 https://rice.place/template.html 
 https://rice.place/bookmark.html
@@ -44,6 +45,7 @@ https://clap.fc2.com/en/
 https://en.wikipedia.org/wiki/Favicon#How_to_use
 https://32bit.cafe/
 https://validator.w3.org/#validate_by_input
+https://www.w3schools.com/howto/howto_js_popup.asp
 
 ## misc
 <iframe src="https://www3.cbox.ws/box/?boxid=3552194&boxtag=P3aaPu" width="100%" height="450" allowtransparency="yes" allow="autoplay" frameborder="0" marginheight="0" marginwidth="0" scrolling="auto"></iframe>	

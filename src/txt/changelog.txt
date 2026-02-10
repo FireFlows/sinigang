@@ -7,6 +7,13 @@ very old it did not come with one lol.
 - moved robots.txt, changelog.txt, notes.txt 
 into a new folder "txt" 
 - made code look less ugly so i can actually read it
+- added border arounde sidebar
+- added physical music collection
+- put robots.txt back into main folder because 
+it doesn't work like that. #oops!
+- quiz results now open in a new tab 
+- created table of contents for stuff.html
+- added a surprise on eito.html
 
 2/8/26
 - removed iframes from site 
