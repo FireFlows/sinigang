@@ -4,14 +4,14 @@
 	<title>Fire's Site!</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
 	<meta charset="UTF-8"> 
-	<meta name="viewport" content="width=device-width, initial-scale=0.1">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
 <div class="sideright"><img src="img/EitoSpriteHallucination_2.png" alt="Eito Hallucination sprite."></div>
 <div class="wrapper">
     <div class="sidebar">
 		<div class="avatar">
-			<img src="img/avatar.png" alt="Eito as a child.">
+			<img src="img/avatar.png" style="border-bottom: 4px solid purple;" alt="Eito as a child.">
 		</div>
 		<div class="menu">	
 			<div id="contain_moon" style="text-align:center;float:left;"><div style="font-weight:bold"></div><div style="padding:10px;"></div><div></div><div style="font-size:small"></div></div><script>(function(){var d=new Date().getDate();var m=document.querySelectorAll("#contain_moon div");var a=new XMLHttpRequest();var url="https://www.icalendar37.net/lunar/api/?lang=en&month="+(new Date().getMonth()+1)+"&year="+(new Date().getFullYear())+"&size=25&lightColor=rgb(245,245,245)&shadeColor=purple&LDZ="+new Date(new Date().getFullYear(),new Date().getMonth(),1)/1000+"";m[1].style.height="30px";a.onreadystatechange=function(){if(a.readyState==4&&a.status==200){var b=JSON.parse(a.responseText);m[1].innerHTML=b.phase[d].svg;if(typeof moon_widget_loaded=="function")moon_widget_loaded(b)}};a.open("GET",url,true);a.send()})()</script> 

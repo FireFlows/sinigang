@@ -1,3 +1,12 @@
+2/10/26
+- attempting to make the site work on mobile but 
+it looks very bad so far! please do not judge too harshly.
+- should look good with most resolutions now except mobile i 
+am still working on thaaat.
+- space is much bigger now in general!
+- removed eito hallucination sprite because it was causing issues.
+RIP. he will return when I'm a better coder lol
+
 2/9/26
 - added clock on sidebar!
 - added fun 404 not found page
