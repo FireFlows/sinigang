@@ -12,6 +12,9 @@ back into AJ Q_Q
 - quest to make site mobile-friendly is nearly finished. Check it out
 by resizing your browser.
 -IT'S MOBILE FRIENDLY. YA
+- added favicon
+- made it so i dont have to keep updating my sidebar for every html page
+my first foray into javascript.
 
 2/9/26
 - added clock on sidebar!

@@ -4,27 +4,12 @@
 	<title>Fire's Site!</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
 	<meta charset="UTF-8"> 
+	<link rel="icon" type="image/gif" href="img/purple_moon.gif">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<script src="layout.js"></script>
 </head>
-<body>
-<div class="sideright"><img src="img/EitoSpriteHallucination_2.png" alt="Eito Hallucination sprite."></div>
-<div class="wrapper">
-    <div class="sidebar">
-		<div class="avatar">
-			<img src="img/avatar.png" style="border-bottom: 4px solid purple;" alt="Eito as a child.">
-		</div>
-		<div class="menu">	
-			<div id="contain_moon" style="text-align:center;float:left;"><div style="font-weight:bold"></div><div style="padding:10px;"></div><div></div><div style="font-size:small"></div></div><script>(function(){var d=new Date().getDate();var m=document.querySelectorAll("#contain_moon div");var a=new XMLHttpRequest();var url="https://www.icalendar37.net/lunar/api/?lang=en&month="+(new Date().getMonth()+1)+"&year="+(new Date().getFullYear())+"&size=25&lightColor=rgb(245,245,245)&shadeColor=purple&LDZ="+new Date(new Date().getFullYear(),new Date().getMonth(),1)/1000+"";m[1].style.height="30px";a.onreadystatechange=function(){if(a.readyState==4&&a.status==200){var b=JSON.parse(a.responseText);m[1].innerHTML=b.phase[d].svg;if(typeof moon_widget_loaded=="function")moon_widget_loaded(b)}};a.open("GET",url,true);a.send()})()</script> 
-			<iframe src="https://free.timeanddate.com/clock/iaa3fu0l/n412/fs16/tt0/tw0/tm3/td2/th2/tb4" frameborder="0" width="105" height="39"></iframe>
-			<br><br><br>
-			<a href="index.html">home</a><br>
-			<a href="about.html">about</a><br>
-			<a href="stuff.html">stuff</a><br>
-			<a href="sitemap.html">sitemap</a><br>
-   		</div>
-	<a href="//clap.fc2.com/post/sinigang/?url=https%3A%2F%2Fsinigang.neocities.org%2F&title=Fire%27s+Site%21" class="nomobile" target="_blank" title="Web Clap by FC2"><img src="//clap.fc2.com/images/button/white/sinigang?url=https%3A%2F%2Fsinigang.neocities.org%2F&amp;lang=en" alt="Web Clap by FC2" style="border:none;" /></a>
-</div>
-<div class="content">
+<body class="wrapper">
+	<div class="content">
     <h1>HOME</h1>
 	<h2>WARNING</h2>
 		<p>My website is for <b>mature audiences only</b>. My fics (which I've hosted here!) contain gore (especially self-harm) and are occasionally sexually explicit. There are suggestive and gory drawings. I talk about R18 games. I say bad words. If you are under the age of 18 or uncomfortable with the topics shown on this website, please do not continue further. </p>
@@ -50,6 +35,8 @@
 			<li><span><a href="http://www.wdisseny.com/lluna/moonInWeb/?lang=en" target="_blank" rel="noopener noreferrer">http://www.wdisseny.com/lluna/moonInWeb/?lang=en</a> - moon phases</span></li>
 			<li><span><a href="https://baccyflap.com/res/robots/" target="_blank" rel="noopener noreferrer">https://baccyflap.com/res/robots/</a> - bot-proofing your website. I've copied the robots.txt file from here onto my site.</span></li>
 			<li><span><a href="https://www.lipsum.com/" target=_blank" rel="noopener noreferrer">https://www.lipsum.com/</a> - lorem ipsum generator </a></span></li>
+			<li><span><a href="https://petrapixel.neocities.org/coding/layout-base-code" target="_blank" rel="noopener noreferrer">https://petrapixel.neocities.org/coding/layout-base-code</a> - used code from here so I don't have to keep updating every page individually when I change my sidebar. Yes, I really was doing that before.</span></li>
+			<li><span><a href="https://www.deviantart.com/angelishia/art/Tiny-Purple-Moon-591532804">https://www.deviantart.com/angelishia/art/Tiny-Purple-Moon-591532804</a> - favicon</span></li>
 			<li><span><a href="txt/changelog.txt" target="_blank" rel="noopener noreferrer">changelog.txt</a></span></li>
 			<li><span><a href="txt/notes.txt" target="_blank" rel="noopener noreferrer">notes.txt</a></span></li>
 		</ul>
