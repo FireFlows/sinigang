@@ -1,9 +1,3 @@
-
-.sideright {
-    display:none;
-} 
-
-
 main {
     float: right;
     width: 75%;
@@ -12,21 +6,21 @@ main {
     overflow: scroll;
     border: 3px double purple;
     box-sizing: border-box;
-    background-color: white;
+    background-color: #FAF9F6;
     padding: 24px;
     
 }
 
 body, html {
     height: 65%;
-    font-size: 16.25px;
-    background-color: white;
-    color: #000;
+    font-size: 16.5px;
+    color: rgb(69, 0, 69);
     font-family: Calibri, Arial, sans-serif;
     box-sizing: border-box;
 }
-
-
+html {
+    background-color:rgb(244, 244, 244);
+}
 img {
     max-width: 100%;
 }
@@ -39,7 +33,8 @@ a {
     width: 100%;
     height:32.825%;
 }
-aside {
+aside, nav {
+    background-color:#FAF9F6;
     text-align: center;
     float: left;
     width: 23.5%;
@@ -56,7 +51,7 @@ aside {
 }
 
 .menu {
-    padding: 24px;
+    padding: 12px;
     text-align: center;
 }
 
@@ -64,35 +59,36 @@ aside {
 
 .menu a {
     display: inline-block;
-    padding: 8px 5px;
+    padding: 5px 5px;
     color: purple;
     margin-bottom: 6px;
     text-decoration: none;
-    font-weight: 500;
-    text-transform: uppercase;
+    font-weight: 500px;
+    font-size: 18px;
+    text-transform:uppercase;
     letter-spacing: 1px;
 
 }
 
 .menu a:hover, .active {
     background: purple;
-    color: #FFF;
+    color: #FAF9F6;
 }
 
 h1, h2, h3, h4 {
     color: purple;
 }
-li {
+li, details {
   color: purple; 
 }
-li span {
-  color: black; 
+li span, summary span {
+  color: rgb(69, 0, 69);; 
 }
 
 h1 {
-    font-size: 20px;
+    font-size: 23px;
     background: purple;
-    color: #FFF;
+    color: #FAF9F6;
     display: inline-block;
     padding: 4px;
     text-transform: uppercase;
@@ -102,15 +98,10 @@ h1 {
 h2 {
     text-transform: uppercase;
     letter-spacing: 1px;
-    font-size: 17px;
+    font-size: 20px;
     border-bottom: 1px dashed purple;
     padding-bottom: 4px;
     margin-top: 2rem;
-}
-
-.border {
-    padding: 2px;
-    border: 1px solid purple;
 }
 
 th, td {
@@ -141,14 +132,14 @@ th {
     height: 100%;
 
   }
-  aside, .menu {
+  nav, .menu {
     display: flex;
     top: 0;
     justify-content:center;
     align-items: center;
     width: 98.5%;
     height:auto;
-   background:white;
+   background:#FAF9F6;
   }
 
   .sideright, .avatar, .nomobile { /*Pronounced like no-mobeel. Haha. Hilarious*/

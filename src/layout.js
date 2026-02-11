@@ -62,20 +62,20 @@ const nesting = getNestingString();
 // Insert your header HTML inside these ``. You can use HTML as usual. 
 // You don't need to use the <header> element, but I recommend it.
 const headerEl = `
-<aside>
+<nav>
 		<div class="avatar">
 			<img src="${nesting}/img/avatar.png" style="border-bottom: 4px solid purple;" alt="Eito as a child.">
 		</div>
 		<div class="menu">
-   <iframe src="https://free.timeanddate.com/clock/iaa3fu0l/n412/fs16/tt0/tw0/tm3/td2/th2/tb4" frameborder="0" width="105" height="39"></iframe>
-			<br><br>
-			<a href="${nesting}/index.html">home</a><br>
-			<a href="${nesting}/about.html">about</a><br>
-			<a href="${nesting}/stuff.html">stuff</a><br>
-			<a href="${nesting}/sitemap.html">sitemap</a>
+<iframe src="https://free.timeanddate.com/clock/iaa72f5u/n412/fs17/fc800080/tct/pct/tt0/tw1/tm1/th2/ta1/tb4" frameborder="0" width="149" height="42" allowtransparency="true"></iframe>
+			<br><br><a href="${nesting}/index.html">Home</a><br>
+			<a href="${nesting}/about.html">About</a><br>
+			<a href="${nesting}/stuff.html">Stuff</a><br>
+			<a href="${nesting}/sitemap.html">Sitemap</a><br>
    		</div>
 	<a href="//clap.fc2.com/post/sinigang/?url=https%3A%2F%2Fsinigang.neocities.org%2F&title=Fire%27s+Site%21" class="nomobile" target="_blank" title="Web Clap by FC2"><img src="//clap.fc2.com/images/button/white/sinigang?url=https%3A%2F%2Fsinigang.neocities.org%2F&amp;lang=en" alt="Web Clap by FC2" style="border:none;" /></a>
- <br><br><br><br><br><br><br><br><br><br>
-  </aside>
+  <br><br>
+  <img src="${nesting}/img/love_and_peace.png" class="nomobile" alt="Love and peace Eito sticker" style="max-width:100%;height:auto;width:200px;">
+  </nav>
 `;
 
