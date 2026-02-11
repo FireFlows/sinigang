@@ -28,6 +28,24 @@ function getNestingString() {
   return ".." + "/..".repeat(numberOfSlahes - 2);
 }
 
+function initActiveLinks() {
+  // This function adds the class "active" to any link that links to the current page.
+  // This is helpful for styling the active menu item.
+
+  const pathname = window.location.pathname;
+  [...document.querySelectorAll("a")].forEach((el) => {
+    const elHref = el.getAttribute("href").replace(".html", "").replace("/public", "");
+
+    if (pathname == "/") {
+      // homepage
+      if (elHref == "/" || elHref == "/index.html") el.classList.add("active");
+    } else {
+      // other pages
+      if (window.location.href.includes(elHref)) el.classList.add("active");
+    }
+  });
+}
+
 const nesting = getNestingString();
 
 /**
@@ -44,7 +62,7 @@ const nesting = getNestingString();
 // Insert your header HTML inside these ``. You can use HTML as usual. 
 // You don't need to use the <header> element, but I recommend it.
 const headerEl = `
-<div class="sidebar">
+<aside>
 		<div class="avatar">
 			<img src="${nesting}/img/avatar.png" style="border-bottom: 4px solid purple;" alt="Eito as a child.">
 		</div>
@@ -54,9 +72,10 @@ const headerEl = `
 			<a href="${nesting}/index.html">home</a><br>
 			<a href="${nesting}/about.html">about</a><br>
 			<a href="${nesting}/stuff.html">stuff</a><br>
-			<a href="${nesting}/sitemap.html">sitemap</a><br>
+			<a href="${nesting}/sitemap.html">sitemap</a>
    		</div>
 	<a href="//clap.fc2.com/post/sinigang/?url=https%3A%2F%2Fsinigang.neocities.org%2F&title=Fire%27s+Site%21" class="nomobile" target="_blank" title="Web Clap by FC2"><img src="//clap.fc2.com/images/button/white/sinigang?url=https%3A%2F%2Fsinigang.neocities.org%2F&amp;lang=en" alt="Web Clap by FC2" style="border:none;" /></a>
-	</div>
+ <br><br><br><br><br><br><br><br><br><br>
+  </aside>
 `;
 

@@ -15,6 +15,8 @@ by resizing your browser.
 - added favicon
 - made it so i dont have to keep updating my sidebar for every html page
 my first foray into javascript.
+- improved accessiblity
+- added links 
 
 2/9/26
 - added clock on sidebar!
