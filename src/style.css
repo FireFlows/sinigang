@@ -116,7 +116,9 @@ th {
     background: purple;
     color: black;
 }
-
+.showmobile {
+    display:none;
+}
 @media screen and (max-width: 800px) {
     main {
         width:100%;
@@ -141,7 +143,9 @@ th {
     height:auto;
    background:#FAF9F6;
   }
-
+  .showmobile {
+    display:inline;
+  }
   .sideright, .avatar, .nomobile { /*Pronounced like no-mobeel. Haha. Hilarious*/
    display:none;
  }
