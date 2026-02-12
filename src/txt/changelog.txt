@@ -1,3 +1,12 @@
+2/12/26
+Woah, big upgrade here.
+- added sidebar to the right! currently only has 1 widget but
+whenever i receive an email from status.cafe i plan to 
+add that there as well
+- stopped relying on floats, this site now uses grids
+- do not mind my shitty .css okay...I'm sorry...i'm not that good at css i'm afraid of breaking shit. lol
+- STILL mobile friendly and accessible, by the way!
+
 2/11/26
 - improved accessiblity even more! yay!
 - aesthetic improvements...I think? I don't know. 

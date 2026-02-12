@@ -1,30 +1,38 @@
+* {
+  box-sizing: border-box;
+}
 main {
-    float: right;
-    width: 75%;
-    height: 180%;
-    max-height: 180%;
+    height: 100%;
+    width:100%;
     overflow: scroll;
     border: 4px solid purple;
-    box-sizing: border-box;
     background-color: #FAF9F6;
     padding: 24px;
     box-shadow: 10px 10px purple;
-    
+    grid-column: span 3 / span 3;
+    grid-row: span 5 / span 5;
+    grid-column-start: 2;
+    grid-row-start: 1;
 }
 
-body, html {
-    height: 65%;
-    font-size: 16.5px;
+body {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(5, 1fr);
+    gap: 10px;
+  font-size: 16.5px;
     color: rgb(69, 0, 69);
     font-family: Calibri, Arial, sans-serif;
-    box-sizing: border-box;
-    line-height: 23px;
 }
 html {
     background-color:rgb(244, 244, 244);
+    gap: 0px;
 }
 img {
     max-width: 100%;
+}
+iframe {
+    border:none;
 }
 
 a {
@@ -36,22 +44,31 @@ a {
     height:32.825%;
 }
 aside, nav {
+    box-sizing: border-box;
     background-color:#FAF9F6;
     text-align: center;
-    float: left;
-    width: 23.5%;
+    width: 100%;
     border: 4px solid purple;
-    box-shadow: 5px 5px purple;
+    box-shadow: 10px 10px purple;
 
 }
+nav {
+    grid-row: span 5 / span 5;
 
+}
+aside {
+    grid-row: span 5 / span 5;
+    grid-column-start: 5;
+    grid-row-start: 1;
+}
 .wrapper {
-    position: relative;
-    top: 50%;
-    margin:auto;
-    margin-top: -200px;
-    width: 65%;
-    height: 75%;
+    position: absolute;
+    margin-top: 2.5%;
+    margin-left: 5.5%;
+    margin-right:5.5%;
+    width: 90%;
+    height: 90%;
+
 }
 
 .menu {
@@ -62,22 +79,15 @@ aside, nav {
 /*aesthetics*/
 
 .menu a {
-    display: inline-block;
     padding: 5px 5px;
     color: purple;
     margin-bottom: 6px;
     text-decoration: none;
-    font-weight: 500px;
     font-size: 18px;
-    text-transform:uppercase;
     letter-spacing: 1px;
 
 }
 
-.menu a:hover, .active {
-    background: purple;
-    color: #FAF9F6;
-}
 
 h1, h2, h3, h4 {
     color: purple;
@@ -123,34 +133,55 @@ th {
 .showmobile {
     display:none;
 }
-@media screen and (max-width: 800px) {
-    main {
-        width:100%;
-        height:auto;
-        max-height:none;
-        overflow: visible;
-    }
+hr {
+    color:purple;
+}
+
+.menu a:hover, .active {
+    background: purple;
+    color: #FAF9F6;
+}
+@media only screen and (max-width: 800px) {
   .wrapper {
     position:absolute;
     width: 100%;
     margin:0px;
     top:0%;
     height: 100%;
+    top: 0%;
+    margin-top: 0px;
 
-  }
+
+  }    body {
+        width:100%;
+        top:0px;
+        margin:0px;
+        grid-template-columns: 1fr;
+        display: flex;
+        flex-direction:column;
+        gap:10px;
+    }
+    main {
+        width:100%;
+        height:auto;
+        max-height:none;
+        overflow: visible;
+
+    }
+
+ 
   nav, .menu, .aside { /*Please keep ".aside" in because you want a second bar to the right later don't you.*/
-    display: flex;
     top: 0;
     justify-content:center;
     align-items: center;
-    width: 98.5%;
+    width: 100%;
     height:auto;
    background:#FAF9F6;
   }
   .showmobile {
     display:inline;
   }
-  .avatar, .nomobile { /*Pronounced like no-mobeel. Haha. Hilarious*/
+  .avatar, .nomobile, hr, .menu br{ /*Pronounced like no-mobeel. Haha. Hilarious*/
    display:none;
  }
 }

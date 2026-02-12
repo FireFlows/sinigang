@@ -10,7 +10,6 @@ kudos button that works
 links to creators of merch instead of just plaintext 
 archive of song obsessions 
 make sitemap.html into actual tree
-i could probably make it so you hover over albums/games to see their name
 what last defense academy member are you?
 make website more accessible 
 improve your shit ass jokes im fr
@@ -18,6 +17,7 @@ PLZ ITS LIKE A TWELVE YEAR OLD WROTE THIS DAMN SITE.
 ALMOST NINETEENIM ALMOST NINETEEN BLA BLA BLA 
 fix case
 get rid of tables (for accessibiilty)
+why can't i use .active on nav?
 
 ## links
 https://cssgridgenerator.io
