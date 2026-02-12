@@ -18,9 +18,12 @@ ALMOST NINETEENIM ALMOST NINETEEN BLA BLA BLA
 fix case
 get rid of tables (for accessibiilty)
 why can't i use .active on nav?
+create /eitaku.html
+
+## not adding
+Dark mode.
 
 ## links
-https://cssgridgenerator.io
 https://www.reddit.com/r/neocities/comments/1qwsjvg/comment/o3rkg8x/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
 https://mouseling.net/100webmaster
 https://yatagarasu.nekoweb.org/about.html 

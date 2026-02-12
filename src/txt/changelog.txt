@@ -6,6 +6,7 @@ add that there as well
 - stopped relying on floats, this site now uses grids
 - do not mind my shitty .css okay...I'm sorry...i'm not that good at css i'm afraid of breaking shit. lol
 - STILL mobile friendly and accessible, by the way!
+- New page check it out 
 
 2/11/26
 - improved accessiblity even more! yay!

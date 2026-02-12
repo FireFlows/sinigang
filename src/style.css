@@ -1,5 +1,6 @@
 * {
   box-sizing: border-box;
+
 }
 main {
     height: 100%;
@@ -20,13 +21,19 @@ body {
     grid-template-columns: repeat(5, 1fr);
     grid-template-rows: repeat(5, 1fr);
     gap: 10px;
-  font-size: 16.5px;
+    font-size: 16.5px;
     color: rgb(69, 0, 69);
     font-family: Calibri, Arial, sans-serif;
+    position: absolute;
+    margin-top: 2.5%;
+    margin-left:10%;
+    width: 80%;
+    height: 90%;
 }
 html {
     background-color:rgb(244, 244, 244);
     gap: 0px;
+
 }
 img {
     max-width: 100%;
@@ -44,7 +51,6 @@ a {
     height:32.825%;
 }
 aside, nav {
-    box-sizing: border-box;
     background-color:#FAF9F6;
     text-align: center;
     width: 100%;
@@ -54,21 +60,13 @@ aside, nav {
 }
 nav {
     grid-row: span 5 / span 5;
+    width:90%;
 
 }
 aside {
     grid-row: span 5 / span 5;
     grid-column-start: 5;
     grid-row-start: 1;
-}
-.wrapper {
-    position: absolute;
-    margin-top: 2.5%;
-    margin-left: 5.5%;
-    margin-right:5.5%;
-    width: 90%;
-    height: 90%;
-
 }
 
 .menu {
@@ -108,6 +106,7 @@ h1 {
     text-transform: uppercase;
     letter-spacing: 1px;
 }
+
 
 h2 {
     text-transform: uppercase;
