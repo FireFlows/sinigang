@@ -2,6 +2,13 @@
 - improved accessiblity even more! yay!
 - aesthetic improvements...I think? I don't know. 
 I'm actually very bad at aesthetics.
+- removed timezone from navigation bar on mobile
+but I made it so when you look at about.html on 
+mobile you can click on a link to get my time so 
+it's fine.
+- improved timer on eito.html (https://underwhite.neocities.org/tutorials/site) which I modified a little to my tastes.
+- added a couple links; notable, the github link so people can laugh at my dogshit code.
+- changed words
 
 2/10/26
 - attempting to make the site work on mobile but 

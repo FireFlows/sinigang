@@ -4,10 +4,11 @@ main {
     height: 180%;
     max-height: 180%;
     overflow: scroll;
-    border: 3px double purple;
+    border: 4px solid purple;
     box-sizing: border-box;
     background-color: #FAF9F6;
     padding: 24px;
+    box-shadow: 10px 10px purple;
     
 }
 
@@ -17,6 +18,7 @@ body, html {
     color: rgb(69, 0, 69);
     font-family: Calibri, Arial, sans-serif;
     box-sizing: border-box;
+    line-height: 23px;
 }
 html {
     background-color:rgb(244, 244, 244);
@@ -39,6 +41,8 @@ aside, nav {
     float: left;
     width: 23.5%;
     border: 4px solid purple;
+    box-shadow: 5px 5px purple;
+
 }
 
 .wrapper {
@@ -134,7 +138,7 @@ th {
     height: 100%;
 
   }
-  nav, .menu {
+  nav, .menu, .aside { /*Please keep ".aside" in because you want a second bar to the right later don't you.*/
     display: flex;
     top: 0;
     justify-content:center;
@@ -146,7 +150,7 @@ th {
   .showmobile {
     display:inline;
   }
-  .sideright, .avatar, .nomobile { /*Pronounced like no-mobeel. Haha. Hilarious*/
+  .avatar, .nomobile { /*Pronounced like no-mobeel. Haha. Hilarious*/
    display:none;
  }
 }

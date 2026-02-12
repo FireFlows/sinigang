@@ -13,6 +13,11 @@ make sitemap.html into actual tree
 i could probably make it so you hover over albums/games to see their name
 what last defense academy member are you?
 make website more accessible 
+improve your shit ass jokes im fr
+PLZ ITS LIKE A TWELVE YEAR OLD WROTE THIS DAMN SITE. 
+ALMOST NINETEENIM ALMOST NINETEEN BLA BLA BLA 
+fix case
+get rid of tables (for accessibiilty)
 
 ## links
 https://cssgridgenerator.io
@@ -51,6 +56,9 @@ https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_navbar_sticky
 https://petrapixel.neocities.org/coding/layout-base-code 
 https://pixelsafari.neocities.org/webring/
 https://www.deviantart.com/angelishia/art/Tiny-Purple-Moon-591532804
+https://sadgrl.online/ 
+https://dimden.dev/moonwidget/
+https://vv0ltz.neocities.org/resources
 
 ## misc
 <iframe src="https://www3.cbox.ws/box/?boxid=3552194&boxtag=P3aaPu" width="100%" height="450" allowtransparency="yes" allow="autoplay" frameborder="0" marginheight="0" marginwidth="0" scrolling="auto"></iframe>	

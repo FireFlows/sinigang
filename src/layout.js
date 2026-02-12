@@ -64,7 +64,7 @@ const nesting = getNestingString();
 const headerEl = `
 <nav>
 		<div class="avatar">
-			<img src="${nesting}/img/avatar.png" style="border-bottom: 4px solid purple;" alt="Eito as a child.">
+			<img src="${nesting}/img/avatar.png" style="border-bottom: 4px solid purple;" alt="Eito as a child, scowling.">
 		</div>
 		<div class="menu">
 <iframe src="https://free.timeanddate.com/clock/iaa72f5u/n412/fs17/fc800080/tct/pct/tt0/tw1/tm1/th2/ta1/tb4" frameborder="0" class="nomobile" width="149" height="42" allowtransparency="true"></iframe>
@@ -79,3 +79,9 @@ const headerEl = `
   </nav>
 `;
 
+// Insert your footer HTML inside these ``. You can use HTML as usual. 
+// You don't need to use the <footer> element, but I recommend it.
+const footerEl = `
+
+	<footer style="text-align:center;"> </footer>
+`;
