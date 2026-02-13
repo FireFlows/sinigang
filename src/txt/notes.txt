@@ -12,13 +12,10 @@ archive of song obsessions
 make sitemap.html into actual tree
 what last defense academy member are you?
 make website more accessible 
-improve your shit ass jokes im fr
-PLZ ITS LIKE A TWELVE YEAR OLD WROTE THIS DAMN SITE. 
-ALMOST NINETEENIM ALMOST NINETEEN BLA BLA BLA 
 fix case
 get rid of tables (for accessibiilty)
 why can't i use .active on nav?
-create /eitaku.html
+Eito headcanosn list
 
 ## not adding
 Dark mode.

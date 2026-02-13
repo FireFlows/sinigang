@@ -80,12 +80,7 @@ const headerEl = `
 			<a href="${nesting}/stuff.html">Stuff</a><br><br>
 			<a href="${nesting}/sitemap.html">Sitemap</a><br>
    		</div>
-	<a href="//clap.fc2.com/post/sinigang/?url=https%3A%2F%2Fsinigang.neocities.org%2F&title=Fire%27s+Site%21" class="nomobile" target="_blank" title="Web Clap by FC2"><img src="//clap.fc2.com/images/button/white/sinigang?url=https%3A%2F%2Fsinigang.neocities.org%2F&amp;lang=en" alt="Web Clap by FC2" style="border:none;" /></a>
-  <span class="nomobile"><br></span><br>
-  <img src="${nesting}/img/love_and_peace.png" class="nomobile" alt="Love and peace Eito sticker" style="max-width:100%;height:auto;width:190px;">
-  
   </nav>
-
 `;
 
 // Insert your footer HTML inside these ``. You can use HTML as usual. 
@@ -93,6 +88,6 @@ const headerEl = `
 const footerEl = `
 <aside><br>
 <iframe width="180" height="180" style="border:none" src="https://dimden.dev/moon?custom=1&textColor=%23800080&linkColor=%23000000&styleUrl=${nesting}/style.css" name="dimdenmoonwidget"></iframe>
-
+<a href="//clap.fc2.com/post/sinigang/?url=https%3A%2F%2Fsinigang.neocities.org%2F&title=Fire%27s+Site%21" class="nomobile" target="_blank" title="Web Clap by FC2"><img src="//clap.fc2.com/images/button/white/sinigang?url=https%3A%2F%2Fsinigang.neocities.org%2F&amp;lang=en" alt="Web Clap by FC2" style="border:none;" /></a>
 </aside>
 `;
