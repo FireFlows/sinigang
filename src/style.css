@@ -1,142 +1,92 @@
-* {
-  box-sizing: border-box;
-
-}
-
 body {
     display: grid;
-    grid-template-columns: repeat(5, 1fr);
-    grid-template-rows: repeat(5, 1fr);
-    gap: 10px;
-    font-size: 16.5px;
-    color: rgb(69, 0, 69);
-    font-family: Calibri, Arial, sans-serif;
-    position: absolute;
-    margin-top: 2.5%;
-    margin-left:10%;
-    width: 80%;
-    height: 90%;
-}
-main {
-    width:100%;
-    height:100%;
-    overflow: scroll;
-    border: 4px solid purple;
-    background-color: #FAF9F6;
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: repeat(6, 1fr);
+    gap: 20px;
     padding: 24px;
-    grid-column: span 3 / span 3;
-    grid-row: span 5 / span 5;
-    grid-column-start: 2;
-    grid-row-start: 1;
 }
-
 html {
+    padding-left:12rem;
+    font-family: Calibri, Arial, sans-serif;
+    font-size: 16.5px;
+ color: rgb(69, 0, 69);
+ background-color:#faf9f6
+
+}   
+.leftAside {
+    grid-row: span 6 / span 6;
+    border: 5px solid black;
+}
+main, .leftAside, .rightAside{
     background-color: #faf9f6;
-    gap: 0px;
+    border: 5px solid rgb(69, 0, 69);
+    box-shadow: 10px 10px rgb(69, 0, 69);
 
 }
-img {
-    max-width: 100%;
-}
-iframe {
-    border:none;
-}
-
-a {
-    color: purple;
-}
-
-aside, nav {
-    background-color:#FAF9F6;
-    text-align: center;
-    border: 4px solid purple;
-
-}
-nav {
-    grid-row: span 5 / span 5;
-    width:90%;
-    height:65%;
-
+.active {
+    background-color: rgb(69, 0, 69);
+    color: white;
 }
 aside {
-    grid-row: span 5 / span 5;
+    text-align:center;
+}
+main {
+    grid-column: span 3 / span 3;
+    grid-row: span 6 / span 6;
+ }
+ .center{
+    padding:1rem;
+ }
+
+.rightAside {
+    grid-row: span 6 / span 6;
     grid-column-start: 5;
-    grid-row-start: 1;
 }
-
-.menu {
-    padding: 12px;
-    text-align: center;
-}
-
-/*aesthetics*/
-
-.menu a {
-    padding: 5px 5px;
-    color: purple;
-    margin-bottom: 6px;
-    text-decoration: none;
-    font-size: 18px;
-    letter-spacing: 1px;
-
-}
-
-
-h1, h2, h3, h4 {
-    color: purple;
-}
-li, details {
-  color: purple; 
-}
-li span, summary span {
-  color: rgb(69, 0, 69);; 
-}
-
-h1 {
-    font-size: 23px;
-    background: purple;
-    color: #FAF9F6;
-    display: inline-block;
-    padding: 4px;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-}
-
-
-h2 {
-    text-transform: uppercase;
-    letter-spacing: 1px;
+        h1 {
+            margin-bottom:5px;
+            padding-left:1rem;
+            padding-top:20px;
+            line-height:40px;
+            padding-bottom:12px;
+        }
+        h2 {
+        letter-spacing: 1px;
     font-size: 20px;
-    border-bottom: 1px dashed purple;
+    border-bottom: 1px solid rgb(69, 0, 69);
     padding-bottom: 4px;
-    margin-top: 2rem;
-}
+    margin-top: 1rem;
 
-th, td {
-    padding: 6px 12px;
-    vertical-align: top;
-}
-td {
-    width:130px;
-}
+        }
+       nav{
+        font-weight:500;
+        margin: 0;
+        padding: 10px;
+        border-bottom: 4px solid rgb(69, 0, 69);
+        border-top: 4px solid rgb(69, 0, 69);
 
-th {
-    background: purple;
-    color: black;
-}
-.showmobile {
-    display:none;
-}
-hr {
-    color:purple;
-}
+        }
+        nav a  {
 
-.menu a:hover, nav.active {
-    background: purple;
-    color: #FAF9F6;
-}
+        color: rgb(69, 0, 69);
+        text-decoration: none;
+        padding:10px;
+        }
+        nav a:hover {
+            color:white;
+            background-color:rgb(69, 0, 69)
+        }  
+        .showmobile {
+            display:none;
+        }
+        li {
+            line-height:22px;
+        }
 @media only screen and (max-width: 800px) {
-   body {
+    html {
+        padding:0px;
+        margin:0px;
+    }
+   body, nav {
         width:100%;
         margin:0px;
         grid-template-columns: 1fr;
@@ -150,15 +100,16 @@ hr {
         overflow: visible;
 
     }
-  nav, .menu, .aside {
-    width: 100%;
-    height:auto;
-    background:#FAF9F6;
-  }
   .showmobile {
     display:inline;
   }
-  .avatar, .nomobile, hr, .menu br{ /*Pronounced like no-mobeel. Haha. Hilarious*/
+  .avatar, .nomobile, .leftAside {
    display:none;
  }
+}
+img {
+    max-width: 100%;
+}
+a {
+    color:purple;
 }

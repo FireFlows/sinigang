@@ -8,8 +8,8 @@ document.addEventListener("DOMContentLoaded", function () {
   document.body.insertAdjacentHTML("beforeend", footerEl);
 
   // To insert something inside another element:
-  const wrapperElement = document.querySelector(".my-wrapper"); // <- your selector here
-  if (wrapperElement) wrapperElement.insertAdjacentHTML("afterbegin", `<b>Element at beginning of wrapper element.</b>`);
+  const wrapperElement = document.querySelector(".navi"); // <- your selector here
+  if (wrapperElement) wrapperElement.insertAdjacentHTML("beforeend", ``);
   if (wrapperElement) wrapperElement.insertAdjacentHTML("beforeend", `<b>Element at the end of wrapper element.</b>`);
 
   // Other initializations:
@@ -69,25 +69,20 @@ const nesting = getNestingString();
 // Insert your header HTML inside these ``. You can use HTML as usual. 
 // You don't need to use the <header> element, but I recommend it.
 const headerEl = `
-<nav>
-		<div class="avatar">
-			<img src="${nesting}/img/avatar.png" style="border-bottom: 4px solid purple;" alt="Eito as a child, scowling.">
-		</div>
-		<div class="menu">
-<iframe src="https://free.timeanddate.com/clock/iaa72f5u/n412/fs17/fc800080/tct/pct/tt0/tw1/tm1/th2/ta1/tb4" frameborder="0" class="nomobile" width="149" height="40" allowtransparency="true"></iframe><br><br>
-      <a href="${nesting}/index.html">Home</a><br><br>
-			<a href="${nesting}/about.html">About</a><br><br>
-			<a href="${nesting}/stuff.html">Stuff</a><br><br>
-			<a href="${nesting}/sitemap.html">Sitemap</a><br>
-   		</div>
-  </nav>
+    <aside class="leftAside">
+        		<div class="avatar">
+			<img src="${nesting}/img/avatar.png" style="border-bottom: 4px solid rgb(69, 0, 69);" alt="Eito as a child, scowling.">
+		</div><br>
+<iframe src="https://free.timeanddate.com/clock/iaabwxc4/n5275/fs17/fc450045/tct/pct/tt0/tw1/tm1/th2/ta1/tb4" frameborder="0" width="149" height="42" allowtransparency="true"></iframe>
+<p>STATUS: Online (forever)</p>
+    </aside>
 `;
 
 // Insert your footer HTML inside these ``. You can use HTML as usual. 
 // You don't need to use the <footer> element, but I recommend it.
 const footerEl = `
-<aside><br>
-<iframe width="180" height="180" style="border:none" src="https://dimden.dev/moon?custom=1&textColor=%23800080&linkColor=%23000000&styleUrl=${nesting}/style.css" name="dimdenmoonwidget"></iframe>
+    <aside class="rightAside">
+        <iframe width="180" height="180" style="border:none" src="https://dimden.dev/moon?custom=1&textColor=%23800080&linkColor=%23000000&styleUrl=${nesting}/style.css" name="dimdenmoonwidget"></iframe>
 <a href="//clap.fc2.com/post/sinigang/?url=https%3A%2F%2Fsinigang.neocities.org%2F&title=Fire%27s+Site%21" class="nomobile" target="_blank" title="Web Clap by FC2"><img src="//clap.fc2.com/images/button/white/sinigang?url=https%3A%2F%2Fsinigang.neocities.org%2F&amp;lang=en" alt="Web Clap by FC2" style="border:none;" /></a>
-</aside>
+    </aside>
 `;

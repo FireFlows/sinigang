@@ -1,3 +1,6 @@
+2/13/26
+- site revamp because it was ugly
+
 2/12/26
 Woah, big upgrade here.
 - added sidebar to the right! currently only has 1 widget but
