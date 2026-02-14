@@ -3,14 +3,13 @@ body {
     grid-template-columns: repeat(6, 1fr);
     grid-template-rows: repeat(6, 1fr);
     gap: 20px;
-    padding: 24px;
 }
 html {
     padding-left:12rem;
     font-family: Calibri, Arial, sans-serif;
     font-size: 16.5px;
- color: rgb(69, 0, 69);
- background-color:#faf9f6
+    color: rgb(69, 0, 69);
+    background-color:#faf9f6
 
 }   
 .leftAside {
@@ -23,7 +22,7 @@ main, .leftAside, .rightAside{
     box-shadow: 10px 10px rgb(69, 0, 69);
 
 }
-.active {
+nav .active {
     background-color: rgb(69, 0, 69);
     color: white;
 }
@@ -37,64 +36,79 @@ main {
  .center{
     padding:1rem;
  }
-
+a:hover {
+    background-color: rgb(244, 255, 83);
+}
 .rightAside {
     grid-row: span 6 / span 6;
     grid-column-start: 5;
 }
-        h1 {
-            margin-bottom:5px;
-            padding-left:1rem;
-            padding-top:20px;
-            line-height:40px;
-            padding-bottom:12px;
-        }
-        h2 {
-        letter-spacing: 1px;
+h1 {
+    margin-bottom:5px;
+    padding-left:1rem;
+    padding-top:20px;
+    line-height:40px;
+    padding-bottom:12px;
+}
+
+h2 {
+    letter-spacing: 1px;
     font-size: 20px;
     border-bottom: 1px solid rgb(69, 0, 69);
     padding-bottom: 4px;
     margin-top: 1rem;
+}
 
-        }
-       nav{
-        font-weight:500;
-        margin: 0;
-        padding: 10px;
-        border-bottom: 4px solid rgb(69, 0, 69);
-        border-top: 4px solid rgb(69, 0, 69);
+nav {
+    font-weight:500;
+    padding-top: .75rem;
+    padding-bottom:.75rem;
+    border-bottom: 4px solid rgb(69, 0, 69);
+    border-top: 4px solid rgb(69, 0, 69);
+}
 
-        }
-        nav a  {
+nav a {
+    color: rgb(69, 0, 69);
+    text-decoration: none;
+    padding:.75rem;
+}
 
-        color: rgb(69, 0, 69);
-        text-decoration: none;
-        padding:10px;
-        }
-        nav a:hover {
-            color:white;
-            background-color:rgb(69, 0, 69)
-        }  
-        .showmobile {
-            display:none;
-        }
-        li {
-            line-height:22px;
-        }
-        img {max-width:100%}
-        a {color:purple;}
+nav a:hover {
+    color:white;
+    background-color:rgb(69, 0, 69)
+}  
+
+.showmobile {
+    display:none;
+}
+li {
+    line-height:22px;
+}
+img {
+     max-width:100%;
+     max-height:100%;
+}
+a {
+    color:purple;
+}
+
 @media only screen and (max-width: 800px) {
     html {
         padding:0px;
         margin:0px;
         width:100%;
     }
-   body, nav {
+    nav {
+        padding:0px;
+        margin:0px;
+        display:flex;
+        flex-direction:row;
+    }
+   body {
     padding:0px;
     margin:0px;
-        grid-template-columns: 1fr;
-        display: flex;
-        flex-direction:column;
+    display: flex;
+    flex-direction:column;
     }
     main {
         border:none;
@@ -105,10 +119,10 @@ main {
         box-shadow: none;
 
     }
-  .showmobile {
+    .showmobile {
     display:inline;
-  }
-  .avatar, .nomobile, .leftAside, .rightAside {
-   display:none;
- }
+    }
+    .avatar, .nomobile, .leftAside, .rightAside {
+    display:none;
+    }
 }
