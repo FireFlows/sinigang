@@ -91,6 +91,16 @@ img {
 a {
     color:purple;
 }
+.gallery {
+    display:grid;
+    grid-template-columns: 150px 150px 150px;
+    gap:10px;
+}
+.frame {
+    max-height:150px;
+    max-width:150px;
+    border: 2px solid rgb(69, 0, 69);
+}
 
 @media only screen and (max-width: 800px) {
     html {
