@@ -13,8 +13,6 @@ make sitemap.html into actual tree
 what last defense academy member are you?
 make website more accessible 
 fix case
-get rid of tables (for accessibiilty)
-why can't i use .active on nav?
 Eito headcanosn list
 
 ## not adding
@@ -60,13 +58,6 @@ https://sadgrl.online/
 https://dimden.dev/moonwidget/
 https://vv0ltz.neocities.org/resources
 https://www.w3schools.com/howto/howto_js_image_grid.asp
-
+view-source:https://moogleboogles.neocities.org/scripts/navbar.js 
 ## misc
 <iframe src="https://www3.cbox.ws/box/?boxid=3552194&boxtag=P3aaPu" width="100%" height="450" allowtransparency="yes" allow="autoplay" frameborder="0" marginheight="0" marginwidth="0" scrolling="auto"></iframe>	
-"In almost every case, layout tables can be replaced with other HTML 
-elements and styled with CSS to achieve the desired visual presentation. 
-If the table contains tabular data, provide appropriate header (<th>) 
-cells. If the layout table remains, verify that the reading and navigation 
-order of table content (based on underlying source code order) is logical 
-and give it role="presentation" to ensure it is not 
-identified as a table to screen reader users."
