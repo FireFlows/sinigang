@@ -1,6 +1,7 @@
 2/14/26
 - happy valentine's day
 - changed all tables to grids
+- added cbox but might remove it because it is kind of ugly looking and i have like 40 different ways of contacting me already
 
 2/13/26
 - site revamp because it was ugly
