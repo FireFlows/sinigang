@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
 body {
     display: grid;
     grid-template-columns: repeat(6, 1fr);
@@ -6,7 +8,7 @@ body {
 }
 html {
     padding-left:12rem;
-    font-family: Calibri, Arial, sans-serif;
+    font-family: Atkinson Hyperlegible, Arial, sans-serif;
     font-size: 16.5px;
     color: rgb(69, 0, 69);
     background-color:#faf9f6
@@ -37,7 +39,7 @@ main {
     padding:1rem;
  }
 a:hover {
-    background-color: rgb(244, 255, 83);
+    background-color: rgb(242, 249, 149);
 }
 .rightAside {
     grid-row: span 6 / span 6;

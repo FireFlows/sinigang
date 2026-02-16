@@ -19,6 +19,8 @@ Eito headcanosn list
 Dark mode.
 
 ## links
+"Why is my website here?" because I thought it was interesting and it had interesting links
+or ideas I wanted to steal...I mean, borrow. 
 https://www.reddit.com/r/neocities/comments/1qwsjvg/comment/o3rkg8x/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
 https://mouseling.net/100webmaster
 https://yatagarasu.nekoweb.org/about.html 
@@ -59,5 +61,8 @@ https://dimden.dev/moonwidget/
 https://vv0ltz.neocities.org/resources
 https://www.w3schools.com/howto/howto_js_image_grid.asp
 view-source:https://moogleboogles.neocities.org/scripts/navbar.js 
+https://suboptimalism.neocities.org/writings/undocumented
+https://digishellvtuber.neocities.org/
+
 ## misc
 <iframe src="https://www3.cbox.ws/box/?boxid=3552194&boxtag=P3aaPu" width="100%" height="450" allowtransparency="yes" allow="autoplay" frameborder="0" marginheight="0" marginwidth="0" scrolling="auto"></iframe>	
