@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>About</title>
+	<meta charset="UTF-8"> 
+	<link rel="icon" type="image/gif" href="img/purple_moon.gif">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<p>trying to figure out how to make a kudos button on here that actually works lol please ignore...or don't.</p>
+<input type="button" name="button" value="Button" />
+
+
+<script>
+
+function clickCounter() {
+  const x = document.getElementById("result");
+  if (typeof(Storage) !== "undefined") {
+    if (localStorage.rock) {
+      localStorage.rock = Number(localStorage.rock)+1;
+    } else {
+      localStorage.rock = 1;
+    }
+    x.innerHTML = "You have given kudos " + localStorage.rock + " time(s)!";
+  } else {
+    x.innerHTML = "Sorry, no Web storage support!";
+  }
+}
+</script>
+<hr>
+<p id="result"></p>
+<button class="button" onclick="clickCounter()">💜 Kudos</button>
+<br><hr>
+<img src="https://shields.io/endpoint?url=https%3A%2F%2Fcellshield.info%2Fgs%3FspreadSheetId%3D1Sco6bwCRk_wNOUvPGKy9yIBzfP3VvZ0Jg2n-DPliO7Q%26cellRange%3DF5&label=Leave%20Kudos" alt="Leave Kudos"></a>
+https://docs.google.com/forms/d/e/1FAIpQLSdIQv4-0Q_OOyjw3j7nbOsFJl4yeveKccvwL4UKs56crQm-bg/viewform?usp=pp_url&entry.1108619039=Between+a+Rock+and+a+Hard+Place
+https://docs.google.com/forms/d/e/1FAIpQLSdIQv4-0Q_OOyjw3j7nbOsFJl4yeveKccvwL4UKs56crQm-bg/viewform?usp=pp_url&entry.1108619039=Load-Bearing+Eito+Aotsuki
+
+https://docs.google.com/forms/d/e/1FAIpQLSdIQv4-0Q_OOyjw3j7nbOsFJl4yeveKccvwL4UKs56crQm-bg/viewform?usp=pp_url&entry.1108619039=Our+Future 
+
+<script>
+    function kudos() {
+        let url ="https://docs.google.com/forms/d/e/1FAIpQLSdIQv4-0Q_OOyjw3j7nbOsFJl4yeveKccvwL4UKs56crQm-bg/formResponse?usp=pp_url&entry.1108619039=Our+Future"
+        let response= UrlFetchApp.fetch(url);
+    }
+</script>
+<button class="button" onclick="kudos()">💜 Kudos</button>

@@ -103,7 +103,16 @@ a {
     max-width:150px;
     border: 2px solid rgb(69, 0, 69);
 }
-
+#statuscafe {
+    padding: .5em;
+    border: 1px solid rgb(69, 0, 69);
+}
+#statuscafe-username {
+    margin-bottom: .5em;
+}
+#statuscafe-content {
+    margin: 0 1em 0.5em 1em;
+}
 @media only screen and (max-width: 800px) {
     html {
         padding:0px;
