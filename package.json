@@ -4,7 +4,7 @@
 		"build": "eleventy"
 	},
 	"type": "module",
-	"name": "060626",
+	"name": "sinigang",
 	"version": "1.0.0",
 	"description": "",
 	"main": "eleventy.config.js",
