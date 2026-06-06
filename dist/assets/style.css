@@ -1,0 +1,123 @@
+:root {
+    --accent-color:#afafaf;
+    --aside-color:#d9d9d9;
+    --main-color:#1c1c1c;
+
+    margin:3.5rem;
+    background-color:#f7f7f7;
+    color: var(--main-color);
+    font-family: Inter, Arial, sans-serif;
+    font-feature-settings: 'liga' 1, 'calt' 1; /* fix for Chrome */    line-height:155%;
+    font-size:16px;
+}
+
+
+a:hover {
+    color: rgb(222, 114, 255);
+
+}
+
+body {
+    display: grid;
+    grid-template-areas:
+        "header header header"
+        "aside main main"
+        ".     main main"
+        ". footer footer";
+    grid-template-columns: 1fr 2fr 3fr;
+}
+header{
+    grid-area:header;
+    text-align:right;
+    padding:2rem;
+}
+main {
+    padding:1rem;
+    grid-area: main;
+    
+}
+aside {
+    grid-area: aside;
+    position: sticky;
+    text-align:center;
+    top:1rem;
+    font-size: 17px;
+    margin:1rem;
+    background-color: var(--aside-color);
+    iframe {margin:.5rem;}
+
+}
+nav {
+    font-weight:bold;
+  ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}  
+    li a {
+        display: block;
+        padding:5px 8.5px;
+        text-decoration:none;
+        color:var(--main-color);
+    }
+    li a:hover{
+        background-color:#b1b1b1;
+        color: #f7f7f7;
+    }
+
+}
+footer {
+    grid-area: footer;
+    text-align: center;
+}
+h1 {
+    background: var(--accent-color);
+    padding: 0.5rem;
+}
+
+#statuscafe {
+    padding: .5em;
+}
+#statuscafe-username {
+    margin-bottom: .5em;
+}
+#statuscafe-content {
+    margin: 0 1em 0.5em 1em;
+}
+@supports (font-variation-settings: normal) {
+  :root { font-family: InterVariable, sans-serif; }
+}
+
+
+
+@media screen and (max-width: 800px) {
+    :root {
+        margin:0rem;
+    }
+  body {
+    grid-template-columns:1fr;
+    grid-template-areas:
+    "header"
+    "aside"
+    "main"
+    "footer";
+    gap:0;
+    margin:0;
+  }
+  main {padding:0;margin:1rem;}
+  aside {
+    margin:0;
+    top:0;
+    ul {
+        display:flex;
+        flex-wrap:column;
+    }
+    a li {
+        padding:10px;
+    }
+  }
+
+  .nomobile {
+    display:none;
+  }
+}

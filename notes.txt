@@ -1,0 +1,105 @@
+## to add
+- webring ouroboros
+- blog & blog comments
+- RANDOM VOCALOID SONG THAT I LIKE https://vocadb.net/L/27009
+cute banner images drawn by me
+custom cursor (?)
+-switch to eleventy at some pt in the near future 
+pfp shouold change depending on where in the site u ar e at 
+whenever I finish creating my UTAU i want to make a guide to create one cuz 
+the tutorials we have rn are so fucking ancient bruh like don't piss me off
+
+https://aishagpt.love/ I want to add something like This
+https://nomnomnami.com/ask/ or this
+## not adding
+Dark mode.
+
+
+**ring of Fire**
+About webrings
+Webrings are a list of a bunch of websites. 
+The websites are looped from beginning to end, creating
+a ring shape Hence, webring.
+Webrings often follow a theme: there can be a webring
+of video game fans, or music fans, or fans of specific
+kinds of music, or people who live in a certain 
+country, really anything that you can categorize people/sites by.
+
+About The Ring of Fire
+The Ring of Fire is a tectonic belt (not ring, fun misnomer) of earthquakes and volcanoes. 
+These occur on the Pacific Ocean, so it's also called the Pacific Ring of Fire.
+This has nothing to do with my webring. The webring "The Ring of Fire" is for me, since
+my name is Fire! It's my webring!
+
+How to join
+I'm not currently accepting new members.
+
+
+copy/paste from "notes.txt"
+
+## links
+Cool Sites
+https://ginacities.com/
+https://yatagarasu.nekoweb.org/
+https://32bit.cafe/
+https://sadgrl.online/ 
+https://eitaku.neocities.org/
+https://azure-valley.neocities.org/ 
+https://hndrline.gg8473.com/fanlisting/
+https://digishellvtuber.neocities.org/
+https://stupied.neocities.org/about/
+https://colorworld.world  
+https://moogleboogles.neocities.org
+
+Templates
+https://ribo.zone/free/layouts/
+https://teppyslayouts.neocities.org
+https://petrapixel.neocities.org/coding/layout-base-code 
+https://rice.place/template.html 
+https://eggramen.neocities.org/code/css_testpages
+https://nomnomnami.com/templates/
+
+Resources and Tutorials
+https://www.w3schools.com/html/  
+https://developer.mozilla.org/
+https://en.wikipedia.org/wiki/Favicon#How_to_use
+https://validator.w3.org/#validate_by_input
+https://vv0ltz.neocities.org/resources
+https://codepen.io/ 
+https://pixelsafari.neocities.org/webring/
+https://jpeg.wavebeem.com/
+https://web.archive.org/web/20250806115336/https://drawbox.nekoweb.org/
+https://www.reddit.com/r/rss/comments/xl7f7r/how_do_i_create_a_rss_feed_from_my_own_website/
+https://www.w3schools.com/howto/howto_css_contact_form.asp
+https://www.cloudwards.net/how-to-set-up-an-rss-feed/
+https://www.reddit.com/r/neocities/comments/p2ohhf/martindisks_messy_guide_to_having_custom_fonts_on/
+https://rice.place/bookmark.html
+https://dimden.dev/moonwidget/
+https://www.w3schools.com/howto/howto_js_image_grid.asp
+https://kevincox.ca/2022/05/06/rss-feed-best-practices/
+https://paintbbs.sakura.ne.jp/poti/
+
+11ty specific resources
+https://petrapixel.neocities.org/coding/eleventy-tutorial#
+https://learneleventy.dev/
+https://cassey.dev/converting-an-html-file-to-eleventy/
+https://11tybundle.dev/categories/getting-started/
+https://cfjedimaster.github.io/eleventy-blog-guide/guide.html
+
+Misc
+https://mouseling.net/100webmaster
+https://perfectmotherfuckingwebsite.com/ 
+https://skaetlett.gay/resources/sites-that-waste-your-time
+https://suboptimalism.neocities.org/writings/undocumented
+https://sindexmon.github.io/decache/
+
+<script>
+	$(function songURL() {
+		$.get("https://vocadb.net/api/songLists/27009/songs?start=0&maxResults=500&sort=None&fields=PVs")
+	$("songURL").load("https://www.youtube.com/embed/sIVnTQ6nmNg")
+	})
+</script>
+<h2>Song I like</h2>
+	<iframe width="560" height="315" src="songURL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+	<p>Pulls from <a href="https://vocadb.net/L/27009">here!</a></p>
+	tesfduifasdjkuhdlsaifuxhjk
