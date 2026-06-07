@@ -2,9 +2,7 @@
 - webring ouroboros
 - blog & blog comments
 - RANDOM VOCALOID SONG THAT I LIKE https://vocadb.net/L/27009
-cute banner images drawn by me
 custom cursor (?)
--switch to eleventy at some pt in the near future 
 pfp shouold change depending on where in the site u ar e at 
 whenever I finish creating my UTAU i want to make a guide to create one cuz 
 the tutorials we have rn are so fucking ancient bruh like don't piss me off
@@ -78,6 +76,7 @@ https://dimden.dev/moonwidget/
 https://www.w3schools.com/howto/howto_js_image_grid.asp
 https://kevincox.ca/2022/05/06/rss-feed-best-practices/
 https://paintbbs.sakura.ne.jp/poti/
+https://maybecoding.bearblog.dev/adding-a-private-feedback-box-to-bear/
 
 11ty specific resources
 https://petrapixel.neocities.org/coding/eleventy-tutorial#
@@ -104,3 +103,30 @@ https://sindexmon.github.io/decache/
 	<p>Pulls from <a href="https://vocadb.net/L/27009">here!</a></p>
 	tesfduifasdjkuhdlsaifuxhjk
 test
+
+Alternatively, feel free to send a message using the form below.
+<form action="assets/contact.php" method="post">
+				<label for="name">Name:</label>
+				<input type="text" id="name" name="user_name"/><br><br>
+				<label for="mail">E-mail:</label>
+				<input type="email" id="mail" name="user_mail" /><br><br>
+            <label for="site">Website:</label>
+            <input type="url" id="site" name="website"/><br><br>
+				<label for="msg">Message *:</label>
+				<textarea id="msg" name="user_message" required></textarea>
+
+			<p class="button">
+				<button type="submit">Submit</button>
+                </form>
+                <p id="log"></p>
+<script>
+const form = document.getElementById("form");
+const log = document.getElementById("log");
+
+function logSubmit(event) {
+  log.textContent = `Form Submitted! Timestamp: ${event.timeStamp}`;
+  event.preventDefault();
+}
+
+form.addEventListener("submit", logSubmit);
+</script>

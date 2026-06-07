@@ -7,3 +7,4 @@ Hi, my name is Fire. I'm a 19 year old Filipino-American. This is (the new versi
 <div id="statuscafe"><div id="statuscafe-username"></div><div id="statuscafe-content"></div></div>
 
 <script src="https://status.cafe/current-status.js?name=fire" defer></script>
+
