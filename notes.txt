@@ -32,9 +32,6 @@ my name is Fire! It's my webring!
 How to join
 I'm not currently accepting new members.
 
-
-copy/paste from "notes.txt"
-
 ## links
 Cool Sites
 https://ginacities.com/
@@ -84,6 +81,7 @@ https://learneleventy.dev/
 https://cassey.dev/converting-an-html-file-to-eleventy/
 https://11tybundle.dev/categories/getting-started/
 https://cfjedimaster.github.io/eleventy-blog-guide/guide.html
+https://brennan.day/deploying-an-eleventy-site-to-neocities-with-gitlab-ci-cd/
 
 Misc
 https://mouseling.net/100webmaster
