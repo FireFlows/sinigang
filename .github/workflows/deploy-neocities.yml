@@ -14,7 +14,7 @@ jobs:
           node-version: "18"
           cache: "npm" # I'm using yarn rather than npm
       - run: npm install # install dependencies
-      - run: npm build # build my project
+      - run: npm run build # build my project
       - uses: bcomnes/deploy-to-neocities@v1 # deploy!
         with: # config for the action
           api_token: ${{ secrets.NEOCITIES_API_TOKEN }}
