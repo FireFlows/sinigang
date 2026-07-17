@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Home</title>
+	<link rel="stylesheet" href="assets/style.css">
+	<meta charset="UTF-8"> 
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="preconnect" href="https://rsms.me/">
+	<link rel="stylesheet" href="https://rsms.me/inter/inter.css">
+</head>
+	<body>
+		<header>
+			<span style="font-weight:700; font-size:30px;">sinigang.neocities.org</span>
+		</header>
+	<aside>
+		<a href="assets/mp4/utaumedia.mp4"><img src="assets/img/avatar.png" height="250px"; class="nomobile"></a>
+		<span class="nomobile"><br>My current time: <br><span id="local-time-main"></span><br><span id="local-time-extra"></span></span>
+		<nav>
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="about.html">About</a></li>
+				<li><a href="contact.html">Contact</a></li>
+				<li><a href="utau.html">UTAU</a></li>
+				<li><a href="blog.html">Blog</a></li>
+				<li><a href="links.html">Links</a></li>
+			</ul>
+		</nav>
+	<iframe src="//incr.easrng.net/badge?key=changeme" style="background: url(//incr.easrng.net/bg.gif)" title="increment badge" width="88" height="31" frameborder="0" class="nomobile"></iframe>	
+	</aside>
+	<main> 
+		
+	<h1>Home</h1>
+	<p>Hi, my name is Fire.</p>
+<p>This is (the new version of) my personal website! Yaay. I'm still working on it (I just figured out eleventy) so please #staytuned for future updates....nyahaha. Works on both PC and mobile!</p>
+<h2>status.cafe widget</h2>
+<div id="statuscafe"><div id="statuscafe-username"></div><div id="statuscafe-content"></div></div>
+<script src="https://status.cafe/current-status.js?name=fire" defer></script>
+
+
+	</main>
+		<footer>
+			Made with love 2020-forever sinigang.neocities.org. Feel free to copy/steal any of my code.
+		</footer>
+	</body>
+	<script src="assets/js/time.js"></script>
+	<script>
+		function getTime() {
+    const now = new Date();
+
+    const etFormatter = new Intl.DateTimeFormat('en-US', {
+        timeZone: 'America/New_York',
+        hour: '2-digit',
+        minute: '2-digit',
+        second: '2-digit',
+        hour12: true,
+        timeZoneName: 'short'
+    });
+
+    const parts = etFormatter.formatToParts(now);
+
+    let timeStr = "";
+    let tzName = "";
+
+    for (const p of parts) {
+        if (p.type !== "timeZoneName") {
+            timeStr += p.value;
+        } else {
+            tzName = p.value;
+        }
+    }
+
+    const laTime = new Date(now.toLocaleString("en-US", { timeZone: "America/New_York" }));
+    const localTime = new Date();
+
+    document.getElementById('local-time-main').textContent = `${timeStr} ${tzName}`;
+}
+
+getTime();
+setInterval(getTime, 1000);
+</script>
+</html>
