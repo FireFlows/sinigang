@@ -12,7 +12,8 @@ concurrency:
 
 jobs:
   deploy:
-    runs-on: tiny@actions-tiny.aburayama.m.codeberg.org
+    runs-on: ubuntu-latest 
+
     steps:
       - name: Checkout
         uses: https://code.forgejo.org/actions/checkout@v4
