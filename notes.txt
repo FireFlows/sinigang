@@ -82,6 +82,7 @@ https://cassey.dev/converting-an-html-file-to-eleventy/
 https://11tybundle.dev/categories/getting-started/
 https://cfjedimaster.github.io/eleventy-blog-guide/guide.html
 https://brennan.day/deploying-an-eleventy-site-to-neocities-with-gitlab-ci-cd/
+https://flamedfury.com/guides/11ty-homepage-neocities-2026/
 
 Misc
 https://mouseling.net/100webmaster
