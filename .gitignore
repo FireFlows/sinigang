@@ -1,3 +1,4 @@
 node_modules/
-utau/
-utau.md
+dist/utau/tou.html
+src/tou.md
+src/utau.md
