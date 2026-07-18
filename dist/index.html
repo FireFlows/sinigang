@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<title>Home</title>
-	<link rel="stylesheet" href="assets/style.css">
+	<link rel="stylesheet" href="../assets/style.css">
 	<meta charset="UTF-8"> 
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="preconnect" href="https://rsms.me/">
@@ -13,37 +13,97 @@
 			<span style="font-weight:700; font-size:30px;">sinigang.neocities.org</span>
 		</header>
 	<aside>
-		<a href="assets/mp4/utaumedia.mp4"><img src="assets/img/avatar.png" height="250px"; class="nomobile"></a>
+		<a href="../assets/mp4/utaumedia.mp4"><img src="../assets/img/avatar.png" height="250" class="nomobile" alt="A drawing of my UTAU."></a>
 		<span class="nomobile"><br>My current time: <br><span id="local-time-main"></span><br><span id="local-time-extra"></span></span>
 		<nav>
 			<ul>
-				<li><a href="index.html">Home</a></li>
-				<li><a href="about.html">About</a></li>
-				<li><a href="contact.html">Contact</a></li>
-				<li><a href="utau.html">UTAU</a></li>
-				<li><a href="blog.html">Blog</a></li>
-				<li><a href="links.html">Links</a></li>
+				<li><a href="../index.html">Home</a></li>
+				<li><a href="../about.html">About</a></li>
+				<li><a href="../contact.html">Contact</a></li>
+				<li><a href="../utau.html">UTAU</a></li>
+				<li><a href="../blog.html">Blog</a></li>
+				<li><a href="../links.html">Links</a></li>
 			</ul>
+			<br>
 		</nav>
-	<iframe src="//incr.easrng.net/badge?key=changeme" style="background: url(//incr.easrng.net/bg.gif)" title="increment badge" width="88" height="31" frameborder="0" class="nomobile"></iframe>	
 	</aside>
 	<main> 
 		
 	<h1>Home</h1>
-	<p>Hi, my name is Fire.</p>
-<p>This is (the new version of) my personal website!</p>
-<p>It's still a major work in progress. Please stay tuned for future updates.... Haha. Ha.</p>
+	<p>Welcome to my humble abode... I've worked really hard on it, but it's still a work in progress, so please stay tuned for future updates. This is a personal website and eventual UTAU-hosting site.</p>
+<p>This site is PG (at most PG-13; harsh language might be used or disturbing topics may be discussed), but some external links may lead to less sanitized or 18+ spaces. So don't go like clicking everywhere here in public I guess. Unless you get a kick from that sort of thing</p>
 <h2>status.cafe widget</h2>
 <div id="statuscafe"><div id="statuscafe-username"></div><div id="statuscafe-content"></div></div>
 <script src="https://status.cafe/current-status.js?name=fire" defer></script>
+<!--
+<h2>Vocaloid Song I Like</h2>
+<div id="player"></div>
 
+Randomly chooses a song from my [Vocaloid Music Playlist](https://www.youtube.com/playlist?list=PLFCCsWwB4Mxk). Not just Vocaloid, also includes SynthV, UTAU, etc. Not just original songs, there are also covers, remixes, and mashups. Exciting. There might be one or two human-sung songs in here because I thought the cover was the Vocaloid version.
+
+ <script>
+      // 2. This code loads the IFrame Player API code asynchronously.
+      var tag = document.createElement('script');
+
+      tag.src = "https://www.youtube.com/iframe_api";
+      var firstScriptTag = document.getElementsByTagName('script')[0];
+      firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+      // 3. This function creates an <iframe> (and YouTube player)
+      //    after the API code downloads.
+      var player;
+      function onYouTubeIframeAPIReady() {
+        player = new YT.Player('player', {
+          height: '390',
+          width: '640',
+          playerVars: {
+            listType:'playlist',
+            list: 'PLFCCsWwB4Mxk'
+          },
+          events: {
+            'onReady': onPlayerReady,
+            'onStateChange': onPlayerStateChange
+          }
+        });
+      }
+      // 4. The API will call this function when the video player is ready.
+      function onPlayerReady(event) {
+        event.target.playVideo();
+      }
+
+      // 5. The API calls this function when the player's state changes.
+      //    The function indicates that when playing a video (state=1),
+      //    the player should play for six seconds and then stop.
+      var done = false;
+      function onPlayerStateChange(event) {
+        if (event.data == YT.PlayerState.PLAYING && !done) {
+          setTimeout(stopVideo, 6000);
+          done = true;
+        }
+      }
+      function stopVideo() {
+        player.stopVideo();
+      }
+    </script>
+AIzaSyAXl4sJEqKYFdaItR4MxCtl6xp27pJWtws
+https://www.youtube.com/playlist?list=PLFCCsWwB4Mxk
+
+use api to grab number of videos
+https://developers.google.com/youtube/iframe_api_reference
+
+GET https://youtube.googleapis.com/youtube/v3/playlistItems?part=contentDetails&playlistId=PLFCCsWwB4Mxk&key=AIzaSyAXl4sJEqKYFdaItR4MxCtl6xp27pJWtws HTTP/1.1
+
+const songNumber = await fetch("https://youtube.googleapis.com/youtube/v3/playlistItems?part=contentDetails&playlistId=PLFCCsWwB4Mxk&key=AIzaSyAXl4sJEqKYFdaItR4MxCtl6xp27pJWtws", {
+    method: "GET",
+    });
+player.playVideoAt(index:Number):Void
+-->
 
 	</main>
 		<footer>
-			Made with love 2020-forever sinigang.neocities.org. Feel free to copy/steal any of my code.
-		</footer>
+			Made with LOVE AND PEACE by my OWN TWO HANDS. Feel free to borrow or steal my code without credit I don't care.		</footer>
 	</body>
-	<script src="assets/js/time.js"></script>
+	<script src="../assets/js/time.js"></script>
 	<script>
 		function getTime() {
     const now = new Date();

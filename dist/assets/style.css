@@ -72,18 +72,29 @@ footer {
 }
 h1 {
     background: var(--accent-color);
-    padding: 0.5rem;
+    padding: .5rem;
+}
+h2 {
+    padding-bottom:.5rem;
+    border-bottom: 2px solid var(--main-color);
 }
 
 #statuscafe {
     padding: .5em;
+    font-size: 14px;
+
 }
 #statuscafe-username {
     margin-bottom: .5em;
 }
 #statuscafe-content {
     margin: 0 1em 0.5em 1em;
+    @media screen and (max-width:800px){
+        margin: .1em;
+    }
 }
+
+
 @supports (font-variation-settings: normal) {
   :root { font-family: InterVariable, sans-serif; }
 }

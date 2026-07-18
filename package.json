@@ -9,7 +9,7 @@
 	"description": "",
 	"main": "eleventy.config.js",
 	"license": "ISC",
-	"dependencies": {
+	"devDependencies": {
 		"@11ty/eleventy": "^3.1.6"
 	}
 }

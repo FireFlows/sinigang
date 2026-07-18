@@ -13,6 +13,7 @@ Resources used for this website:
 * [w3schools](https://www.w3schools.com/html/)
 * [MDN Web Docs](https://developer.mozilla.org/)
 * [Eleventy](https://www.11ty.dev/)
+* [GitHub repo](https://github.com/FireFlows/sinigang)
 
 Other resources worth checking out:
 * [Deploying Your Site to Neocities](https://nenrikido.neocities.org/blog/post/deploy-site/)
