@@ -22,6 +22,7 @@ const s_formId = '1FAIpQLSd_XLbLvqV5QWnkx8AkFSCygDhHNq1xCRKSDgRZJabLPI2nlg';
 const s_nameId = '198351945';
 const s_websiteId = '978335589';
 const s_textId = '1515882134';
+const s_moderatedId = '1413780882'; // The Moderated field ID
 const s_pageId = '1017785718';
 const s_replyId = '780486278';
 const s_sheetId = '13xq0RxXc8AVsz_7242V_coHhzDdyt1gYoy1t2uhI9A8';
@@ -103,7 +104,8 @@ const v_formHtml = `
     <div id="c_textWrapper" class="c-inputWrapper">
         <label class="c-label c-textLabel" for="entry.${s_textId}">${s_textFieldLabel}</label>
         <textarea class="c-input c-textInput" name="entry.${s_textId}" id="entry.${s_textId}" rows="4" cols="50"  maxlength="${s_maxLength}" required></textarea>
-    </div>
+    <input name="entry.${s_moderatedId}" id="entry.${s_moderatedId}" type="hidden" readonly value="false">
+        </div>
 
     <input id="c_submitButton" name="c_submitButton" type="submit" value="${s_submitButtonLabel}" disabled>
 `;
@@ -372,6 +374,9 @@ function createComment(data) {
     if (s_wordFilterOn) {filteredName = filteredName.replace(v_filteredWords, s_filterReplacement)}
     name.innerText = filteredName;
     name.className = 'c-name';
+    if(data.Moderated == false) {
+    name.innerText = 'Guest'; // Change 'Guest' to whatever you want
+}
     comment.appendChild(name);
 
     // Timestamp
@@ -386,6 +391,9 @@ function createComment(data) {
         site.innerText = s_websiteText;
         site.href = data.Website;
         site.className = 'c-site';
+    if(data.Moderated == false) {
+    site.innerText = '';
+}
         comment.appendChild(site);
     }
 
@@ -395,6 +403,9 @@ function createComment(data) {
     if (s_wordFilterOn) {filteredText = filteredText.replace(v_filteredWords, s_filterReplacement)}
     text.innerText = filteredText;
     text.className = 'c-text';
+    if(data.Moderated == false) {
+    text.innerText = 'This comment is awaiting moderation'; // Change this value to whatever you want
+}
     comment.appendChild(text);
     
     return comment;
