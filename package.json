@@ -1,7 +1,8 @@
 {
 	"scripts": {
 		"start": "eleventy --serve --port=8080",
-		"reinst": "npm install --save-dev @11ty/eleventy"
+		"reinst": "npm install --save-dev @11ty/eleventy",
+		"build": "eleventy"
 	},
 	"type": "module",
 	"name": "sinigang",
