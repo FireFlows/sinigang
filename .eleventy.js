@@ -1,5 +1,4 @@
 export default function(eleventyConfig) {
-eleventyConfig.setUseGitIgnore(false);
   eleventyConfig.addPassthroughCopy("src/assets");
 	eleventyConfig.setInputDirectory('src');
 	eleventyConfig.setOutputDirectory('dist');
