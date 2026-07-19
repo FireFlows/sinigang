@@ -1,5 +1,5 @@
 :root {
-    --accent-color:#afafaf;
+    --accent-color:#aaaaaa;
     --aside-color:#d9d9d9;
     --main-color:#1c1c1c;
 
@@ -25,6 +25,8 @@ body {
         ".     main main"
         ". footer footer";
     grid-template-columns: 1fr 2fr 3fr;
+    overflow:visible;
+
 }
 header{
     grid-area:header;

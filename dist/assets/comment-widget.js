@@ -17,7 +17,7 @@
 */
 
 // The values in this section are REQUIRED for the widget to work! Keep them in quotes!
-const s_stylePath = 'comment-widget.css';
+const s_stylePath = 'assets/comment-widget.css';
 const s_formId = '1FAIpQLSd_XLbLvqV5QWnkx8AkFSCygDhHNq1xCRKSDgRZJabLPI2nlg';
 const s_nameId = '198351945';
 const s_websiteId = '978335589';
@@ -25,7 +25,7 @@ const s_textId = '1515882134';
 const s_moderatedId = '1413780882'; // The Moderated field ID
 const s_pageId = '1017785718';
 const s_replyId = '780486278';
-const s_sheetId = '13xq0RxXc8AVsz_7242V_coHhzDdyt1gYoy1t2uhI9A8';
+const s_sheetId = '1Kaei3_UHduls-WiMiTfS95-_4DdQn-x_YWN9Z5vYXf0';
 
 // The values below are necessary for accurate timestamps, I've filled it in with EST as an example
 const s_timezone = -5; // Your personal timezone (Example: UTC-5:00 is -5 here, UTC+10:30 would be 10.5)
