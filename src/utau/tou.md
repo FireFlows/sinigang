@@ -3,10 +3,10 @@ title: "UTAU Terms of Use"
 layout: "../_includes/home.html"
 ---
 <h2>OK:</h2>
-<h3>Character</h3>
+<h3>Character/Illustration</h3>
 
-- creation of R18/R18G works;
-- use of my illustrations for social media icons, banners, etc.
+- R18/R18G works;
+- using illustrations for social media icons, banners, etc.
 - changing outfit, species, gender, etc.;
 - disregarding the biography entirely and doing your own thing;
 - shippings/pairings;
@@ -20,7 +20,7 @@ layout: "../_includes/home.html"
 - use outside of singing (talking)
 
 <h2>NG:</h2>
-<h3>Character</h3>
+<h3>Character/Illustration</h3>
 
 - putting my illustrations into generative AI;
 - creating/selling mass-produced merchandise
@@ -40,4 +40,4 @@ layout: "../_includes/home.html"
 
 Generally, please assume that, as long as you're not acting maliciously, anything is OK. I don't want to be incredibly restrictive. Technically, I can't stop you from violating the TOU either, but it'd be nice if you followed it. 
 
-If you're unsure if what you're doing is considered good faith, or if you have general questions, don't hesitate to contact me!
+If you're unsure if what you're doing is considered good faith, or if you have general questions, feel free to [send a message](../elsewhere.html)!
