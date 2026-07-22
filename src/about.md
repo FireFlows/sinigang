@@ -12,7 +12,9 @@ My native language is English. I can speak some Japanese, and bits and pieces of
 Also check out my [answers to 100 webmaster questions](100q.html).
 
 ## About the Website
-I made this website as a space away from traditional social media.
+I made this website as a space away from social media. As a bonus, it will be the (eventual) hosting site of my UTAU. It was coded in VSCode and it should work on everything on all resolutions, including mobile (though desktop viewing is preferred). Check out the [links](links.html) section to see specific resources I used.
+
+My website is "licensed" under [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en).
 
 ### Sinigang?
 It's a popular Filipino soup. It's pretty sour. A lot of people tend to name themselves after food, so I wanted to try that too.
