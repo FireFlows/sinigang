@@ -44,4 +44,4 @@ Technically, I can't stop you from violating the TOU either, but it'd be nice if
 
 If you're unsure if what you're doing is considered good faith, or if you have general questions, feel free to [send a message](../elsewhere.html)!
 
-The Terms of Use were last updated on July 22, 2026 and may be subject to changes in the future.
+The Terms of Use were last updated on July 22, 2026 and may be subject to change in the future.
