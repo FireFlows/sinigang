@@ -13,11 +13,10 @@ layout: "home.html"
 * [MDN Web Docs](https://developer.mozilla.org/)
 * [Eleventy](https://www.11ty.dev/)
 * [Deploying Your Site to Neocities](https://nenrikido.neocities.org/blog/post/deploy-site/)
-* [code on Github](https://github.com/FireFlows/sinigang)
+* [w3 markup validation service](https://validator.w3.org/)
+* [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/)
 
 ### Other resources worth checking out:
-* [Accessible Webmastery](https://accessible-webmastery.neocities.org/)
-* [Bot-proofing your website](https://baccyflap.com/res/robots/)
 * [Lorem ipsum generatior](https://lipsum.com)
 * [How to tell when a website is AI](https://resrc.neocities.org/posts/how-to-tell-when-a-website-is-ai)
 * [HTML for people](https://htmlforpeople.com)

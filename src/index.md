@@ -26,6 +26,7 @@ I improved some of the colors for the website and renamed a few pages.
 * draw a better profile image
 * add a now page (?)
 * post all blogs from bearblog to here
+  * ideas for post.html: reverse chronological order, sort by #hashtag, ~~kudos system~~
 * create a video player that randomly chooses a song from my Vocaloid Music Playlist
   * you can CTRL+U this page to see my rudimentary attempt at this
 * create true comments section and not iframe guestbook
@@ -33,6 +34,7 @@ I improved some of the colors for the website and renamed a few pages.
   * create Japanese VCV
   * create Japanese CVVC
   * create English CVVC
+    * all voicebanks are planned to be released simultaneously 
   * create better portraits
   * create dropdown navigation
 * ~~DARK MODE???~~

@@ -1,9 +1,10 @@
 :root {
     --accent-color:#DA2C38;
-    --color-5:#7776BC; /*idk what I will use ts for https://coolors.co/0d1821-fcf7f8-d7d5d7-7776bc-ff674d*/
-    --aside-color:#D6D5D7;
+    --aside-color:#EAECEA;
     --main-color:#21222B;
     --bg-color: #FBFAF8;
+    --color-5:#B80C09; 
+
     margin-left:14rem;
     margin-right:14rem;
     margin-top:2rem;
@@ -13,7 +14,10 @@
     font-feature-settings: 'liga' 1, 'calt' 1; /* fix for Chrome */    line-height:155%;
     font-size:16px;
 }
-
+/*
+colors
+https://coolors.co/21222b-fbfaf8-eaecea-da2c38-b80c09
+*/
 a {
     color: var(--accent-color);
     text-decoration:none;
@@ -25,7 +29,6 @@ a:hover {
 ::marker {
     color:var(--accent-color);
 }
-
 body {
     display: grid;
     grid-template-areas:
@@ -80,6 +83,7 @@ nav {
 footer {
     grid-area: footer;
     text-align: center;
+    padding:.5rem;
 }
 h1 {
     padding: .5rem;

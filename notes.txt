@@ -74,6 +74,7 @@ https://www.w3schools.com/howto/howto_js_image_grid.asp
 https://kevincox.ca/2022/05/06/rss-feed-best-practices/
 https://paintbbs.sakura.ne.jp/poti/
 https://maybecoding.bearblog.dev/adding-a-private-feedback-box-to-bear/
+https://virtualobserver.moe/ayano/comment-widget
 
 11ty specific resources
 https://petrapixel.neocities.org/coding/eleventy-tutorial#
@@ -90,3 +91,4 @@ https://perfectmotherfuckingwebsite.com/
 https://skaetlett.gay/resources/sites-that-waste-your-time
 https://suboptimalism.neocities.org/writings/undocumented
 https://sindexmon.github.io/decache/
+https://smoothsailing.asclaria.org/
