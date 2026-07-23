@@ -25,12 +25,14 @@ I improved some of the colors for the website and renamed a few pages.
 * add a now page (?)
 * post all blogs from bearblog to here
 * create a video player that randomly chooses a song from my Vocaloid Music Playlist
+  * you can CTRL+U this page to see my rudimentary attempt at this
 * create true comments section and not iframe guestbook
 * host my UTAU
   * create Japanese VCV
   * create Japanese CVVC
   * create English CVVC
   * create better portraits
+  * create dropdown navigation
 * ~~DARK MODE???~~
 
 <script src="https://status.cafe/current-status.js?name=fire" defer></script>

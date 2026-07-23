@@ -9,7 +9,6 @@ layout: "home.html"
 * [squirrelz.xyz](https://squirrelz.xyz/)
 
 ### Resources used for this website:
-* [Inter](https://rsms.me/inter/) - the typeface used on this website
 * [w3schools](https://www.w3schools.com/html/)
 * [MDN Web Docs](https://developer.mozilla.org/)
 * [Eleventy](https://www.11ty.dev/)
@@ -21,3 +20,5 @@ layout: "home.html"
 * [Bot-proofing your website](https://baccyflap.com/res/robots/)
 * [Lorem ipsum generatior](https://lipsum.com)
 * [How to tell when a website is AI](https://resrc.neocities.org/posts/how-to-tell-when-a-website-is-ai)
+* [HTML for people](https://htmlforpeople.com)
+* [Wasteland UTAU](https://utau.felinewasteland.com)
