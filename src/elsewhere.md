@@ -2,7 +2,7 @@
 title: "Elsewhere"
 layout: "home.html"
 ---
-If looking to contact me, I recommend Tumblr or email. I don't check my Twitter DMs. And if neither of those contact methods sound appealing to you, feel free to comment on my [guestbook](index.html#c_widget).
+If looking to contact me, I recommend Tumblr or email. I don't check my Twitter DMs. And if neither of those contact methods sound appealing to you, feel free to [leave a comment](index.html#c_widget).
 
 * [Tumblr](https://fire7541.tumblr.com)
 * [Twitter](https://twitter.com/fire7541)

@@ -22,8 +22,9 @@ I improved some of the colors for the website and renamed a few pages.
 
 20260722
 
-## Guestbook
-Questions? Thoughts? Anything you want to tell me? You can tell me here.
+## Comments
+Questions? Thoughts? Anything you want to tell me? You can tell me here. [Manually moderated](https://frills.dev/blog/231023-add-moderation-to-comment-widget/).
+
 <div id="c_widget"></div>
 <script src="/assets/comment-widget.js"></script>
 <script src="https://status.cafe/current-status.js?name=fire" defer></script>
