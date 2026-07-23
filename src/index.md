@@ -2,25 +2,38 @@
 title: "Home"
 layout: "home.html"
 ---
+## Introduction
+
 Welcome to my humble abode... I've worked really hard on it, but it's still a work in progress, so please stay tuned for future updates. 
 
 This site is PG (at most PG-13; harsh language might be used or disturbing topics may be discussed), but some external links may lead to less sanitized or 18+ spaces. So don't go like clicking everywhere here in public I guess. Unless you get a kick from that sort of thing 
 
 <h2>status.cafe widget</h2>
+
 <div id="statuscafe"><div id="statuscafe-username"></div><div id="statuscafe-content"></div></div>
-<script src="https://status.cafe/current-status.js?name=fire" defer></script>
+
+## Now
+
+I've been working on my UTAU and website. The VCV is very close to being finished. My website is a forever work in progress, but you know. That's just kind of how it is.
+
+I improved some of the colors for the website and renamed a few pages.
+
+20260722
 
 ## To-do List
 * draw a better profile image
 * add a now page (?)
 * post all blogs from bearblog to here
 * create a video player that randomly chooses a song from my Vocaloid Music Playlist
+* create true comments section and not iframe guestbook
 * host my UTAU
   * create Japanese VCV
   * create Japanese CVVC
   * create English CVVC
   * create better portraits
 * ~~DARK MODE???~~
+
+<script src="https://status.cafe/current-status.js?name=fire" defer></script>
 
 <!--
 <h2>Vocaloid Song I Like</h2>

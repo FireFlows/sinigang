@@ -1,10 +1,12 @@
 :root {
-    --accent-color:#DB504A;
-    --color-5:#984447; /*idk what I will use ts for https://coolors.co/0d1821-fcf7f8-d7d5d7-db504a-984447*/
+    --accent-color:#CC1F00;
+    --color-5:#7776BC; /*idk what I will use ts for https://coolors.co/0d1821-fcf7f8-d7d5d7-7776bc-ff674d*/
     --aside-color:#D6D5D7;
     --main-color:#0D1821;
     --bg-color: #FCF7F8;
-    margin:3.5rem;
+    margin-left:14rem;
+    margin-right:14rem;
+    margin-top:2rem;
     background-color: var(--bg-color);
     color: var(--main-color);
     font-family: Inter, Arial, sans-serif;
@@ -20,9 +22,10 @@ a {
 a:hover {
     color:var(--main-color)
 }
-li::marker {
+::marker {
     color:var(--accent-color);
 }
+
 body {
     display: grid;
     grid-template-areas:
@@ -108,6 +111,12 @@ h2 {
 }
 
 
+@media screen and (max-width:1200px){
+    :root {
+        margin-left:5rem;
+        margin-right:5rem;
+    }
+}
 
 @media screen and (max-width: 800px) {
     :root {
