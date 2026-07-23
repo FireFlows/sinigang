@@ -18,6 +18,8 @@ I've been working on my UTAU and website. The VCV is very close to being finishe
 
 I improved some of the colors for the website and renamed a few pages.
 
+**Playing**: Deltarun Ch.5, Pronoun Palace
+
 20260722
 
 ## To-do List

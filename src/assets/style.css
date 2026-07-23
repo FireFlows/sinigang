@@ -1,5 +1,5 @@
 :root {
-    --accent-color:#CC1F00;
+    --accent-color:#DA2C38;
     --color-5:#7776BC; /*idk what I will use ts for https://coolors.co/0d1821-fcf7f8-d7d5d7-7776bc-ff674d*/
     --aside-color:#D6D5D7;
     --main-color:#21222B;
@@ -82,17 +82,16 @@ footer {
     text-align: center;
 }
 h1 {
-    background: var(--aside-color);
     padding: .5rem;
 }
 h2 {
     padding-bottom:.5rem;
-    border-bottom: 2px solid var(--main-color);
+    border-bottom: 2px solid var(--accent-color);
 }
 
 #statuscafe {
     padding: .5em;
-    font-size: 14px;
+    font-size: 16px;
 
 }
 #statuscafe-username {

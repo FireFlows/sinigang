@@ -9,7 +9,7 @@ If looking to contact me, I recommend Tumblr or email. I don't check my Twitter 
 * [VocaDB](https://vocadb.net/profile/sinigang)
 * [Offsite blog (bearblog)](https://sinigang.bearblog.dev)
 * [realfire7541@gmail.com](mailto:realfire7541@gmail.com) 
-
+<!--
 ## Guestbook
 
 You can also leave a message in my guestbook below.
