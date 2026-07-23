@@ -2,6 +2,7 @@
 title: "Links"
 layout: "home.html"
 ---
+
 ### Sites that inspired this one:
 * [nomnomnami's site](https://nomnomnami.com)
 * [jb's site](https://jbc.lol)
@@ -15,6 +16,7 @@ layout: "home.html"
 * [Deploying Your Site to Neocities](https://nenrikido.neocities.org/blog/post/deploy-site/)
 * [w3 markup validation service](https://validator.w3.org/)
 * [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/)
+* [Ayano's Neocities Comment Widget](https://virtualobserver.moe/ayano/comment-widget)
 
 ### Other resources worth checking out:
 * [Lorem ipsum generatior](https://lipsum.com)

@@ -53,7 +53,7 @@ main {
 aside {
     grid-area: aside;
     position: sticky;
-    text-align:center;
+    text-align: center;
     top:1rem;
     font-size: 17px;
     margin:1rem;
@@ -145,4 +145,134 @@ h2 {
   .nomobile {
     display:none;
   }
+}
+
+/*el comment css
+    --accent-color:#DA2C38;
+    --aside-color:#EAECEA;
+    --main-color:#21222B;
+    --bg-color: #FBFAF8;
+    --color-5:#B80C09; 
+
+*/
+
+#c_widget {
+    box-sizing: border-box;
+    padding: 20px;
+    font-size: 16px;
+}
+
+#c_widget button, #c_widget input[type=submit] {
+    padding: 4px;
+    text-decoration: none;
+	text-align: center;
+    border: 1px solid #dddddd;
+    background-color: #dddddd;
+    color: #21222B;
+}
+#c_widget button:hover, #c_widget input[type=submit]:hover {
+    color: #21222B;
+    border: 1px solid #FBFAF8;
+    background-color: #FBFAF8;}
+#c_widget button:disabled, #c_widget input[type=submit]:disabled {opacity: 60%;}
+#c_widget button:disabled:hover, #c_widget input[type=submit]:disabled:hover {
+    border: 1px solid #21222B;
+}
+
+/* Input section */
+#c_inputDiv {
+    margin-bottom: 15px;
+    padding: 5px;
+
+}
+
+.c-inputWrapper {
+    display: block;
+    
+}
+.c-input {
+    padding: 5px;
+    margin:5px;
+    color: black;
+    border: 1px solid #2D0B52;
+	outline: none;
+}
+.c-input:focus {
+    border: 1px solid #DA2C38;
+}
+
+.c-textInput {
+
+    width: calc(100% - 10px);
+    max-width: 900px;
+    resize: none;
+}
+#c_submitButton {
+    display: block; 
+    margin-left: auto; 
+    margin-right: 0;
+}
+#c_replyingText {
+    text-align: right;
+}
+
+/* Comment section */
+.c-comment {
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 2px solid --var(--color-5);
+    background-color: #EAECEA; 
+}
+.c-reply {
+    display: block;
+    width: 90%;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: 0;
+    padding: 10px;
+    background-color: #dadada;
+}
+.c-reply:last-child {margin-bottom: 0;}
+.c-replyContainer {
+    margin: -10px;
+    margin-top: 10px;
+    padding: 10px;
+    background-color: --var(--aside-color);
+}
+
+.c-name {
+    display: inline-block;
+    margin: 0;
+    margin-right: 10px;
+    padding: 0;
+    font-weight: bold;
+}
+.c-site {
+    text-transform:uppercase;
+}
+.c-timestamp {
+    float: right;
+    opacity: 75%;
+}
+.c-text {
+    margin: 0;
+    margin-left: -10px;
+    margin-right: -10px;
+    padding: 10px;
+    font-size: 14px;
+}
+
+/* Pagination */
+#c_pagination {text-align: center;}
+.c-replyButton {
+    margin-top: 10px;
+    margin-right: 4px;
+}
+.c-expandButton {
+    margin-top: 10px;
+    margin-left: 4px;
+}
+.c-paginationButton {
+    margin-right: 4px;
+    margin-left: 4px;
 }

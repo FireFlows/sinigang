@@ -22,23 +22,10 @@ I improved some of the colors for the website and renamed a few pages.
 
 20260722
 
-## To-do List
-* draw a better profile image
-* add a now page (?)
-* post all blogs from bearblog to here
-  * ideas for post.html: reverse chronological order, sort by #hashtag, ~~kudos system~~
-* create a video player that randomly chooses a song from my Vocaloid Music Playlist
-  * you can CTRL+U this page to see my rudimentary attempt at this
-* create true comments section and not iframe guestbook
-* host my UTAU
-  * create Japanese VCV
-  * create Japanese CVVC
-  * create English CVVC
-    * all voicebanks are planned to be released simultaneously 
-  * create better portraits
-  * create dropdown navigation
-* ~~DARK MODE???~~
-
+## Guestbook
+Questions? Thoughts? Anything you want to tell me? You can tell me here.
+<div id="c_widget"></div>
+<script src="/assets/comment-widget.js"></script>
 <script src="https://status.cafe/current-status.js?name=fire" defer></script>
 
 <!--
