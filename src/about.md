@@ -18,5 +18,7 @@ It was coded in VSCode. and it should work on everything on all resolutions, inc
 
 My website is "licensed" under [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en).
 
+I don't use generative AI for any aspect of my website including writing, art, and coding. Everything is hand-crafted by me, or stolen by my own two hands.
+
 ### Sinigang?
 It's a popular Filipino soup. It's pretty sour. A lot of people tend to name themselves after food, so I wanted to try that too.

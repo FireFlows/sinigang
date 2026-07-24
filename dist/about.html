@@ -39,17 +39,23 @@
 <p>I made this website as a space away from social media. As a bonus, it will be the (eventual) hosting site of my UTAU. BTW: the picture on the left (not visible on mobile) is a drawing I did of my UTAU.</p>
 <p>It was coded in VSCode. and it should work on everything on all resolutions, including mobile (though desktop viewing is preferred). Check out the <a href="links.html">links</a> section to see specific resources I used.</p>
 <p>My website is &quot;licensed&quot; under <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0</a>.</p>
+<p>I don't use generative AI for any aspect of my website including writing, art, and coding. Everything is hand-crafted by me, or stolen by my own two hands.</p>
 <h3>Sinigang?</h3>
 <p>It's a popular Filipino soup. It's pretty sour. A lot of people tend to name themselves after food, so I wanted to try that too.</p>
 
 
 	</main>
 	<footer>
-		By Fire 2020 - ∞ | <a href="#top">Top</a> | <a href="https://github.com/FireFlows/sinigang">GitHub repo</a> 
+		by Fire 2020 - ∞ | <a href="#top">Top</a> | <a href="https://github.com/FireFlows/sinigang">GitHub repo</a> 
+		<br>Page last updated <span id="lu"></span>
 	</footer>
 	</body>
-	<script>
-		function getTime() {
+
+<script>
+const date = new Date(document.lastModified);
+document.getElementById("lu").innerHTML = date;
+
+	function getTime() {
     const now = new Date();
 
     const etFormatter = new Intl.DateTimeFormat('en-US', {

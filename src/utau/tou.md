@@ -38,10 +38,6 @@ layout: "../_includes/home.html"
     - because I would like some too
     - no, seriously, I'll pay for shipping and everything.
 
-Generally, please assume that, as long as you're not acting maliciously, anything is OK. I don't want to be incredibly restrictive. Obviously, do not be malicious, offensive, hateful, derogatory, etc. 
+In general, please act in good faith. As long as you aren't being intentionally malicious or harmful, you may use my UTAU as you would like.
 
-Technically, I can't stop you from violating the TOU either, but it'd be nice if you followed it. 
-
-If you're unsure if what you're doing is considered good faith, or if you have general questions, feel free to [send a message](../elsewhere.html)!
-
-The Terms of Use were last updated on July 22, 2026 and may be subject to change in the future.
+If you have any questions, or you're unsure if your actions constitute as good faith or not, please [contact me](../elsewhere.html).

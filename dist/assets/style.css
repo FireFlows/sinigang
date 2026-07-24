@@ -12,7 +12,7 @@
     color: var(--main-color);
     font-family: Open Sans, Arial, sans-serif;
     font-feature-settings: 'liga' 1, 'calt' 1; /* fix for Chrome */    line-height:155%;
-    font-size:16px;
+    font-size:1rem;
 }
 /*
 colors
@@ -55,7 +55,7 @@ aside {
     position: sticky;
     text-align: center;
     top:1rem;
-    font-size: 17px;
+    font-size: 1.125rem;
     margin:1rem;
     background-color: var(--aside-color);
     iframe {margin:.5rem;}
@@ -107,7 +107,19 @@ h2 {
         margin: .1em;
     }
 }
-
+@media screen {
+  a[href^="https://"]::after,
+  a[href^="http://"]::after,
+  a[href^="//"]::after{
+    content: '';
+    background: currentcolor;
+    mask:
+      url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 12"><path fill="red" d="M6 1h5v5L8.86 3.85 4.7 8 4 7.3l4.15-4.16zM2 3h2v1H2v6h6V8h1v2a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1"/></svg>')
+      no-repeat 100% 0% / 0.75em;
+    padding-right: 0.75em;
+    padding-left:0.125em;
+  }
+}
 @media screen and (max-width:1200px){
     :root {
         margin-left:5rem;

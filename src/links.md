@@ -23,3 +23,5 @@ layout: "home.html"
 * [How to tell when a website is AI](https://resrc.neocities.org/posts/how-to-tell-when-a-website-is-ai)
 * [HTML for people](https://htmlforpeople.com)
 * [Wasteland UTAU](https://utau.felinewasteland.com)
+* [Interactive IPA Chart](https://www.ipachart.com/)
+* [IPA Reader](https://ipa-reader.com/)

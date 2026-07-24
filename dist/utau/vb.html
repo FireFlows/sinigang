@@ -34,11 +34,16 @@
 
 	</main>
 	<footer>
-		By Fire 2020 - ∞ | <a href="#top">Top</a> | <a href="https://github.com/FireFlows/sinigang">GitHub repo</a> 
+		by Fire 2020 - ∞ | <a href="#top">Top</a> | <a href="https://github.com/FireFlows/sinigang">GitHub repo</a> 
+		<br>Page last updated <span id="lu"></span>
 	</footer>
 	</body>
-	<script>
-		function getTime() {
+
+<script>
+const date = new Date(document.lastModified);
+document.getElementById("lu").innerHTML = date;
+
+	function getTime() {
     const now = new Date();
 
     const etFormatter = new Intl.DateTimeFormat('en-US', {

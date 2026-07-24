@@ -76,19 +76,22 @@
 </ul>
 </li>
 </ul>
-<p>Generally, please assume that, as long as you're not acting maliciously, anything is OK. I don't want to be incredibly restrictive. Obviously, do not be malicious, offensive, hateful, derogatory, etc.</p>
-<p>Technically, I can't stop you from violating the TOU either, but it'd be nice if you followed it.</p>
-<p>If you're unsure if what you're doing is considered good faith, or if you have general questions, feel free to <a href="../elsewhere.html">send a message</a>!</p>
-<p>The Terms of Use were last updated on July 22, 2026 and may be subject to change in the future.</p>
+<p>In general, please act in good faith. As long as you aren't being intentionally malicious or harmful, you may use my UTAU as you would like.</p>
+<p>If you have any questions, or you're unsure if your actions constitute as good faith or not, please <a href="../elsewhere.html">contact me</a>.</p>
 
 
 	</main>
 	<footer>
-		By Fire 2020 - ∞ | <a href="#top">Top</a> | <a href="https://github.com/FireFlows/sinigang">GitHub repo</a> 
+		by Fire 2020 - ∞ | <a href="#top">Top</a> | <a href="https://github.com/FireFlows/sinigang">GitHub repo</a> 
+		<br>Page last updated <span id="lu"></span>
 	</footer>
 	</body>
-	<script>
-		function getTime() {
+
+<script>
+const date = new Date(document.lastModified);
+document.getElementById("lu").innerHTML = date;
+
+	function getTime() {
     const now = new Date();
 
     const etFormatter = new Intl.DateTimeFormat('en-US', {
