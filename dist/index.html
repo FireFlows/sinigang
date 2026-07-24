@@ -113,25 +113,40 @@ player.playVideoAt(index:Number):Void
 	</main>
 	<footer>
 		by Fire 2020 - ∞ | <a href="#top">Top</a> | <a href="https://github.com/FireFlows/sinigang">GitHub repo</a> 
-		<br>Page last updated <span id="lu"></span><br>
-		Site last updated <span id="wlu"></span>
+		<br>Page last updated: <span id="lu"></span><br>
+		Site last updated: <span id="wlu"></span>
 	</footer>
 <script>
   var xhttp = new XMLHttpRequest();
   xhttp.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
       var site_data = JSON.parse(this.responseText);
-
-      var siteUpdate = new Date(site_data.updated_at);
-      document.getElementById("wlu").innerHTML = siteUpdate.toLocaleString();
+	  const websiteUpdate = new Date(site_data.updated_at).toLocaleString([],{
+		hour12: true,
+		weekday: "short",
+		hour:'2-digit',
+		minute:"2-digit",
+		month:"numeric",
+		day:"numeric",
+		year:"numeric"
+	  })
+	  document.getElementById("wlu").innerHTML = websiteUpdate;
 
     }
   };
   xhttp.open("GET", "https://api.github.com/repos/FireFlows/sinigang", true);
   xhttp.send();
 
-const date = new Date(document.lastModified);
-document.getElementById("lu").innerHTML = date.toLocaleString();
+const pageUpdate = new Date(document.lastModified).toLocaleString([],{
+	hour12: true,
+	weekday:"short",
+	hour:"2-digit",
+	minute:"2-digit",
+	month:"numeric",
+	day:"numeric",
+	year:"numeric",
+});
+document.getElementById("lu").innerHTML = pageUpdate;
 
 	function getTime() {
     const now = new Date();
