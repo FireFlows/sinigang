@@ -11,12 +11,19 @@
     background-color: var(--bg-color);
     color: var(--main-color);
     font-family: Open Sans, Arial, sans-serif;
-    font-feature-settings: 'liga' 1, 'calt' 1; /* fix for Chrome */    line-height:155%;
     font-size:1rem;
 }
 /*
 colors
 https://coolors.co/21222b-fbfaf8-eaecea-da2c38-b80c09
+NOTE:
+I would have put this in my /links.html page,
+but I don't like how they seem to be pushing generative AI/LLM shit.
+I'm near-certain that the color palette generator
+on their website does not use genAI (I remember using it a long 
+time ago before genAI), but this website does have 
+genAI features (locked behind a paywall).
+Thanks for readingggg -Fire
 */
 a {
     color: var(--main-color);
@@ -55,10 +62,9 @@ aside {
     position: sticky;
     text-align: center;
     top:1rem;
-    font-size: 1.125rem;
+    font-size: 1.05rem;
     margin:1rem;
     background-color: var(--aside-color);
-    iframe {margin:.5rem;}
 }
 nav {
     font-weight:bold;
@@ -73,7 +79,7 @@ nav {
         padding: 7.5px 7px;
         color:var(--main-color);
     }
-    li a:hover{
+    a:hover{
         background-color: var(--bg-color);
         color:var(--main-color);
 
@@ -148,9 +154,7 @@ h2 {
     ul {
         display:flex;
         flex-wrap:column;
-    }
-    a li {
-        padding:10px;
+        font-size:16px;
     }
   }
 
@@ -165,6 +169,9 @@ h2 {
     --main-color:#21222B;
     --bg-color: #FBFAF8;
     --color-5:#B80C09; 
+    For some reason, I was unable to
+    get the variable colors to
+    work on the comment widget.
 
 */
 
@@ -214,7 +221,6 @@ h2 {
 }
 
 .c-textInput {
-
     width: calc(100% - 10px);
     max-width: 900px;
     resize: none;

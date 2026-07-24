@@ -239,13 +239,25 @@
 	</main>
 	<footer>
 		by Fire 2020 - ∞ | <a href="#top">Top</a> | <a href="https://github.com/FireFlows/sinigang">GitHub repo</a> 
-		<br>Page last updated <span id="lu"></span>
+		<br>Page last updated <span id="lu"></span><br>
+		Site last updated <span id="wlu"></span>
 	</footer>
-	</body>
-
 <script>
+  var xhttp = new XMLHttpRequest();
+  xhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+      var site_data = JSON.parse(this.responseText);
+
+      var siteUpdate = new Date(site_data.updated_at);
+      document.getElementById("wlu").innerHTML = siteUpdate.toLocaleString();
+
+    }
+  };
+  xhttp.open("GET", "https://api.github.com/repos/FireFlows/sinigang", true);
+  xhttp.send();
+
 const date = new Date(document.lastModified);
-document.getElementById("lu").innerHTML = date;
+document.getElementById("lu").innerHTML = date.toLocaleString();
 
 	function getTime() {
     const now = new Date();
@@ -277,8 +289,8 @@ document.getElementById("lu").innerHTML = date;
 
     document.getElementById('local-time-main').textContent = `${timeStr} ${tzName}`;
 }
-
 getTime();
 setInterval(getTime, 1000);
 </script>
+</body>
 </html>

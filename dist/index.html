@@ -36,10 +36,11 @@
 <h2>status.cafe widget</h2>
 <div id="statuscafe"><div id="statuscafe-username"></div><div id="statuscafe-content"></div></div>
 <h2>Now</h2>
-<p>I've been working on my UTAU and website. The VCV is very close to being finished. My website is a forever work in progress, but you know. That's just kind of how it is.</p>
-<p>I improved some of the colors for the website and renamed a few pages.</p>
+<p>Continuing work on my UTAU and website. I have a bunch of <a href="https://vocadb.net/T/9346/additional-voice-material">extra phonemes</a> recorded (50 extra oto lines, for a total of around 1k lines), but I'll probably have to re-record that and some other stuff.</p>
+<p>I added a &quot;page last updated&quot; and &quot;website last updated&quot; thing to the footer. So it'll tell you when each page was last updated and when the site in general was updated. Isn't that exciting?</p>
+<p>Art Fight is almost over, which makes me pretty sad. Because I lost my Apple Pencil in the middle of the event, I didn't draw as many characters as I would like to. Well, I guess there's still time, but I've been severely locked in to my website and UTAU.</p>
 <p><strong>Playing</strong>: Deltarune Ch.5, Pronoun Palace</p>
-<p>20260722</p>
+<p>20260724</p>
 <h2>Comments</h2>
 <p>Questions? Thoughts? Anything you want to tell me? You can tell me here. <a href="https://frills.dev/blog/231023-add-moderation-to-comment-widget/">Manually moderated</a>.</p>
 <div id="c_widget"></div>
@@ -112,13 +113,25 @@ player.playVideoAt(index:Number):Void
 	</main>
 	<footer>
 		by Fire 2020 - ∞ | <a href="#top">Top</a> | <a href="https://github.com/FireFlows/sinigang">GitHub repo</a> 
-		<br>Page last updated <span id="lu"></span>
+		<br>Page last updated <span id="lu"></span><br>
+		Site last updated <span id="wlu"></span>
 	</footer>
-	</body>
-
 <script>
+  var xhttp = new XMLHttpRequest();
+  xhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+      var site_data = JSON.parse(this.responseText);
+
+      var siteUpdate = new Date(site_data.updated_at);
+      document.getElementById("wlu").innerHTML = siteUpdate.toLocaleString();
+
+    }
+  };
+  xhttp.open("GET", "https://api.github.com/repos/FireFlows/sinigang", true);
+  xhttp.send();
+
 const date = new Date(document.lastModified);
-document.getElementById("lu").innerHTML = date;
+document.getElementById("lu").innerHTML = date.toLocaleString();
 
 	function getTime() {
     const now = new Date();
@@ -150,8 +163,8 @@ document.getElementById("lu").innerHTML = date;
 
     document.getElementById('local-time-main').textContent = `${timeStr} ${tzName}`;
 }
-
 getTime();
 setInterval(getTime, 1000);
 </script>
+</body>
 </html>

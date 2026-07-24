@@ -14,13 +14,15 @@ This site is PG (at most PG-13; harsh language might be used or disturbing topic
 
 ## Now
 
-I've been working on my UTAU and website. The VCV is very close to being finished. My website is a forever work in progress, but you know. That's just kind of how it is.
+Continuing work on my UTAU and website. I have a bunch of [extra phonemes](https://vocadb.net/T/9346/additional-voice-material) recorded (50 extra oto lines, for a total of around 1k lines), but I'll probably have to re-record that and some other stuff. 
 
-I improved some of the colors for the website and renamed a few pages.
+I added a "page last updated" and "website last updated" thing to the footer. So it'll tell you when each page was last updated and when the site in general was updated. Isn't that exciting?
+
+Art Fight is almost over, which makes me pretty sad. Because I lost my Apple Pencil in the middle of the event, I didn't draw as many characters as I would like to. Well, I guess there's still time, but I've been severely locked in to my website and UTAU. 
 
 **Playing**: Deltarune Ch.5, Pronoun Palace
 
-20260722
+20260724
 
 ## Comments
 Questions? Thoughts? Anything you want to tell me? You can tell me here. [Manually moderated](https://frills.dev/blog/231023-add-moderation-to-comment-widget/).

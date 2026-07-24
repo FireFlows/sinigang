@@ -30,14 +30,14 @@
 	<main> 
 		
 	<h1>Links</h1>
-	<h3>Sites that inspired this one:</h3>
+	<h3>Inspired by:</h3>
 <ul>
 <li><a href="https://nomnomnami.com">nomnomnami's site</a></li>
 <li><a href="https://jbc.lol">jb's site</a></li>
 <li><a href="https://teppyslayouts.neocities.org">Teppy's Layouts</a> - the first one, for the avatar idea.</li>
 <li><a href="https://squirrelz.xyz/">squirrelz.xyz</a></li>
 </ul>
-<h3>Resources used for this website:</h3>
+<h3>Resources used:</h3>
 <ul>
 <li><a href="https://www.w3schools.com/html/">w3schools</a></li>
 <li><a href="https://developer.mozilla.org/">MDN Web Docs</a></li>
@@ -45,29 +45,49 @@
 <li><a href="https://nenrikido.neocities.org/blog/post/deploy-site/">Deploying Your Site to Neocities</a></li>
 <li><a href="https://validator.w3.org/">w3 markup validation service</a></li>
 <li><a href="https://wave.webaim.org/">WAVE Web Accessibility Evaluation Tool</a></li>
+<li><a href="https://webaim.org/resources/contrastchecker/">Color Contrast Checker</a></li>
 <li><a href="https://virtualobserver.moe/ayano/comment-widget">Ayano's Neocities Comment Widget</a></li>
-</ul>
-<h3>Other resources worth checking out:</h3>
+<li><a href="https://dannarchy.com/tut/tut_002">Native Neocities hit counter</a>
 <ul>
-<li><a href="https://lipsum.com">Lorem ipsum generatior</a></li>
+<li>I used a slightly modified version of this code for the footer.</li>
+</ul>
+</li>
+<li><a href="https://mina86.com/2026/styling-external-links/">Styling external links, yea or nay?</a></li>
+</ul>
+<h3>Other stuff worth checking out:</h3>
+<ul>
 <li><a href="https://resrc.neocities.org/posts/how-to-tell-when-a-website-is-ai">How to tell when a website is AI</a></li>
 <li><a href="https://htmlforpeople.com">HTML for people</a></li>
 <li><a href="https://utau.felinewasteland.com">Wasteland UTAU</a></li>
 <li><a href="https://www.ipachart.com/">Interactive IPA Chart</a></li>
 <li><a href="https://ipa-reader.com/">IPA Reader</a></li>
+<li><a href="https://suboptimalism.neocities.org/writings/undocumented">Some Undocumented Neocities Mechanics</a></li>
+<li><a href="https://thomaswc.com/2025.html">Sort 2025 things into 45 groups of 45</a></li>
 </ul>
 
 
 	</main>
 	<footer>
 		by Fire 2020 - ∞ | <a href="#top">Top</a> | <a href="https://github.com/FireFlows/sinigang">GitHub repo</a> 
-		<br>Page last updated <span id="lu"></span>
+		<br>Page last updated <span id="lu"></span><br>
+		Site last updated <span id="wlu"></span>
 	</footer>
-	</body>
-
 <script>
+  var xhttp = new XMLHttpRequest();
+  xhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+      var site_data = JSON.parse(this.responseText);
+
+      var siteUpdate = new Date(site_data.updated_at);
+      document.getElementById("wlu").innerHTML = siteUpdate.toLocaleString();
+
+    }
+  };
+  xhttp.open("GET", "https://api.github.com/repos/FireFlows/sinigang", true);
+  xhttp.send();
+
 const date = new Date(document.lastModified);
-document.getElementById("lu").innerHTML = date;
+document.getElementById("lu").innerHTML = date.toLocaleString();
 
 	function getTime() {
     const now = new Date();
@@ -99,8 +119,8 @@ document.getElementById("lu").innerHTML = date;
 
     document.getElementById('local-time-main').textContent = `${timeStr} ${tzName}`;
 }
-
 getTime();
 setInterval(getTime, 1000);
 </script>
+</body>
 </html>
