@@ -6,11 +6,7 @@ layout: "home.html"
 
 Welcome to my humble abode... I've worked really hard on it, but it's still a work in progress, so please stay tuned for future updates. 
 
-This site is PG (at most PG-13; harsh language might be used or disturbing topics may be discussed), but some external links may lead to less sanitized or 18+ spaces. So don't go like clicking everywhere here in public I guess. Unless you get a kick from that sort of thing 
-
-<h2>status.cafe widget</h2>
-
-<div id="statuscafe"><div id="statuscafe-username"></div><div id="statuscafe-content"></div></div>
+This website is SFW but ran by an adult (me). I say swear words.
 
 ## Now
 
@@ -20,67 +16,49 @@ I added a "page last updated" and "website last updated" thing to the footer. So
 
 Art Fight is almost over, which makes me pretty sad. Because I lost my Apple Pencil in the middle of the event, I didn't draw as many characters as I would like to. Well, I guess there's still time, but I've been severely locked in to my website and UTAU. 
 
-**Playing**: Deltarune Ch.5, Pronoun Palace
+**Playing**: Deltarune Ch.5, Pronoun Palace  
+**Reading**: various articles
 
 20260724
 
-## Comments
-Questions? Thoughts? Anything you want to tell me? You can tell me here. [Manually moderated](https://frills.dev/blog/231023-add-moderation-to-comment-widget/).
+## status.cafe widget
 
-<div id="c_widget"></div>
-<script src="/assets/comment-widget.js"></script>
-<script src="https://status.cafe/current-status.js?name=fire" defer></script>
+<div id="statuscafe"><div id="statuscafe-username"></div><div id="statuscafe-content"></div></div>
+<!----------------
+## Vocaloid Song I Like
 
-<!--
-<h2>Vocaloid Song I Like</h2>
-<div id="player"></div>
+<iframe id="yt-iframe"
+    width="640" height="360"
+    src="https://www.youtube.com/embed/PLFCCsWwB4Mxk?rel=0&enablejsapi=1&playlist=PLFCCsWwB4Mxk&enablejsapi=1"
+    frameborder="0"
+></iframe>
 
 Randomly chooses a song from my [Vocaloid Music Playlist](https://www.youtube.com/playlist?list=PLFCCsWwB4Mxk). Not just Vocaloid, also includes SynthV, UTAU, etc. Not just original songs, there are also covers, remixes, and mashups. Exciting. There might be one or two human-sung songs in here because I thought the cover was the Vocaloid version.
 
  <script>
-      // 2. This code loads the IFrame Player API code asynchronously.
-      var tag = document.createElement('script');
+  var tag = document.createElement('script');
+  tag.id = 'iframe-demo';
+  tag.src = 'https://www.youtube.com/iframe_api';
+  var firstScriptTag = document.getElementsByTagName('script')[0];
+  firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
 
-      tag.src = "https://www.youtube.com/iframe_api";
-      var firstScriptTag = document.getElementsByTagName('script')[0];
-      firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+  var player;
+  function onYouTubeIframeAPIReady() {
+    player = new YT.Player('yt-iframe', {
+    events: {
+      'onReady': onPlayerReady,
+      'onStateChange': onPlayerStateChange
+    }
+    });
+  }
 
-      // 3. This function creates an <iframe> (and YouTube player)
-      //    after the API code downloads.
-      var player;
-      function onYouTubeIframeAPIReady() {
-        player = new YT.Player('player', {
-          height: '390',
-          width: '640',
-          playerVars: {
-            listType:'playlist',
-            list: 'PLFCCsWwB4Mxk'
-          },
-          events: {
-            'onReady': onPlayerReady,
-            'onStateChange': onPlayerStateChange
-          }
-        });
-      }
-      // 4. The API will call this function when the video player is ready.
-      function onPlayerReady(event) {
-        event.target.playVideo();
-      }
-
-      // 5. The API calls this function when the player's state changes.
-      //    The function indicates that when playing a video (state=1),
-      //    the player should play for six seconds and then stop.
-      var done = false;
-      function onPlayerStateChange(event) {
-        if (event.data == YT.PlayerState.PLAYING && !done) {
-          setTimeout(stopVideo, 6000);
-          done = true;
-        }
-      }
-      function stopVideo() {
-        player.stopVideo();
-      }
+  function onPlayerReady(event) {
+    player.playVideoAt(2); // start at 2nd video
+  }
+  function onPlayerStateChange(event) {
+  }
     </script>
+<!-----------
 AIzaSyAXl4sJEqKYFdaItR4MxCtl6xp27pJWtws
 https://www.youtube.com/playlist?list=PLFCCsWwB4Mxk
 
@@ -94,3 +72,11 @@ const songNumber = await fetch("https://youtube.googleapis.com/youtube/v3/playli
     });
 player.playVideoAt(index:Number):Void
 -->
+
+
+## Comments
+Questions? Thoughts? Anything you want to tell me? You can tell me here. [Manually moderated](https://frills.dev/blog/231023-add-moderation-to-comment-widget/).
+
+<div id="c_widget"></div>
+<script src="/assets/comment-widget.js"></script>
+<script src="https://status.cafe/current-status.js?name=fire" defer></script>

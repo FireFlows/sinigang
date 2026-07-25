@@ -32,70 +32,48 @@
 	<h1>Home</h1>
 	<h2>Introduction</h2>
 <p>Welcome to my humble abode... I've worked really hard on it, but it's still a work in progress, so please stay tuned for future updates.</p>
-<p>This site is PG (at most PG-13; harsh language might be used or disturbing topics may be discussed), but some external links may lead to less sanitized or 18+ spaces. So don't go like clicking everywhere here in public I guess. Unless you get a kick from that sort of thing</p>
-<h2>status.cafe widget</h2>
-<div id="statuscafe"><div id="statuscafe-username"></div><div id="statuscafe-content"></div></div>
+<p>This website is SFW but ran by an adult (me). I say swear words.</p>
 <h2>Now</h2>
 <p>Continuing work on my UTAU and website. I have a bunch of <a href="https://vocadb.net/T/9346/additional-voice-material">extra phonemes</a> recorded (50 extra oto lines, for a total of around 1k lines), but I'll probably have to re-record that and some other stuff.</p>
 <p>I added a &quot;page last updated&quot; and &quot;website last updated&quot; thing to the footer. So it'll tell you when each page was last updated and when the site in general was updated. Isn't that exciting?</p>
 <p>Art Fight is almost over, which makes me pretty sad. Because I lost my Apple Pencil in the middle of the event, I didn't draw as many characters as I would like to. Well, I guess there's still time, but I've been severely locked in to my website and UTAU.</p>
-<p><strong>Playing</strong>: Deltarune Ch.5, Pronoun Palace</p>
+<p><strong>Playing</strong>: Deltarune Ch.5, Pronoun Palace<br>
+<strong>Reading</strong>: various articles</p>
 <p>20260724</p>
-<h2>Comments</h2>
-<p>Questions? Thoughts? Anything you want to tell me? You can tell me here. <a href="https://frills.dev/blog/231023-add-moderation-to-comment-widget/">Manually moderated</a>.</p>
-<div id="c_widget"></div>
-<script src="/assets/comment-widget.js"></script>
-<script src="https://status.cafe/current-status.js?name=fire" defer></script>
-<!--
-<h2>Vocaloid Song I Like</h2>
-<div id="player"></div>
-
-Randomly chooses a song from my [Vocaloid Music Playlist](https://www.youtube.com/playlist?list=PLFCCsWwB4Mxk). Not just Vocaloid, also includes SynthV, UTAU, etc. Not just original songs, there are also covers, remixes, and mashups. Exciting. There might be one or two human-sung songs in here because I thought the cover was the Vocaloid version.
-
+<h2>status.cafe widget</h2>
+<div id="statuscafe"><div id="statuscafe-username"></div><div id="statuscafe-content"></div></div>
+<!----------------
+## Vocaloid Song I Like
+<iframe id="yt-iframe"
+    width="640" height="360"
+    src="https://www.youtube.com/embed/PLFCCsWwB4Mxk?rel=0&enablejsapi=1&playlist=PLFCCsWwB4Mxk&enablejsapi=1"
+    frameborder="0"
+></iframe>
+<p>Randomly chooses a song from my <a href="https://www.youtube.com/playlist?list=PLFCCsWwB4Mxk">Vocaloid Music Playlist</a>. Not just Vocaloid, also includes SynthV, UTAU, etc. Not just original songs, there are also covers, remixes, and mashups. Exciting. There might be one or two human-sung songs in here because I thought the cover was the Vocaloid version.</p>
  <script>
-      // 2. This code loads the IFrame Player API code asynchronously.
-      var tag = document.createElement('script');
+  var tag = document.createElement('script');
+  tag.id = 'iframe-demo';
+  tag.src = 'https://www.youtube.com/iframe_api';
+  var firstScriptTag = document.getElementsByTagName('script')[0];
+  firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
 
-      tag.src = "https://www.youtube.com/iframe_api";
-      var firstScriptTag = document.getElementsByTagName('script')[0];
-      firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+  var player;
+  function onYouTubeIframeAPIReady() {
+    player = new YT.Player('yt-iframe', {
+    events: {
+      'onReady': onPlayerReady,
+      'onStateChange': onPlayerStateChange
+    }
+    });
+  }
 
-      // 3. This function creates an <iframe> (and YouTube player)
-      //    after the API code downloads.
-      var player;
-      function onYouTubeIframeAPIReady() {
-        player = new YT.Player('player', {
-          height: '390',
-          width: '640',
-          playerVars: {
-            listType:'playlist',
-            list: 'PLFCCsWwB4Mxk'
-          },
-          events: {
-            'onReady': onPlayerReady,
-            'onStateChange': onPlayerStateChange
-          }
-        });
-      }
-      // 4. The API will call this function when the video player is ready.
-      function onPlayerReady(event) {
-        event.target.playVideo();
-      }
-
-      // 5. The API calls this function when the player's state changes.
-      //    The function indicates that when playing a video (state=1),
-      //    the player should play for six seconds and then stop.
-      var done = false;
-      function onPlayerStateChange(event) {
-        if (event.data == YT.PlayerState.PLAYING && !done) {
-          setTimeout(stopVideo, 6000);
-          done = true;
-        }
-      }
-      function stopVideo() {
-        player.stopVideo();
-      }
+  function onPlayerReady(event) {
+    player.playVideoAt(2); // start at 2nd video
+  }
+  function onPlayerStateChange(event) {
+  }
     </script>
+<!-----------
 AIzaSyAXl4sJEqKYFdaItR4MxCtl6xp27pJWtws
 https://www.youtube.com/playlist?list=PLFCCsWwB4Mxk
 
@@ -109,6 +87,11 @@ const songNumber = await fetch("https://youtube.googleapis.com/youtube/v3/playli
     });
 player.playVideoAt(index:Number):Void
 -->
+<h2>Comments</h2>
+<p>Questions? Thoughts? Anything you want to tell me? You can tell me here. <a href="https://frills.dev/blog/231023-add-moderation-to-comment-widget/">Manually moderated</a>.</p>
+<div id="c_widget"></div>
+<script src="/assets/comment-widget.js"></script>
+<script src="https://status.cafe/current-status.js?name=fire" defer></script>
 
 	</main>
 	<footer>

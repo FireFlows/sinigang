@@ -14,16 +14,17 @@
     font-size:1rem;
 }
 /*
-colors
+Colors
 https://coolors.co/21222b-fbfaf8-eaecea-da2c38-b80c09
 NOTE:
 I would have put this in my /links.html page,
 but I don't like how they seem to be pushing generative AI/LLM shit.
 I'm near-certain that the color palette generator
 on their website does not use genAI (I remember using it a long 
-time ago before genAI), but this website does have 
+time ago before genAI, etc.), but this website does have 
 genAI features (locked behind a paywall).
-Thanks for readingggg -Fire
+Thanks for reading. 
+- Fire
 */
 a {
     color: var(--main-color);
@@ -31,7 +32,7 @@ a {
     border-bottom: 1px solid var(--accent-color);
 }
 a:hover {
-    color:var(--accent-color)
+    color:var(--accent-color);
 }
 ::marker {
     color:var(--accent-color);
@@ -51,6 +52,9 @@ header{
     grid-area:header;
     text-align:right;
     padding:2rem;
+}
+li {
+    line-height:1.5;
 }
 main {
     padding:1rem;
@@ -82,6 +86,7 @@ nav {
     a:hover{
         background-color: var(--bg-color);
         color:var(--main-color);
+        text-decoration:none;
 
     }
 
@@ -117,12 +122,8 @@ h2 {
   a[href^="https://"]::after,
   a[href^="http://"]::after,
   a[href^="//"]::after{
-    content: '';
-    background: currentcolor;
-    mask:
-      url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 12"><path fill="red" d="M6 1h5v5L8.86 3.85 4.7 8 4 7.3l4.15-4.16zM2 3h2v1H2v6h6V8h1v2a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1"/></svg>')
-      no-repeat 100% 0% / 0.75em;
-    padding-right: 0.75em;
+    content: '↗';
+    color: var(--accent-color);
     padding-left:0.125em;
   }
 }
@@ -169,9 +170,16 @@ h2 {
     --main-color:#21222B;
     --bg-color: #FBFAF8;
     --color-5:#B80C09; 
+
+    NOTE:
     For some reason, I was unable to
     get the variable colors to
     work on the comment widget.
+    I attempted to fix this by merging
+    the comment widget .css with style.css,
+    but it didn't work. 
+    Whatever. I'll just keep it here.
+    - Fire
 
 */
 
