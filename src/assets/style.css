@@ -45,7 +45,7 @@ a:hover {
 body {
     display: grid;
     grid-template-areas:
-        "header hFeader header"
+        "header header header"
         "aside main main"
         ".     main main"
         ". footer footer";
