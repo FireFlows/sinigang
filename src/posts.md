@@ -10,7 +10,7 @@ I couldn't fit any of these into any category.
 * [Dying](posts/20260721.html) (July 21, 2026)
 
 ### Week in Review
-Every week on Sunday, I write a Week in Review: bascially just recapping what I did that week and plans for next week.
+Every week on Sunday, I write a Week in Review: basically just recapping what I did that week and plans for next week.
 * [Week of July 19](posts/weekly/20260726.html) (July 26, 2026)
 * [Week of July 12](posts/weekly/20260720.html) (July 20, 2026)
 * [Week of July 5](posts/weekly/20260714.html) (July 14, 2026)
