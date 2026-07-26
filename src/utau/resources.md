@@ -14,7 +14,8 @@ Some links are only available in Japanese and will be marked with (JP).
 * [Utalet](https://k-uta.jp/utalet/)
 * [UTAU](https://utau2008.xrea.jp/)
 ### Recording
-* [OREMO](http://nwp8861.web.fc2.com/soft/oremo/index.html)
+* [OREMO](http://nwp8861.web.fc2.com/soft/oremo/index.html) (JP)
+    * English language versions of OREMO exist, but this only gives the Japanese version.
 * [RecStar](https://github.com/sdercolin/recstar/)
 ### Configuration
 * [Laberu](https://k-uta.jp/laberu/)

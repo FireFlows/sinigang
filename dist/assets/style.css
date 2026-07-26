@@ -57,7 +57,7 @@ header{
     grid-area:header;
     background-color: var(--bg-color);
     text-align:right;
-    padding:2.5rem;
+    padding:1.5rem;
 }
 li {
     line-height:1.5;
@@ -192,7 +192,7 @@ mobile
   main {padding:0;margin:1rem;}
   aside {
     margin:0;
-    top:6.5rem;
+    top:4.75rem;
     ul {
         display:flex;
         flex-wrap:wrap;
