@@ -5,25 +5,36 @@
 	<link rel="stylesheet" href="../assets/style.css">
 	<meta charset="UTF-8"> 
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+	<style>
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+</style>
 </head>
-	<body id="top">
+	<body>
 		<header>
-			<span style="font-weight:700; font-size:30px;">sinigang.neocities.org</span>
+<span style="font-weight:700; font-size:1.75rem;">sinigang.neocities.org</span>
 		</header>
 	<aside>
-		<a href="../assets/mp4/utaumedia.mp4" style="border:none"><img src="../assets/img/avatar.png" height="250" class="nomobile" alt="A drawing of my UTAU."></a>
-		<span class="nomobile"><br>My current time: <br><span id="local-time-main"></span><br><span id="local-time-extra"></span></span>
-		<nav>
+		<a href="../utau.html" style="border:none"><img src="../assets/img/avatar.png" height="250" class="nomobile" alt="A drawing of my UTAU."></a>
+		<span class="nomobile"><br>My current time: <br><span id="local-time-main"></span>
+		<br><span id="local-time-extra"></span></span>
+			<nav>
 			<ul>
-				<li><a href="../index.html">Home</a></li>
-				<li><a href="../about.html">About</a></li>
-				<li><a class="dropbtn">UTAU</a></li>
-				<li><a href="../posts.html">Posts</a></li>
-				<li><a href="../elsewhere.html">Elsewhere</a></li>
-				<li><a href="../links.html">Links</a></li>
+				<li><a href="../index.html" class="navi"><span aria-hidden="true">★ </span>Home</a></li>
+				<li><a href="../about.html" class="navi"><span aria-hidden="true">★ </span>About</a></li>
+					<details class="dropdown"> 
+						<summary class="dropbtn" onclick="dropDown()">
+							<li class="navi"><span aria-hidden="true">★ </span>UTAU </li>
+						</summary>
+						<div class="dropdown-content">
+						<li><a href="../utau/vb.html" class="navi-dwn"><span aria-hidden="true">♬ </span>Voicebank</a></li>
+						<li><a href="../utau/tou.html" class="navi-dwn"><span aria-hidden="true">♬ </span>Terms of Use</a></li>
+						<li><a href="../utau/resources.html" class="navi-dwn"><span aria-hidden="true">♬ </span>Resources</a></li>
+						</div>
+					</details>
+				<li><a href="../posts.html" class="navi"><span aria-hidden="true">★ </span>Posts</a></li>
+				<li><a href="../elsewhere.html" class="navi"><span aria-hidden="true">★ </span>Elsewhere</a></li>
+				<li><a href="../links.html" class="navi"><span aria-hidden="true">★ </span>Links</a></li>
 			</ul>
 		</nav>
 	</aside>
@@ -31,19 +42,19 @@
 		
 	<h1>Home</h1>
 	<h2>Introduction</h2>
-<p>Welcome to my humble abode... I've worked really hard on it, but it's still a work in progress, so please stay tuned for future updates.</p>
-<p>This website is SFW but ran by an adult (me). I say swear words.</p>
+<p>Welcome to my humble abode.</p>
+<p>This website does not house and will never house NSFW content, but it is ran by an adult (me) so please exercise caution (especially in places where I end up talking too much).</p>
 <h2>Now</h2>
-<p>Continuing work on my UTAU and website. I have a bunch of <a href="https://vocadb.net/T/9346/additional-voice-material">extra phonemes</a> recorded (50 extra oto lines, for a total of around 1k lines), but I'll probably have to re-record that and some other stuff.</p>
-<p>I added a &quot;page last updated&quot; and &quot;website last updated&quot; thing to the footer. So it'll tell you when each page was last updated and when the site in general was updated. Isn't that exciting?</p>
-<p>Art Fight is almost over, which makes me pretty sad. Because I lost my Apple Pencil in the middle of the event, I didn't draw as many characters as I would like to. Well, I guess there's still time, but I've been severely locked in to my website and UTAU.</p>
+<p>I have been constantly working on website updates. I think it looks a lot better now, and I have a lot more on it, but still not that much.</p>
+<p>Biggest update was adding a dropdown menu to UTAU. /utau/vb.html works, but doesn't have anything on it. /posts.html is similar but I plan to fix that. Well, I'll fix that with /utau/vb.html too but I'll fix /posts.html sooner. Okay.</p>
 <p><strong>Playing</strong>: Deltarune Ch.5, Pronoun Palace<br>
-<strong>Reading</strong>: various articles</p>
-<p>20260724</p>
+<strong>Reading</strong>: various articles, people's personal blogs</p>
+<p>20260726</p>
 <h2>status.cafe widget</h2>
 <div id="statuscafe"><div id="statuscafe-username"></div><div id="statuscafe-content"></div></div>
 <!----------------
 ## Vocaloid Song I Like
+This ain't happening bruh it's over
 <iframe id="yt-iframe"
     width="640" height="360"
     src="https://www.youtube.com/embed/PLFCCsWwB4Mxk?rel=0&enablejsapi=1&playlist=PLFCCsWwB4Mxk&enablejsapi=1"
@@ -95,7 +106,7 @@ player.playVideoAt(index:Number):Void
 
 	</main>
 	<footer>
-		by Fire 2020 - ∞ | <a href="#top">Top</a> | <a href="https://github.com/FireFlows/sinigang">GitHub repo</a> 
+		by Fire 2020 - ∞ | <a href="#">Top</a> | <a href="https://github.com/FireFlows/sinigang">GitHub repo</a> 
 		<br>Page last updated: <span id="lu"></span><br>
 		Site last updated: <span id="wlu"></span>
 	</footer>
@@ -105,6 +116,20 @@ player.playVideoAt(index:Number):Void
     if (this.readyState == 4 && this.status == 200) {
       var site_data = JSON.parse(this.responseText);
 	  const websiteUpdate = new Date(site_data.updated_at).toLocaleString([],{
+		/* 
+		NOTE:
+		By default, time is displayed HH:MM:SS.
+		However, that the "website last updated" script 
+		gets data from GitHub, while "page last updated"
+		gets data from Neocities.
+		The "deploy to neocities" script (.github/workflows/deploy.yml) always runs after
+		the GitHub repo is updated, so the time always 
+		shows that the page was updated a few seconds 
+		after the GitHub repo, which makes no sense.
+		My "solution" to this is just hiding the seconds
+		from the date.
+		- Fire
+		*/
 		hour12: true,
 		weekday: "short",
 		hour:'2-digit',
@@ -163,6 +188,13 @@ document.getElementById("lu").innerHTML = pageUpdate;
 }
 getTime();
 setInterval(getTime, 1000);
+/* When the user clicks on the button, 
+toggle between hiding and showing the dropdown content */
+function dropDown() {
+  document.getElementById("myDropdown").classList.toggle("show");
+}
+
 </script>
+
 </body>
 </html>

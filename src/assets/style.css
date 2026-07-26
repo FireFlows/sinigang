@@ -1,21 +1,22 @@
 :root {
-    --accent-color:#DA2C38;
-    --aside-color:#EAECEA;
     --main-color:#21222B;
     --bg-color: #FBFAF8;
-    --color-5:#B80C09; 
+    --aside-color:#EAECEA;
+    --accent-color:#B54098;
+    --color-5:#d81159; 
+    --color-6:#dddddd;
 
     margin-left:14rem;
     margin-right:14rem;
     margin-top:2rem;
     background-color: var(--bg-color);
     color: var(--main-color);
-    font-family: Open Sans, Arial, sans-serif;
+    font-family: Noto Sans JP, Arial, sans-serif;
     font-size:1rem;
 }
 /*
 Colors
-https://coolors.co/21222b-fbfaf8-eaecea-da2c38-b80c09
+https://coolors.co/21222b-fbfaf8-eaecea-b54098-d81159
 NOTE:
 I would have put this in my /links.html page,
 but I don't like how they seem to be pushing generative AI/LLM shit.
@@ -37,10 +38,14 @@ a:hover {
 ::marker {
     color:var(--accent-color);
 }
+::selection {
+    background-color: var(--color-5);
+    color:var(--bg-color)
+}
 body {
     display: grid;
     grid-template-areas:
-        "header header header"
+        "header hFeader header"
         "aside main main"
         ".     main main"
         ". footer footer";
@@ -50,8 +55,9 @@ body {
 }
 header{
     grid-area:header;
+    background-color: var(--bg-color);
     text-align:right;
-    padding:2rem;
+    padding:2.5rem;
 }
 li {
     line-height:1.5;
@@ -70,24 +76,32 @@ aside {
     margin:1rem;
     background-color: var(--aside-color);
 }
-nav {
-    font-weight:bold;
+nav {    
+    text-align:left;
+    text-indent:2.5rem;
+font-weight:bold;
   ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
 }  
-    li a {
+li, summary{
+      list-style-type: none;
+
+}
+    .navi, li.navi, .navi-dwn {
         border:none;
         display: block;
         padding: 7.5px 7px;
-        color:var(--main-color);
-    }
-    a:hover{
-        background-color: var(--bg-color);
-        color:var(--main-color);
         text-decoration:none;
-
+    }
+    .navi:hover, .navi-dwn:hover {
+        background-color: var(--bg-color);
+        color:var(--accent-color);
+	    text-decoration:none;
+    }
+    .navi-dwn {
+        text-indent:3.5rem;
     }
 
 }
@@ -104,6 +118,8 @@ h2 {
     border-bottom: 2px solid var(--accent-color);
 }
 
+/* status.cafe */
+
 #statuscafe {
     padding: .5em;
     font-size: 16px;
@@ -118,13 +134,16 @@ h2 {
         margin: .1em;
     }
 }
+
+/*
+mobile
+*/
 @media screen {
-  a[href^="https://"]::after,
-  a[href^="http://"]::after,
-  a[href^="//"]::after{
-    content: '↗';
-    color: var(--accent-color);
-    padding-left:0.125em;
+  a[href^="https://"], a[href^="http://"], a[href^="//"] {
+    background:
+      url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 12"><path fill="%23212" d="M6 1h5v5L8.86 3.85 4.7 8 4 7.3l4.15-4.16zM2 3h2v1H2v6h6V8h1v2a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1"/></svg>')
+      no-repeat 100% 0 / 0.75em;
+    padding-right: 0.75em;
   }
 }
 @media screen and (max-width:1200px){
@@ -135,8 +154,17 @@ h2 {
 }
 
 @media screen and (max-width: 800px) {
+    .show {
+        display:block;
+    }
+
+.dropdown-content{
+      position:absolute;
+      border:2px solid var(--main-color);
+      background-color: var(--aside-color);
+}
     :root {
-        margin:0rem;
+        margin:0;
     }
   body {
     grid-template-columns:1fr;
@@ -148,14 +176,27 @@ h2 {
     gap:0;
     margin:0;
   }
+  header {
+    position:sticky;
+    top:0;
+  }
+  /* this is the only way it fucking works man
+  I'm gonna cry. Please Excuse My Dumb Ass Style  */
+  nav {
+    text-indent:0;
+    .navi-dwn {
+        text-indent:0;
+    }
+}
+ 
   main {padding:0;margin:1rem;}
   aside {
     margin:0;
-    top:0;
+    top:6.5rem;
     ul {
         display:flex;
-        flex-wrap:column;
-        font-size:16px;
+        flex-wrap:wrap;
+        font-size:1rem;
     }
   }
 
@@ -164,12 +205,10 @@ h2 {
   }
 }
 
-/*el comment css
-    --accent-color:#DA2C38;
-    --aside-color:#EAECEA;
-    --main-color:#21222B;
-    --bg-color: #FBFAF8;
-    --color-5:#B80C09; 
+/*
+Comment CSS by Ayano
+/comment-widget.js
+/links.html
 
     NOTE:
     For some reason, I was unable to
@@ -193,8 +232,8 @@ h2 {
     padding: 4px;
     text-decoration: none;
 	text-align: center;
-    border: 1px solid #dddddd;
-    background-color: #dddddd;
+    border: 1px solid var(--color-6);
+    background-color: var(--color-6);
     color: #21222B;
 }
 #c_widget button:hover, #c_widget input[type=submit]:hover {
@@ -256,7 +295,7 @@ h2 {
     margin-left: auto;
     margin-right: 0;
     padding: 10px;
-    background-color: #dadada;
+    background-color: --var(--color-6);
 }
 .c-reply:last-child {margin-bottom: 0;}
 .c-replyContainer {

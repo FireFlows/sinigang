@@ -11,7 +11,7 @@
 	"main": "eleventy.config.js",
 	"license": "ISC",
 	"devDependencies": {
-		"@11ty/eleventy": "^3.1.6"
+		"@11ty/eleventy": "^3.1.2"
 	},
 	"dependencies": {
 		"del": "^8.0.1"

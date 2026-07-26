@@ -1,7 +1,6 @@
 ## to add
 - webring ouroboros
 * draw a better profile image
-~~~* add a now page (?)~~/index.html/#now
 * post all blogs from bearblog to here
   * ideas for post.html: reverse chronological order, sort by #hashtag, ~~kudos system~~
 * create a video player that randomly chooses a song from my Vocaloid Music Playlist
@@ -11,7 +10,6 @@
   * create English CVVC
     * all voicebanks are planned to be released simultaneously 
   * create better portraits
-  * create dropdown navigation
 
 pfp shouold change depending on where in the site u ar e at 
 whenever I finish creating my UTAU i want to make a guide to create one cuz 
@@ -21,7 +19,7 @@ https://aishagpt.love/ I want to add something like This
 https://nomnomnami.com/ask/ or this
 
 ## not adding
-Dark mode.
+Dark mode. <Eh, I might. 
 
 **ring of Fire**
 About webrings
@@ -42,7 +40,10 @@ my name is Fire! It's my webring!
 How to join
 I'm not currently accepting new members.
 
-## links
+#################
+WALL OF LINKS
+#################
+
 Cool Sites
 https://ginacities.com/
 https://yatagarasu.nekoweb.org/
@@ -56,6 +57,7 @@ https://stupied.neocities.org/about/
 https://colorworld.world  
 https://moogleboogles.neocities.org
 https://bechnokid.com/
+https://zhongvie.neocities.org/
 
 Templates
 https://ribo.zone/free/layouts/
@@ -86,6 +88,8 @@ https://kevincox.ca/2022/05/06/rss-feed-best-practices/
 https://paintbbs.sakura.ne.jp/poti/
 https://maybecoding.bearblog.dev/adding-a-private-feedback-box-to-bear/
 https://virtualobserver.moe/ayano/comment-widget
+https://zonelets.net
+https://adriansblinkiecollection.neocities.org/
 
 11ty specific resources
 https://petrapixel.neocities.org/coding/eleventy-tutorial#
@@ -104,37 +108,27 @@ https://skaetlett.gay/resources/sites-that-waste-your-time
 https://suboptimalism.neocities.org/writings/undocumented
 https://sindexmon.github.io/decache/
 https://smoothsailing.asclaria.org/
-
-UTAU websites
-https://www.krnr.top/ SuteinuA's UTAU website
-* Nurse Robot Type T, Dr. Dareka, Inchou-san
-https://avogado6.wixsite.com/calogado avogado6's UTAU website
-* Calogado, Mayoi Heki, Caloon (private voicebank)
-https://kurukuru2suuzi.wixsite.com/kuzutokaze Kurukuru Suuzi's UTAU website
-* Gekiyaku, Kazehiki, others
-https://satoishiyuka.wixsite.com/satoishi Kuroiwa Shuuta's UTAU website
-* Satoshi Yuka 
-https://mechanicalgirl.jp/ missile39
-* Adachi Rei, Tsukumo Shion
-https://kasaneteto.jp/utau/ twindrill
-* Kasane Teto
-https://neocities.org/browse?tag=utau 
-* Browsing Neocities by tag UTAU 
-
-UTAU resources
-https://utaforum.net/
-https://utau.info/
-https://utau.us/
-https://github.com/openutau/OpenUtau/wiki/Tutorials and 
-https://github.com/openutau/OpenUtau/wiki
-https://www.reddit.com/r/utau/
-https://k-uta.jp/utalet/
-https://k-uta.jp/laberu/
-https://k-uta.jp/gakuya/
-https://sdercolin.github.io/utaformatix3/
-https://utau2008.xrea.jp/
-https://utaneuta.utau-synth.com/
-https://utau.felinewasteland.com
+https://slashpages.net/
 
 Attempting to solve the "Random Vocaloid Song" Issue
 https://stackoverflow.com/questions/65210689/start-youtube-embed-playlist-at-a-specific-video-index/79301505#79301505
+https://codepen.io/gbysea/pen/BYOaJp
+https://stackoverflow.com/questions/49287620/youtube-api-shuffle-playlist
+
+Accessiblity
+
+NOTE: To write an essay on accessiblity, to write about how my website is accesbsible,
+to add links 
+
+posts/accessibility.html 
+
+add back in robots.txt
+
+literally just my bookmarks
+https://wiki.07th-mod.com/Higurashi/Higurashi-Getting-started/
+https://www.pricecharting.com/trading-cards
+https://www.ncbytrain.org/tickets/Pages/default.aspx
+https://p2r3.github.io/convert/
+https://docs.google.com/spreadsheets/d/1CRk_L4CRLYWwtA9NSKKOCwOgZAAMlqzwbrbHzhzGcxc/htmlview
+https://thomaswc.com/2025.html
+https://vocadb.net/L/20420?artistParticipationStatus=Everything&childTags=false&childVoicebanks=false&page=1&pageSize=20&playlistMode=false&query=&sort=PublishDate&songType=Unspecified
