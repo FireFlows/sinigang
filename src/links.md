@@ -21,13 +21,6 @@ layout: "home.html"
     * I used a slightly modified version of this code for the footer.
 * [Styling external links, yea or nay?](https://mina86.com/2026/styling-external-links/)
 
-### Accessibility:
-* [Accessible Webmastery](https://accessible-webmastery.neocities.org/)
-* [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/)
-* [Color Contrast Checker](https://webaim.org/resources/contrastchecker/)
-* [Responsiveness resources](https://kalechips.net/responsive/resources)
-* [beepbird's articles on accessibility](https://www.beepbird.net/articles/index.html)
-
 ### Other stuff worth checking out:
 * [How to tell when a website is AI](https://resrc.neocities.org/posts/how-to-tell-when-a-website-is-ai)
 * [HTML for people](https://htmlforpeople.com)

@@ -2,7 +2,7 @@
     --main-color:#21222B;
     --bg-color: #FBFAF8;
     --aside-color:#EAECEA;
-    --accent-color:#B54098;
+    --accent-color:#9B3682;
     --color-5:#d81159; 
     --color-6:#dddddd;
 
@@ -117,7 +117,9 @@ h2 {
     padding-bottom:.5rem;
     border-bottom: 2px solid var(--accent-color);
 }
-
+.showmobile {
+    display:none;
+}
 /* status.cafe */
 
 #statuscafe {
@@ -202,6 +204,9 @@ mobile
 
   .nomobile {
     display:none;
+  }
+  .showmobile {
+    display: contents;
   }
 }
 
