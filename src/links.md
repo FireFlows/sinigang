@@ -1,6 +1,6 @@
 ---
 title: "Links"
-layout: "home.html"
+layout: "main.html"
 ---
 
 ### Inspired by:

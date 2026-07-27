@@ -1,6 +1,6 @@
 ---
 title: "UTAU Terms of Use"
-layout: "../_includes/home.html"
+layout: "../_includes/main.html"
 ---
 <h2>OK:</h2>
 <h3>Character/Illustration</h3>

@@ -1,6 +1,6 @@
 ---
 title: "About"
-layout: "home.html"
+layout: "main.html"
 ---
 ## About the Webmaster
 Hi! My name is Fire. I'm 19. My birthday's April 30th! I'm (half-)Filipino-American. 
@@ -12,7 +12,7 @@ My native language is English. I can speak some Japanese, and bits and pieces of
 Also check out my [answers to 100 webmaster questions](100q.html). And my answers to [100 more webmaster questions](assets/100q2.txt) (this is a .txt file for now because I'm too lazy to format it for real. Sorry.)
 
 ## About the Website
-I made this website as a space away from social media. As a bonus, it will be the (eventual) hosting site of my UTAU. BTW: the picture on the left (not visible on mobile) is a drawing I did of my UTAU. 
+I made this website as a space away from social media. As a bonus, it will be the (eventual) hosting site of my UTAU. <span class="nomobile">BTW: the picture on the left is a drawing I did of my UTAU.</span> 
 
 I don't use generative AI (including code!) and everything on my site was either created by me or [sourced from humans](links.html).
 

@@ -1,6 +1,6 @@
 ---
 title: "Voicebank"
-layout: "../_includes/home.html"
+layout: "../_includes/main.html"
 ---
 INTENTIONALLY blank, for now. 
 

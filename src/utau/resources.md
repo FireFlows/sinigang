@@ -1,6 +1,6 @@
 ---
 title: "Resources"
-layout: "../_includes/home.html"
+layout: "../_includes/main.html"
 ---
 I love collecting links, so I've synthesized (haha) a list of various UTAU resources. Everything listed below is 100% free, and a lot of these are open source.
 
