@@ -1,8 +1,14 @@
+###################################
+WELCOME TO MY NOTES.txt
+This is a very extensive collection of links to websites that interest me. I love collecting links.
+Please also see src/links.html and src/utau/resources.html and /src/posts/accessibility.html for more links
+Additionally it is the house of a to do list for this website
+I don't use my actual notes app on my phone or anything so this is the next best thing
+Thanks for viewing
+####################################
+
+
 ## to add
-- webring ouroboros
-* draw a better profile image
-* post all blogs from bearblog to here
-  * ideas for post.html: reverse chronological order, sort by #hashtag, ~~kudos system~~
 * create a video player that randomly chooses a song from my Vocaloid Music Playlist
 * host my UTAU
   * create Japanese VCV
@@ -10,8 +16,11 @@
   * create English CVVC
     * all voicebanks are planned to be released simultaneously 
   * create better portraits
+* create my own webring
+* en/jp switcher? (for at least some content, e.g. terms of use, voicebank)
+*custom 404 page
+*perhaps i should make /colophon 
 
-pfp shouold change depending on where in the site u ar e at 
 whenever I finish creating my UTAU i want to make a guide to create one cuz 
 the tutorials we have rn are so fucking ancient bruh like don't piss me off
 
@@ -43,8 +52,21 @@ I'm not currently accepting new members.
 #################
 WALL OF LINKS
 #################
+Note: to be organized alphabetically
+I love my links.
+I think I will eventually have to greatly expand my links page, because I really like all of these websites and I want to include themall in miy page Fuck i love websites
 
-Cool Sites
+#sites
+#games
+#ai 
+* I do not support artificial intelligence obviously but I still like to talk about it for some reason
+#templates
+#tutorials
+#resources
+#11ty
+#bookmarks
+
+Sites I'm stalking
 https://ginacities.com/
 https://yatagarasu.nekoweb.org/
 https://32bit.cafe/
@@ -54,10 +76,27 @@ https://azure-valley.neocities.org/
 https://hndrline.gg8473.com/fanlisting/
 https://digishellvtuber.neocities.org/
 https://stupied.neocities.org/about/
-https://colorworld.world  
 https://moogleboogles.neocities.org
 https://bechnokid.com/
 https://zhongvie.neocities.org/
+https://komaeda.neocities.org/
+https://tofutush.neocities.org/about/
+https://apod.nasa.gov/apod/astropix.html
+https://edlinfan.neocities.org/slackernews/
+
+Fun and Games
+https://sdaw.neocities.org/
+https://klatts.ch/play/
+https://lomando.com 
+https://dumby.neocities.org/
+https://colorworld.world  
+https://incredibox.com/demo
+https://nationstates.net
+https://ncase.me
+https://explorabl.es/
+https://dood.al/pinktrombone/
+https://itch.io/games/free/platform-web
+https://adarkroom.doublespeakgames.com/
 
 Templates
 https://ribo.zone/free/layouts/
@@ -66,6 +105,7 @@ https://petrapixel.neocities.org/coding/layout-base-code
 https://rice.place/template.html 
 https://eggramen.neocities.org/code/css_testpages
 https://nomnomnami.com/templates/
+https://ranmpy.neocities.org/themes/
 
 Resources and Tutorials
 https://www.w3schools.com/html/  
@@ -90,6 +130,7 @@ https://maybecoding.bearblog.dev/adding-a-private-feedback-box-to-bear/
 https://virtualobserver.moe/ayano/comment-widget
 https://zonelets.net
 https://adriansblinkiecollection.neocities.org/
+https://99gifshop.neocities.org/
 
 11ty specific resources
 https://petrapixel.neocities.org/coding/eleventy-tutorial#
@@ -105,24 +146,71 @@ https://mouseling.net/100webmaster
 ** https://burypink.neocities.org/gifts
 https://perfectmotherfuckingwebsite.com/ 
 https://skaetlett.gay/resources/sites-that-waste-your-time
+  ** ニュー URL: https://skaetlett.gay/resources/link-bouquet
 https://suboptimalism.neocities.org/writings/undocumented
 https://sindexmon.github.io/decache/
 https://smoothsailing.asclaria.org/
 https://slashpages.net/
+https://ranmpy.neocities.org/misc/urls
 
 Attempting to solve the "Random Vocaloid Song" Issue
 https://stackoverflow.com/questions/65210689/start-youtube-embed-playlist-at-a-specific-video-index/79301505#79301505
 https://codepen.io/gbysea/pen/BYOaJp
 https://stackoverflow.com/questions/49287620/youtube-api-shuffle-playlist
+https://clownfred.zone/CZtelevision
 
-Accessiblity
+"""""""
+MIGHT HAVE TO TEST THIS ON src/utau.html
+"""""""
+<!----------------
+## Vocaloid Song I Like
+This ain't happening bruh it's over
+<iframe id="yt-iframe"
+    width="640" height="360"
+    src="https://www.youtube.com/embed/PLFCCsWwB4Mxk?rel=0&enablejsapi=1&playlist=PLFCCsWwB4Mxk&enablejsapi=1"
+    frameborder="0"
+></iframe>
 
-NOTE: To write an essay on accessiblity, to write about how my website is accesbsible,
-to add links 
+Randomly chooses a song from my [Vocaloid Music Playlist](https://www.youtube.com/playlist?list=PLFCCsWwB4Mxk). Not just Vocaloid, also includes SynthV, UTAU, etc. Not just original songs, there are also covers, remixes, and mashups. Exciting. There might be one or two human-sung songs in here because I thought the cover was the Vocaloid version.
 
-posts/accessibility.html 
+ <script>
+  var tag = document.createElement('script');
+  tag.id = 'iframe-demo';
+  tag.src = 'https://www.youtube.com/iframe_api';
+  var firstScriptTag = document.getElementsByTagName('script')[0];
+  firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
 
-add back in robots.txt
+  var player;
+  function onYouTubeIframeAPIReady() {
+    player = new YT.Player('yt-iframe', {
+    events: {
+      'onReady': onPlayerReady,
+      'onStateChange': onPlayerStateChange
+    }
+    });
+  }
+
+  function onPlayerReady(event) {
+    player.playVideoAt(2); // start at 2nd video
+  }
+  function onPlayerStateChange(event) {
+  }
+    </script>
+<!-----------
+AIzaSyAXl4sJEqKYFdaItR4MxCtl6xp27pJWtws
+https://www.youtube.com/playlist?list=PLFCCsWwB4Mxk
+
+use api to grab number of videos
+https://developers.google.com/youtube/iframe_api_reference
+
+GET https://youtube.googleapis.com/youtube/v3/playlistItems?part=contentDetails&playlistId=PLFCCsWwB4Mxk&key=AIzaSyAXl4sJEqKYFdaItR4MxCtl6xp27pJWtws HTTP/1.1
+
+const songNumber = await fetch("https://youtube.googleapis.com/youtube/v3/playlistItems?part=contentDetails&playlistId=PLFCCsWwB4Mxk&key=AIzaSyAXl4sJEqKYFdaItR4MxCtl6xp27pJWtws", {
+    method: "GET",
+    });
+player.playVideoAt(index:Number):Void
+-->
+
 
 literally just my bookmarks
 https://wiki.07th-mod.com/Higurashi/Higurashi-Getting-started/
@@ -132,3 +220,116 @@ https://p2r3.github.io/convert/
 https://docs.google.com/spreadsheets/d/1CRk_L4CRLYWwtA9NSKKOCwOgZAAMlqzwbrbHzhzGcxc/htmlview
 https://thomaswc.com/2025.html
 https://vocadb.net/L/20420?artistParticipationStatus=Everything&childTags=false&childVoicebanks=false&page=1&pageSize=20&playlistMode=false&query=&sort=PublishDate&songType=Unspecified
+
+A good idea is to have the website update every certian weekday so I don't psychotically update it; perhaps I can have it closed on certain days like Monday (probably not monday melonland already did monday)
+updates every friday like danganronpa tetro
+dude maybe i can write about how shit danganronpa tetro is MLFAO but idk i dont like negativity
+
+My favorite free opensource applications and websites
+* neocities.org
+* openutau.com
+* archiveofourown.org
+* vocadb.net
+* wikipedia.org
+* krita
+* godot
+* blender 
+
+###Tumblr intro I will try to fix #################
+
+
+**Introduction**
+
+My name is Fire. I'm 19 years old. I live in the USA. My pronouns are they/them btw. #pridemonth.
+
+**I am participating in Art Fight this month. It's (basically) my first month, so I'd like to make it a really good one => **[\~0430](<https://artfight.net/~0430>)
+
+**Interests**
+
+- vocalsynths
+- video games
+- linguistics
+- web coding
+- drawing
+- reading
+- learning about anything that is unknown to me 
+
+<!-- -->
+
+**BYF**
+
+- I don't have the Tumblr app, so I don't get any (push) notifications besides email. I have all my email notifs turned on (follow, reply, etc.)
+- Feel free to DM (regardless of mutual-ity) or [send asks](<https://www.tumblr.com/new/ask/fire7541>), but I'm shy!
+- I don't TW or CW anything, and I don't tag spoilers either, but if we're mutuals please let me know if you need something tagged.
+- I'm [autistic](<https://www.tumblr.com/fire7541/812893838276427776/30-days-of-autism-acceptance>), so I have a really hard time with people. So be nice to me, OK!?
+- I run posts thru my queue sometimes.
+- Spam liking is fine.
+- Spam reblogging is fine.
+
+<!-- -->
+
+**DNI**
+
+- I'll just block you if I don't like you.
+- Please **don't follow me if you're under 18**; I'd just rather have friends who are closer to my age. 
+- It's fine to interact with my posts, though. I don't really care.
+- If you follow me and you're under 18 I'll block you. Obviously.
+
+<!-- -->
+
+**Art**
+
+- personal use OK;
+- reposting OK (if not on Tumblr/Twitter)
+
+<!-- -->
+
+just please credit me.
+
+I draw using an iPad A16 (2025), first gen Apple Pencil & Procreate (all those are perfectly fine for my level of use by the way. Okay?). I use a [Wacom Bamboo CTH-670 ](<https://www.amazon.com/Wacom-Bamboo-Create-Tablet-CTH670/dp/B005HGBF9W>)(&[OpenTabletDriver](<https://opentabletdriver.net/>)) for my MSPaint drawings. [My drawing setup looks like this.](<https://www.tumblr.com/fire7541/821325140786905088/my-drawing-setup-2026?source=share>)
+
+I mostly use default Procreate brushes (Sanderling, Swansea, Wide Awake) or this [mspaint brush pack I found](<https://folio.procreate.com/discussions/10/1/47564>). Or the genuine Microsoft Paint pencil.
+
+**Hey I have a question. Why do you never color in the skin in your drawings why are all of them like #FFFFFF white**
+
+Aura
+
+**I don't like your UTAU posts getting in the way of your Hundred Line posts/vice versa please make another blog**
+
+No. Mute the hashtag if you don't like it like an adult. I'm not making another blog so you have to deal with all my bullshit here. I'm sorry I'm a real person with many different interests and not a braindead fandomite
+
+**Why is your profile minors DNI if you don't post porn**
+
+I already explained my reasoning. Also, I'm not a pedophile..? Also it's DNF not DNI. You clearly didn't read my profile..SMH
+
+**Tags**
+
+- [\#my art](<https://www.tumblr.com/fire7541/tagged/my%20art>) is for my art.
+- [\#talk](<https://www.tumblr.com/fire7541/tagged/talk>) is for textposts.
+- I have (re)posts relating to Hundred Line in [\#hundred line](<https://www.tumblr.com/fire7541/tagged/hundred%20line>) and (re)posts relating to vocalsynths in [\#vocaloid](<https://www.tumblr.com/fire7541/tagged/vocaloid>) (and [\#utau](<https://www.tumblr.com/fire7541/tagged/utau>))
+- [\#rb](<https://www.tumblr.com/fire7541/tagged/rb>) is for reblogs.
+- I like the song "ongentoro" so I have a hashtag [\#ongentoro](<https://www.tumblr.com/fire7541/tagged/ongentoro>). **[My ongentoro post is required reading to follow me. Sorry.](<https://www.tumblr.com/fire7541/816918342990544896/ongentoro?source=share%27>)**
+- I have various character-related hashtags. \*Defoko is only tagged under #utane uta 
+- I am developing an UTAU and I share progress I've made under [\#utaulog](<https://www.tumblr.com/fire7541/tagged/utaulog>)
+
+<!-- -->
+
+**Profile picture**
+
+It's from the song "[How I overslept today](<https://www.youtube.com/watch?v=GwoSyoVYxbc>)" by Eirina Hamono
+
+**Other socials**
+
+I have a personal Twitter and personal Instagram. I go on Reddit sometimes but mostly for browsing. **I have a **[**website**](<https://sinigang.neocities.org/>)**. **This is my only blog
+
+####
+personal
+####
+I deleted my blogtrottr account so I will have to syndicate all my blogs into a new blog blog blog blog blgob lgobg blogbgblkvoklkijefkdcsnfjkdcxmz,
+
+Im trying to reduce my accounts as much as possible
+So thats why I only have twitter instagram dsicord reddit tumblr
+NOt like spacehey or any of that gay shit
+ANd i dont track my music or anything cuz thats for gay pedophiles
+Like last.fm and shitI dont have it
+spotify i deleted it a month ago or so and ive just been listenign to my personal downloaded songs and its greatlyi will perhaps make a writep abt itl 
