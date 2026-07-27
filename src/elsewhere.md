@@ -11,5 +11,3 @@ If looking to contact me, I recommend Tumblr or email. I don't check my Twitter 
 * [Art Fight](https://artfight.net/~0430)
 * [Ko-fi](https://ko-fi.com/fire7541)
 * [realfire7541@gmail.com](mailto:realfire7541@gmail.com) 
-
-e
