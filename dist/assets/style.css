@@ -168,12 +168,17 @@ h2 {
 mobile
 */
 @media screen and (max-width:1200px){
-    :root {
+    body {
         margin-left:5rem;
         margin-right:5rem;
     }
 }
-
+@media screen and (max-width:900px){
+    body{
+        margin-left:2.5rem;
+        margin-right:2.5rem;
+    }
+}
 @media screen and (max-width: 800px) {
     .show {
         display:block;
@@ -184,7 +189,7 @@ mobile
       border:2px solid var(--main-color);
       background-color: var(--aside-color);
 }
-    :root {
+    body {
         margin:0;
     }
   body {
