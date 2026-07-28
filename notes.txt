@@ -22,6 +22,7 @@ Thanks for viewing
 *perhaps i should make /colophon 
 *rss feed
 *write accessiblity page
+*favicon
 
 whenever I finish creating my UTAU i want to make a guide to create one cuz 
 the tutorials we have rn are so fucking ancient bruh like don't piss me off
@@ -54,12 +55,13 @@ I'm not currently accepting new members.
 #################
 WALL OF LINKS
 Hand-curated list of links related to different topics.
-NOTE: Do not share links to pirated content. Thanks. 
-- Fire 
 #################
+
 note: add ## utility
 https://sindexmon.github.io/decache/
 https://nitter.net 
+https://entropymine.com/imageworsener/
+https://jpeg.wavebeem.com/
 
 add ### art
 - wiggly paintb
@@ -78,7 +80,7 @@ https://zhongvie.neocities.org/
 https://bechnokid.com/
 https://osteophage.neocities.org/
 
-These websites aren't accessible but I'm still stalking them anyway.
+Etc
 https://eitaku.neocities.org/
 https://azure-valley.neocities.org/ 
 https://hndrline.gg8473.com/fanlisting/
@@ -88,10 +90,6 @@ https://komaeda.neocities.org/
 https://tofutush.neocities.org/about/
 
 https://colorworld.world  
-
-https://itch.io/games/free/platform-web
-  Sorting itch.io by free web browser games.
-
 https://www.kingdomofloathing.com/
 
 
@@ -100,34 +98,32 @@ https://www.kingdomofloathing.com/
 * wiktionary.org universal dictionary
 * Urban dictoinary good for slang terms
 
-Resources and Tutorials
+Tutorials
 https://stackoverflow.com/questions/10671174/changing-button-text-onclick
-
 https://en.wikipedia.org/wiki/Favicon#How_to_use
-https://vv0ltz.neocities.org/resources
-https://codepen.io/ 
-https://pixelsafari.neocities.org/webring/
-https://jpeg.wavebeem.com/
-https://web.archive.org/web/20250806115336/https://drawbox.nekoweb.org/
 https://www.reddit.com/r/rss/comments/xl7f7r/how_do_i_create_a_rss_feed_from_my_own_website/
 https://www.w3schools.com/howto/howto_css_contact_form.asp
 https://www.cloudwards.net/how-to-set-up-an-rss-feed/
 https://www.reddit.com/r/neocities/comments/p2ohhf/martindisks_messy_guide_to_having_custom_fonts_on/
-https://rice.place/bookmark.html
 https://dimden.dev/moonwidget/
-https://discourse.32bit.cafe/t/resources-list-for-the-personal-web/49
 https://www.w3schools.com/howto/howto_js_image_grid.asp
 https://kevincox.ca/2022/05/06/rss-feed-best-practices/
-https://paintbbs.sakura.ne.jp/poti/
 https://maybecoding.bearblog.dev/adding-a-private-feedback-box-to-bear/
 https://virtualobserver.moe/ayano/comment-widget
 https://zonelets.net
-https://adriansblinkiecollection.neocities.org/
-https://99gifshop.neocities.org/
-https://humantooth.neocities.org/linkout
-https://entropymine.com/imageworsener/
 https://pepelsbey.dev/articles/native-light-dark/
 
+Resources
+https://codepen.io/ 
+https://rice.place/bookmark.html
+https://humantooth.neocities.org/linkout
+https://99gifshop.neocities.org/
+https://adriansblinkiecollection.neocities.org/
+https://discourse.32bit.cafe/t/resources-list-for-the-personal-web/49
+https://pixelsafari.neocities.org/webring/
+https://vv0ltz.neocities.org/resources
+https://paintbbs.sakura.ne.jp/poti/
+https://web.archive.org/web/20250806115336/https://drawbox.nekoweb.org/
 
 11ty specific resources
 https://petrapixel.neocities.org/coding/eleventy-tutorial#
@@ -209,29 +205,12 @@ const songNumber = await fetch("https://youtube.googleapis.com/youtube/v3/playli
     });
 player.playVideoAt(index:Number):Void
 -->
-
-
-literally just my bookmarks
-https://wiki.07th-mod.com/Higurashi/Higurashi-Getting-started/
-https://www.pricecharting.com/trading-cards
-  Trading card prices
-https://www.ncbytrain.org/tickets/Pages/default.aspx
-  North Carolina train website
-https://p2r3.github.io/convert/
-  Convert a file to any other file in your browser.
-https://docs.google.com/spreadsheets/d/1CRk_L4CRLYWwtA9NSKKOCwOgZAAMlqzwbrbHzhzGcxc/htmlview
-https://thomaswc.com/2025.html
-https://vocadb.net/L/20420?artistParticipationStatus=Everything&childTags=false&childVoicebanks=false&page=1&pageSize=20&playlistMode=false&query=&sort=PublishDate&songType=Unspecified
-
-A good idea is to have the website update every certian weekday so I don't psychotically update it; perhaps I can have it closed on certain days like Monday (probably not monday melonland already did monday)
-updates every friday like danganronpa tetro
-dude maybe i can write about how shit danganronpa tetro is MLFAO but idk i dont like negativity
-
 My favorite free opensource applications and websites
 * neocities.org
 * openutau.com
 * archiveofourown.org
 * vocadb.net
+* vndb.org
 * wikipedia.org
 * krita
 * godot
@@ -248,17 +227,3 @@ NOt like spacehey or any of that gay shit
 ANd i dont track my music or anything cuz thats for gay pedophiles
 Like last.fm and shitI dont have it
 spotify i deleted it a month ago or so and ive just been listenign to my personal downloaded songs and its greatlyi will perhaps make a writep abt itl 
-
-
-<!---
-
-https://docs.google.com/spreadsheets/d/1CRk_L4CRLYWwtA9NSKKOCwOgZAAMlqzwbrbHzhzGcxc/htmlview
-https://vocadb.net/L/20420?artistParticipationStatus=Everything&childTags=false&childVoicebanks=false&page=1&pageSize=20&playlistMode=false&query=&sort=PublishDate&songType=Unspecified
-
-https://www.kingdomofloathing.com/
-https://direkris.itch.io/you-are-jeff-bezos
-
-https://agar.io/#ffa
-https://internet-janitor.itch.io/wigglypaint
-
---->

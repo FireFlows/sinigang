@@ -21,6 +21,9 @@ My website is "licensed" under [CC0](https://creativecommons.org/publicdomain/ze
 ### Accessibility
 *See: [/posts/accessibility.html](/posts/accessibility.html)*
 
+### Changelog
+*See: [/assets/txt/changelog.txt](/assets/txt/changelog.txt)*
+
 ### Sinigang?
 It's a popular Filipino soup. It's pretty sour. A lot of people tend to name themselves after food, so I wanted to try that too.
 

@@ -1,0 +1,11 @@
+### 
+CHANGELOG
+###
+
+2026/07/28 
+- changelog created!
+- typos corrected
+- minor stylistic changes
+- some comments added in code
+- changed "random" > "uncategorized" so it matches the tag 
+- links added and refined in /links.html

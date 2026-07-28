@@ -4,7 +4,7 @@ layout: "main.html"
 ---
 My posts! Listed in reverse chronological order. 
 
-<h2 id ="random"> Uncategorized</h3>
+<h2 id ="random">Random</h3>
 I couldn't fit any of these into any category.
 <ul>
 {%- for random in collections.random | reverse -%}
