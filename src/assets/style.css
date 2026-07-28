@@ -4,7 +4,7 @@
     --aside-color: #DCDDE5;
     --accent-color:#C559AA;
     --color-5:#EE2F75; 
-    --color-6:#dddddd;
+    --color-6:#B9BBCB;
 }
 body{
     margin-left:14rem;
@@ -19,7 +19,7 @@ body[data-theme="dark"]{
     --main-color:#f9f9f9;
     --bg-color: #21222B;
     --aside-color:#3E4051;
-    --color-6: rgb(107, 106, 106);
+    --color-6: #2C2E3A;
 }
 /*Dark mode
     --main-color:#f9f9f9;
@@ -232,25 +232,6 @@ mobile
 Comment CSS by Ayano
 /comment-widget.js
 /links.html
-
-    NOTE:
-    For some reason, I was unable to
-    get the variable colors to
-    work on the comment widget.
-    I attempted to fix this by merging
-    the comment widget .css with style.css,
-    but it didn't work. 
-    Whatever. I'll just keep it here.
-    - Fire
-
-*/
-/*Dark mode
-    --main-color:#f9f9f9;
-    --bg-color: #21222B;
-    --aside-color:#3E4051;
-    --accent-color:#C559AA;
-    --color-5:#d81159; 
-    --color-6:#dddddd;
 */
 
 #c_widget {
@@ -263,14 +244,14 @@ Comment CSS by Ayano
     padding: 4px;
     text-decoration: none;
 	text-align: center;
-    border: 1px solid var(--color-6);
-    background-color: #fff;
-    color: light-dark(#f9f9f9,#21222B);
+    border: 1px solid var(--accent-color);
+    background-color:  var(--color-6);
+    color: var(--main-color);
 }
 #c_widget button:hover, #c_widget input[type=submit]:hover {
-    color: light-dark(#21222B,#f9f9f9);
-    border: 1px solid light-dark(#FBFAF8,#21222B);
-    background-color: light-dark(#FBFAF8,#21222B);}
+    color: var(--main-color);
+    border: 1px solid var(--accent-color);
+    background-color: var(--accent-color);}
 #c_widget button:disabled, #c_widget input[type=submit]:disabled {opacity: 60%;}
 #c_widget button:disabled:hover, #c_widget input[type=submit]:disabled:hover {
     border: 1px solid #21222B;
@@ -291,7 +272,7 @@ Comment CSS by Ayano
     padding: 5px;
     margin:5px;
     color: #000;
-    border: 1px solid #2D0B52;
+    border: 1px solid #000;
     background-color: #FFF;
 	outline: none;
 }
@@ -328,14 +309,14 @@ Comment CSS by Ayano
     margin-left: auto;
     margin-right: 0;
     padding: 10px;
-    background-color: red;
+    background-color: var(--color-6);
 }
 .c-reply:last-child {margin-bottom: 0;}
 .c-replyContainer {
     margin: -10px;
     margin-top: 10px;
     padding: 10px;
-    background-color: red;
+    background-color: var(--aside-color);
 }
 
 .c-name {

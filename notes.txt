@@ -57,12 +57,14 @@ Hand-curated list of links related to different topics.
 NOTE: Do not share links to pirated content. Thanks. 
 - Fire 
 #################
-Note: to be organized alphabetically and sorted into categories
-by #resources #fun and games #articles #templates #tutorials #11ty etc. and given descriptions via <dl> and <dt> and <dd>
-I love my links.
-I think I will eventually have to greatly expand my links page, because I really like all of these websites and I want to include themall in miy page Fuck i love websites
-will probably have to use <dt> <dd> for these
-https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/dt
+note: add ## utility
+https://sindexmon.github.io/decache/
+https://nitter.net 
+
+add ### art
+- wiggly paintb
+magma 
+whiteborad fox
 
 Sites I'm stalking
 
@@ -84,35 +86,15 @@ https://digishellvtuber.neocities.org/
 https://moogleboogles.neocities.org
 https://komaeda.neocities.org/
 https://tofutush.neocities.org/about/
-https://edlinfan.neocities.org/slackernews/
-https://nitter.net 
-  Bypass making an account on Twitter (and other features)
 
 https://colorworld.world  
-
-https://ncase.me
-  Educational and fun interactive articles
-https://explorabl.es/
-  If you like ncase.me, you'll love this!
 
 https://itch.io/games/free/platform-web
   Sorting itch.io by free web browser games.
 
 https://www.kingdomofloathing.com/
-/
-https://direkris.itch.io/you-are-jeff-bezos
-https://armorgames.com/games/plays#games
-https://www.coolmathgames.com/
-https://www.newgrounds.com/
-https://agar.io/#ffa
-https://theuselessweb.com/
-https://poncle.itch.io/vampire-survivors
-https://internet-janitor.itch.io/wigglypaint
-https://purplemosscollectors.itch.io/dndg
-https://moshionline.net/
 
-https://littlealchemy.com/
-https://littlealchemy2.com/
+
 ### Dictionaries
 * jisho.org Japanese/English dictionary. Best out there
 * wiktionary.org universal dictionary
@@ -158,13 +140,10 @@ https://flamedfury.com/guides/11ty-homepage-neocities-2026/
 
 misc
 
-## Utility 
-
 https://perfectmotherfuckingwebsite.com/ 
 https://skaetlett.gay/resources/sites-that-waste-your-time
   ** ニュー URL: https://skaetlett.gay/resources/link-bouquet
 https://suboptimalism.neocities.org/writings/undocumented
-https://sindexmon.github.io/decache/
 https://smoothsailing.asclaria.org/
 https://ranmpy.neocities.org/misc/urls
 https://flashpointarchive.org/
@@ -269,3 +248,17 @@ NOt like spacehey or any of that gay shit
 ANd i dont track my music or anything cuz thats for gay pedophiles
 Like last.fm and shitI dont have it
 spotify i deleted it a month ago or so and ive just been listenign to my personal downloaded songs and its greatlyi will perhaps make a writep abt itl 
+
+
+<!---
+
+https://docs.google.com/spreadsheets/d/1CRk_L4CRLYWwtA9NSKKOCwOgZAAMlqzwbrbHzhzGcxc/htmlview
+https://vocadb.net/L/20420?artistParticipationStatus=Everything&childTags=false&childVoicebanks=false&page=1&pageSize=20&playlistMode=false&query=&sort=PublishDate&songType=Unspecified
+
+https://www.kingdomofloathing.com/
+https://direkris.itch.io/you-are-jeff-bezos
+
+https://agar.io/#ffa
+https://internet-janitor.itch.io/wigglypaint
+
+--->
