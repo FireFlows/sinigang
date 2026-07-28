@@ -4,7 +4,7 @@ layout: "main.html"
 ---
 My posts! Listed in reverse chronological order. 
 
-<h3 id ="random"> Uncategorized</h3>
+<h2 id ="random"> Uncategorized</h3>
 I couldn't fit any of these into any category.
 <ul>
 {%- for random in collections.random | reverse -%}
@@ -12,7 +12,7 @@ I couldn't fit any of these into any category.
 {%- endfor -%}
 </ul>
 
-<h3 id ="weekly"> Week in Review</h3>
+<h2 id ="weekly"> Week in Review</h3>
 Every week on Sunday, I write a Week in Review: basically just recapping what I did that week and plans for next week.
 <ul>
 {%- for weekly in collections.weekly | reverse -%}

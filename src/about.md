@@ -26,3 +26,6 @@ It's a popular Filipino soup. It's pretty sour. A lot of people tend to name the
 
 ### What's that font you're using?
 Noto Sans JP
+
+### How did you get the comments section/status.cafe working?
+I have a Neocities supporter account, and I've had my account for over half a decade (read: before the restrictions) anyway.

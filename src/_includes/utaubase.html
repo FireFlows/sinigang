@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" style="light-dark:light;">
 <head>
-	<title>Welcome</title>
+	<title>{{ title }}</title>
 	<link rel="stylesheet" href="/assets/utaustyle.css">
 	<meta charset="UTF-8"> 
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -19,12 +19,7 @@
     <a href="/">back to main</a>
 </nav>
 <main>
-    
-	<p>Hi.</p>
-<p>Sorry about the lack of CSS. I'll get to it.</p>
-<p>I didn't like the dropdown menu that much so I gave utau its own home page</p>
-
-
+    {% block content %}{% endblock %}
 </main>
 	<footer>
 		by Fire 2020 - ∞ | <a href="#">Top</a> | <a href="https://github.com/FireFlows/sinigang">GitHub repo</a> 

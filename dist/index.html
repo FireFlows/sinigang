@@ -2,39 +2,42 @@
 <html lang="en">
 <head>
 	<title>Home</title>
-	<link rel="stylesheet" href="../../assets/style.css">
 	<meta charset="UTF-8"> 
+	<meta name="color-scheme" content="light dark">
+	<link rel="stylesheet" href="/assets/style.css">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<style>
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
 </style>
+<script>
+	  (function () {
+    try {
+      var theme = localStorage.getItem('theme');
+
+      if (theme === '' || theme === 'dark') {
+        document.documentElement.setAttribute('data-theme', theme);
+      }
+    } catch (_) {}
+  })();
+</script>
 </head>
 	<body>
 		<header>
 <span style="font-weight:700; font-size:1.75rem;">sinigang.neocities.org</span>
 		</header>
 	<aside>
-		<a href="../utau.html" style="border:none"><img src="../../assets/img/avatar.png" height="250" class="nomobile" alt="A drawing of my UTAU."></a>
+		<a href="/utaumedia.html" style="border:none"><img src="/assets/img/avatar.png" height="250" class="nomobile" alt="A drawing of my UTAU."></a>
 		<span class="nomobile"><br>My current time: <br><span id="local-time-main"></span>
 		<br><span id="local-time-extra"></span></span>
 			<nav>
 			<ul>
-				<li><a href="../../index.html" class="navi"><span aria-hidden="true">★ </span>Home</a></li>
-				<li><a href="../../about.html" class="navi"><span aria-hidden="true">★ </span>About</a></li>
-					<details class="dropdown"> 
-						<summary class="dropbtn" onclick="dropDown()">
-							<li class="navi"><span aria-hidden="true">★ </span>UTAU </li>
-						</summary>
-						<div class="dropdown-content">
-						<li><a href="../../utau/vb.html" class="navi-dwn"><span aria-hidden="true">♬ </span>Voicebank</a></li>
-						<li><a href="../../utau/tou.html" class="navi-dwn"><span aria-hidden="true">♬ </span>Terms of Use</a></li>
-						<li><a href="../../utau/resources.html" class="navi-dwn"><span aria-hidden="true">♬ </span>Resources</a></li>
-						</div>
-					</details>
-				<li><a href="../../posts.html" class="navi"><span aria-hidden="true">★ </span>Posts</a></li>
-				<li><a href="../../elsewhere.html" class="navi"><span aria-hidden="true">★ </span>Elsewhere</a></li>
-				<li><a href="../../links.html" class="navi"><span aria-hidden="true">★ </span>Links</a></li>
+				<li><a href="/" class="navi"><span aria-hidden="true">★ </span>Home</a></li>
+				<li><a href="/about.html" class="navi"><span aria-hidden="true">★ </span>About</a></li>
+				<li><a href="/utau.html" class="navi"><span aria-hidden="true">★ </span>UTAU</a></li>
+				<li><a href="/posts.html" class="navi"><span aria-hidden="true">★ </span>Posts</a></li>
+				<li><a href="/elsewhere.html" class="navi"><span aria-hidden="true">★ </span>Elsewhere</a></li>
+				<li><a href="/links.html" class="navi"><span aria-hidden="true">★ </span>Links</a></li>
 			</ul>
 		</nav>
 	</aside>
@@ -57,109 +60,39 @@
 <p>20260726</p>
 <h2>status.cafe widget</h2>
 <div id="statuscafe"><div id="statuscafe-username"></div><div id="statuscafe-content"></div></div>
-<!----------------
-## Vocaloid Song I Like
-This ain't happening bruh it's over
-<iframe id="yt-iframe"
-    width="640" height="360"
-    src="https://www.youtube.com/embed/PLFCCsWwB4Mxk?rel=0&enablejsapi=1&playlist=PLFCCsWwB4Mxk&enablejsapi=1"
-    frameborder="0"
-></iframe>
-<p>Randomly chooses a song from my <a href="https://www.youtube.com/playlist?list=PLFCCsWwB4Mxk">Vocaloid Music Playlist</a>. Not just Vocaloid, also includes SynthV, UTAU, etc. Not just original songs, there are also covers, remixes, and mashups. Exciting. There might be one or two human-sung songs in here because I thought the cover was the Vocaloid version.</p>
- <script>
-  var tag = document.createElement('script');
-  tag.id = 'iframe-demo';
-  tag.src = 'https://www.youtube.com/iframe_api';
-  var firstScriptTag = document.getElementsByTagName('script')[0];
-  firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
-
-  var player;
-  function onYouTubeIframeAPIReady() {
-    player = new YT.Player('yt-iframe', {
-    events: {
-      'onReady': onPlayerReady,
-      'onStateChange': onPlayerStateChange
-    }
-    });
-  }
-
-  function onPlayerReady(event) {
-    player.playVideoAt(2); // start at 2nd video
-  }
-  function onPlayerStateChange(event) {
-  }
-    </script>
-<!-----------
-AIzaSyAXl4sJEqKYFdaItR4MxCtl6xp27pJWtws
-https://www.youtube.com/playlist?list=PLFCCsWwB4Mxk
-
-use api to grab number of videos
-https://developers.google.com/youtube/iframe_api_reference
-
-GET https://youtube.googleapis.com/youtube/v3/playlistItems?part=contentDetails&playlistId=PLFCCsWwB4Mxk&key=AIzaSyAXl4sJEqKYFdaItR4MxCtl6xp27pJWtws HTTP/1.1
-
-const songNumber = await fetch("https://youtube.googleapis.com/youtube/v3/playlistItems?part=contentDetails&playlistId=PLFCCsWwB4Mxk&key=AIzaSyAXl4sJEqKYFdaItR4MxCtl6xp27pJWtws", {
-    method: "GET",
-    });
-player.playVideoAt(index:Number):Void
--->
 <h2>Comments</h2>
 <p>Questions? Thoughts? Anything you want to tell me? You can tell me here. <a href="https://frills.dev/blog/231023-add-moderation-to-comment-widget/">Manually moderated</a>.</p>
 <div id="c_widget"></div>
-<script src="/assets/comment-widget.js"></script>
+<script src="/assets/js/comment-widget.js"></script>
 <script src="https://status.cafe/current-status.js?name=fire" defer></script>
 
 	</main>
 	<footer>
-		by Fire 2020 - ∞ | <a href="#">Top</a> | <a href="https://github.com/FireFlows/sinigang">GitHub repo</a> 
+		by Fire 2020 - ∞ | <a href="#">Top</a> | <a href="https://github.com/FireFlows/sinigang">GitHub repo</a> | 
+<span aria-label="Color scheme switcher">
+	<button aria-pressed="false" onclick="setLightTheme();">
+		Light
+	</button>
+	<button aria-pressed="false" onclick="setDarkTheme();">
+		Dark
+	</button>
+</span>
 		<br>Page last updated: <span id="lu"></span><br>
 		Site last updated: <span id="wlu"></span>
 	</footer>
+
 <script>
-  var xhttp = new XMLHttpRequest();
-  xhttp.onreadystatechange = function() {
-    if (this.readyState == 4 && this.status == 200) {
-      var site_data = JSON.parse(this.responseText);
-	  const websiteUpdate = new Date(site_data.updated_at).toLocaleString([],{
-		/* 
-		NOTE:
-		By default, time is displayed HH:MM:SS.
-		However, that the "website last updated" script 
-		gets data from GitHub, while "page last updated"
-		gets data from Neocities.
-		The "deploy to neocities" script (.github/workflows/deploy.yml) always runs after
-		the GitHub repo is updated, so the time always 
-		shows that the page was updated a few seconds 
-		after the GitHub repo, which makes no sense.
-		My "solution" to this is just hiding the seconds
-		from the date.
-		- Fire
-		*/
-		hour12: true,
-		weekday: "short",
-		hour:'2-digit',
-		minute:"2-digit",
-		month:"numeric",
-		day:"numeric",
-		year:"numeric"
-	  })
-	  document.getElementById("wlu").innerHTML = websiteUpdate;
 
-    }
-  };
-  xhttp.open("GET", "https://api.github.com/repos/FireFlows/sinigang", true);
-  xhttp.send();
+function setDarkTheme() {
+  document.body.setAttribute("data-theme","dark");
+  localStorage.setItem("data-theme","dark")
+}
+function setLightTheme() {
+    document.body.removeAttribute("data-theme","dark");
+    localStorage.setItem("data-theme","")
+}
+document.body.setAttribute("data-theme",localStorage.getItem("data-theme"))
 
-const pageUpdate = new Date(document.lastModified).toLocaleString([],{
-	hour12: true,
-	weekday:"short",
-	hour:"2-digit",
-	minute:"2-digit",
-	month:"numeric",
-	day:"numeric",
-	year:"numeric",
-});
-document.getElementById("lu").innerHTML = pageUpdate;
 
 	function getTime() {
     const now = new Date();
@@ -193,13 +126,7 @@ document.getElementById("lu").innerHTML = pageUpdate;
 }
 getTime();
 setInterval(getTime, 1000);
-/* When the user clicks on the button, 
-toggle between hiding and showing the dropdown content */
-function dropDown() {
-  document.getElementById("myDropdown").classList.toggle("show");
-}
-
 </script>
-
+<script src="/assets/js/footer.js"></script>
 </body>
 </html>

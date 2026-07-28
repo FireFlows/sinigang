@@ -1,6 +1,6 @@
 ---
 title: "Voicebank"
-layout: "main.html"
+layout: "utaumain.html"
 ---
 <img src="../assets/img/shiro.png" style="height:50rem;" alt="A three panel comic with my UTAU, Hanabi Shiro. The quality of the drawing dimishes each panel.">
 

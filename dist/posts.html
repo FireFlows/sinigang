@@ -2,39 +2,42 @@
 <html lang="en">
 <head>
 	<title>Posts</title>
-	<link rel="stylesheet" href="../../assets/style.css">
 	<meta charset="UTF-8"> 
+	<meta name="color-scheme" content="light dark">
+	<link rel="stylesheet" href="/assets/style.css">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<style>
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
 </style>
+<script>
+	  (function () {
+    try {
+      var theme = localStorage.getItem('theme');
+
+      if (theme === '' || theme === 'dark') {
+        document.documentElement.setAttribute('data-theme', theme);
+      }
+    } catch (_) {}
+  })();
+</script>
 </head>
 	<body>
 		<header>
 <span style="font-weight:700; font-size:1.75rem;">sinigang.neocities.org</span>
 		</header>
 	<aside>
-		<a href="../utau.html" style="border:none"><img src="../../assets/img/avatar.png" height="250" class="nomobile" alt="A drawing of my UTAU."></a>
+		<a href="/utaumedia.html" style="border:none"><img src="/assets/img/avatar.png" height="250" class="nomobile" alt="A drawing of my UTAU."></a>
 		<span class="nomobile"><br>My current time: <br><span id="local-time-main"></span>
 		<br><span id="local-time-extra"></span></span>
 			<nav>
 			<ul>
-				<li><a href="../../index.html" class="navi"><span aria-hidden="true">★ </span>Home</a></li>
-				<li><a href="../../about.html" class="navi"><span aria-hidden="true">★ </span>About</a></li>
-					<details class="dropdown"> 
-						<summary class="dropbtn" onclick="dropDown()">
-							<li class="navi"><span aria-hidden="true">★ </span>UTAU </li>
-						</summary>
-						<div class="dropdown-content">
-						<li><a href="../../utau/vb.html" class="navi-dwn"><span aria-hidden="true">♬ </span>Voicebank</a></li>
-						<li><a href="../../utau/tou.html" class="navi-dwn"><span aria-hidden="true">♬ </span>Terms of Use</a></li>
-						<li><a href="../../utau/resources.html" class="navi-dwn"><span aria-hidden="true">♬ </span>Resources</a></li>
-						</div>
-					</details>
-				<li><a href="../../posts.html" class="navi"><span aria-hidden="true">★ </span>Posts</a></li>
-				<li><a href="../../elsewhere.html" class="navi"><span aria-hidden="true">★ </span>Elsewhere</a></li>
-				<li><a href="../../links.html" class="navi"><span aria-hidden="true">★ </span>Links</a></li>
+				<li><a href="/" class="navi"><span aria-hidden="true">★ </span>Home</a></li>
+				<li><a href="/about.html" class="navi"><span aria-hidden="true">★ </span>About</a></li>
+				<li><a href="/utau.html" class="navi"><span aria-hidden="true">★ </span>UTAU</a></li>
+				<li><a href="/posts.html" class="navi"><span aria-hidden="true">★ </span>Posts</a></li>
+				<li><a href="/elsewhere.html" class="navi"><span aria-hidden="true">★ </span>Elsewhere</a></li>
+				<li><a href="/links.html" class="navi"><span aria-hidden="true">★ </span>Links</a></li>
 			</ul>
 		</nav>
 	</aside>
@@ -42,64 +45,40 @@
 		
 	<h1>Posts</h1>
 	<p>My posts! Listed in reverse chronological order.</p>
-<h3 id ="random"> Uncategorized</h3>
+<h2 id ="random"> Uncategorized</h3>
 I couldn't fit any of these into any category.
 <ul><li><a href="/posts/accessibility.html"> Accessibility</a> <span style="font-size:.7rem;">(Mon Jul 27 2026)</span></li><li><a href="/posts/20260721.html"> Dying</a> <span style="font-size:.7rem;">(Tue Jul 21 2026)</span></li></ul>
-<h3 id ="weekly"> Week in Review</h3>
+<h2 id ="weekly"> Week in Review</h3>
 Every week on Sunday, I write a Week in Review: basically just recapping what I did that week and plans for next week.
 <ul><li><a href="/posts/weekly/20260726.html"> Week of July 19</a> <span style="font-size:.7rem;">(Sun Jul 26 2026)</span></li><li><a href="/posts/weekly/20260720.html"> Week of July 12</a> <span style="font-size:.7rem;">(Mon Jul 20 2026)</span></li><li><a href="/posts/weekly/20260714.html"> Week of July 5</a> <span style="font-size:.7rem;">(Tue Jul 14 2026)</span></li><li><a href="/posts/weekly/20260705.html"> Week of June 28</a> <span style="font-size:.7rem;">(Mon Jul 06 2026)</span></li><li><a href="/posts/weekly/20260628.html"> Week of June 21</a> <span style="font-size:.7rem;">(Sun Jun 28 2026)</span></li><li><a href="/posts/weekly/20260621.html"> Week of June 14</a> <span style="font-size:.7rem;">(Sun Jun 21 2026)</span></li><li><a href="/posts/weekly/20260614.html"> Week of June 7</a> <span style="font-size:.7rem;">(Sun Jun 14 2026)</span></li><li><a href="/posts/weekly/20260607.html"> Week of May 31</a> <span style="font-size:.7rem;">(Sun Jun 07 2026)</span></li></ul>
 
 	</main>
 	<footer>
-		by Fire 2020 - ∞ | <a href="#">Top</a> | <a href="https://github.com/FireFlows/sinigang">GitHub repo</a> 
+		by Fire 2020 - ∞ | <a href="#">Top</a> | <a href="https://github.com/FireFlows/sinigang">GitHub repo</a> | 
+<span aria-label="Color scheme switcher">
+	<button aria-pressed="false" onclick="setLightTheme();">
+		Light
+	</button>
+	<button aria-pressed="false" onclick="setDarkTheme();">
+		Dark
+	</button>
+</span>
 		<br>Page last updated: <span id="lu"></span><br>
 		Site last updated: <span id="wlu"></span>
 	</footer>
+
 <script>
-  var xhttp = new XMLHttpRequest();
-  xhttp.onreadystatechange = function() {
-    if (this.readyState == 4 && this.status == 200) {
-      var site_data = JSON.parse(this.responseText);
-	  const websiteUpdate = new Date(site_data.updated_at).toLocaleString([],{
-		/* 
-		NOTE:
-		By default, time is displayed HH:MM:SS.
-		However, that the "website last updated" script 
-		gets data from GitHub, while "page last updated"
-		gets data from Neocities.
-		The "deploy to neocities" script (.github/workflows/deploy.yml) always runs after
-		the GitHub repo is updated, so the time always 
-		shows that the page was updated a few seconds 
-		after the GitHub repo, which makes no sense.
-		My "solution" to this is just hiding the seconds
-		from the date.
-		- Fire
-		*/
-		hour12: true,
-		weekday: "short",
-		hour:'2-digit',
-		minute:"2-digit",
-		month:"numeric",
-		day:"numeric",
-		year:"numeric"
-	  })
-	  document.getElementById("wlu").innerHTML = websiteUpdate;
 
-    }
-  };
-  xhttp.open("GET", "https://api.github.com/repos/FireFlows/sinigang", true);
-  xhttp.send();
+function setDarkTheme() {
+  document.body.setAttribute("data-theme","dark");
+  localStorage.setItem("data-theme","dark")
+}
+function setLightTheme() {
+    document.body.removeAttribute("data-theme","dark");
+    localStorage.setItem("data-theme","")
+}
+document.body.setAttribute("data-theme",localStorage.getItem("data-theme"))
 
-const pageUpdate = new Date(document.lastModified).toLocaleString([],{
-	hour12: true,
-	weekday:"short",
-	hour:"2-digit",
-	minute:"2-digit",
-	month:"numeric",
-	day:"numeric",
-	year:"numeric",
-});
-document.getElementById("lu").innerHTML = pageUpdate;
 
 	function getTime() {
     const now = new Date();
@@ -133,13 +112,7 @@ document.getElementById("lu").innerHTML = pageUpdate;
 }
 getTime();
 setInterval(getTime, 1000);
-/* When the user clicks on the button, 
-toggle between hiding and showing the dropdown content */
-function dropDown() {
-  document.getElementById("myDropdown").classList.toggle("show");
-}
-
 </script>
-
+<script src="/assets/js/footer.js"></script>
 </body>
 </html>

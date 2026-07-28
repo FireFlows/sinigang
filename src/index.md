@@ -34,5 +34,5 @@ I have turned my accessibility statement and links into its own page. Currently,
 Questions? Thoughts? Anything you want to tell me? You can tell me here. [Manually moderated](https://frills.dev/blog/231023-add-moderation-to-comment-widget/).
 
 <div id="c_widget"></div>
-<script src="/assets/comment-widget.js"></script>
+<script src="/assets/js/comment-widget.js"></script>
 <script src="https://status.cafe/current-status.js?name=fire" defer></script>

@@ -2,55 +2,68 @@
 <html lang="en">
 <head>
 	<title>Links</title>
-	<link rel="stylesheet" href="../../assets/style.css">
 	<meta charset="UTF-8"> 
+	<meta name="color-scheme" content="light dark">
+	<link rel="stylesheet" href="/assets/style.css">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<style>
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
 </style>
+<script>
+	  (function () {
+    try {
+      var theme = localStorage.getItem('theme');
+
+      if (theme === '' || theme === 'dark') {
+        document.documentElement.setAttribute('data-theme', theme);
+      }
+    } catch (_) {}
+  })();
+</script>
 </head>
 	<body>
 		<header>
 <span style="font-weight:700; font-size:1.75rem;">sinigang.neocities.org</span>
 		</header>
 	<aside>
-		<a href="../utau.html" style="border:none"><img src="../../assets/img/avatar.png" height="250" class="nomobile" alt="A drawing of my UTAU."></a>
+		<a href="/utaumedia.html" style="border:none"><img src="/assets/img/avatar.png" height="250" class="nomobile" alt="A drawing of my UTAU."></a>
 		<span class="nomobile"><br>My current time: <br><span id="local-time-main"></span>
 		<br><span id="local-time-extra"></span></span>
 			<nav>
 			<ul>
-				<li><a href="../../index.html" class="navi"><span aria-hidden="true">★ </span>Home</a></li>
-				<li><a href="../../about.html" class="navi"><span aria-hidden="true">★ </span>About</a></li>
-					<details class="dropdown"> 
-						<summary class="dropbtn" onclick="dropDown()">
-							<li class="navi"><span aria-hidden="true">★ </span>UTAU </li>
-						</summary>
-						<div class="dropdown-content">
-						<li><a href="../../utau/vb.html" class="navi-dwn"><span aria-hidden="true">♬ </span>Voicebank</a></li>
-						<li><a href="../../utau/tou.html" class="navi-dwn"><span aria-hidden="true">♬ </span>Terms of Use</a></li>
-						<li><a href="../../utau/resources.html" class="navi-dwn"><span aria-hidden="true">♬ </span>Resources</a></li>
-						</div>
-					</details>
-				<li><a href="../../posts.html" class="navi"><span aria-hidden="true">★ </span>Posts</a></li>
-				<li><a href="../../elsewhere.html" class="navi"><span aria-hidden="true">★ </span>Elsewhere</a></li>
-				<li><a href="../../links.html" class="navi"><span aria-hidden="true">★ </span>Links</a></li>
+				<li><a href="/" class="navi"><span aria-hidden="true">★ </span>Home</a></li>
+				<li><a href="/about.html" class="navi"><span aria-hidden="true">★ </span>About</a></li>
+				<li><a href="/utau.html" class="navi"><span aria-hidden="true">★ </span>UTAU</a></li>
+				<li><a href="/posts.html" class="navi"><span aria-hidden="true">★ </span>Posts</a></li>
+				<li><a href="/elsewhere.html" class="navi"><span aria-hidden="true">★ </span>Elsewhere</a></li>
+				<li><a href="/links.html" class="navi"><span aria-hidden="true">★ </span>Links</a></li>
 			</ul>
 		</nav>
 	</aside>
 	<main> 
 		
 	<h1>Links</h1>
-	<h3>Inspired by:</h3>
+	<style>
+    dt{line-height:1.75rem;}
+
+</style>
+<p><em>Also see: <a href="/utau/resources.html">/utau/resources.html</a></em><br>
+<em>Also see: <a href="/posts/accessibility.html">/posts/accessibility.html</a></em></p>
+<p>I love links. Here's a bunch of them. These links are all free, have little/no ads, and are mobile compatible unless stated otherwise.</p>
+<h2>Webmastery</h2>
+<h3>Sites I like</h3>
 <ul>
+<li><a href="https://zhongvie.neocities.org/">Aid's site</a></li>
+<li><a href="https://brennan.day">brennan.day</a></li>
 <li><a href="https://bechnokid.com">Bechno Kid's site</a></li>
 <li><a href="https://jbc.lol">jb's site</a></li>
 <li><a href="https://nomnomnami.com">nomnomnami's site</a></li>
 <li><a href="https://slashpages.net/">slash.pages</a></li>
 <li><a href="https://squirrelz.xyz/">squirrelz.xyz</a></li>
-<li><a href="https://teppyslayouts.neocities.org">Teppy's Layouts</a></li>
+<li><a href="https://yatagarasu.nekoweb.org/">Yataragasu's site</a></li>
 </ul>
-<h3>Resources used:</h3>
+<h3>Resources used</h3>
 <ul>
 <li><a href="https://virtualobserver.moe/ayano/comment-widget">Ayano's Neocities Comment Widget</a></li>
 <li><a href="https://nenrikido.neocities.org/blog/post/deploy-site/">Deploying Your Site to Neocities</a></li>
@@ -65,70 +78,174 @@
 <li><a href="https://validator.w3.org/">w3 markup validation service</a></li>
 <li><a href="https://www.w3schools.com/html/">w3schools</a></li>
 </ul>
-<h3>Other stuff worth checking out:</h3>
+<h3>Templates</h3>
 <ul>
-<li><a href="https://graphemica.com/">Graphemica</a></li>
-<li><a href="https://resrc.neocities.org/posts/how-to-tell-when-a-website-is-ai">How to tell when a website is AI</a></li>
-<li><a href="https://htmlforpeople.com">HTML for people</a></li>
-<li><a href="https://www.ipachart.com/">Interactive IPA Chart</a></li>
-<li><a href="https://ipa-reader.com/">IPA Reader</a></li>
+<li><a href="https://eggramen.neocities.org/code/css_testpages">eggramen's layouts</a></li>
+<li><a href="https://nomnomnami.com/templates/">nomnomnami's templates</a></li>
+<li><a href="https://petrapixel.neocities.org/coding/layout-base-code">petrapixel's layouts</a></li>
+<li><a href="https://ranmpy.neocities.org/themes/">ranmpy's themes</a></li>
+<li><a href="https://ribo.zone/free/layouts/">ribo.zone's layouts</a></li>
+<li><a href="https://rice.place/template.html">rice's templates</a></li>
+<li><a href="https://codepen.io/sadness97/full/XJbLxZM">sadgrl.online's layouts</a></li>
+<li><a href="https://teppyslayouts.neocities.org/">Teppy's Layouts</a></li>
+</ul>
+<h3>Misc</h3>
+<ul>
 <li><a href="https://ncase.me/projects/">ncase.me</a></li>
 <li><a href="https://suboptimalism.neocities.org/writings/undocumented">Some Undocumented Neocities Mechanics</a></li>
-<li><a href="https://thomaswc.com/2025.html">Sort 2025 things into 45 groups of 45</a></li>
 </ul>
+<h2>Fun and Games</h2>
+<h3>Music</h3>
+<dl>
+<dt> <a href="https://sdaw.neocities.org">sdaw</a></dt>
+<dd> Pretty good monochromatic digital audio workstation. Not mobile compatible</dd>
+<dt> <a href="https://klatts.ch/play/">Klattsch</a></dt>
+<dd> Primitive voice synthesizer. Browser version is already quite robust but <a href="https://crashunited.itch.io/klattsch">full version</a> can be bought on itch.io.</dd>
+<dt> <a href="https://thirtydollar.website/">Thirty Dollar Website</a></dt>
+<dd> Create music from memes.</dd>
+<dt> <a href="https://incredibox.com/demo">Incredibox Demo</a></dt>
+<dd>Dress-up beatboxing game.
+</dl>
+<h3>Classic games</h3>
+<dl>
+<dt><a href="https://classic-majong.com">Classic Mahjong</a></dt>
+<dt><a href="https://lichess.org">Lichess</a></dt>
+<dt><a href="https://solitaireowl.com">Solitaire Owl</a></dt>
+</dt>
+<h3>Incremental</h3>
+<dl>
+<dt><a href="https://adarkroom.doublespeakgames.com/">A Dark Room</a></dt>
+<dd>Kindle a fire and launch a spaceship</dd>
+<dt><a href="https://orteil.dashnet.org/cookieclicker">Cookie Clicker</a></dt>
+<dd>The original incremental. Bake cookies. Also <a href="https://store.steampowered.com/app/1454400/Cookie_Clicker/">on Steam</a> for $5, but the browser and Steam version are the exact same game.</dd>
+<dt><a href="https://www.swarmsim.com">Swarm Simulator</a></dt>
+<dd>A minimalist game where you manage a swarm of bees
+<dt><a href="https://www.decisionproblem.com/paperclips/">Universal Paperclips</a></dt>
+<dd>Make paperclips. Not mobile compatible</dd>
+</dl>
+<h3>Wordle-likes</h3>
+<p>Games that change their answer every day and end in &quot;-le&quot;</p>
+<dl>
+<dt><a href="https://globle-game.com">Globle</a></dt>
+<dd>Guess a country and it'll show how far away your guess is from the mystery country.</dd>
+<dt><a href="https://murdle.com/">Murdle</a></dt>
+<dd>Solve a logic grid puzzle with a murder mystery flavor. Also: a daily cryptogram.</dd>
+<dt><a href="https://semantle.com">Semantle</a></dt>
+<dd>Instead of trying to guess based on how far the letters are, you guess based on how far the meaning is. AKA by semantics.</dd>
+</dl>
+<h3>Horror</h3>
+<dl>
+<dt><a href="https://lomando.com">Lomando.com</a></dt>
+<dd>"Scary" Japanese site (there is also an English version). Lots of jumpscares and loud noises.</dd>
+<dt><a href="https://ztul.itch.io/the-uncle-who-works-for-nintendo">The Uncle who works for Nintendo</a>
+<dd>Text-based game where you stay over at your friends' house. </dd>
+</dl>
+<h3>Roguelikes</h3>
+<dl>
+<dt><a href="https://purplemosscollectors.itch.io/dndg">Dungeons and Degenerate Gamblers</a></dt>
+<dd>Extensive demo of <a href="https://store.steampowered.com/app/2400510/Dungeons__Degenerate_Gamblers/">the full game</a>.
+<dt><a href="https://poncle.itch.io/vampire-survivors">Vampire Survivors</a>
+<dd>Extensive demo of the full game.</dd>
+</dl>
+<h3>Linguistics</h3>
+<dl>
+<dt><a href="https://dood.al/pinktrombone/">Pink Trombone</a></dt>
+<dd>Use a simulated throat and mouth to create weird sounds.</dd>
+<dt><a href="https://libraryofbabel.info/">Library of Babel</a></dt>
+<dd>Explore every book that could ever exist</dd>
+<dt><a href="https://ipachart.com">Interactive IPA Chart</a></dt>
+<dd>See title.</dd>
+<dt><a href="https://ipa-reader.com">IPA Reader</a>
+<dd>Reads out IPA in a TTS voice of your choice</dd>
+<dt><a href="https://graphemica.com/">Graphemica</a>
+<dd>Explore graphemes
+</dl>
+<h3>Lists of lists of listss</h3>
+<dl>
+<dt><a href="https://theuselessweb.com">The Useless Web</a></dt>
+<dd>Classic time-waster.
+<dt><a href="https://itch.io/games/free/platform-web">Sorting itch.io by free browser games</a>
+<dt><a href="https://neal.fun">neal.fun</a>
+<dd>Various games created by Neal Agarwal
+<dt><a href="https://ncase.me">ncase.me</a>
+<dd>Educational, fun interactive articles that are easy to understand. Also see <a href="https://explorabl.es/">Explorable Explorations</a> for similar articles
+</dl>
+<h3>Misc</h3>
+<dl>
+<dt><a href="https://28awesomebugs.org/">28 Awesome Bugs</a>
+<dd>Fun bug-themed activities for enrichment
+<dt><a href="https://thomaswc.com/2025.html">2025</a>
+<dd>Sort 2025 things into 45 categories of 45.</dd>
+<dt><a href="https://dumby.neocities.org/casino">Dumby's Casino</a></dt>
+<dd>Let's go gambling!!!!
+<dt><a href="https://apod.nasa.gov/apod/astropix.html">NASA Astro Pix</a>
+<dd>Daily astronomy photos/videos.
+<dt><a href="https://nationstates.net">Nation States</a>
+<dd>Manage your own nation
+<dt><a href="https://novelgame.jp/">Novel Game</a></dt>
+<dd>Japanese website where people can upload their own visual novels. Works with Japanese popup dictionaries like Yomitan and rikaikun</dd>
+</dl>
+<h2>Artificial Intelligence</h2>
+<dl>
+<dt><a href="https://resrc.neocities.org/posts/how-to-tell-when-a-website-is-ai">How to tell when a website is AI</a></dt>
+<dd>A quick guide on how to spot AI-generated websites. Includes a tester that checks for common AI coding tells.</dd>
+<dt><a href="https://archive.org/details/fandom-has-a-hidden-generative-ai-problem-1">Fandom has a hidden Generative AI Problem</a>
+<dd>An easy way to tell if writing was generated by Claude. Also see <a href="https://x.com/heatedrivalryai/status/2071719219960426605">original thread on Twitter</a>.</dd>
+</dl>
+<h2>Straight up just my bookmarks</h2>
+<dl>
+<dt><a href="https://wiki.07th-mod.com/Higurashi/Higurashi-Getting-started/">Higurashi 07th mod</a>
+<dd>Meant to improve the Higurashi experience.
+<dt><a href="https://www.pricecharting.com/trading-cards">Trading Card Price Charting</a>
+<dt><a href="https://www.ncbytrain.org/tickets/Pages/default.aspx">NC By Train</a>
+<dd>North Carolina's passenger train website
+<dt><a href="https://p2r3.github.io/convert/">Convert to it!</a>
+<dd>Convert a file to any other file</dl>
+<!---
+
+https://docs.google.com/spreadsheets/d/1CRk_L4CRLYWwtA9NSKKOCwOgZAAMlqzwbrbHzhzGcxc/htmlview
+https://thomaswc.com/2025.html
+https://vocadb.net/L/20420?artistParticipationStatus=Everything&childTags=false&childVoicebanks=false&page=1&pageSize=20&playlistMode=false&query=&sort=PublishDate&songType=Unspecified
+
+https://www.kingdomofloathing.com/
+https://direkris.itch.io/you-are-jeff-bezos
+
+https://agar.io/#ffa
+https://internet-janitor.itch.io/wigglypaint
+https://moshionline.net/
+https://littlealchemy.com/
+https://littlealchemy2.com/
+
+--->
 
 
 	</main>
 	<footer>
-		by Fire 2020 - ∞ | <a href="#">Top</a> | <a href="https://github.com/FireFlows/sinigang">GitHub repo</a> 
+		by Fire 2020 - ∞ | <a href="#">Top</a> | <a href="https://github.com/FireFlows/sinigang">GitHub repo</a> | 
+<span aria-label="Color scheme switcher">
+	<button aria-pressed="false" onclick="setLightTheme();">
+		Light
+	</button>
+	<button aria-pressed="false" onclick="setDarkTheme();">
+		Dark
+	</button>
+</span>
 		<br>Page last updated: <span id="lu"></span><br>
 		Site last updated: <span id="wlu"></span>
 	</footer>
+
 <script>
-  var xhttp = new XMLHttpRequest();
-  xhttp.onreadystatechange = function() {
-    if (this.readyState == 4 && this.status == 200) {
-      var site_data = JSON.parse(this.responseText);
-	  const websiteUpdate = new Date(site_data.updated_at).toLocaleString([],{
-		/* 
-		NOTE:
-		By default, time is displayed HH:MM:SS.
-		However, that the "website last updated" script 
-		gets data from GitHub, while "page last updated"
-		gets data from Neocities.
-		The "deploy to neocities" script (.github/workflows/deploy.yml) always runs after
-		the GitHub repo is updated, so the time always 
-		shows that the page was updated a few seconds 
-		after the GitHub repo, which makes no sense.
-		My "solution" to this is just hiding the seconds
-		from the date.
-		- Fire
-		*/
-		hour12: true,
-		weekday: "short",
-		hour:'2-digit',
-		minute:"2-digit",
-		month:"numeric",
-		day:"numeric",
-		year:"numeric"
-	  })
-	  document.getElementById("wlu").innerHTML = websiteUpdate;
 
-    }
-  };
-  xhttp.open("GET", "https://api.github.com/repos/FireFlows/sinigang", true);
-  xhttp.send();
+function setDarkTheme() {
+  document.body.setAttribute("data-theme","dark");
+  localStorage.setItem("data-theme","dark")
+}
+function setLightTheme() {
+    document.body.removeAttribute("data-theme","dark");
+    localStorage.setItem("data-theme","")
+}
+document.body.setAttribute("data-theme",localStorage.getItem("data-theme"))
 
-const pageUpdate = new Date(document.lastModified).toLocaleString([],{
-	hour12: true,
-	weekday:"short",
-	hour:"2-digit",
-	minute:"2-digit",
-	month:"numeric",
-	day:"numeric",
-	year:"numeric",
-});
-document.getElementById("lu").innerHTML = pageUpdate;
 
 	function getTime() {
     const now = new Date();
@@ -162,13 +279,7 @@ document.getElementById("lu").innerHTML = pageUpdate;
 }
 getTime();
 setInterval(getTime, 1000);
-/* When the user clicks on the button, 
-toggle between hiding and showing the dropdown content */
-function dropDown() {
-  document.getElementById("myDropdown").classList.toggle("show");
-}
-
 </script>
-
+<script src="/assets/js/footer.js"></script>
 </body>
 </html>

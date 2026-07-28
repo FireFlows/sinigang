@@ -1,46 +1,25 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" style="light-dark:light;">
 <head>
 	<title>Resources</title>
-	<link rel="stylesheet" href="../../assets/style.css">
+	<link rel="stylesheet" href="/assets/utaustyle.css">
 	<meta charset="UTF-8"> 
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<style>
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Noto+Sans+JP:wght@100..900&display=swap');
 </style>
 </head>
-	<body>
-		<header>
-<span style="font-weight:700; font-size:1.75rem;">sinigang.neocities.org</span>
-		</header>
-	<aside>
-		<a href="../utau.html" style="border:none"><img src="../../assets/img/avatar.png" height="250" class="nomobile" alt="A drawing of my UTAU."></a>
-		<span class="nomobile"><br>My current time: <br><span id="local-time-main"></span>
-		<br><span id="local-time-extra"></span></span>
-			<nav>
-			<ul>
-				<li><a href="../../index.html" class="navi"><span aria-hidden="true">★ </span>Home</a></li>
-				<li><a href="../../about.html" class="navi"><span aria-hidden="true">★ </span>About</a></li>
-					<details class="dropdown"> 
-						<summary class="dropbtn" onclick="dropDown()">
-							<li class="navi"><span aria-hidden="true">★ </span>UTAU </li>
-						</summary>
-						<div class="dropdown-content">
-						<li><a href="../../utau/vb.html" class="navi-dwn"><span aria-hidden="true">♬ </span>Voicebank</a></li>
-						<li><a href="../../utau/tou.html" class="navi-dwn"><span aria-hidden="true">♬ </span>Terms of Use</a></li>
-						<li><a href="../../utau/resources.html" class="navi-dwn"><span aria-hidden="true">♬ </span>Resources</a></li>
-						</div>
-					</details>
-				<li><a href="../../posts.html" class="navi"><span aria-hidden="true">★ </span>Posts</a></li>
-				<li><a href="../../elsewhere.html" class="navi"><span aria-hidden="true">★ </span>Elsewhere</a></li>
-				<li><a href="../../links.html" class="navi"><span aria-hidden="true">★ </span>Links</a></li>
-			</ul>
-		</nav>
-	</aside>
-	<main> 
-		
-	<h1>Resources</h1>
+<header>sinigang.neocities.org/utau</header>
+<nav>
+    <a href="/utau.html">Home</a>
+    <a href="/utau/vb.html">Voicebank</a>
+    <a href="/utau/tou.html">Terms of Use</a>
+    <a href="/utau/resources.html">Resources</a>
+    <a href="/utau/extra.html">Extra</a>
+    <a href="/">back to main</a>
+</nav>
+<main>
+    
 	<p>I love collecting links, so I've synthesized (haha) a list of various UTAU resources. Everything listed below is 100% free, and a lot of these are open source.</p>
 <p>Some links are only available in Japanese and will be marked with (JP).</p>
 <h2>Programs</h2>
@@ -165,97 +144,12 @@ https://pifuyuuust.blogspot.com/2020/07/ust-vocaloid-bilibili-upust.html
 -->
 
 
-	</main>
+</main>
 	<footer>
 		by Fire 2020 - ∞ | <a href="#">Top</a> | <a href="https://github.com/FireFlows/sinigang">GitHub repo</a> 
 		<br>Page last updated: <span id="lu"></span><br>
 		Site last updated: <span id="wlu"></span>
 	</footer>
-<script>
-  var xhttp = new XMLHttpRequest();
-  xhttp.onreadystatechange = function() {
-    if (this.readyState == 4 && this.status == 200) {
-      var site_data = JSON.parse(this.responseText);
-	  const websiteUpdate = new Date(site_data.updated_at).toLocaleString([],{
-		/* 
-		NOTE:
-		By default, time is displayed HH:MM:SS.
-		However, that the "website last updated" script 
-		gets data from GitHub, while "page last updated"
-		gets data from Neocities.
-		The "deploy to neocities" script (.github/workflows/deploy.yml) always runs after
-		the GitHub repo is updated, so the time always 
-		shows that the page was updated a few seconds 
-		after the GitHub repo, which makes no sense.
-		My "solution" to this is just hiding the seconds
-		from the date.
-		- Fire
-		*/
-		hour12: true,
-		weekday: "short",
-		hour:'2-digit',
-		minute:"2-digit",
-		month:"numeric",
-		day:"numeric",
-		year:"numeric"
-	  })
-	  document.getElementById("wlu").innerHTML = websiteUpdate;
-
-    }
-  };
-  xhttp.open("GET", "https://api.github.com/repos/FireFlows/sinigang", true);
-  xhttp.send();
-
-const pageUpdate = new Date(document.lastModified).toLocaleString([],{
-	hour12: true,
-	weekday:"short",
-	hour:"2-digit",
-	minute:"2-digit",
-	month:"numeric",
-	day:"numeric",
-	year:"numeric",
-});
-document.getElementById("lu").innerHTML = pageUpdate;
-
-	function getTime() {
-    const now = new Date();
-
-    const etFormatter = new Intl.DateTimeFormat('en-US', {
-        timeZone: 'America/New_York',
-        hour: '2-digit',
-        minute: '2-digit',
-        second: '2-digit',
-        hour12: true,
-        timeZoneName: 'short'
-    });
-
-    const parts = etFormatter.formatToParts(now);
-
-    let timeStr = "";
-    let tzName = "";
-
-    for (const p of parts) {
-        if (p.type !== "timeZoneName") {
-            timeStr += p.value;
-        } else {
-            tzName = p.value;
-        }
-    }
-
-    const laTime = new Date(now.toLocaleString("en-US", { timeZone: "America/New_York" }));
-    const localTime = new Date();
-
-    document.getElementById('local-time-main').textContent = `${timeStr} ${tzName}`;
-}
-getTime();
-setInterval(getTime, 1000);
-/* When the user clicks on the button, 
-toggle between hiding and showing the dropdown content */
-function dropDown() {
-  document.getElementById("myDropdown").classList.toggle("show");
-}
-
-</script>
-
+<script src="/assets/js/footer.js"></script>
 </body>
 </html>
