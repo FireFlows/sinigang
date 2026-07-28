@@ -19,6 +19,7 @@ body[data-theme="dark"]{
     --main-color:#f9f9f9;
     --bg-color: #21222B;
     --aside-color:#3E4051;
+    --color-6: rgb(107, 106, 106);
 }
 /*Dark mode
     --main-color:#f9f9f9;
@@ -31,8 +32,8 @@ body[data-theme="dark"]{
 
 button {
     border: 1px solid black;
-    color: light-dark(#fff,#000);
-    background-color: light-dark(#000,#fff);
+    color: black;
+    background-color: white;
 }
 /*
 Colors
@@ -286,9 +287,9 @@ Comment CSS by Ayano
 .c-input {
     padding: 5px;
     margin:5px;
-    color: light-dark(#fff,#000);
+    color: #000;
     border: 1px solid #2D0B52;
-    background-color: light-dark(#000,#fff);
+    background-color: #FFF;
 	outline: none;
 }
 .c-input:focus {
@@ -314,7 +315,8 @@ Comment CSS by Ayano
     margin-bottom: 15px;
     padding: 10px;
     border: 2px solid --var(--color-5);
-    background-color: light-dark(#EAECEA,#3E4051); 
+    color:var(--main-color);
+    background-color: var(--aside-color); 
 }
 .c-reply {
     display: block;
