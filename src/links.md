@@ -44,7 +44,6 @@ I love links. Here's a bunch of them. These links are all free, have little/no a
 * [Teppy's Layouts](https://teppyslayouts.neocities.org/)
 
 ### Misc
-* [ncase.me](https://ncase.me/projects/)
 * [Some Undocumented Neocities Mechanics](https://suboptimalism.neocities.org/writings/undocumented)
 
 ## Fun and Games
@@ -136,7 +135,6 @@ Games that change their answer every day and end in "-le"
 <dl>
 
 <dt><a href="https://ipachart.com">Interactive IPA Chart</a></dt>
-<dd>See title.</dd>
 
 <dt><a href="https://ipa-reader.com">IPA Reader</a>
 <dd>Reads out IPA in a TTS voice of your choice</dd>
