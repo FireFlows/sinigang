@@ -1,8 +1,10 @@
 ### 
 CHANGELOG
 ###
+
 2026/07/29
 - fixed dark mode flicker
+    - changed dark mode from two buttons to one button that switches text depending on whether your theme is dark or light mode
 - changed fonts 
     - inter header font; noto sans jp kept for main font
     - on /utau/: inter
