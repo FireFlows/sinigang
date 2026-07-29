@@ -10,6 +10,7 @@ Welcome to my humble abode.
 This website does not house and will never house NSFW content, but it is ran by an adult (me) so please exercise caution (especially in places where I end up talking too much).
 
 <span class="showmobile">All times are in [Eastern](https://time.is/ET).</span>
+
 ## Now
 
 I have been constantly working on website updates. I think it looks a lot better now, and I have a lot more on it, but still not that much.
