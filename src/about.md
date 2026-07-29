@@ -14,7 +14,7 @@ Also check out my [answers to 100 webmaster questions](100q.html). And my answer
 ## About the Website
 I made this website as a space away from social media. As a bonus, it will be the (eventual) hosting site of my UTAU. <span class="nomobile">BTW: the picture on the left is a drawing I did of my UTAU.</span> 
 
-While I didn't use generative AI to create this website (code, writing, art done by me or sourced from humans), by virtue of being on the internet I use some form of genAI daily. Evem if I try my best to avoid it (which I do). We're all going to hell. 
+While I didn't use generative AI to create this website (code, writing, art done by me or sourced from humans), by virtue of being on the internet I use some form of genAI daily. Even if I try my best to avoid it (which I do). We're all going to hell. 
 
 My website is "licensed" under [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en).
 

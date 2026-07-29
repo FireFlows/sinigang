@@ -112,6 +112,7 @@ https://maybecoding.bearblog.dev/adding-a-private-feedback-box-to-bear/
 https://virtualobserver.moe/ayano/comment-widget
 https://zonelets.net
 https://pepelsbey.dev/articles/native-light-dark/
+https://hidde.blog/dark-light/
 
 Resources
 https://codepen.io/ 

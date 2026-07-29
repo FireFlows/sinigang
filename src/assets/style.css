@@ -15,7 +15,7 @@ body{
     font-family: Noto Sans JP, Inter, Arial, sans-serif;
     font-size:1.05rem;
 }
-html[data-theme="dark"]{
+[theme="dark"]{
     --main-color:#f9f9f9;
     --bg-color: #21222B;
     --aside-color:#3E4051;

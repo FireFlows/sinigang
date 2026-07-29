@@ -58,9 +58,9 @@
 	</main>
 	<footer>
 		by Fire 2020 - ∞ | <a href="#">Top</a> | <a href="https://github.com/FireFlows/sinigang">GitHub repo</a> | 
-	<button id="theme" onclick="setTheme()">
-		E
-	</button>
+	<button id="theme-selector" onclick="toggle()">
+		Toggle theme
+		</button>
 		<br>Page last updated: <span id="lu"></span><br>
 		Site last updated: <span id="wlu"></span>
 	</footer>
@@ -96,9 +96,9 @@
 
     document.getElementById('local-time-main').textContent = `${timeStr} ${tzName}`;
 }
+setTheme();
 getTime();
 setInterval(getTime, 1000);
-setTheme();
 </script>
 <script src="/assets/js/footer.js"></script>
 </body>

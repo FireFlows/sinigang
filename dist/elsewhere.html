@@ -36,12 +36,12 @@
 	<h1>Elsewhere</h1>
 	<p>If looking to contact me, I recommend Tumblr or email. I don't check my Twitter DMs. And if neither of those contact methods sound appealing to you, you can <a href="index.html#c_widget">leave a comment</a>.</p>
 <ul>
+<li><a href="https://artfight.net/~0430">Art Fight</a></li>
+<li><a href="https://ko-fi.com/fire7541">Ko-fi</a></li>
+<li><a href="https://sinigang.bearblog.dev">Offsite blog (bearblog)</a></li>
 <li><a href="https://fire7541.tumblr.com">Tumblr</a></li>
 <li><a href="https://twitter.com/fire7541">Twitter</a></li>
 <li><a href="https://vocadb.net/profile/sinigang">VocaDB</a></li>
-<li><a href="https://sinigang.bearblog.dev">Offsite blog (bearblog)</a></li>
-<li><a href="https://artfight.net/~0430">Art Fight</a></li>
-<li><a href="https://ko-fi.com/fire7541">Ko-fi</a></li>
 <li><a href="mailto:realfire7541@gmail.com">realfire7541@gmail.com</a></li>
 </ul>
 
@@ -49,9 +49,9 @@
 	</main>
 	<footer>
 		by Fire 2020 - ∞ | <a href="#">Top</a> | <a href="https://github.com/FireFlows/sinigang">GitHub repo</a> | 
-	<button id="theme" onclick="setTheme()">
-		E
-	</button>
+	<button id="theme-selector" onclick="toggle()">
+		Toggle theme
+		</button>
 		<br>Page last updated: <span id="lu"></span><br>
 		Site last updated: <span id="wlu"></span>
 	</footer>
@@ -87,9 +87,9 @@
 
     document.getElementById('local-time-main').textContent = `${timeStr} ${tzName}`;
 }
+setTheme();
 getTime();
 setInterval(getTime, 1000);
-setTheme();
 </script>
 <script src="/assets/js/footer.js"></script>
 </body>
