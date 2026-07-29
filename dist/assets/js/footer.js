@@ -5,7 +5,7 @@ var xhttp = new XMLHttpRequest();
   xhttp.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
       var site_data = JSON.parse(this.responseText);
-	  const websiteUpdate = new Date(site_data.updated_at).toLocaleString([],{
+	  const websiteUpdate = new Date(site_data.pushed_at).toLocaleString([],{
 		/* 
 		NOTE:
 		By default, time is displayed HH:MM:SS.
