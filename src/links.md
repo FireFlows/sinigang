@@ -127,7 +127,7 @@ I love links. Here's a bunch of them. These links are all free, have little/no a
 <dl>
 
 <dt><a href="https://jamesland.org/">Jamesland</a>
-<dt>Old flash games, preserved. Not mobile compatible
+<dd>Old flash games, preserved. Limited mobile compatibility
 
 <dt><a href="https://itch.io/games/free/platform-web">Sorting itch.io by free browser games</a>
 
