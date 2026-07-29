@@ -13,19 +13,17 @@ This website does not house and will never house NSFW content, but it is ran by 
 
 ## Now
 
-I have been constantly working on website updates. I think it looks a lot better now, and I have a lot more on it, but still not that much.
+I'm still working on website updates. I added dark mode and a more robust links section. Additionally, I removed the dropdown from the UTAU button and it now redirects to a new thing. How fun. 
 
-The /posts.html page finally has some posts on it! (Ones I copied and pasted from bearblog, but still!) I'm not sure if I'll keep posting on bearblog or switch to my website completely. 
-
-I have turned my accessibility statement and links into its own page. Currently, I'm writting an expanded version of my accessibility statement, but I wanted to get the posts page working first. Yaaay.
+Honestly, dark mode might look better than light mode LOL.
 
 **Feeling**: happy!  
-**Playing**: Deltarune Ch.5, Pronoun Palace    
+**Playing**: Deltarune Ch.5, Pronoun Palace, Tsukihime
 **Reading**: various articles, people's personal blogs  
 **Watching**: various YouTube videos  
 **Listening**: See below!  
 
-20260726
+20260728
 
 ## status.cafe widget
 
