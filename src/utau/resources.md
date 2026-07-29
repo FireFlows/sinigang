@@ -4,7 +4,7 @@ layout: "/utaumain.html"
 ---
 I love collecting links, so I've synthesized (haha) a list of various UTAU resources. Everything listed below is 100% free, and a lot of these are open source.
 
-Some links are only available in Japanese and will be marked with (JP).
+Some links are only available in Japanese and will be marked with (JA).
 
 ## Programs
 ### Engine
@@ -35,9 +35,9 @@ Some links are only available in Japanese and will be marked with (JP).
 ### Tutorials
 * [Feline Wasteland UTAU](https://utau.felinewasteland.com)
 * [tubs.wtf](https://tubs.wtf/)
-* [UTAU Creation Wiki](https://w.atwiki.jp/vbmaker/) (JP)
+* [UTAU Creation Wiki](https://w.atwiki.jp/vbmaker/) (JA)
 * [UTAU Info](https://utau.info)
-* [UTAU (2008) Tutorial Wiki](https://w.atwiki.jp/utau2008/pages/1.html) (JP)
+* [UTAU (2008) Tutorial Wiki](https://w.atwiki.jp/utau2008/pages/1.html) (JA)
 * [utau.us](https://utau.us)
 ### Distribution
 * [Browsing Neocities by tag UTAU](https://neocities.org/browse?sort_by=last_updated&tag=utau)
@@ -48,21 +48,21 @@ Some links are only available in Japanese and will be marked with (JP).
     * Distribution websites are usually linked on the voicebank's page.
 #### UTAU websites I like
 
-* [avogado6's website](https://avogado6.wixsite.com/calogado) (JP)
+* [avogado6's website](https://avogado6.wixsite.com/calogado) (JA)
     * Calogado, Mayoi Heki, ~~Calloon~~ (private voicebank)
-* [Eirina Hamono's website](https://piku.page/@eiri7hamono/home) (JP)
+* [Eirina Hamono's website](https://piku.page/@eiri7hamono/home) (JA)
     * Imibe Kodzuka, Motu, Tiyo, Kappa
-* [Kuroiwa Shuuta's website](https://satoishiyuka.wixsite.com/satoishi) (JP)
+* [Kuroiwa Shuuta's website](https://satoishiyuka.wixsite.com/satoishi) (JA)
     * Satoishi Yuka    
 * [KUZUTOKAZE's website](https://kurukuru2suuzi.wixsite.com/kuzutokaze)
     * Gekiyaku, Kazehiki, Kuzuda Yone, Kuzuda Rou, Namae Shirezu, Nedjem, Choubi Chii
-* [missile39's website](https://mechanicalgirl.jp) (JP)
+* [missile39's website](https://mechanicalgirl.jp) (JA)
     * Adachi Rei, Tsukumo Shion
-* [SuteinuA's website](https://krnr.top/) (JP)
+* [SuteinuA's website](https://krnr.top/) (JA)
     * Nurse Robot Type T, Dr. Dareka, Inchou-san
-* [twindrill's website](https://kasaneteto.jp/utau) (JP)
+* [twindrill's website](https://kasaneteto.jp/utau) (JA)
     * Kasane Teto
-* [Utane Uta's website](https://utaneuta.utau-synth.com/index.html) (JP)
+* [Utane Uta's website](https://utaneuta.utau-synth.com/index.html) (JA)
     * This is the website for the *character* Utane Uta. To get her voicebank, you have to install UTAU. 
 ### Discussion
 * [r/utau](https://www.reddit.com/r/utau/)

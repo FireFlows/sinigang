@@ -12,23 +12,19 @@ body{
     margin-top:2rem;
     background-color: var(--bg-color);
     color: var(--main-color);
-    font-family: Noto Sans JP, Arial, sans-serif;
-    font-size:1rem;
+    font-family: Noto Sans JP, Inter, Arial, sans-serif;
+    font-size:1.05rem;
 }
-body[data-theme="dark"]{
+html[data-theme="dark"]{
     --main-color:#f9f9f9;
     --bg-color: #21222B;
     --aside-color:#3E4051;
     --color-6: #2C2E3A;
 }
-/*Dark mode
-    --main-color:#f9f9f9;
-    --bg-color: #21222B;
-    --aside-color:#3E4051;
-    --accent-color:#C559AA;
-    --color-5:#d81159; 
-    --color-6:#dddddd;
-*/
+
+h1, h2, h3, h4 {
+    font-family: Inter, Ubuntu, sans-serif;
+}
 
 button {
     border: 1px solid black;
@@ -90,7 +86,7 @@ aside {
     position: sticky;
     text-align: center;
     top:1rem;
-    font-size: 1.05rem;
+    font-size: 1.125rem;
     margin:1rem;
     background-color: var(--aside-color);
 }

@@ -1,0 +1,46 @@
+header {font-weight:bold;font-size:1.5rem;}
+body {
+    font-family: Inter, Times New Roman, sans-serif
+}
+
+/* OpenUTAU theme 
+backgroundcolor #FFFFFFFF
+backgroundcolorpointerover #F0F0F0FF
+backgroudcolorpressed #E0E0E0FF
+backgroundcolordisabled #D0D0D0FF
+
+foregroundcolor #000000FF 
+foregroundcolorpointerover #000000FF
+foregroundcolorpressed #202020FF
+foregroundcolordisabled #808080FF
+
+bordercolor #707070FF
+bordercolorpointedover #B0B0B0FF
+
+systemaccentcolor #4EA6EAFF
+systemaccentcolorlight1 #90CAF9FF
+systemaccentcolordark1 #1E88E5FF
+
+neutralaccentcolor #ADA1B3FF
+neutralaccentcolorpointerover #948A99FF
+accentcolor1 #4EA6EAFF
+accentcolor2 #FF679DFF
+accentcolor3 #E62E6EFF
+
+ticklinecolor #AFA3B5FF
+barnumbercolor #AFA3B5FF
+finalpitchcolor #C0C0C0FF
+trackbackgroundaltcolor #F0F0F0FF
+
+whitekeycolorleft #FFFFFF00
+whitekeycolorright #FFFFFF00
+whitekeynamecolor #FF347CFF
+
+centerkeycolorleft #FFDDE6FF
+centerkeycolorright #FFCEDCFF
+centerkeynamecolor #FF347CFF
+
+blackkeycolorleft #FF71A3FF
+blackkeycolorright #FF347CFF
+blackkeynamecolor #FFFFFFFF
+*/

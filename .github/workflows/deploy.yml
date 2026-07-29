@@ -21,7 +21,7 @@ jobs:
     # This example uses a Node.js toolchain to build a site
     # If you don't need Node.js to build your site, you can omit this.
     - name: Use Node.js
-      uses: actions/setup-node@v4
+      uses: actions/setup-node@v6
       with:
         node-version: lts/*
     # If you have a different build process, replace this with your own build steps
