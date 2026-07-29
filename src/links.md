@@ -40,7 +40,9 @@ I love links. Here's a bunch of them. These links are all free, have little/no a
 #### Resource lists
 * [Resource list for the personal web](https://discourse.32bit.cafe/t/resources-list-for-the-personal-web/49)
 * [Resource webring](https://pixelsafari.neocities.org/webring/)
+* [ribo.zone's webcraft supplies](https://ribo.zone/free/)
 * [Rice's bookmarks](https://rice.place/bookmark.html)
+* [Shen's bookmarks](https://shens.world/bookmarks/)
 * [Mem's resource list](https://vv0ltz.neocities.org/resources)
 
 ### Templates
@@ -113,6 +115,9 @@ I love links. Here's a bunch of them. These links are all free, have little/no a
 <dt><a href="https://libraryofbabel.info/">Library of Babel</a> 
 <dd>Explore every book that could ever exist 
 
+<dt><a href="https://lipu-sona.pona.la/">lipu sona pona</a>
+<dd>Toki Pona crash course
+
 <dt><a href="https://dood.al/pinktrombone/">Pink Trombone</a> 
 <dd>Use a simulated throat and mouth to create weird sounds
 
@@ -121,8 +126,8 @@ I love links. Here's a bunch of them. These links are all free, have little/no a
 ### Lists of lists of lists
 <dl>
 
-<dt><a href="https://theuselessweb.com">The Useless Web</a> 
-<dd>Classic time-waster
+<dt><a href="https://jamesland.org/">Jamesland</a>
+<dt>Old flash games, preserved. Not mobile compatible
 
 <dt><a href="https://itch.io/games/free/platform-web">Sorting itch.io by free browser games</a>
 
@@ -131,6 +136,10 @@ I love links. Here's a bunch of them. These links are all free, have little/no a
 
 <dt><a href="https://ncase.me">ncase.me</a>
 <dd>Educational, fun interactive articles that are easy to understand. Also see <a href="https://explorabl.es/">Explorable Explorations</a> for similar articles
+
+<dt><a href="https://theuselessweb.com">The Useless Web</a> 
+<dd>Classic time-waster
+
 </dl>
 
 ### Music
@@ -241,6 +250,15 @@ Games that change their answer every day and end in "-le"
 ## Utility
 <dl>
 
+<dt><a href="https://dithermark.com/">Dither Mark</a>
+<dd>Pixel ditherer
+
+<dt><a href="https://doodad.dev/dither-me-this/">Dither Me This</a>
+<dd>Pixel dithererer
+
 <dt><a href="https://jpeg.wavebeem.com/">JPEG Zone</a>
 <dd>Deep fried JPEG generator
+
+<dt><a href="https://squoosh.app/">Squoosh</a>
+<dd>Image compressor
 </dl>

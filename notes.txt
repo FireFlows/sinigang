@@ -124,6 +124,7 @@ https://pixelsafari.neocities.org/webring/
 https://vv0ltz.neocities.org/resources
 https://paintbbs.sakura.ne.jp/poti/
 https://web.archive.org/web/20250806115336/https://drawbox.nekoweb.org/
+https://htmlcheatsheet.com/
 
 11ty specific resources
 https://petrapixel.neocities.org/coding/eleventy-tutorial#
