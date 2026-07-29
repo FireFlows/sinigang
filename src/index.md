@@ -18,7 +18,7 @@ I'm still working on website updates. I added dark mode and a more robust links 
 Honestly, dark mode might look better than light mode LOL.
 
 **Feeling**: happy!  
-**Playing**: Deltarune Ch.5, Pronoun Palace, Tsukihime
+**Playing**: Deltarune Ch.5, Pronoun Palace, Tsukihime  
 **Reading**: various articles, people's personal blogs  
 **Watching**: various YouTube videos  
 **Listening**: See below!  

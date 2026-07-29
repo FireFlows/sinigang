@@ -9,7 +9,7 @@ My main interests are vocal synthesis, video games, and linguistics. In my free 
 
 My native language is English. I can speak some Japanese, and bits and pieces of Chinese. I can read Hangeul, but I don't really know Korean. In the future, I want to be a linguistics major and translator of Japanese.
 
-Also check out my [answers to 100 webmaster questions](100q.html). And my answers to [100 more webmaster questions](assets/100q2.txt) (this is a .txt file for now because I'm too lazy to format it for real. Sorry.)
+Also check out my [answers to 100 webmaster questions](100q.html). And my answers to [100 more webmaster questions](assets/txt/100q2.txt) (this is a .txt file for now because I'm too lazy to format it for real. Sorry.)
 
 ## About the Website
 I made this website as a space away from social media. As a bonus, it will be the (eventual) hosting site of my UTAU. <span class="nomobile">BTW: the picture on the left is a drawing I did of my UTAU.</span> 
