@@ -5,8 +5,7 @@
 {% set comma = joiner() %}
 {% for tag in tags -%}
 {{ comma() }} <a href="../../posts.html#{{ tag }}">#{{ tag }}</a></span>
-{%- endfor %} | {{ date.toDateString() }}
-
+{%- endfor %} 
 </p>
 	{{ content | safe }}
 {% endblock %}

@@ -9,6 +9,7 @@ CHANGELOG
     - inter header font; noto sans jp kept for main font
     - on /utau/: inter
 - other minor changes
+- new blog post 
 
 2026/07/28 
 - changelog created!
