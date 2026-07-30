@@ -29,6 +29,7 @@ I love links. Here's a bunch of them. These links are all free, have little/no a
 * [Eleventy](https://www.11ty.dev/)
     * [Learn Eleventy](https://learneleventy.dev)
 * [HTML for people](https://htmlforpeople.com)
+* [Josh W. Comeau's website](https://www.joshwcomeau.com/)
 * [MDN Web Docs](https://developer.mozilla.org/)
 * [Native Neocities hit counter](https://dannarchy.com/tut/tut_002)
     * I used a slightly modified version of this code for the footer.
