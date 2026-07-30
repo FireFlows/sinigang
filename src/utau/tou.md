@@ -2,42 +2,25 @@
 title: "UTAU Terms of Use"
 layout: "utaumain.html"
 ---
-<h2>OK:</h2>
-<h3>Character/Illustration</h3>
 
-- R18/R18G works;
-- using illustrations for social media icons, banners, etc.
-- changing outfit, species, gender, etc.;
-- disregarding the biography entirely and doing your own thing;
-- shippings/pairings;
-- creating personal merchandise (not selling)
-<h3>Voicebank</h3>
+## What's okay
+As long as you are acting in good faith, pretty much anything is allowed. Don't be an asshole. Follow the [golden rule](https://en.wikipedia.org/wiki/Golden_Rule). Give credit where credit is due. 
 
-- modifying the oto.ini/audio/frq files;
-- creating covers/original work;
-  - please give clear credit to my voicebank
-- use outside of singing (talking)
+Monetization of your own work (original songs, CDs, fanart) is fine.
 
-<h2>NG:</h2>
-<h3>Character/Illustration</h3>
+Small, personal, one-off merchandise with official art is fine.
 
-- putting my illustrations into generative AI;
-- creating/selling mass-produced merchandise
+## What's not okay
+Do not use my voicebank in songs made with generative AI (lyrics/instrumental/composition) or videos with AI generated images/videos. 
 
-<h3>Voicebank</h3>
+Please don't redistribute my voicebank. The latest version of my voicebank is always on my website.
 
-- use in songs made with generative AI;
-- use in videos with AI-generated images;
-- redistributing 
-    - if distribution has officially ended, ignore this and redistribute all you want!
+If I (for some reason) take down the voicebank download, ignore the second paragraph.
 
-<h2>Maybe (ask me first):</h2>
+Do not sell my official art.
 
-- using my voicebank/illustrations commercially;
-- selling merchandise 
-    - because I would like some too
-    - no, seriously, I'll pay for shipping and everything.
+Do not mass-produce merchandise.
 
-In general, please act in good faith. As long as you aren't being intentionally malicious or harmful, you may use my UTAU as you would like.
+## That's all
 
-If you have any questions, or you're unsure if your actions constitute as good faith or not, please [contact me](../elsewhere.html).
+Questions? Concerns? Comments? Hatemail? [Send me a message](/elsewhere.html).

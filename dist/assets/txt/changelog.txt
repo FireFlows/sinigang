@@ -10,6 +10,7 @@ CHANGELOG
     - on /utau/: inter
 - other minor changes
 - new blog post 
+- added some style to /utau/
 
 2026/07/28 
 - changelog created!

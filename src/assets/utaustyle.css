@@ -1,10 +1,50 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Noto+Sans+JP:wght@100..900&display=swap');
 
-header {font-weight:bold;font-size:1.5rem;}
+body{
+    padding:6.75rem;
+}
+header {
+    font-weight:bold;font-size:1.5rem;
+    padding:.5rem;
+}
+h1 {
+    background-color: #FF679DFF;
+    text-indent:.5rem;
+}
+h2 {
+    border-bottom: 3px dashed #4EA6EAFF;
+}
 body {
     font-family: Inter, Times New Roman, sans-serif
 }
+a {
+    color: #E62E6EFF;
+}
+nav {
+    font-size: 1.125rem;
+    display:flex;
+    flex-wrap:wrap;
+    font-weight:bold;
+    background-color:#1E88E5FF ;
 
+    a {
+        text-decoration:none;
+        color:black;
+        padding:.5rem;
+    }
+    a:hover {
+        color:#FFF;
+    }
+}
+footer {
+    text-align:center;
+}
+img {padding:1.5rem;}
+@media screen and (max-width: 800px) {
+    body {
+    padding:1.5rem;
+}
+}
 /* OpenUTAU theme 
 backgroundcolor #FFFFFFFF
 backgroundcolorpointerover #F0F0F0FF

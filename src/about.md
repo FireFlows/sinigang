@@ -12,9 +12,9 @@ My native language is English. I can speak some Japanese, and bits and pieces of
 Also check out my [answers to 100 webmaster questions](100q.html). And my answers to [100 more webmaster questions](assets/txt/100q2.txt) (this is a .txt file for now because I'm too lazy to format it for real. Sorry.)
 
 ## About the Website
-I made this website as a space away from social media. As a bonus, it will be the (eventual) hosting site of my UTAU. <span class="nomobile">BTW: the picture on the left is a drawing I did of my UTAU.</span> 
+I made this website on August 18, 2020 for reasons that are beyond me. I left it alone for six years, and then picked it back up in February of 2026 because I was bored and wanted a space away from social media. I abandoned it for a few more months and came back again in July 2026, so I could host my UTAU here (pending).
 
-While I didn't use generative AI to create this website (code, writing, art done by me or sourced from humans), by virtue of being on the internet I use some form of genAI daily. Even if I try my best to avoid it (which I do). We're all going to hell. 
+While I didn't use generative AI to create this website (code, writing, art done by me or sourced from humans), genAI is forced on me daily by virtue of being on the internet. Despite trying my best to avoid it. We're all going to hell. 
 
 My website is "licensed" under [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en).
 

@@ -2,12 +2,9 @@
 title: "Welcome"
 layout: "utaumain.html"
 ---
-Hi.
+<img src="/assets/img/gurt.png" style="float:right" alt ="A crudely drawn image of my UTAU">
 
-Sorry about the lack of CSS. I'll get to it.
+Welcome to the UTAU section of my website! While my voicebank has not been created yet, I wanted to get my website working so I could host them when I'm finished with them.
 
-I didn't like the dropdown menu that much so I gave utau its own home page
+Currently, I'm nearly finished with the Japanese VCV voicebank.
 
-**Please add some CSS my eyes are fucking burning**
-
-Every time you ask me to add css I won't add css for one more day
