@@ -1,10 +1,17 @@
 ### 
 CHANGELOG
+If multiple edits are made 
+at different times in the day
+in the same day,
+I append the later update 
+Dates are YYYY/MM/DD
 ###
 
 2026/07/30
 - centered text
 - removed sticky navbar from mobile. Sorry. it was kinda ugly 
+- a few more links to /links.html
+    - I also changed "artificial intelligence" > "generative artifical intelligence"
 
 2026/07/29
 - fixed dark mode flicker
