@@ -11,7 +11,7 @@
     --color-6:#B9BBCB;
 }
 body{
-    margin-left:14rem;
+    margin-left:5rem;
     margin-right:14rem;
     margin-top:2rem;
     background-color: var(--bg-color);
@@ -69,6 +69,7 @@ body {
         ". footer footer";
     grid-template-columns: 1fr 2fr 3fr;
     overflow:visible;
+    font-size:1rem;
 
 }
 header{
@@ -172,13 +173,13 @@ mobile
 */
 @media screen and (max-width:1200px){
     body {
-        margin-left:5rem;
+        margin-left:1.5rem;
         margin-right:5rem;
     }
 }
 @media screen and (max-width:900px){
     body{
-        margin-left:2.5rem;
+        margin-left:.125rem;
         margin-right:2.5rem;
     }
 }
@@ -198,7 +199,6 @@ mobile
         margin:0;
   }
   header {
-    position:sticky;
     top:0;
     padding-top:.75rem;
   }
@@ -212,6 +212,7 @@ mobile
 }
   aside {
     margin:0;
+    position: initial;
     top:3.75rem;
     ul {
         display:flex;

@@ -2,6 +2,10 @@
 CHANGELOG
 ###
 
+2026/07/30
+- centered text
+- removed sticky navbar from mobile. Sorry. it was kinda ugly 
+
 2026/07/29
 - fixed dark mode flicker
     - changed dark mode from two buttons to one button that switches text depending on whether your theme is dark or light mode
