@@ -192,6 +192,9 @@ Games that change their answer every day and end in "-le"
 <dt><a href="https://dumby.neocities.org/casino">Dumby's Casino</a> 
 <dd>Let's go gambling!!
 
+<dt><a href="https://www.coderelay.io/fontemon.html#player">Fontemon</a>
+<dd>The World's First Video Game in a Font. Pokemon fan game
+
 <dt><a href="https://littlealchemy.com/">Little Alchemy</a>
 <dd>Merge elements to make more elements
 

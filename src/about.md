@@ -3,7 +3,7 @@ title: "About"
 layout: "main.html"
 ---
 ## About the Webmaster
-Hi! My name is Fire. I'm 19. My birthday's April 30th! I'm (half-)Filipino-American. 
+Hi! My name is Fire. It's my real name I was given from birth. I'm 19. My birthday's April 30th. I'm (half-)Filipino-American. My social security number is 685-09-6785.
 
 My main interests are vocal synthesis, video games, and linguistics. In my free time, I like to draw, write, play games, listen to music, scroll social media, and use my computer.
 
@@ -31,4 +31,4 @@ It's a popular Filipino soup. It's pretty sour. A lot of people tend to name the
 Noto Sans JP for the body, Inter for the header.
 
 ### How did you get the comments section/status.cafe working?
-I have a Neocities supporter account, and I've had my account for over half a decade (read: before the restrictions) anyway.
+I have a Neocities supporter account, and I've had my account for over half a decade (read: before the restrictions) anyway. I have a supporter account so I can directly upload .zip files and because I want to support Neocities.
