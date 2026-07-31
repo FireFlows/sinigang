@@ -266,6 +266,9 @@ Games that change their answer every day and end in "-le"
 <dt><a href="https://doodad.dev/dither-me-this/">Dither Me This</a>
 <dd>Pixel dithererer
 
+<dt><a href="https://drawabox.com/">Draw a Box</a>
+<dd>Beginner's drawing course
+
 <dt><a href="https://jpeg.wavebeem.com/">JPEG Zone</a>
 <dd>Deep fried JPEG generator
 

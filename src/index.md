@@ -29,6 +29,21 @@ Honestly, dark mode might look better than light mode LOL.
 
 <div id="statuscafe"><div id="statuscafe-username"></div><div id="statuscafe-content"></div></div>
 
+## Adoptable
+<div style="width: 200px; height: 350px;">
+<script src="https://ritual.sh/js/adoptables/lavalamp.js"
+        data-bg-color-1="#cc60f4"
+        data-bg-color-2="#f30c74"
+        data-blob-color-1="#4a06ff"
+        data-blob-color-2="#ff46df"
+        data-case-color="#333333"
+        data-blob-count="6"
+        data-speed="1.0"
+        data-blob-size="1.0"></script>
+</div>
+
+Adopted from [ritual.sh](https://ritual.sh/resources/adoptables)
+
 ## Comments
 Questions? Thoughts? Anything you want to tell me? You can tell me here. [Manually moderated](https://frills.dev/blog/231023-add-moderation-to-comment-widget/).
 

@@ -7,6 +7,10 @@ I append the later update
 Dates are YYYY/MM/DD
 ###
 
+2026/07/31
+- added link
+- added adoptable
+
 2026/07/30
 - centered text
 - removed sticky navbar from mobile. Sorry. it was kinda ugly 
