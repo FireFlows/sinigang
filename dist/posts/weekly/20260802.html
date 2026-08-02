@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Week of July 26</title>
+	<meta charset="UTF-8"> 
+	<link rel="stylesheet" href="/assets/style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<script src="/assets/js/theme.js"></script>
+</head>
+	<body>
+		<header>
+<span style="font-weight:700; font-size:1.75rem;">sinigang.neocities.org</span>
+		</header>
+	<aside>
+		<a href="/utaumedia.html" style="border:none"><img src="/assets/img/avatar.png" height="250" class="nomobile" alt="A drawing of my UTAU."></a>
+		<span class="nomobile"><br>My current time: <br><span id="local-time-main"></span>
+		<br><span id="local-time-extra"></span></span>
+			<nav>
+			<ul>
+				<li><a href="/" class="navi"><span aria-hidden="true">★ </span>Home</a></li>
+				<li><a href="/about.html" class="navi"><span aria-hidden="true">★ </span>About</a></li>
+				<li><a href="/utau.html" class="navi"><span aria-hidden="true">★ </span>UTAU</a></li>
+				<li><a href="/posts.html" class="navi"><span aria-hidden="true">★ </span>Posts</a></li>
+				<li><a href="/elsewhere.html" class="navi"><span aria-hidden="true">★ </span>Elsewhere</a></li>
+				<li><a href="/links.html" class="navi"><span aria-hidden="true">★ </span>Links</a></li>
+			</ul>
+		</nav>
+	</aside>
+	<main> 
+		
+	<h1>Week of July 26</h1>
+    <p>Filed under: 
+
+ <a href="../../posts.html#weekly">#weekly</a></span> 
+</p>
+	<p>It's that time again, right!? It's Sunday.</p>
+<p>Really, I don't know why I started doing this, because my life is not that interesting and most weeks nothing notable happens: this week was another one of those weeks.</p>
+<p>I worked on my website, and got it to an acceptable condition, and then just dicked around for the remainder of the week. I still haven't implemented the &quot;random Vocaloid song I like from my playlist of Vocaloid songs I like&quot; feature.</p>
+<p>I don't know Javascript.</p>
+<p>I guess I should learn Javascript. HTML and CSS aren't too difficult, but they're hard for me. Before I started working on my website, I only had limited knowledge on HTML and CSS. I would say I know a lot more now, but do I know a lot? Ehhh... not really.</p>
+<p>College starts back up again in two weeks. Ah... fourteen days left of summer vacay. I'm scared! I hope I can do well this time around!</p>
+<p>Art Fight is ending today, which makes me a little sad. I didn't end up drawing as much as I liked, because I lost my Apple Pencil in the middle of it. While I bought a new one, I was still struck with sadness and bad hand cramps. I drew a lot, though. And I got a lot of attacks! (11, to be specific. Wow!) I think I will make a bigger blog post about Art Fight sometime in the near future.</p>
+<p>I am very very very very close to finishing my UTAU's VCV, and when I'm done I'll probably do the Japanese CVVC and then the English CVVC... the VCV already took like three months but hopefully, since I know what I'm doing now, the other two voicebanks won't take as long? Yeah...yeah.</p>
+<p>Additionally, I was thinking about making a game. I've always wanted to make a game, but I've never sat down and made one. Well, technically, I used to do block coding in elementary and middle school, but that's obviously different than real coding.</p>
+<p>With my UTAU, website, and now potential game, I've been obsessed with doing little projects to keep myself busy. It's better than doomscrolling, though, right?</p>
+<p>I still end up doomscrolling a lot. Whatever.</p>
+<p>Anyway. Like, I was thinking about making a visual novel. A yandere visual novel. I absolutely love yandere characters.</p>
+<p>For some reason, even though I've never heard of a lot of them, there are a ton of (extremely popular, thousands of ratings) yandere visual novels on itch.io. Male yanderes. I was very inspired by this. I thought, &quot;if everyone else is doing it, maybe I should give it a shot, too!&quot;</p>
+<p>Unfortunately, I'm not much of an ideas guy, so coming up with the story might be hard, but I want to do it. Imagine: my very own yandere BL story. Oh sorry it'd probably be a BL or at least with an ambiguously gendered protagonist.</p>
+<p>I don't know. I'll see. We'll see.</p>
+<p>Goals:</p>
+<ul>
+<li>I want to continue working on my voicebank</li>
+<li>Perhaps I can figure out how to display a random video from my YouTube playlist</li>
+<li>I want to start developing a game concept</li>
+<li>I want to learn how Ren'Py works</li>
+<li>I want to read a bunch of visual novels to get more inspiration</li>
+</ul>
+<p>... these aren't really for next week, just in general. Hopefully I'm not too busy when school starts.</p>
+<p>See you next week.</p>
+
+
+	</main>
+	<footer>
+		by Fire 2020 - ∞ | <a href="#">Top</a> | <a href="https://github.com/FireFlows/sinigang">GitHub repo</a> | 
+	<button id="theme-selector" onclick="toggle()">
+		Toggle theme
+		</button>
+		<br>Page last updated: <span id="lu"></span><br>
+		Site last updated: <span id="wlu"></span>
+	</footer>
+
+<script>
+	function getTime() {
+    const now = new Date();
+
+    const etFormatter = new Intl.DateTimeFormat('en-US', {
+        timeZone: 'America/New_York',
+        hour: '2-digit',
+        minute: '2-digit',
+        second: '2-digit',
+        hour12: true,
+        timeZoneName: 'short'
+    });
+
+    const parts = etFormatter.formatToParts(now);
+
+    let timeStr = "";
+    let tzName = "";
+
+    for (const p of parts) {
+        if (p.type !== "timeZoneName") {
+            timeStr += p.value;
+        } else {
+            tzName = p.value;
+        }
+    }
+
+    const laTime = new Date(now.toLocaleString("en-US", { timeZone: "America/New_York" }));
+    const localTime = new Date();
+
+    document.getElementById('local-time-main').textContent = `${timeStr} ${tzName}`;
+}
+setTheme();
+getTime();
+setInterval(getTime, 1000);
+</script>
+<script src="/assets/js/footer.js"></script>
+</body>
+</html>

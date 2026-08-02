@@ -7,6 +7,9 @@ I append the later update
 Dates are YYYY/MM/DD
 ###
 
+2026/08/02
+- new blog post (weekly update)
+
 2026/07/31
 - added link
 - added adoptable
