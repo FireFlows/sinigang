@@ -27,8 +27,5 @@ My website is "licensed" under [CC0](https://creativecommons.org/publicdomain/ze
 ### Sinigang?
 It's a popular Filipino soup. It's pretty sour. A lot of people tend to name themselves after food, so I wanted to try that too.
 
-### What's that font you're using?
-Noto Sans JP for the body, Inter for the header.
-
 ### How did you get the comments section/status.cafe working?
 I have a Neocities supporter account, and I've had my account for over half a decade (read: before the restrictions) anyway. I have a supporter account so I can directly upload .zip files and because I want to support Neocities.

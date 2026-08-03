@@ -9,6 +9,8 @@ Dates are YYYY/MM/DD
 
 2026/08/02
 - new blog post (weekly update)
+- added to accessibility.html
+- font changes
 
 2026/07/31
 - added link

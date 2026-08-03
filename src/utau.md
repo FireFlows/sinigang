@@ -8,3 +8,5 @@ Welcome to the UTAU section of my website! While my voicebank has not been creat
 
 Currently, I'm nearly finished with the Japanese VCV voicebank.
 
+### Can you please please please make a dark mode I was on dark mode before and I just got flashbanged please
+Nah

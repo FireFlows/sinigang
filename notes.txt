@@ -57,13 +57,6 @@ WALL OF LINKS
 Hand-curated list of links related to different topics.
 #################
 
-note: add ## utility
-https://sindexmon.github.io/decache/
-https://nitter.net 
-https://entropymine.com/imageworsener/
-https://jpeg.wavebeem.com/
-
-add ### art
 - wiggly paintb
 magma 
 whiteborad fox
@@ -126,15 +119,6 @@ https://vv0ltz.neocities.org/resources
 https://paintbbs.sakura.ne.jp/poti/
 https://web.archive.org/web/20250806115336/https://drawbox.nekoweb.org/
 https://htmlcheatsheet.com/
-
-11ty specific resources
-https://petrapixel.neocities.org/coding/eleventy-tutorial#
-https://learneleventy.dev/
-https://cassey.dev/converting-an-html-file-to-eleventy/
-https://11tybundle.dev/categories/getting-started/
-https://cfjedimaster.github.io/eleventy-blog-guide/guide.html
-https://brennan.day/deploying-an-eleventy-site-to-neocities-with-gitlab-ci-cd/
-https://flamedfury.com/guides/11ty-homepage-neocities-2026/
 
 misc
 

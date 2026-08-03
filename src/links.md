@@ -6,8 +6,11 @@ layout: "main.html"
     dt{line-height:1.55rem;}
 
 </style>
+<span aria-hidden="true">
+
 *Also see: [/utau/resources.html](/utau/resources.html)*  
-*Also see: [/posts/accessibility.html](/posts/accessibility.html)*
+*Also see: [/posts/accessibility.html#links](/posts/accessibility.html#links)*
+</span>
 
 I love links. Here's a bunch of them. These links are all free, have little/no ads, are browser-based, and are mobile compatible unless stated otherwise. And are hand-curated lovingly. by me
 
@@ -37,6 +40,7 @@ I love links. Here's a bunch of them. These links are all free, have little/no a
 * [Styling external links, yea or nay?](https://mina86.com/2026/styling-external-links/)
 * [w3 markup validation service](https://validator.w3.org/)
 * [w3schools](https://www.w3schools.com/html/)
+* [Widget Star](https://widget.st)
 
 #### Resource lists
 * [Resource list for the personal web](https://discourse.32bit.cafe/t/resources-list-for-the-personal-web/49)
