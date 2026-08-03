@@ -9,6 +9,9 @@ Dates are YYYY/MM/DD
 
 2026/08/03
 - new post (art fight retrospective)
+- better categorization
+- added links to elsewhere.html (just status.cafe)
+- changed font again (I'm trying to see what looks the best so bear with me)
 
 2026/08/02
 - new blog post (weekly update)

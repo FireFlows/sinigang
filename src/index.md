@@ -45,8 +45,7 @@ Honestly, dark mode might look better than light mode LOL.
 Adopted from [ritual.sh](https://ritual.sh/resources/adoptables)
 
 ## Comments
-Questions? Thoughts? Anything you want to tell me? You can tell me here. [Manually moderated](https://frills.dev/blog/231023-add-moderation-to-comment-widget/).
-
+Leave a comment here.
 <div id="c_widget"></div>
 <script src="/assets/js/comment-widget.js"></script>
 <script src="https://status.cafe/current-status.js?name=fire" defer></script>

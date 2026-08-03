@@ -3,7 +3,7 @@ title: "Accessibility"
 layout: "post.html"
 date: 2026-08-02
 tags: 
-    - random
+    - pinned
 ---
 I like to browse personal websites on Neocities. But sometimes, when I click on a website, it shows me a warning like:
 

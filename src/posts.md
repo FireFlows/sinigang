@@ -4,11 +4,19 @@ layout: "main.html"
 ---
 My posts! Listed in reverse chronological order. 
 
-<h2 id ="random">Random</h3>
-I couldn't fit any of these into any category.
+<h2 id="pinned">Pinned</h2>
+Living documents. Note: the date besides each post is the date the post was last modified, not when it was created.
 <ul>
-{%- for random in collections.random | reverse -%}
-  <li><a href="{{ random.url }}"> {{ random.data.title }}</a> <span style="font-size:.7rem;">({{ random.date.toDateString() }})</span></li>
+{%- for pinned in collections.pinned | reverse -%}
+  <li><a href="{{ pinned.url }}"> {{ pinned.data.title }}</a> <span style="font-size:.7rem;">({{ pinned.date.toDateString() }})</span></li>
+{%- endfor -%}
+</ul>
+
+<h2 id="personal">Personal</h2>
+My thoughts and such
+<ul>
+{%- for personal in collections.personal | reverse -%}
+  <li><a href="{{ personal.url }}"> {{ personal.data.title }}</a> <span style="font-size:.7rem;">({{ personal.date.toDateString() }})</span></li>
 {%- endfor -%}
 </ul>
 
