@@ -8,7 +8,8 @@ Dates are YYYY/MM/DD
 ###
 
 2026/08/04
-- new blog post
+- new post
+- more links in links.html (#generative artificial intelligence)
 
 2026/08/03
 - new post (art fight retrospective)
@@ -17,7 +18,7 @@ Dates are YYYY/MM/DD
 - changed font again (I'm trying to see what looks the best so bear with me)
 
 2026/08/02
-- new blog post (weekly update)
+- new post (weekly update)
 - added to accessibility.html
 - font changes
 
