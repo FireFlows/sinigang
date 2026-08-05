@@ -7,6 +7,9 @@ I append the later update
 Dates are YYYY/MM/DD
 ###
 
+2026/08/04
+- new blog post
+
 2026/08/03
 - new post (art fight retrospective)
 - better categorization
