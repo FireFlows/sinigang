@@ -9,6 +9,8 @@ Welcome to my humble abode.
 
 This website does not house and will never house NSFW content, but it is ran by an adult (me) so please exercise caution (especially in places where I end up talking too much).
 
+The page last updated/site last updated footer unfortunately makes it impossible to implement cache-busting. (And I'm keeping it because it's very cool.) If there's been a new update, and it's showing an older date, I recommend spamming CTRL+SHIFT+R until it works. LOL.
+
 <span class="showmobile">All times are in [Eastern](https://time.is/ET).</span>
 
 ## Now
@@ -39,7 +41,8 @@ Honestly, dark mode might look better than light mode LOL.
         data-case-color="#333333"
         data-blob-count="6"
         data-speed="1.0"
-        data-blob-size="1.0"></script>
+        data-blob-size="1.0">
+</script>
 </div>
 
 Adopted from [ritual.sh](https://ritual.sh/resources/adoptables)
