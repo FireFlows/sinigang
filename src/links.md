@@ -131,6 +131,7 @@ I love links. Here's a bunch of them. These links are all free, have little/no a
 
 ### Lists of lists of lists
 <dl>
+<dt><a href="https://rentry.co/tumblr-webgames">Browser Games, Interactive Fiction, Tools & More </a>
 
 <dt><a href="https://jamesland.org/">Jamesland</a>
 <dd>Old flash games, preserved. Limited mobile compatibility
@@ -292,3 +293,8 @@ Games that change their answer every day and end in "-le"
 <dt><a href="https://squoosh.app/">Squoosh</a>
 <dd>Image compressor
 </dl>
+
+## Misc
+
+<dt><a href="https://genderdysphoria.fyi/en/">That's Gender Dysphoria, FYI / The Gender Dysphoria Bible</a>
+<dd>An in-depth look into gender dysphoria.

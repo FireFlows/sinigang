@@ -15,17 +15,9 @@ The page last updated/site last updated footer unfortunately makes it impossible
 
 ## Now
 
-I'm still working on website updates. I added dark mode and a more robust links section. Additionally, I removed the dropdown from the UTAU button and it now redirects to a new thing. How fun. 
+Drawing a bunch of stuff!
 
-Honestly, dark mode might look better than light mode LOL.
-
-**Feeling**: happy!  
-**Playing**: Deltarune Ch.5, Pronoun Palace, Tsukihime  
-**Reading**: various articles, people's personal blogs  
-**Watching**: various YouTube videos  
-**Listening**: See below!  
-
-20260728
+20260917
 
 ## status.cafe widget
 

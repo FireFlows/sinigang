@@ -7,6 +7,9 @@ I append the later update
 Dates are YYYY/MM/DD
 ###
 
+2026/09/17
+- links, weekly posts, etc.
+
 2026/08/09
 - new post
 - added link (#generative artificial intelligence)
