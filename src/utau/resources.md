@@ -46,24 +46,7 @@ Some links are only available in Japanese and will be marked with (JA).
 * [UTAU Wiki 3.0](https://utau.wiki/wiki/Main_Page)
 * [VocaDB](https://vocadb.net)
     * Distribution websites are usually linked on the voicebank's page.
-#### UTAU websites I like
 
-* [avogado6's website](https://avogado6.wixsite.com/calogado) (JA)
-    * Calogado, Mayoi Heki, ~~Calloon~~ (private voicebank)
-* [Eirina Hamono's website](https://piku.page/@eiri7hamono/home) (JA)
-    * Imibe Kodzuka, Motu, Tiyo, Kappa
-* [Kuroiwa Shuuta's website](https://satoishiyuka.wixsite.com/satoishi) (JA)
-    * Satoishi Yuka    
-* [KUZUTOKAZE's website](https://kurukuru2suuzi.wixsite.com/kuzutokaze)
-    * Gekiyaku, Kazehiki, Kuzuda Yone, Kuzuda Rou, Namae Shirezu, Nedjem, Choubi Chii
-* [missile39's website](https://mechanicalgirl.jp) (JA)
-    * Adachi Rei, Tsukumo Shion
-* [SuteinuA's website](https://krnr.top/) (JA)
-    * Nurse Robot Type T, Dr. Dareka, Inchou-san
-* [twindrill's website](https://kasaneteto.jp/utau) (JA)
-    * Kasane Teto
-* [Utane Uta's website](https://utaneuta.utau-synth.com/index.html) (JA)
-    * This is the website for the *character* Utane Uta. To get her voicebank, you have to install UTAU. 
 ### Discussion
 * [r/utau](https://www.reddit.com/r/utau/)
 * [UtaForum](https://utaforum.net/)
