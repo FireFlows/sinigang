@@ -49,7 +49,7 @@ Some links are only available in Japanese and will be marked with (JA).
 
 ### Discussion
 * [r/utau](https://www.reddit.com/r/utau/)
-* [UtaForum](https://utaforum.net/)
+* [UtaForum](https://utau.forum)
 
 <!---
 https://bowlroll.net/file/203027
