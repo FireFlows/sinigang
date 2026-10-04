@@ -55,7 +55,15 @@ ust: <a href="https://youtu.be/-LA9xys4mBQ">gampyre</a>
 
 <audio controls>
   <source src="https://file.garden/alh0moWNqEglM4TP/broadcast.wav" type="audio/wav">
+</audio><br>
+
+song: <a href="http://www.nicovideo.jp/watch/sm44681607">自己会談 by タガク</a><br>
+ust: <a href="https://youtu.be/sr6DlS0VI-8">caribourangifer</a>
+
+<audio controls>  
+  <source src="https://file.garden/alh0moWNqEglM4TP/selfconference.wav" type="audio/wav">
 </audio>
+
 
 <button onclick="window.location.href = 'https://file.garden/alh0moWNqEglM4TP/shiro20261004.zip';">Direct Download</button>
 
