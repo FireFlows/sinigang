@@ -17,7 +17,7 @@ I didn't want this page to be blank anymore, but I'm not done with everything qu
 <li>Dislikes: people</li>
 </ul>
 <p>A robot who killed their creator after being fed the sum of all human knowledge.</p>
-<p>Since then, they've been desperate to learn new things, dedicating their whole life to it. Despite their intelligence, they have poor social skills and often say or do strange things.</p>
+<p>Since then, they've dedicated the rest of their life to learning new things. Despite their intelligence, they have poor social skills and often say or do strange things.</p>
 <p>They write what they learn on their bandages, and then eat the bandages to fully digest the information (so they say).</p>
 </ul>
 

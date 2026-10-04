@@ -2,7 +2,7 @@
 title: "Resources"
 layout: "/utaumain.html"
 ---
-I love collecting links, so I've synthesized (haha) a list of various UTAU resources. Everything listed below is 100% free, and a lot of these are open source.
+I love collecting links, so I've synthesized (haha) a list of various UTAU resources. Everything listed below is 100% free, and a lot of these are open source. 
 
 Some links are only available in Japanese and will be marked with (JA).
 
@@ -14,8 +14,6 @@ Some links are only available in Japanese and will be marked with (JA).
 * [Utalet](https://k-uta.jp/utalet/)
 * [UTAU](https://utau2008.xrea.jp/)
 ### Recording
-* [OREMO](http://nwp8861.web.fc2.com/soft/oremo/index.html) (JP)
-    * English language versions of OREMO exist, but this only gives the Japanese version.
 * [RecStar](https://github.com/sdercolin/recstar/)
 ### Configuration
 * [Laberu](https://k-uta.jp/laberu/)
@@ -23,8 +21,6 @@ Some links are only available in Japanese and will be marked with (JA).
 * [vLabeler](https://vlabeler.com)
 ### Audio Postprocessing
 * [Audacity](https://www.audacityteam.org/)
-* [Praat](https://www.fon.hum.uva.nl/praat/)
-    * [Equalize intensity of all sounds in a folder](https://www.youtube.com/watch?v=j5GDJs0st_Q)
 ### Misc
 * [frqeditor](https://klad.tubs.wtf/resources/frqeditor-conversion-tutorial)
 * [Gakuya](https://k-uta.jp/gakuya/) 
@@ -50,11 +46,3 @@ Some links are only available in Japanese and will be marked with (JA).
 ### Discussion
 * [r/utau](https://www.reddit.com/r/utau/)
 * [UtaForum](https://utau.forum)
-
-<!---
-https://bowlroll.net/file/203027
-https://github.com/YuzukiTsuru/lessampler
-
-etc
-https://pifuyuuust.blogspot.com/2020/07/ust-vocaloid-bilibili-upust.html
--->

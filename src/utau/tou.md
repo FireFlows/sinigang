@@ -18,7 +18,7 @@ Yes.
 Sure, just be nice.
 
 ### Can I edit the oto/frq/audio files?
-I can't stop you, so go ahead.
+Yes. Especially because my otoing is terrible.
 
 ### Can I change their clothes/hair/gender/species/etc?
 Yeah that's fine.
