@@ -27,14 +27,14 @@ layout: "utaumain.html"
 * Recommended resampler: wn4u
 * Voice/oto/illust: Fire
 
-(direct download) <- TBA>
+(direct download) <- TBA
 
 <audio controls>
-  <source src="/assets/wav/sample.wav" type="audio/wav">
+  <source src="https://file.garden/alh0moWNqEglM4TP/sample.wav" type="audio/wav">
 </audio><br>
 
 <audio controls>
-   <source src="/assets/wav/debitbit.wav" type="audio/wav">
+   <source src="https://file.garden/alh0moWNqEglM4TP/debitbit.wav" type="audio/wav">
 </audio>
 
 song/ustx: <a href="https://www.nicovideo.jp/watch/sm46705438">デビットビット by アボガド6</a>
