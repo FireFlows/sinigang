@@ -62,7 +62,7 @@ EN CVVC
 <li><a href="https://www.tumblr.com/fire7541/tagged/utaulog">Development logs (on Tumblr)</a></li>
 <li><a href="https://artfight.net/character/9677619.hanabi-shiro">Art Fight profile</a></li>
 </ul>
-<h2><h2><ruby>花火<rt>はなび</rt></ruby>クロ / Hanabi Kuro</h2> </h2>
+<h2><ruby>花火<rt>はなび</rt></ruby>クロ / Hanabi Kuro</h2> </h2>
 <h3>Character Information</h3>
 
 * Birthday: July 22
