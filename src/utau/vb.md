@@ -2,12 +2,14 @@
 title: "Voicebanks"
 layout: "utaumain.html"
 ---
+I didn't want this page to be blank anymore, but I'm not done with everything quite yet... please wait a *little* bit longer... I will be adding download links and cute little portraits in the near future...
+
 <h2><ruby>花火<rt>はなび</rt></ruby>シロ / Hanabi Shiro</h2> 
 <img align="right" style="padding:1rem;" src="assets/img/rei.png">
 <h3>Character Information</h3>
 <ul>
 <li>Birthday: March 14th</li>
-<li>Height: usually around 5'3 in (160cm).</li>
+<li>Height: 5'3 in (160cm).</li>
 <li>Age: 19</li>
 <li>Gender: None</li>
 <li>Handedness: Ambidextrous, but prefers right hand</li>
@@ -29,31 +31,16 @@ layout: "utaumain.html"
 
 (direct download) <- TBA
 
+Doremi sample<br>
 <audio controls>
   <source src="https://file.garden/alh0moWNqEglM4TP/sample.wav" type="audio/wav">
 </audio><br>
 
+song/ustx: <a href="https://www.nicovideo.jp/watch/sm46705438">デビットビット by アボガド6</a>
+<br>
 <audio controls>
    <source src="https://file.garden/alh0moWNqEglM4TP/debitbit.wav" type="audio/wav">
 </audio>
-
-song/ustx: <a href="https://www.nicovideo.jp/watch/sm46705438">デビットビット by アボガド6</a>
-
-JA CVVC
-
-* Monopitch (F#3)
-* Recommended resampler: wn4u
-* Voice/oto/illust: Fire
-
-(direct download) 
-
-EN CVVC
-
-* Monopitch (F#3)
-* Recommended resampler: wn4u
-* Voice/oto/illust: Fire
-
-(direct download) 
 
 
 <h3>Extra Information</h3>
