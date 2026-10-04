@@ -5,7 +5,7 @@ layout: "utaumain.html"
 I didn't want this page to be blank anymore, but I'm not done with everything quite yet... please wait a *little* bit longer... I will be adding download links and cute little portraits in the near future...
 
 <h2><ruby>花火<rt>はなび</rt></ruby>シロ / Hanabi Shiro</h2> 
-<img align="right" style="padding:1rem;" src="assets/img/rei.png">
+<img align="right" style="margin:1.125rem;max-height:450px;border:2.5px solid black;" src="/assets/img/shiroref.png">
 <h3>Character Information</h3>
 <ul>
 <li>Birthday: March 14th</li>
@@ -21,9 +21,13 @@ I didn't want this page to be blank anymore, but I'm not done with everything qu
 <p>They write what they learn on their bandages, and then eat the bandages to fully digest the information (so they say).</p>
 </ul>
 
+<hr>
+
 <h3>Download</h3>
 <p>Please read and accept the <a href="tou.html">Terms of Use</a> before downloading.</p>
 <h4>JA VCV</h4>
+
+<img align="right" style="margin:1.125rem;max-height:250px;border:2.5px solid black;" src="/assets/img/vcv.png" >
 
 * Monopitch (F#3)
 * Recommended resampler: wn4u
@@ -51,6 +55,11 @@ song/ustx: <a href="https://www.nicovideo.jp/watch/sm46705438">デビットビ�
    <source src="https://file.garden/alh0moWNqEglM4TP/debitbit.wav" type="audio/wav">
 </audio>
 
+<h4>JA CVVC</h4>  
+More info soon...
+
+#### EN CVVC
+More info soon...
 
 <h3>Extra Information</h3>
 <ul>

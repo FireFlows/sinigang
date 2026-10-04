@@ -2,6 +2,8 @@
 
 body{
     padding:6.75rem;
+    padding-left:20rem;
+    padding-right:20rem;
 }
 header {
     font-weight:bold;font-size:1.5rem;
@@ -39,10 +41,9 @@ nav {
 footer {
     text-align:center;
 }
-img {padding:1.5rem;}
 @media screen and (max-width: 800px) {
     body {
-    padding:1.5rem;
+    padding:1rem;
 }
 }
 /* OpenUTAU theme 
