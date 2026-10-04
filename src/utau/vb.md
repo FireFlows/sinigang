@@ -2,8 +2,6 @@
 title: "Voicebanks"
 layout: "utaumain.html"
 ---
-I didn't want this page to be blank anymore, but I'm not done with everything quite yet... please wait a *little* bit longer... I will be adding download links and cute little portraits in the near future...
-
 <h2><ruby>花火<rt>はなび</rt></ruby>シロ / Hanabi Shiro</h2> 
 <img style="margin:1.125rem;max-height:450px;max-width:85%;border:2.5px solid black;" src="/assets/img/shiroref.png">
 <h3>Character Information</h3>
@@ -17,8 +15,7 @@ I didn't want this page to be blank anymore, but I'm not done with everything qu
 <li>Dislikes: people</li>
 </ul>
 <p>A robot who killed their creator after being fed the sum of all human knowledge.</p>
-<p>Since then, they've dedicated the rest of their life to learning new things. Despite their intelligence, they have poor social skills and often say or do strange things.</p>
-<p>They write what they learn on their bandages, and then eat the bandages to fully digest the information (so they say).</p>
+<p>Since then, they've dedicated the rest of their life to learning new things. They write what they learn on their bandages, and then eat the bandages to fully digest the information (so they say).</p>
 </ul>
 
 <hr>
@@ -63,9 +60,10 @@ More info soon...
 
 <h3>Extra Information</h3>
 <ul>
-<li><a href="https://www.tumblr.com/fire7541/822258721131544576/name-hanabi-shiro-is-written-as-%E8%8A%B1%E7%81%AB%E3%82%B7%E3%83%AD-in-japanese?source=share">UTAU Design Log (on Tumblr)</a></li>
-<li><a href="https://www.tumblr.com/fire7541/tagged/utaulog">Development logs (on Tumblr)</a></li>
 <li><a href="https://artfight.net/character/9677619.hanabi-shiro">Art Fight profile</a></li>
+<li><a href="https://www.tumblr.com/fire7541/tagged/utaulog">Development logs (on Tumblr)</a></li>
+
+<li><a href="https://www.tumblr.com/fire7541/822258721131544576/name-hanabi-shiro-is-written-as-%E8%8A%B1%E7%81%AB%E3%82%B7%E3%83%AD-in-japanese?source=share">UTAU Design Log (on Tumblr)</a></li>
 </ul>
 <h2><ruby>花火<rt>はなび</rt></ruby>クロ / Hanabi Kuro</h2> </h2>
 <h3>Character Information</h3>
