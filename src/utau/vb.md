@@ -57,7 +57,7 @@ ust: <a href="https://youtu.be/-LA9xys4mBQ">gampyre</a>
   <source src="https://file.garden/alh0moWNqEglM4TP/broadcast.wav" type="audio/wav">
 </audio>
 
-(direct download) <- TBA
+(direct download) <- TBA!
 
 
 <h4>JA CVVC</h4>  
