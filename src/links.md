@@ -134,6 +134,7 @@ These links are all free, have little/no ads, are browser-based, and are mobile 
 ### Lists of lists of lists
 <dl>
 <dt><a href="https://rentry.co/tumblr-webgames">Browser Games, Interactive Fiction, Tools & More </a>
+<dd>Originally a series of Tumblr posts.
 
 <dt><a href="https://jamesland.org/">Jamesland</a>
 <dd>Old flash games, preserved. Limited mobile compatibility

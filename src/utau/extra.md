@@ -4,11 +4,6 @@ layout: "utaumain.html"
 ---
 WIP
 
-<style>
-    img {
-        max-width:95%;
-    }
-</style>
 ## Hanabi Shiro Creation Notes
 ### Name
 
@@ -16,7 +11,7 @@ Hanabi Shiro is written as 花火シロ in Japanese. Hanabi is the surname, and 
 
 While I didn't initially realize this, flower is my favorite Vocaloid, and *hana *means flower, so... LOL.
 
-シロ (*shiro*) is written in katakana. This is similar to how Hatsune Miku, Megurine Luka, Kagamine Rin, Kagamine Len, Kasane Teto, Sukone Tei, Yokune Ruko, etc. are written — a two kanji surname, and a two mora given name in katakana.<br>
+シロ (*shiro*) is written in katakana. This is similar to how Hatsune Miku, Megurine Luka, Kagamine Rin, Kagamine Len, Kasane Teto, Sukone Tei, Yokune Ruko, etc. are written — a two kanji surname, and a two mora given name in katakana.
 
 You may know Hatsune Miku means "first sound of the future." The *ne* in her name (and Megurine Luka's, etc.) means sound. I chose not to occupy the second kanji slot with *ne* because I'm a narcissist and I need to insert myself everywhere. Oops.
 
@@ -38,23 +33,24 @@ First, let me outline their design philosophy. I wanted their design to:
 
 The second requirement is there so I can sketch their design with a pencil accurately. I love doing pencil doodles when I'm bored. That's why the first iterations of their design were completely monochromatic.
 
-<img src="https://64.media.tumblr.com/bf2d00c9ce927734c5dd9d391eb7bae3/f4f29cad1a072b65-68/s1280x1920/96a625575172de6b9dc0152e07cc83fc0837066b.pnj" data-orig-height="1640" data-orig-width="1257" srcset="https://64.media.tumblr.com/bf2d00c9ce927734c5dd9d391eb7bae3/f4f29cad1a072b65-68/s1280x1920/96a625575172de6b9dc0152e07cc83fc0837066b.pnj 1257w" sizes="(max-width: 1257px) 100vw, 1257px"></figure></div>
+<img src="/assets/img/extra430.jpg" style="max-width:70%;">
 
 This was drawn on April 30, 2026, my birthday! These are very early sketches, but a lot of the design still stayed — namely the heart ahoge (or as I've written, heart antenna).
 
 I don't remember how I came up with the heart ahoge. I probably just thought it was cute. And it is. My interpretation is that it's an exposed nerve (wire?) ending or an antenna that transmits subliminal messages to people.
 
-<div class="npf_row"><figure class="tmblr-full" data-orig-height="1067" data-orig-width="588"><img src="https://64.media.tumblr.com/182e0e5c51da61c6ad3ee115d86fa5d4/f4f29cad1a072b65-4d/s1280x1920/e68449dd28e6d8f45241337b2d83fd1cd393ba48.pnj" data-orig-height="1067" data-orig-width="588" srcset="https://64.media.tumblr.com/182e0e5c51da61c6ad3ee115d86fa5d4/f4f29cad1a072b65-4d/s1280x1920/e68449dd28e6d8f45241337b2d83fd1cd393ba48.pnj 588w" sizes="(max-width: 588px) 100vw, 588px"></figure></div>
+<img src="/assets/img/extra514.jpg" style="max-width:45%;">
 
 This was drawn on May 14, 2026. They're supposed to be wearing a nightgown-esque thing. I'm in my pajamas like 99% of the time, so I wanted them to be in their jammies too. They are also wearing flip-flops because I like wearing flip-flops.
 
 Their original design has a mole on their left cheek, because I have a mole on my left cheek. Unfortunately I'm prone to forgetting to draw stuff like that, so I removed it.
 
-<div class="npf_row"><figure class="tmblr-full" data-orig-height="664" data-orig-width="664"><img src="https://64.media.tumblr.com/f5cf5dd27d2dbecb89d864a03316f134/f4f29cad1a072b65-0d/s1280x1920/8ecdec75bf4004b61fa605974f557fc97b02735d.pnj" data-orig-height="664" data-orig-width="664" srcset="https://64.media.tumblr.com/f5cf5dd27d2dbecb89d864a03316f134/f4f29cad1a072b65-0d/s1280x1920/8ecdec75bf4004b61fa605974f557fc97b02735d.pnj 664w" sizes="(max-width: 664px) 100vw, 664px"></figure></div>
+<img src="/assets/img/extra522.jpg" style="max-width:35%;">
 
 May 22, 2026. This was supposed to be for my website! You can kind of make out their hands holding headphones… cute.
 
-<div class="npf_row"><figure class="tmblr-full" data-orig-height="1067" data-orig-width="989"><img src="https://64.media.tumblr.com/a8d180eccf3318c6086a6e68c0d5e3a4/f4f29cad1a072b65-00/s1280x1920/a7fe6b607bbb638344aadf2bc9a2c725bd2bb23a.pnj" data-orig-height="1067" data-orig-width="989" srcset="https://64.media.tumblr.com/a8d180eccf3318c6086a6e68c0d5e3a4/f4f29cad1a072b65-00/s1280x1920/a7fe6b607bbb638344aadf2bc9a2c725bd2bb23a.pnj 989w" sizes="(max-width: 989px) 100vw, 989px"></figure></div>
+
+<img src="/assets/img/extra531.jpg" style="max-width:35%;">
 
 May 31, 2026. I thought of changing their iris shape for a little, but I decided I didn't like how it looked. So that's why it looks weird here. By the way, they're eating paper with a bunch of words on it to absorb the information.
 
@@ -70,15 +66,15 @@ One of the first ideas I had for Shiro was for them to have completely white ski
 
 When going outside, people probably just think they're really pale or painting their face.
 
-It is also kind of like Homestuck. They do that in Homestuck, yeah. Like the characters of Homestuck, they are aracial, so please feel free to interpret them however you want. (Personally, I like to think they'd look Southeast Asian/Filipino since I'm half-Filipino. But it's really up to you.)
+It is also kind of like Homestuck. They do that in Homestuck, yeah. Like the characters of Homestuck, they are aracial, so please feel free to interpret them however you want. 
 
-<div class="npf_row"><figure class="tmblr-full" data-orig-height="1067" data-orig-width="742"><img src="https://64.media.tumblr.com/8ba9a2eef63dc9cadff99d51d66d5b39/f4f29cad1a072b65-a5/s1280x1920/4cde5ef2b12850dd8228dcf18884b70904dd2d8b.pnj" data-orig-height="1067" data-orig-width="742" srcset="https://64.media.tumblr.com/8ba9a2eef63dc9cadff99d51d66d5b39/f4f29cad1a072b65-a5/s1280x1920/4cde5ef2b12850dd8228dcf18884b70904dd2d8b.pnj 742w" sizes="(max-width: 742px) 100vw, 742px"></figure></div>
+<img src="/assets/img/extra612.jpg" style="max-width:45%">
 
 June 12, 2026. This is a messier version of their reference on Art Fight. I liked this sketch so much I just decided to fix it up a little and use it for their reference. Additionally, their pen is on the wrong side of their ear. I realized it would probably be a pain in the ass to reach over to your left ear with your right hand, so I switched it. I also changed the hair direction.
 
 I don't wear socks and sandals but I thought it would be funny if they did. I often wear socks or sandals but never both.
 
-<div class="npf_row"><figure class="tmblr-full" data-orig-height="1640" data-orig-width="1618"><img src="https://64.media.tumblr.com/cba9aa8e0105d71f34f750d786c7e065/f4f29cad1a072b65-d8/s2048x3072/bb637a78f7e61c8aa1160e85895e0b742902bd3a.pnj" data-orig-height="1640" data-orig-width="1618" srcset="https://64.media.tumblr.com/cba9aa8e0105d71f34f750d786c7e065/f4f29cad1a072b65-d8/s2048x3072/bb637a78f7e61c8aa1160e85895e0b742902bd3a.pnj 1618w" sizes="(max-width: 1280px) 100vw, 1280px"></figure></div>
+<img src="/assets/img/extra73.jpg" style="max-width:55%;">
 
 The current design reference I have on Art Fight! From July 3, 2026. How cute.
 
@@ -101,17 +97,11 @@ Despite being very intelligent, they're nerfed from not being very sociable. Lik
 Here are quick facts about them lifted straight from their Art Fight profile:
 
 Birthday: March 14th<br>
-
 Height: usually around 5'3 in (160cm).<br>
-
 Age: 19<br>
-
 Gender: None<br>
-
 Handedness: Ambidextrous, but prefers right hand<br>
-
 Likes: learning new things, scented pens, random number tables<br>
-
 Dislikes: people
 
 Their birthday was initally May 1st, which is the day after mine. I changed it to March 14th, pi day, because of the number pi.
