@@ -84,4 +84,4 @@ More info soon...
 * Likes: Shiro
 * Dislikes: nothing in particular
 
-A strange guy who tends to follow Shiro around. Hanabi Kuro isn't their real name, and they have no relation to Shiro.
+A strange guy who tends to follow Shiro around. Hanabi Kuro isn't his real name, and they have no relation to Shiro.

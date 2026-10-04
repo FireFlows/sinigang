@@ -13,7 +13,9 @@ layout: "main.html"
 
 </span>
 
-I love links. Here's a bunch of them. These links are all free, have little/no ads, are browser-based, and are mobile compatible unless stated otherwise. And are hand-curated lovingly. by me
+I love links. I often say <a> is my favorite HTML tag. Because it is.
+
+These links are all free, have little/no ads, are browser-based, and are mobile compatible unless stated otherwise. And are hand-curated lovingly. by me
 
 ## Webmastery
 ### Sites I like
