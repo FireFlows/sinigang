@@ -57,8 +57,7 @@ ust: <a href="https://youtu.be/-LA9xys4mBQ">gampyre</a>
   <source src="https://file.garden/alh0moWNqEglM4TP/broadcast.wav" type="audio/wav">
 </audio>
 
-**<a href="https://file.garden/alh0moWNqEglM4TP/shiro20261004.zip" style="font-size:1.125rem;">DIRECT DOWNLOAD</a>**
-
+<button onclick="window.location.href = 'https://file.garden/alh0moWNqEglM4TP/shiro20261004.zip';">Direct Download</button>
 
 <h4>JA CVVC</h4>  
 More info soon...

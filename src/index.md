@@ -13,7 +13,7 @@ The page last updated/site last updated footer unfortunately makes it impossible
 
 ## Now
 
-Finishing up stuff with my UTAU, finally working on the UTAU part of the website...preparing for release sometime in... November? But no promises.
+Finishing up stuff with my UTAU, finally working on the UTAU part of the website... 
 
 I've been drawing a lot of stuff. For some reason, I've also started to get into Animal Jam again. And also roguelike games like Mewgenics, Slay the Spire 2, etc.
 

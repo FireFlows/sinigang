@@ -15,8 +15,8 @@
     --color-6:#B9BBCB;
 }
 body{
-    margin-left:5rem;
-    margin-right:23rem;
+    margin-left:7rem;
+    margin-right:20rem;
     margin-top:2rem;
     line-height:1.35rem;
     background-color: var(--bg-color);
@@ -100,6 +100,7 @@ aside {
     font-size: 1.125rem;
     margin:1rem;
     background-color: var(--aside-color);
+    border-radius:12px;
 }
 nav {    
     text-align:left;

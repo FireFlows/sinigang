@@ -1,5 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Noto+Sans+JP:wght@100..900&display=swap');
-
+button {
+    background-color: #E62E6EFF;
+    color: #FFF;
+    font-family: Inter, Times New Roman, sans-serif;
+    font-size:1.125rem;
+    font-weight:700;
+    border:2px solid black;
+    border-radius:8px;
+}
+button:hover {
+    background-color: #FFF;
+    color:#E62E6EFF;
+}
 body{
     padding:6.75rem;
     padding-left:20rem;
@@ -13,6 +25,7 @@ header {
 h1 {
     background-color: #FF679DFF;
     text-indent:.5rem;
+    border-radius:8px;
 }
 h2 {
     border-bottom: 3px dashed #4EA6EAFF;
@@ -30,10 +43,10 @@ nav {
     flex-wrap:wrap;
     font-weight:bold;
     background-color:#1E88E5FF ;
-
+    border-radius:8px;
     a {
         text-decoration:none;
-        color:black;
+        color:#FFF;
         padding:.5rem;
     }
     a:hover {
@@ -53,7 +66,11 @@ footer {
 }
 @media screen and (max-width: 800px) {
     body {
-    padding:.125rem;
+    padding:0;
+    margin:0;
+    }
+    main {
+        padding:.45rem;
     }
     .side {
         float: none;
