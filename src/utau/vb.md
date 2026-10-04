@@ -39,8 +39,6 @@ The voicebank also comes with some extra phonemes I recorded under a folder call
 * br吐: exhale 
 * a R: rest  
 
-(direct download) <- TBA
-
 Doremi sample<br>
 <audio controls>
   <source src="https://file.garden/alh0moWNqEglM4TP/sample.wav" type="audio/wav">
@@ -51,6 +49,9 @@ song/ustx: <a href="https://www.nicovideo.jp/watch/sm46705438">デビットビ�
 <audio controls>
    <source src="https://file.garden/alh0moWNqEglM4TP/debitbit.wav" type="audio/wav">
 </audio>
+
+(direct download) <- TBA
+
 
 <h4>JA CVVC</h4>  
 More info soon...

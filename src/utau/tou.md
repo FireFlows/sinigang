@@ -8,7 +8,7 @@ I want to be as unrestrictive as possible. Please feel free to use my voicebank 
 
 As long as the main work (song/art/etc.) is yours feel free to monetize your work in any way. 
 
-### Can I draw R18/R18G?
+### Can I draw/write/etc R18/R18G?
 Yes, but please put appropriate warnings when posting.
 
 ### Can I ship other characters with them?
