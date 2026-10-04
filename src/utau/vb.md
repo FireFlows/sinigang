@@ -13,7 +13,7 @@ I didn't want this page to be blank anymore, but I'm not done with everything qu
 <li>Age: 19</li>
 <li>Gender: None</li>
 <li>Handedness: Ambidextrous, but prefers right hand</li>
-<li>Likes: scented pens, random number tables</li>
+<li>Likes: scented pens, random number tables, drawing</li>
 <li>Dislikes: people</li>
 </ul>
 <p>A robot who killed their creator after being fed the sum of all human knowledge.</p>
@@ -28,6 +28,15 @@ I didn't want this page to be blank anymore, but I'm not done with everything qu
 * Monopitch (F#3)
 * Recommended resampler: wn4u
 * Voice/oto/illust: Fire
+
+The voicebank also comes with some extra phonemes I recorded under a folder called おまけ. Some phonemes can be used for rudimentary English pronunciation.  
+* あ・: /ʔ/  
+* a 5: /ɫ/  
+* a T: /θ/   
+* a D: /ð/  
+* br吸: inhale  
+* br吐: exhale 
+* a R: rest  
 
 (direct download) <- TBA
 
@@ -54,7 +63,7 @@ song/ustx: <a href="https://www.nicovideo.jp/watch/sm46705438">デビットビ�
 
 * Birthday: July 22
 * Height: a bit taller than Shiro
-* Age: 20
+* Age: Unknown (adult)
 * Gender: Male
 * Handedness: Right
 * Likes: Shiro
