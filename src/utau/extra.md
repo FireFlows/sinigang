@@ -9,7 +9,7 @@ WIP
 
 Hanabi Shiro is written as 花火シロ in Japanese. Hanabi is the surname, and Shiro is their given name. The word 花火 (*hanabi*) means firework. It's made up of the kanji 花 (*hana)*, flower and 火 (*hi)*, fire (P.S. *hi* is pronounced as *bi* due to [rendaku](<https://en.wikipedia.org/wiki/Rendaku>)). I chose this surname because I like the word and its meaning. My online name is Fire, so I wanted to include a word that has the kanji for fire in it.
 
-While I didn't initially realize this, flower is my favorite Vocaloid, and *hana *means flower, so... LOL.
+While I didn't initially realize this, flower is my favorite Vocaloid, and *hana* means flower, so... LOL.
 
 シロ (*shiro*) is written in katakana. This is similar to how Hatsune Miku, Megurine Luka, Kagamine Rin, Kagamine Len, Kasane Teto, Sukone Tei, Yokune Ruko, etc. are written — a two kanji surname, and a two mora given name in katakana.
 
@@ -19,7 +19,7 @@ In Japanese, *shi* means four and *roku* means six. I like to think their model 
 
 If you're familiar with Japanese culture at all, you'll know that 4 is an unlucky number in Japan since it sounds exactly like the word for death, 死. This is why I chose *shi*; it's a reference to their personality (sort of; I elaborate a little on this later). I chose *ro* for the [goroawase](<https://en.wikipedia.org/wiki/Numeric_substitution_in_Japanese>), and so their name could be *shiro*.
 
-Shiro (白 in kanji) means white. This is a reference to their mainly monochromatic design. The word *shirokuro *(白黒) means monochrome, and I will eventually release an UTAU with the name Hanabi Kuro.
+Shiro (白 in kanji) means white. This is a reference to their mainly monochromatic design. The word *shirokuro* (白黒) means monochrome, and I will eventually release an UTAU with the name Hanabi Kuro.
 
 ### Design
 
@@ -94,25 +94,21 @@ Despite being very intelligent, they're nerfed from not being very sociable. Lik
 
 **Factoids**
 
-Here are quick facts about them lifted straight from their Art Fight profile:
+<ul>
+<li>Birthday: March 14th</li>
+<li>Height: 5'3 in (160cm)</li>
+<li>Age: 19</li>
+<li>Gender: None</li>
+<li>Handedness: Ambidextrous, but prefers right hand</li>
+<li>Likes: scented pens, random number tables, drawing</li>
+<li>Dislikes: people</li>
+</ul>
 
-Birthday: March 14th<br>
-Height: usually around 5'3 in (160cm).<br>
-Age: 19<br>
-Gender: None<br>
-Handedness: Ambidextrous, but prefers right hand<br>
-Likes: learning new things, scented pens, random number tables<br>
-Dislikes: people
-
-Their birthday was initally May 1st, which is the day after mine. I changed it to March 14th, pi day, because of the number pi.
+Their birthday was initally May 1st, the day after mine. I changed it to March 14th, pi day, because I like the number pi. (Kuro's birthday is June 22nd, Pi Approximation Day)
 
 They're actually a little bit taller than me; I'm 5'2 or so. Yes, their height does include their ahoge.
 
-I'm 19. So they're 19 too. But they were built around six months ago.
-
-I'm nonbinary so they're nonbinary too.
-
-I'm right-handed so they… oh, well, they're a highly intelligent robot, so I thought it would make sense for them to be ambidextrous. But they prefer their right hand because I am right-handed. I also know that handedness is an unnatural factoid to include for UTAU — it's mostly just birthday, height, weight, age, gender, likes, dislikes. I chose not to define their weight here but added handedness for Fun.
+Since they're a highly-advanced robot, I thought they should be ambidextrous. They prefer their right hand because I'm right-handed.
 
 They like scented pens because when they eat scented ink, it almost tastes like the real thing. They like random number tables because they're unpredictable, and they're a fan of strings of information in general due to their totally possible autism. (But I only wanted to list up to 3 things for "likes," so it leaves more room for interpretation of their character.)
 

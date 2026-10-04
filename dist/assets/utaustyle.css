@@ -4,6 +4,7 @@ body{
     padding:6.75rem;
     padding-left:20rem;
     padding-right:20rem;
+    font-family: Inter, Times New Roman, sans-serif
 }
 header {
     font-weight:bold;font-size:1.5rem;
@@ -16,8 +17,9 @@ h1 {
 h2 {
     border-bottom: 3px dashed #4EA6EAFF;
 }
-body {
-    font-family: Inter, Times New Roman, sans-serif
+p {
+    line-height:1.5rem;
+
 }
 a {
     color: #E62E6EFF;
