@@ -7,17 +7,17 @@ layout: "main.html"
 
 Welcome to my humble abode.
 
-This website does not house and will never house NSFW content, but it is ran by an adult (me) so please exercise caution (especially in places where I end up talking too much).
-
 The page last updated/site last updated footer unfortunately makes it impossible to implement cache-busting. (And I'm keeping it because it's very cool.) If there's been a new update, and it's showing an older date, I recommend spamming CTRL+SHIFT+R until it works. LOL.
 
 <span class="showmobile">All times are in [Eastern](https://time.is/ET).</span>
 
 ## Now
 
-Drawing a bunch of stuff!
+Finishing up stuff with my UTAU, finally working on the UTAU part of the website...preparing for release sometime in... November? But no promises.
 
-20260917
+I've been drawing a lot of stuff. For some reason, I've also started to get into Animal Jam again. And also roguelike games like Mewgenics, Slay the Spire 2, etc.
+
+20261004
 
 ## status.cafe widget
 

@@ -44,7 +44,7 @@ footer {
 img {
     float:right;
 }
-@media screen and (max-width:1000px){
+@media screen and (max-width:1300px){
     body {
         padding:5rem;
     }
