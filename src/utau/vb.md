@@ -50,6 +50,13 @@ song/ustx: <a href="https://www.nicovideo.jp/watch/sm46705438">デビットビ�
    <source src="https://file.garden/alh0moWNqEglM4TP/debitbit.wav" type="audio/wav">
 </audio>
 
+song: <a href="http://www.nicovideo.jp/watch/sm45965243">放送✴︎ by 原口沙輔 </a>  
+ust: <a href="https://youtu.be/-LA9xys4mBQ">gampyre</a>
+
+<audio controls>
+  <source src="https://file.garden/alh0moWNqEglM4TP/broadcast.wav" type="audio/wav">
+</audio>
+
 (direct download) <- TBA
 
 
