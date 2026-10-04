@@ -41,10 +41,21 @@ nav {
 footer {
     text-align:center;
 }
+img {
+    float:right;
+}
+@media screen and (max-width:1000px){
+    body {
+        padding:5rem;
+    }
+}
 @media screen and (max-width: 800px) {
     body {
-    padding:1rem;
-}
+    padding:.25rem;
+    }
+    img {
+        float: none;
+    }
 }
 /* OpenUTAU theme 
 backgroundcolor #FFFFFFFF

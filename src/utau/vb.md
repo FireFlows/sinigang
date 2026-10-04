@@ -5,11 +5,11 @@ layout: "utaumain.html"
 I didn't want this page to be blank anymore, but I'm not done with everything quite yet... please wait a *little* bit longer... I will be adding download links and cute little portraits in the near future...
 
 <h2><ruby>花火<rt>はなび</rt></ruby>シロ / Hanabi Shiro</h2> 
-<img align="right" style="margin:1.125rem;max-height:450px;border:2.5px solid black;" src="/assets/img/shiroref.png">
+<img style="margin:1.125rem;max-height:450px;max-width:85%;border:2.5px solid black;" src="/assets/img/shiroref.png">
 <h3>Character Information</h3>
 <ul>
 <li>Birthday: March 14th</li>
-<li>Height: 5'3 in (160cm).</li>
+<li>Height: 5'3 in (160cm)</li>
 <li>Age: 19</li>
 <li>Gender: None</li>
 <li>Handedness: Ambidextrous, but prefers right hand</li>
@@ -27,7 +27,7 @@ I didn't want this page to be blank anymore, but I'm not done with everything qu
 <p>Please read and accept the <a href="tou.html">Terms of Use</a> before downloading.</p>
 <h4>JA VCV</h4>
 
-<img align="right" style="margin:1.125rem;max-height:250px;border:2.5px solid black;" src="/assets/img/vcv.png" >
+<img style="margin:1.125rem;max-height:250px;max-width:85%;border:2.5px solid black" src="/assets/img/vcv.png" >
 
 * Monopitch (F#3)
 * Recommended resampler: wn4u
