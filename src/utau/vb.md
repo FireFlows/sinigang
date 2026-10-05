@@ -3,7 +3,7 @@ title: "Voicebanks"
 layout: "utaumain.html"
 ---
 <h2><ruby>花火<rt>はなび</rt></ruby>シロ / Hanabi Shiro</h2> 
-<img class="side" style="margin:1.125rem;max-height:450px;max-width:85%;border:2.5px solid #333333;" src="/assets/img/shiroref.png">
+<img class="side" style="margin:1.125rem;max-height:450px;max-width:85%;border:2.5px solid #333333;" alt ="A reference image of my UTAU, Hanabi Shiro." src="/assets/img/shiroref.png">
 <h3>Character Information</h3>
 <ul>
 <li>Birthday: March 14th</li>
@@ -24,7 +24,7 @@ layout: "utaumain.html"
 <p>Please read and accept the <a href="tou.html">Terms of Use</a> before downloading.</p>
 <h4>JA VCV</h4>
 
-<img class="side" style="margin:1.125rem;max-height:250px;max-width:85%;border:2.5px solid #333333" src="/assets/img/vcv.png" >
+<img class="side" style="margin:1.125rem;max-height:250px;max-width:85%;border:2.5px solid #333333" alt="Shiro's portrait for their VCV." src="/assets/img/vcv.png" >
 
 * Monopitch (F#3)
 * Recommended resampler: wn4u

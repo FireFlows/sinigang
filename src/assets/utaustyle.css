@@ -8,7 +8,7 @@ button {
     border:2px solid #333333;
     border-radius:8px;
 }
-button:hover {
+button:hover, :focus {
     background-color: #FFF;
     color:#E62E6EFF;
 }
@@ -39,7 +39,7 @@ p, li {
 a {
     color: #E62E6EFF;
 }
-a:hover {
+a:hover, :focus {
     color:#000000FF;
     text-decoration-color:#E62E6EFF ;
 }
@@ -47,7 +47,7 @@ nav {
     font-size: 1.125rem;
     display:flex;
     flex-wrap:wrap;
-    font-weight:bold;
+    font-weight:750;
     background-color:#1E88E5FF ;
     border-radius:8px;
     a {
@@ -55,7 +55,7 @@ nav {
         color:#FFF;
         padding:.5rem;
     }
-    a:hover {
+    a:hover, :focus {
         color: #000000FF;
     }
 }
