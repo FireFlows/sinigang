@@ -65,8 +65,9 @@ ust: <a href="https://youtu.be/sr6DlS0VI-8">caribourangifer</a>
 </audio>
 
 
-<button onclick="window.location.href = 'https://file.garden/alh0moWNqEglM4TP/shiro20261004.zip';">Direct Download</button>
+<button onclick="window.location.href = 'https://file.garden/alh0moWNqEglM4TP/shiro20261004.zip';">Direct Download</button><br>
 
+<a href="https://bowlroll.net/file/361800">Alternate download link (bowlroll)</a>
 <h4>JA CVVC</h4>  
 More info soon...
 
