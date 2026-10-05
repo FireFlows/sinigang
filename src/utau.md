@@ -3,9 +3,8 @@ title: "Welcome"
 layout: "utaumain.html"
 ---
 
-Welcome to the UTAU section of my website! While my voicebank has not been created yet, I wanted to get my website working so I could host them when I'm finished with them.
+Welcome to my website's UTAU zone. A lot of things are still a major work in progress, so please mind the mess. 
 
-Currently, I'm nearly finished with the Japanese VCV voicebank.
+Currently, I have one released voicebank (Hanabi Shiro's VCV). I released them on October 4th, 2026. I am working on their Japanese CVVC and English CVVC (release date unknown, but I am working on it!).
 
-### Can you please please please make a dark mode I was on dark mode before and I just got flashbanged please
-Nah
+I am also working on developing another UTAU, Hanabi Kuro. Details about his character are also on the "Voicebank" page. ~~But I'm still working out his character and design, so this one might take a while...~~
