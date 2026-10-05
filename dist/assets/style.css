@@ -22,7 +22,7 @@ body{
     background-color: var(--bg-color);
     color: var(--main-color);
     font-family: Inter, sans-serif;
-    font-size: 1.1rem;
+    font-size: 1.05rem;
 
     display: grid;
     grid-template-areas:
