@@ -38,6 +38,10 @@ p, li {
 a {
     color: #E62E6EFF;
 }
+a:hover {
+    color:#333;
+    text-decoration-color:#E62E6EFF ;
+}
 nav {
     font-size: 1.125rem;
     display:flex;

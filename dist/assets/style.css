@@ -68,12 +68,13 @@ Thanks for reading.
 - Fire
 */
 a {
-    color: var(--main-color);
-    text-decoration:none;
-    border-bottom: 1px solid var(--accent-color);
+    color: var(--accent-color);
 }
 a:hover {
-    color:var(--accent-color);
+    color:var(--main-color);
+    text-decoration-color: var(--accent-color);
+
+
 }
 ::marker {
     color:var(--accent-color);
@@ -103,6 +104,13 @@ aside {
     border-radius:12px;
 }
 nav {    
+a {
+    color: var(--main-color);
+}
+a:hover {
+    color:var(--accent-color);
+
+}
     text-align:left;
     text-indent:2.5rem;
 font-weight:bold;
