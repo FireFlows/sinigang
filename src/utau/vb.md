@@ -39,7 +39,7 @@ The voicebank also comes with some extra phonemes I recorded under a folder call
 * br吐: exhale 
 * a R: rest  
 
-Doremi sample<br>
+Solfège sample<br>
 <audio controls>
   <source src="https://file.garden/alh0moWNqEglM4TP/sample.wav" type="audio/wav">
 </audio><br>
