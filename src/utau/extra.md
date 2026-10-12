@@ -4,7 +4,7 @@ layout: "utaumain.html"
 ---
 WIP
 
-## Hanabi Shiro Creation Notes
+## Hanabi Shro Creation Notes
 ### Name
 
 Hanabi Shiro is written as 花火シロ in Japanese. Hanabi is the surname, and Shiro is their given name. The word 花火 (*hanabi*) means firework. It's made up of the kanji 花 (*hana)*, flower and 火 (*hi)*, fire (P.S. *hi* is pronounced as *bi* due to [rendaku](<https://en.wikipedia.org/wiki/Rendaku>)). I chose this surname because I like the word and its meaning. My online name is Fire, so I wanted to include a word that has the kanji for fire in it.

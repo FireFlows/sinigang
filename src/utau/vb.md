@@ -58,7 +58,7 @@ ust: <a href="https://youtu.be/-LA9xys4mBQ">gampyre</a>
 </audio><br>
 
 song: <a href="http://www.nicovideo.jp/watch/sm44681607">自己会談 by タガク</a><br>
-ust: <a href="https://youtu.be/sr6DlS0VI-8">caribourangifer</a>
+ust: <a href="https://youtu.be/sr6DlS0VI-8">まきの</a>
 
 <audio controls>  
   <source src="https://file.garden/alh0moWNqEglM4TP/selfconference.wav" type="audio/wav">
