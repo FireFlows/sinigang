@@ -7,7 +7,8 @@ layout: "main.html"
 
 Nice to see you here. My name is Fire and this is my own personal space away from social media. I have a lot of stuff here: my UTAU, posts I've written, and a bunch of links I've collected! You can also learn a little more about me, if you would like.
 
-If you're viewing this on desktop, the nice chimera to the right is Kasane Teto SV! (if you didn't know)
+Accessiblity was one of the core things I had in mind while creating this website. Mobile and any screen size friendly!
+
 
 <span class="showmobile">All times are in [Eastern](https://time.is/ET).</span>
 
