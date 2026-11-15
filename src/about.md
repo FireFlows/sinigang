@@ -30,9 +30,9 @@ It's Kasane Teto SV! More specifically, it's their official standing portrait, i
 
 ### You're an artist, right? Hey, where's your art!? WHERE IS IT! 
 
-I AM A FUCKING ARTIST!! It's just...that... like, I have a lot of drawings, and a lot of them are only *okay* so like IDK if I would wanna reupload *all* of them to my website... but I have been considering dumping all my art into a .zip file, if you don't like social media but still like my art. 
+I AM A FUCKING ARTIST!! I just don't see a reason to reupload all of my art on my website since it's already on Twitter and Tumblr... but a lot of people don't use social media, right!? 
 
-I essentially use Tumblr as an art archive, but I know this is kinda bad practice; Tumblr barely lets you look at anything without an account ~~and my account's only available to logged-in Tumblr users~~... I'm sorry... 
+So, perhaps I'll make an art archive of my own here but for now please take [this zip file](https://file.garden/alh0moWNqEglM4TP/art.zip) which includes *some* of my art (definitely not all or most but I'll try to keep up with it).
 
 ### Why don't you have a site profile?
 
