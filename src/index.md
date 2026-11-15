@@ -5,9 +5,7 @@ layout: "main.html"
 
 ## Introduction
 
-Nice to see you here. My name is Fire and this is my own personal space away from social media. I have a lot of stuff here: my UTAU, posts I've written, and a bunch of links I've collected! You can also learn a little more about me, if you would like.
-
-Accessiblity was one of the core things I had in mind while creating this website. Mobile and any screen size friendly!
+Nice to see you here. My name is Fire and this is my own personal space away from social media. Accessiblity was one of the core things I had in mind while creating this website. Mobile and any screen size friendly!
 
 <span class="showmobile">All times are in [Eastern](https://time.is/ET).</span>
 
@@ -20,12 +18,11 @@ Slight website revamp; hopefully it looks a little better now!
 2026/11/15
 
 ## status.cafe widget
-
 <div id="statuscafe"><div id="statuscafe-username"></div><div id="statuscafe-content"></div></div><script src="https://status.cafe/current-status.js?name=fire" defer></script>
 
 ## Random song from my Vocaloid playlist
 
-<div style=" top: 0; left: 0; width: 500px; height: 315px;" 
+<div style=" top: 0; left: 0; width: 85%; height: 315px;" 
 id='player'></div>
 <br>
     <button onclick="shuff_list()">Shuffle List</button>

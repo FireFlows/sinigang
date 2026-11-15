@@ -17,19 +17,19 @@
 body{
     margin-left:20rem;
     margin-right:15rem;
-    margin-top:2.75rem;
     line-height:1.455rem;
     background-color: var(--bg-color);
     color: var(--main-color);
     font-family: Inter, sans-serif;
     font-size: 1.05rem;
+    min-height:100vh;
 
     display: grid;
     grid-template-areas:
-        ". header header header"
-        ". main main     aside "
-        ". main main .         "
-        ". footer footer footer";
+        "header header header"
+        "main main     aside "
+        "main main .         "
+        "footer footer .";
 }
 [theme="dark"]{
     --main-color:#f9f9f9;
@@ -83,7 +83,7 @@ header{
     grid-area:header;
     background-color: var(--bg-color);
     text-align:right;
-    padding:1.5rem;
+    padding:2.55rem;
 }
 li {
     line-height:1.55rem;
@@ -91,7 +91,6 @@ li {
 main {
     padding-right:2.75rem;
     grid-area: main;
-    
 }
 aside {
     img {
@@ -133,10 +132,10 @@ font-weight:bold;
 footer {
     grid-area: footer;
     text-align: center;
-    padding:.5rem;
-    padding-top:5rem;
+    overflow:visible;
+    padding:1.25rem;
 }
-h1 {
+    h1 {
     text-indent: .75rem;
     background-color: var(--aside-color);
     padding:.225rem;
@@ -187,8 +186,8 @@ mobile
 */
 @media screen and (max-width:1300px){
     body {
-        margin-left:3.5rem;
-        margin-right:2.5rem;
+        margin-left:8.5rem;
+        margin-right:6.5rem;
     }
 }
 @media screen and (max-width: 800px) {
