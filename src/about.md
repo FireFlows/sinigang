@@ -24,6 +24,10 @@ My website is "licensed" under [CC0](https://creativecommons.org/publicdomain/ze
 ### Sinigang?
 It's a popular Filipino soup. It's pretty sour. A lot of people tend to name themselves after food, so I wanted to try that too.
 
+### Who's the character to the left of me (on desktop?)
+
+It's Kasane Teto SV!
+
 ### You're an artist, right? Hey, where's your art!? WHERE IS IT! 
 
 I AM A FUCKING ARTIST!! It's just...that... like, I have a lot of drawings, and a lot of them are only *okay* so like IDK if I would wanna reupload *all* of them to my website... but I have been considering dumping all my art into a .zip file, if you don't like social media but still like my art. 
