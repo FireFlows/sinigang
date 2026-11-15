@@ -36,15 +36,16 @@ h2 {
 
 }
 p, li {
-    line-height:1.5rem;
+    line-height:1.55rem;
 
 }
 a {
-    color: #E62E6EFF;
+    color:#000000FF;
+    text-decoration-color:#E62E6EFF;
+    text-decoration-thickness: 2px;
 }
 a:hover, :focus {
-    color:#000000FF;
-    text-decoration-color:#E62E6EFF ;
+    color:#E62E6EFF;
 }
 nav {
     font-size: 1.125rem;
