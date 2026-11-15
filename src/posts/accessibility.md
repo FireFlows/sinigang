@@ -5,7 +5,7 @@ date: 2026-08-02
 tags: 
     - pinned
 ---
-I like to browse personal websites on Neocities. But sometimes, when I click on a website, it shows me a warning like:
+I like to browse personal websites on Neocities. But sometimes, when I click on a website, I'm shown a warning like:
 
 _This website is not mobile-friendly and never will be._  
 _This website has autoplay._  
@@ -52,7 +52,6 @@ to add
 * skip to main content link
 * figure out how to get external links the aria-hidden thingy
 * hide features that do not work with javascript
-    * comments section
     * current time
     * page/site last updated script
     * status.cafe widget

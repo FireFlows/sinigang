@@ -5,7 +5,9 @@ layout: "main.html"
 ## About the Webmaster
 19/they/USA
 
-My main interests are vocal synthesis, video games, and linguistics. In my free time, I like to draw, write, play games, listen to music, scroll social media, and use my computer.
+My main interests are vocal synthesis, video games, and linguistics. Some of my sub-interests include coding (of course), cute things, and public transportation. In my free time, I like to draw, write, play games, listen to music, scroll social media, and use my computer.
+
+Yes, I'm autistic. How did you know? I have ADHD too.
 
 My native language is English. I can speak some Japanese, and bits and pieces of Chinese. I can read Hangeul, but I don't really know Korean. In the future, I want to be a linguistics major and translator of Japanese.
 
