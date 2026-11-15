@@ -42,7 +42,7 @@ p, li {
 a {
     color:#000000FF;
     text-decoration-color:#E62E6EFF;
-    border-width: 2.2px;
+    text-decoration-thickness: 2px;
 }
 a:hover, :focus {
     color:#E62E6EFF;
