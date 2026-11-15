@@ -83,7 +83,7 @@ header{
     grid-area:header;
     background-color: var(--bg-color);
     text-align:right;
-    padding:2.55rem;
+    padding:1.25rem;
 }
 li {
     line-height:1.55rem;
@@ -97,6 +97,7 @@ aside {
         border-bottom: 5px solid var(--bg-color);
     }
     grid-area: aside;
+    height: fit-content;
     max-width:250px;
     position: sticky;
     text-align: center;
@@ -117,7 +118,6 @@ a:hover {
 font-weight:bold;
   ul {
   list-style-type: none;
-  margin: 0;
   padding: .5rem;
 }  
 
@@ -125,14 +125,13 @@ font-weight:bold;
         border:none;
         text-align:center;
         display: block;
-        padding: 5.5px;
+        padding: 5px;
         text-decoration:none;
     }
 }
 footer {
     grid-area: footer;
     text-align: center;
-    overflow:visible;
     padding:1.25rem;
 }
     h1 {
