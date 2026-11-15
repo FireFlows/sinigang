@@ -24,6 +24,12 @@ My website is "licensed" under [CC0](https://creativecommons.org/publicdomain/ze
 ### Sinigang?
 It's a popular Filipino soup. It's pretty sour. A lot of people tend to name themselves after food, so I wanted to try that too.
 
+### You're an artist, right? Hey, where's your art!? WHERE IS IT! 
+
+I AM A FUCKING ARTIST!! It's just...that... like, I have a lot of drawings, and a lot of them are only *okay* so like IDK if I would wanna reupload *all* of them to my website... but I have been considering dumping all my art into a .zip file, if you don't like social media but still like my art. 
+
+I essentially use Tumblr as an art archive, but I know this is kinda bad practice; Tumblr barely lets you look at anything without an account ~~and my account's only available to logged-in Tumblr users~~... I'm sorry... 
+
 ### Why don't you have a site profile?
 
 [From Mevdik](https://mevdik.nekoweb.org/guides/neocities-vs-nekoweb/):
