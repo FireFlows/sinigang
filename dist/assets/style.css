@@ -219,13 +219,15 @@ mobile
 }
   aside {
     margin:0;
+
     max-width: 100%;
     position: initial;
     top:3.75rem;
     ul {
         display:flex;
+        gap:10px;
         flex-wrap:wrap;
-        font-size:1.2rem;
+        font-size:1.25rem;
     }
   }
 

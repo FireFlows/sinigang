@@ -5,7 +5,9 @@ layout: "main.html"
 
 ## Introduction
 
-Nice to see you here. My name is Fire and this is my own personal space away from social media.
+Nice to see you here. My name is Fire and this is my own personal space away from social media. I have a lot of stuff here: my UTAU, posts I've written, and a bunch of links I've collected! You can also learn a little more about me, if you would like.
+
+If you're viewing this on desktop, the nice chimera to the right is Kasane Teto SV! (if you didn't know)
 
 <span class="showmobile">All times are in [Eastern](https://time.is/ET).</span>
 
@@ -22,7 +24,7 @@ Slight website revamp; hopefully it looks a little better now.
 <div id="statuscafe"><div id="statuscafe-username"></div><div id="statuscafe-content"></div></div><script src="https://status.cafe/current-status.js?name=fire" defer></script>
 
 ## Adoptable
-<div style="width: 200px; height: 350px;">
+<div style="width: 120px; height: 250px;">
 <script src="https://ritual.sh/js/adoptables/lavalamp.js"
         data-bg-color-1="#cc60f4"
         data-bg-color-2="#f30c74"
