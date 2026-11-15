@@ -10,18 +10,11 @@ Thanks for viewing
 
 ## to add
 * create a video player that randomly chooses a song from my Vocaloid Music Playlist
-* host my UTAU
-  * create Japanese VCV
-  * create Japanese CVVC
-  * create English CVVC
-    * all voicebanks are planned to be released simultaneously 
-  * create better portraits
-* create my own webring
+
 * en/jp switcher? (for at least some content, e.g. terms of use, voicebank)
 *custom 404 page
 *perhaps i should make /colophon 
 *rss feed
-*write accessiblity page
 *favicon
 
 whenever I finish creating my UTAU i want to make a guide to create one cuz 
@@ -30,8 +23,6 @@ the tutorials we have rn are so fucking ancient bruh like don't piss me off
 https://aishagpt.love/ I want to add something like This
 https://nomnomnami.com/ask/ or this
 
-## not adding
-Dark mode. <Eh, I might. 
 
 **ring of Fire**
 About webrings
@@ -124,7 +115,7 @@ misc
 
 https://perfectmotherfuckingwebsite.com/ 
 https://skaetlett.gay/resources/sites-that-waste-your-time
-  ** ニュー URL: https://skaetlett.gay/resources/link-bouquet
+  ** ニュー URL : https://skaetlett.gay/resources/link-bouquet
 https://suboptimalism.neocities.org/writings/undocumented
 https://smoothsailing.asclaria.org/
 https://ranmpy.neocities.org/misc/urls
