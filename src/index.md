@@ -9,6 +9,7 @@ Nice to see you here. My name is Fire and this is my own personal space away fro
 
 Accessiblity was one of the core things I had in mind while creating this website. Mobile and any screen size friendly!
 
+Check out [my RSS feed](feed.xml) for site updates.
 
 <span class="showmobile">All times are in [Eastern](https://time.is/ET).</span>
 
@@ -23,6 +24,11 @@ Slight website revamp; hopefully it looks a little better now!
 ## status.cafe widget
 
 <div id="statuscafe"><div id="statuscafe-username"></div><div id="statuscafe-content"></div></div><script src="https://status.cafe/current-status.js?name=fire" defer></script>
+
+## Vocaloid song I like 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NQgNP67WSck?si=6N91ek3Nuv88API8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ## Adoptable
 <div style="width: 120px; height: 250px;">
@@ -39,3 +45,5 @@ Slight website revamp; hopefully it looks a little better now!
 </div>
 
 Adopted from [ritual.sh](https://ritual.sh/resources/adoptables)
+
+<script src="assets/music.js"></script>

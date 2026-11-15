@@ -76,6 +76,10 @@ https://tofutush.neocities.org/about/
 https://colorworld.world  
 https://www.kingdomofloathing.com/
 
+About making an rss feed
+https://aboutfeeds.com/
+https://sqvrltastic.art/writing/full-guide-to-rss/
+https://kevincox.ca/2022/05/06/rss-feed-best-practices/
 
 ### Dictionaries
 * jisho.org Japanese/English dictionary. Best out there

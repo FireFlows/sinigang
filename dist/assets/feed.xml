@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Update Feed</title>
+	<id>https://sinigang.neocities.org</id>
+	<link rel="alternate" href="https://sinigang.neocities.org}"/>
+	<link rel="self" href="https://sinigang.neocities.org/feed.xml"/>
+	<updated>{{LAST_UPDATE_TIME in RFC3339 format}}</updated>
+	<author>
+		<name>Fire</name>
+	</author>
+	<entry>
+		<title>{{ENTRY.TITLE}}</title>
+		<link rel="alternate" type="text/html" href="{{ENTRY.HTML_URL}}"/>
+		<id>{{ENTRY.PERMALINK}}</id>
+		<published>{{ENTRY.FIRST_POST_TIME in RFC3339 format}}</published>
+		<updated>{{ENTRY.LAST_UPDATE_TIME in RFC3339 format}}</updated>
+		<content type="html">{{ENTRY.HTML}}</content>
+	</entry>
+</feed>
