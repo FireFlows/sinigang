@@ -33,6 +33,8 @@ id='player'></div>
 
   As the title says. My Vocaloid playlist is [here](https://www.youtube.com/playlist?list=PLFCCsWwB4Mxk). Sometimes, the thumbnail will be the song most recently added to the playlist, but clicking the video will shuffle the playlist.
 
+  "Vocaloid" is used as an umbrella term here. This playlist also includes mashups and covers.
+
 ## Adoptable
 <div style="width: 120px; height: 250px;">
 <script src="https://ritual.sh/js/adoptables/lavalamp.js"
