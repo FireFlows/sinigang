@@ -1,4 +1,13 @@
 
+/* 
+This is not my code; I'm not good at Javascript.
+ I found it after a very long time searching 
+for something that would work. Here is a link to the code 
+and the Stack Overflow exchange I found it from:
+// https://codepen.io/jcb01/pen/ZEKpYgV 
+// https://stackoverflow.com/a/66088633
+*/ 
+
 //your playlist here
 var plist = "PLFCCsWwB4Mxk";
 
@@ -50,11 +59,3 @@ function shuff_list() {
   // starts at first video in the new list sequence. index 0
   player.playVideoAt(0);
 }
-/* 
-This is not my code; I'm not good at Javascript.
- I found it after a very long time searching 
-for something that would work. Here is a link to the code 
-and the Stack Overflow exchange I found it from:
-// https://codepen.io/jcb01/pen/ZEKpYgV 
-// https://stackoverflow.com/a/66088633
-*/ 

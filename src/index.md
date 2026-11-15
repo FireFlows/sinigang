@@ -18,7 +18,7 @@ Slight website revamp; hopefully it looks a little better now!
 2026/11/15
 
 ## status.cafe widget
-<div id="statuscafe"><div id="statuscafe-username"></div><div id="statuscafe-content"></div></div><script src="https://status.cafe/current-status.js?name=fire" defer></script>
+<div id="statuscafe"><div id="statuscafe-username"></div><div id="statuscafe-content"></div></div>
 
 ## Random song from my Vocaloid playlist
 
@@ -50,4 +50,5 @@ id='player'></div>
 
 Adopted from [ritual.sh](https://ritual.sh/resources/adoptables)
 
+<script src="https://status.cafe/current-status.js?name=fire" defer></script>
 <script src="assets/js/music.js"></script>
