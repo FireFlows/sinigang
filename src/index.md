@@ -38,9 +38,3 @@ I've been drawing a lot of stuff. For some reason, I've also started to get into
 </div>
 
 Adopted from [ritual.sh](https://ritual.sh/resources/adoptables)
-
-## Comments
-Leave a comment here.
-<div id="c_widget"></div>
-<script src="/assets/js/comment-widget.js"></script>
-<script src="https://status.cafe/current-status.js?name=fire" defer></script>

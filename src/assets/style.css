@@ -9,14 +9,14 @@
 :root {
     --main-color: #21222B;
     --bg-color: #f9f9f9;
-    --aside-color: #DCDDE5;
+    --aside-color: #e6e7ee;
     --accent-color:#A63A8B;
     --color-5:#EE2F75; 
     --color-6:#B9BBCB;
 }
 body{
-    margin-left:7rem;
-    margin-right:20rem;
+    margin-left:20rem;
+    margin-right:15rem;
     margin-top:2rem;
     line-height:1.35rem;
     background-color: var(--bg-color);
@@ -26,12 +26,10 @@ body{
 
     display: grid;
     grid-template-areas:
-        "header header header"
-        "aside main main"
-        ".     main main"
-        ". footer footer";
-    grid-template-columns: 1fr 2fr 3fr;
-    overflow:visible;
+        ". header header header"
+        ". main main     aside "
+        ". main main .         "
+        ". footer footer footer";
 }
 [theme="dark"]{
     --main-color:#f9f9f9;
@@ -89,17 +87,17 @@ li {
     line-height:1.55rem;
 }
 main {
-    padding:1rem;
+    padding-right:2.75rem;
     grid-area: main;
     
 }
 aside {
     grid-area: aside;
+    max-width:250px;
     position: sticky;
     text-align: center;
     top:1rem;
     font-size: 1.125rem;
-    margin:1rem;
     background-color: var(--aside-color);
     border-radius:12px;
 }
@@ -111,22 +109,18 @@ a:hover {
     color:var(--accent-color);
 
 }
-    text-align:left;
-    text-indent:2.5rem;
 font-weight:bold;
   ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
 }  
-li, summary{
-      list-style-type: none;
 
-}
     .navi {
         border:none;
+        text-align:center;
         display: block;
-        padding: 7.5px 7px;
+        padding: 5.5px;
         text-decoration:none;
     }
     .navi:hover {
@@ -139,17 +133,20 @@ footer {
     grid-area: footer;
     text-align: center;
     padding:.5rem;
+    padding-top:5rem;
 }
 h1 {
     padding: .5rem;
 }
 h2 {
     padding-bottom:.5rem;
+    width: fit-content;
     border-bottom: 2px solid var(--accent-color);
 }
 .showmobile {
     display:none;
 }
+
 /* status.cafe */
 
 #statuscafe {
@@ -166,6 +163,7 @@ h2 {
         margin: .1em;
     }
 }
+
 /* 
 External link icon. 
 Stuff past %23 is the color hex code
@@ -238,133 +236,4 @@ mobile
   .showmobile {
     display: contents;
   }
-}
-
-/*
-Comment CSS by Ayano
-/comment-widget.js
-/links.html
-https://virtualobserver.moe/ayano/comment-widget
-*/
-
-#c_widget {
-    box-sizing: border-box;
-    padding: 20px;
-    font-size: 16px;
-}
-
-#c_widget button, #c_widget input[type=submit] {
-    padding: 4px;
-    text-decoration: none;
-	text-align: center;
-    border: 1px solid var(--accent-color);
-    background-color:  var(--color-6);
-    color: var(--main-color);
-}
-#c_widget button:hover, #c_widget input[type=submit]:hover {
-    color: var(--main-color);
-    border: 1px solid var(--accent-color);
-    background-color: var(--accent-color);}
-#c_widget button:disabled, #c_widget input[type=submit]:disabled {opacity: 60%;}
-#c_widget button:disabled:hover, #c_widget input[type=submit]:disabled:hover {
-    border: 1px solid #21222B;
-}
-
-/* Input section */
-#c_inputDiv {
-    margin-bottom: 15px;
-    padding: 5px;
-
-}
-
-.c-inputWrapper {
-    display: block;
-    
-}
-.c-input {
-    padding: 5px;
-    margin:5px;
-    color: #000;
-    border: 1px solid #000;
-    background-color: #FFF;
-	outline: none;
-}
-.c-input:focus {
-    border: 1px solid #C559AA;
-}
-
-.c-textInput {
-    width: calc(100% - 10px);
-    max-width: 900px;
-    resize: none;
-}
-#c_submitButton {
-    display: block; 
-    margin-left: auto; 
-    margin-right: 0;
-}
-#c_replyingText {
-    text-align: right;
-}
-
-/* Comment section */
-.c-comment {
-    margin-bottom: 15px;
-    padding: 10px;
-    border: 2px solid --var(--color-5);
-    color:var(--main-color);
-    background-color: var(--aside-color); 
-}
-.c-reply {
-    display: block;
-    width: 90%;
-    margin-bottom: 10px;
-    margin-left: auto;
-    margin-right: 0;
-    padding: 10px;
-    background-color: var(--color-6);
-}
-.c-reply:last-child {margin-bottom: 0;}
-.c-replyContainer {
-    margin: -10px;
-    margin-top: 10px;
-    padding: 10px;
-    background-color: var(--aside-color);
-}
-
-.c-name {
-    display: inline-block;
-    margin: 0;
-    margin-right: 10px;
-    padding: 0;
-    font-weight: bold;
-}
-.c-site {
-    text-transform:uppercase;
-}
-.c-timestamp {
-    float: right;
-    opacity: 75%;
-}
-.c-text {
-    margin: 0;
-    margin-left: -10px;
-    margin-right: -10px;
-    padding: 10px;
-    font-size: 14px;
-}
-
-/* Pagination */
-#c_pagination {text-align: center;}
-.c-replyButton {
-    margin-top: 10px;
-    margin-right: 4px;
-}
-.c-expandButton {
-    margin-top: 10px;
-    margin-left: 4px;
-}
-.c-paginationButton {
-    margin-right: 4px;
-    margin-left: 4px;
 }

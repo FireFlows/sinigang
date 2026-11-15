@@ -26,11 +26,14 @@ header {
 }
 h1 {
     background-color: #FF679DFF;
-    text-indent:.5rem;
+    padding:.25rem;
     border-radius:8px;
+        width: fit-content;
+
 }
 h2 {
-    border-bottom: 3px dashed #4EA6EAFF;
+    border-bottom: 3px dashed #4EA6EAFF;    width: fit-content;
+
 }
 p, li {
     line-height:1.5rem;

@@ -2,7 +2,7 @@
 title: "Elsewhere"
 layout: "main.html"
 ---
-If looking to contact me, I recommend Tumblr or email. I don't check my Twitter DMs. You can also [leave a comment](index.html#c_widget).
+I'm most easily contacted through Tumblr and email. 
 
 * [Art Fight](https://artfight.net/~0430)
 * [status.cafe](https://status.cafe/users/fire)
