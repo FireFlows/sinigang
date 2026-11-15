@@ -23,9 +23,19 @@ Slight website revamp; hopefully it looks a little better now!
 
 <div id="statuscafe"><div id="statuscafe-username"></div><div id="statuscafe-content"></div></div><script src="https://status.cafe/current-status.js?name=fire" defer></script>
 
-## Vocaloid song I like 
+## Random song from my Vocaloid playlist
 
-<iframe width="500" height="315" src="https://www.youtube.com/embed/videoseries?si=ui6p7Reu9tG9cBwg&amp;list=PLFCCsWwB4Mxk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style=" top: 0; left: 0; width: 500px; height: 315px;" 
+id='player'></div>
+<br>
+    <button onclick="shuff_list()">Shuffle List</button>
+    <button onclick="player.previousVideo()">Back</button>
+    <button onclick="player.pauseVideo()">Pause ||</button>
+    <button onclick="player.nextVideo()">Next </button>
+    
+  </div>
+
+  As the title says. My Vocaloid playlist is [here](https://www.youtube.com/playlist?list=PLFCCsWwB4Mxk).
 
 ## Adoptable
 <div style="width: 120px; height: 250px;">
@@ -43,4 +53,4 @@ Slight website revamp; hopefully it looks a little better now!
 
 Adopted from [ritual.sh](https://ritual.sh/resources/adoptables)
 
-<script src="assets/music.js"></script>
+<script src="assets/js/music.js"></script>

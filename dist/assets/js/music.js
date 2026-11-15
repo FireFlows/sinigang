@@ -1,29 +1,54 @@
 
-/*
-Attempting to solve the "Random Vocaloid Song" Issue
-https://stackoverflow.com/questions/65210689/start-youtube-embed-playlist-at-a-specific-video-index/79301505#79301505
-https://codepen.io/gbysea/pen/BYOaJp
-https://stackoverflow.com/questions/49287620/youtube-api-shuffle-playlist
-https://clownfred.zone/CZtelevision
-https://stackoverflow.com/questions/41624880/making-a-youtube-video-player-that-plays-videos-randomly-from-a-list-server-side
+//your playlist here
+var plist = "PLFCCsWwB4Mxk";
 
-https://nomnomnami.pika.page/posts/making-random-generators-in-javascript
-https://github.com/borkosavic/random-youtube-playlist-video
-<!-----------
-AIzaSyAXl4sJEqKYFdaItR4MxCtl6xp27pJWtws
-https://www.youtube.com/playlist?list=PLFCCsWwB4Mxk
+// 2. This code loads the IFrame Player API code asynchronously.
+var tag = document.createElement("script");
 
-use api to grab number of videos
-https://developers.google.com/youtube/iframe_api_reference
+tag.src = "https://www.youtube.com/iframe_api";
 
-GET https://youtube.googleapis.com/youtube/v3/playlistItems?part=contentDetails&playlistId=PLFCCsWwB4Mxk&key=AIzaSyAXl4sJEqKYFdaItR4MxCtl6xp27pJWtws HTTP/1.1
+var firstScriptTag = document.getElementsByTagName("script")[0];
+firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
 
-const songNumber = await fetch("https://youtube.googleapis.com/youtube/v3/playlistItems?part=contentDetails&playlistId=PLFCCsWwB4Mxk&key=AIzaSyAXl4sJEqKYFdaItR4MxCtl6xp27pJWtws", {
-    method: "GET",
-    });
-player.playVideoAt(index:Number):Void
+// 3. This function creates an <iframe> (and YouTube player)
+//    after the API code downloads.
+var player;
 
-https://www.youtube.com/watch?v=QTxvUA4l0Vs&list=PLFCCsWwB4Mxk&index=268
-https://www.youtube.com/playlist?list=PLFCCsWwB4Mxk
+function onYouTubeIframeAPIReady() {
+  player = new YT.Player("player", {
+    playerVars: {
+      autoplay: 1,
+      enablejsapi: 1,
+      loop: 1,
+      controls: 1,
+      showinfo: 1,
+      modestbranding: 1,
+      listType: "playlist",
+      list: plist
+    },
 
-https://youtube-playlist-randomizer.bitbucket.io/
+    events: {
+      onReady: onPlayerReady,
+      onStateChange: onPlayerStateChange
+    }
+  });
+}
+
+// 4. The API will call this function when the video player is ready.
+
+function onPlayerReady(event) {
+  shuff_list(); /*disable this line if you not want it to be shuffled onload*/
+  player.stopVideo(); //autoplay off doesnt work with some browsers this allows you to embed multpile players on same page not starting all at once
+}
+
+function onPlayerStateChange(event) {
+  const player = event.target;
+}
+// 5. very simple YT shuffle command.
+function shuff_list() {
+  player.setShuffle(true);
+  // starts at first video in the new list sequence. index 0
+  player.playVideoAt(0);
+}
+
+// https://codepen.io/jcb01/pen/ZEKpYgV 

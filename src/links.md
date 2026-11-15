@@ -39,7 +39,7 @@ These links are all free, have little/no ads, are browser-based, and are mobile 
 * [MDN Web Docs](https://developer.mozilla.org/)
 * [Native Neocities hit counter](https://dannarchy.com/tut/tut_002)
     * I used a slightly modified version of this code for the footer.
-* [r/neocities frequently asked questions and (my) answers by Mevdik](https://mevdik.nekoweb.org/guides/r-neocities-faq-and-my-answers)
+* [Responsive YouTube Shuffled Playlist Player](https://codepen.io/jcb01/pen/ZEKpYgV)
 * [Styling external links, yea or nay?](https://mina86.com/2026/styling-external-links/)
 * [w3 markup validation service](https://validator.w3.org/)
 * [w3schools](https://www.w3schools.com/html/)
@@ -64,6 +64,7 @@ These links are all free, have little/no ads, are browser-based, and are mobile 
 * [Teppy's Layouts](https://teppyslayouts.neocities.org/)
 
 ### Meta
+* [r/neocities frequently asked questions and (my) answers](https://mevdik.nekoweb.org/guides/r-neocities-faq-and-my-answers)
 * [Some Undocumented Neocities Mechanics](https://suboptimalism.neocities.org/writings/undocumented)
 
 ## Fun and Games
