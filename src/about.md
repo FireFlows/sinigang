@@ -26,7 +26,7 @@ It's a popular Filipino soup. It's pretty sour. A lot of people tend to name the
 
 ### Who's the character to the left of me (on desktop?)
 
-It's Kasane Teto SV!
+It's Kasane Teto SV! More specifically, it's their official standing portrait, illustrated by Sakauchi Waka.
 
 ### You're an artist, right? Hey, where's your art!? WHERE IS IT! 
 
