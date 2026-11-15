@@ -13,7 +13,7 @@ Nice to see you here. My name is Fire and this is my own personal space away fro
 
 Currently super obsessed with games about deciphering alien languages. Two fun ones came out recently: Messages from Deep Space and Messages from Aliens. Also, a new Slay the Spire character! Holy shit!
 
-Slight website revamp; hopefully it looks a little better now!
+Slight website revamp; hopefully it looks a little better now! I even added a feature that I've been wanting to add for a long ass time, which you can see in action a little bit below this.
 
 2026/11/15
 
@@ -27,12 +27,11 @@ id='player'></div>
 <br>
     <button onclick="shuff_list()">Shuffle List</button>
     <button onclick="player.previousVideo()">Back</button>
-    <button onclick="player.pauseVideo()">Pause ||</button>
     <button onclick="player.nextVideo()">Next </button>
     
   </div>
 
-  As the title says. My Vocaloid playlist is [here](https://www.youtube.com/playlist?list=PLFCCsWwB4Mxk).
+  As the title says. My Vocaloid playlist is [here](https://www.youtube.com/playlist?list=PLFCCsWwB4Mxk). Sometimes, the thumbnail will be the song most recently added to the playlist, but clicking the video will shuffle the playlist.
 
 ## Adoptable
 <div style="width: 120px; height: 250px;">
