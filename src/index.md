@@ -9,8 +9,6 @@ Nice to see you here. My name is Fire and this is my own personal space away fro
 
 Accessiblity was one of the core things I had in mind while creating this website. Mobile and any screen size friendly!
 
-Check out [my RSS feed](feed.xml) for site updates.
-
 <span class="showmobile">All times are in [Eastern](https://time.is/ET).</span>
 
 ## Now
@@ -27,8 +25,7 @@ Slight website revamp; hopefully it looks a little better now!
 
 ## Vocaloid song I like 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NQgNP67WSck?si=6N91ek3Nuv88API8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="500" height="315" src="https://www.youtube.com/embed/videoseries?si=ui6p7Reu9tG9cBwg&amp;list=PLFCCsWwB4Mxk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Adoptable
 <div style="width: 120px; height: 250px;">
