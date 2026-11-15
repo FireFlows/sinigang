@@ -1,5 +1,39 @@
-<p>Games about deciphering languages that I am collecting</p>
-<ul>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Games About Deciphering Languages</title>
+	<meta charset="UTF-8"> 
+	<link rel="stylesheet" href="/assets/style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<script src="/assets/js/theme.js"></script>
+</head>
+	<body>
+		<header>
+<span style="font-weight:700; font-size:1.75rem;">sinigang.neocities.org</span>
+		</header>
+	<aside>
+		<img src="/assets/img/avatar.png" height="250" class="nomobile" alt="A drawing of my UTAU."></a>
+		<span class="nomobile"><br>My current time: <br><span id="local-time-main"></span>
+		<br><span id="local-time-extra"></span></span>
+			<nav>
+			<ul>
+				<li><a href="/" class="navi">Home</a></li>
+				<li><a href="/about.html" class="navi"> </span>About</a></li>
+				<li><a href="/utau.html" class="navi"></span>UTAU</a></li>
+				<li><a href="/posts.html" class="navi"></span>Posts</a></li>
+				<li><a href="/elsewhere.html" class="navi"></span>Elsewhere</a></li>
+				<li><a href="/links.html" class="navi"></span>Links</a></li>
+			</ul>
+		</nav>
+	</aside>
+	<main> 
+		
+	<h1>Games About Deciphering Languages</h1>
+    <p>Filed under: 
+
+ <a href="../../posts.html#personal">#personal</a></span> 
+</p>
+	<ul>
 <li><a href="https://store.steampowered.com/app/1931770/Chants_of_Sennaar/">Chants of Senaar</a></li>
 <li><a href="https://store.steampowered.com/app/1858720/Message_From_Aliens/">Message from Aliens</a></li>
 <li><a href="https://store.steampowered.com/app/4080030/The_Message_from_Deep_Space/">The Message from Deep Space</a></li>
@@ -8,7 +42,56 @@
 <li><a href="https://store.steampowered.com/app/1044490/The_Expression_Amrilato">The Expression Amrilato</a></li>
 <li><a href="https://store.steampowered.com/app/1591490/Distant_Memora%C4%B5o/">Distant Memorajo</a></li>
 </ul>
-<!-- -->
 <p>Unfortunately I've found that most &quot;deciphering language games&quot; are basically just a simpler form of English (barring a certain language in Chants of Senaar* + The Expression Amrilato and Distant Memorajo are actually both about Esperanto, a constructed language**). It makes me a little sad, but at the same time it's a lot of effort to make a language, and it's a lot of effort to learn one, too.</p>
 <p>*the Bards' language, which just so happened to be my favorite language, because of how different it is from English. I also love the inspiration from the Devanagari script</p>
 <p>**but Esperanto was created so &quot;anyone&quot; could learn it easily. (It's mainly based off of Indo-European/Romance languages ... and it's quite similar to English ...)</p>
+
+
+	</main>
+	<footer>
+		by Fire 2020 - ∞ | <a href="#">Top</a> | 
+	<button id="theme-selector" onclick="toggle()">
+		Toggle theme
+		</button>
+		<br>Page last updated: <span id="lu"></span><br>
+		Site last updated: <span id="wlu"></span>
+	</footer>
+
+<script>
+	function getTime() {
+    const now = new Date();
+
+    const etFormatter = new Intl.DateTimeFormat('en-US', {
+        timeZone: 'America/New_York',
+        hour: '2-digit',
+        minute: '2-digit',
+        second: '2-digit',
+        hour12: true,
+        timeZoneName: 'short'
+    });
+
+    const parts = etFormatter.formatToParts(now);
+
+    let timeStr = "";
+    let tzName = "";
+
+    for (const p of parts) {
+        if (p.type !== "timeZoneName") {
+            timeStr += p.value;
+        } else {
+            tzName = p.value;
+        }
+    }
+
+    const laTime = new Date(now.toLocaleString("en-US", { timeZone: "America/New_York" }));
+    const localTime = new Date();
+
+    document.getElementById('local-time-main').textContent = `${timeStr} ${tzName}`;
+}
+setTheme();
+getTime();
+setInterval(getTime, 1000);
+</script>
+<script src="/assets/js/footer.js"></script>
+</body>
+</html>

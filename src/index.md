@@ -5,23 +5,21 @@ layout: "main.html"
 
 ## Introduction
 
-Welcome to my humble abode.
-
-The page last updated/site last updated footer unfortunately makes it impossible to implement cache-busting. (And I'm keeping it because it's very cool.) If there's been a new update, and it's showing an older date, I recommend spamming CTRL+SHIFT+R until it works. LOL.
+Nice to see you here. My name is Fire and this is my own personal space away from social media.
 
 <span class="showmobile">All times are in [Eastern](https://time.is/ET).</span>
 
 ## Now
 
-Finishing up stuff with my UTAU, finally working on the UTAU part of the website... 
+Currently super obsessed with games about deciphering alien languages. Two fun ones came out recently: Messages from Deep Space and Messages from Aliens. Also, a new Slay the Spire character! Holy shit!
 
-I've been drawing a lot of stuff. For some reason, I've also started to get into Animal Jam again. And also roguelike games like Mewgenics, Slay the Spire 2, etc.
+Slight website revamp; hopefully it looks a little better now. 
 
-20261004
+2026/11/15
 
 ## status.cafe widget
 
-<div id="statuscafe"><div id="statuscafe-username"></div><div id="statuscafe-content"></div></div>
+<div id="statuscafe"><div id="statuscafe-username"></div><div id="statuscafe-content"></div></div><script src="https://status.cafe/current-status.js?name=fire" defer></script>
 
 ## Adoptable
 <div style="width: 200px; height: 350px;">

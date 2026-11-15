@@ -7,17 +7,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&display=swap');
 
 :root {
-    --main-color: #21222B;
+    --main-color: #161212;
     --bg-color: #f9f9f9;
     --aside-color: #e6e7ee;
-    --accent-color:#A63A8B;
-    --color-5:#EE2F75; 
+    --accent-color:#EE2F75;
+    --color-5:#422fee; 
     --color-6:#B9BBCB;
 }
 body{
     margin-left:20rem;
     margin-right:15rem;
-    margin-top:2rem;
+    margin-top:2.75rem;
     line-height:1.35rem;
     background-color: var(--bg-color);
     color: var(--main-color);
@@ -66,10 +66,12 @@ Thanks for reading.
 - Fire
 */
 a {
-    color: var(--accent-color);
+    color: var(--main-color);
+    text-decoration-color: var(--accent-color);
+    text-decoration-thickness: 2px;
 }
 a:hover {
-    color:var(--main-color);
+    color:var(--accent-color);
     text-decoration-color: var(--accent-color);
 
 
@@ -107,7 +109,7 @@ a {
 }
 a:hover {
     color:var(--accent-color);
-
+    background-color: var(--bg-color);
 }
 font-weight:bold;
   ul {
@@ -123,11 +125,6 @@ font-weight:bold;
         padding: 5.5px;
         text-decoration:none;
     }
-    .navi:hover {
-        background-color: var(--bg-color);
-        color:var(--accent-color);
-	    text-decoration:none;
-    }
 }
 footer {
     grid-area: footer;
@@ -141,7 +138,7 @@ h1 {
 h2 {
     padding-bottom:.5rem;
     width: fit-content;
-    border-bottom: 2px solid var(--accent-color);
+    border-bottom: 2.75px solid var(--accent-color);
 }
 .showmobile {
     display:none;
@@ -171,7 +168,7 @@ Stuff past %23 is the color hex code
 @media screen {
   a[href^="https://"], a[href^="http://"], a[href^="//"] {
     background:
-      url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" viewBox="0 0 12 12"><path fill="%23A63A8B" d="M6 1h5v5L8.86 3.85 4.7 8 4 7.3l4.15-4.16zM2 3h2v1H2v6h6V8h1v2a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1"/></svg>')
+      url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" viewBox="0 0 12 12"><path fill="%23EE2F75" d="M6 1h5v5L8.86 3.85 4.7 8 4 7.3l4.15-4.16zM2 3h2v1H2v6h6V8h1v2a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1"/></svg>')
       no-repeat 100% 0 / 0.75em;
     padding-right: 0.75em;
   }

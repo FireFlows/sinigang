@@ -3,7 +3,7 @@ title: "About"
 layout: "main.html"
 ---
 ## About the Webmaster
-Hi! My name is Fire. It's my real name I was given from birth. I'm 19 (04/30/2007). I'm American.
+19/they/USA
 
 My main interests are vocal synthesis, video games, and linguistics. In my free time, I like to draw, write, play games, listen to music, scroll social media, and use my computer.
 
