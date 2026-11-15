@@ -22,7 +22,7 @@ Slight website revamp; hopefully it looks a little better now!
 
 ## Random song from my Vocaloid playlist
 
-<div style=" top: 0; left: 0; width: 85%; height: 315px;" 
+<div style=" top: 0; left: 0; width: 95%; height: 415px;" 
 id='player'></div>
 <br>
     <button onclick="shuff_list()">Shuffle List</button>

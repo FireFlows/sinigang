@@ -98,7 +98,7 @@ aside {
     max-width:250px;
     position: sticky;
     text-align: center;
-    top:1rem;
+    top:.75rem;
     font-size: 1.125rem;
     background-color: var(--aside-color);
     border-radius:12px;
@@ -115,7 +115,7 @@ a:hover {
 font-weight:bold;
   ul {
   list-style-type: none;
-  padding: .5rem;
+  padding:0;
 }  
 
     .navi {
@@ -213,10 +213,9 @@ mobile
 }
   aside {
     margin:0;
-
     max-width: 100%;
+    height: 70px;
     position: initial;
-    top:3.75rem;
     ul {
         display:flex;
         gap:10px;
