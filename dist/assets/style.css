@@ -15,21 +15,18 @@
     --color-6:#B9BBCB;
 }
 body{
-    margin-left:20rem;
-    margin-right:15rem;
+    margin-left:10.5rem;
+    margin-right:12.5rem;
     line-height:1.455rem;
     background-color: var(--bg-color);
     color: var(--main-color);
     font-family: Inter, sans-serif;
     font-size: 1.05rem;
-    min-height:100vh;
-
     display: grid;
     grid-template-areas:
-        "header header header"
-        "main main     aside "
-        "main main .         "
-        "footer footer .";
+        " . .  header header "
+        " aside main main ."
+        " . footer footer  .";
 }
 [theme="dark"]{
     --main-color:#f9f9f9;
@@ -89,7 +86,7 @@ li {
     line-height:1.55rem;
 }
 main {
-    padding-right:2.75rem;
+    padding-left:2.75rem;
     grid-area: main;
 }
 aside {
@@ -132,7 +129,7 @@ font-weight:bold;
 footer {
     grid-area: footer;
     text-align: center;
-    padding:1.25rem;
+    padding:5.25rem;
 }
     h1 {
     text-indent: .75rem;
