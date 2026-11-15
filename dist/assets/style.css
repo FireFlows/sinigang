@@ -94,6 +94,9 @@ main {
     
 }
 aside {
+    img {
+        border-bottom: 5px solid var(--bg-color);
+    }
     grid-area: aside;
     max-width:250px;
     position: sticky;
@@ -104,6 +107,7 @@ aside {
     border-radius:12px;
 }
 nav {    
+
 a {
     color: var(--main-color);
 }
@@ -133,10 +137,10 @@ footer {
     padding-top:5rem;
 }
 h1 {
-    padding: .5rem;
+    padding: .75rem;
 }
 h2 {
-    padding-bottom:.5rem;
+    padding-bottom:.125rem;
     width: fit-content;
     border-bottom: 2.75px solid var(--accent-color);
 }
