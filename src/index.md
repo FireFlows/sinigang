@@ -15,7 +15,7 @@ If you're viewing this on desktop, the nice chimera to the right is Kasane Teto 
 
 Currently super obsessed with games about deciphering alien languages. Two fun ones came out recently: Messages from Deep Space and Messages from Aliens. Also, a new Slay the Spire character! Holy shit!
 
-Slight website revamp; hopefully it looks a little better now. 
+Slight website revamp; hopefully it looks a little better now!
 
 2026/11/15
 
