@@ -26,6 +26,7 @@ These links are all free, have little/no ads, are browser-based, and are mobile 
 * [nomnomnami's site](https://nomnomnami.com)
 * [slash.pages](https://slashpages.net/)
 * [squirrelz.xyz](https://squirrelz.xyz/)
+* [TabF5](https://tabf5.com/)
 * [Yataragasu's site](https://yatagarasu.nekoweb.org/)
 
 ### Resources
