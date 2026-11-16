@@ -36,8 +36,8 @@ tags:
     }
 
 iframe{
-    width:100%;
-    height: 55vh;
+    width:95%;
+    height:53.5vh;
 
 }
 

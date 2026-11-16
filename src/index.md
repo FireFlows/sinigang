@@ -24,7 +24,7 @@ Slight website revamp; hopefully it looks a little better now! I even added a fe
 
 ## Random song from my Vocaloid playlist
 
-<div style=" top: 0; left: 0; width: 100%; height: 55vh" 
+<div style=" top: 0; left: 0; width: 95%; height: 53.5vh" 
 id='player'></div>
 <br>
     <button onclick="shuff_list()">Shuffle again</button>
