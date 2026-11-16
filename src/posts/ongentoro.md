@@ -428,7 +428,7 @@ Okay, sure. You can do that.
 
 ### Can you translate and analyze DebitBit please?
 
-Haha, already two steps ahead of you; [I've made a Tumblr post about DebitBit already](https://www.tumblr.com/fire7541/830487955029278720/debitbit?source=share), but I don't want to put it on my website just yet.
+Haha, already two steps ahead of you; [I've made a Tumblr post about DebitBit](https://www.tumblr.com/fire7541/830487955029278720/debitbit?source=share), but I don't want to put it on my website just yet.
 
 ## Closing thoughts
 <p>While I was writing this, an <a href="http://www.nicovideo.jp/watch/sm46293237">Ongentoro Remix by Hasegawa Maigo</a> came out. It's very cool, so I recommend listening to it. The title &#38899;&#28304;&#21520;&#38706;(&#12418;&#12358;&#38899;&#28304;&#12399;&#25074;&#12426;&#25074;Remix), <i>ongentoro (mou ongen wa gorigo rimikkusu</i>) is a pun blending <i>gorigori</i> (being sick of) and <i>rimikkusu</i> (remix). An English translation might be&hellip; "I'm Sick of UTAU-ification Alremix," blending "already" + "remix."</p>
