@@ -30,13 +30,20 @@ tags:
         max-width:100%;
     }
 
+
+@media screen and (max-width: 750px) {
+    iframe {
+        max-width: 100% !important;
+    }
+}
+
 </style>
 <p>Hi. In this post....I will be analyzing the music video and lyrics of <a href="https://vocadb.net/S/932592">Ongentoro</a> by <a href="https://vocadb.net/Ar/2436">avogado6</a>. (I've also translated a few extra things, like the description.)</p>
 <p>This assumes you don't know a lot about UTAU, so I may explain things that are obvious to the seasoned UTAU user. However, this should still be <i>enlightening</i> and <i>fun </i>to read regardless of your UTAU skill level.
 
 This was originally [posted to Tumblr](https://www.tumblr.com/fire7541/816918342990544896/ongentoro?source=share) on May 17th, 2026, and I've been updating it ever since. But I thought, hey, why not post it on my website, too!? Especially because social media is hell.
 
-<iframe width="512px" height="315" src="https://www.youtube.com/embed/NQgNP67WSck?si=ksBFqWJK3P-rVVbS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="500px" height="315" src="https://www.youtube.com/embed/NQgNP67WSck?si=ksBFqWJK3P-rVVbS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## Title
