@@ -143,6 +143,7 @@ footer {
 }
     h1 {
     text-indent: .75rem;
+    line-height:2.25rem;
     background-color: var(--aside-color);
     padding:.225rem;
     border-radius:4px;
