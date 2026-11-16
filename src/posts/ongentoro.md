@@ -379,17 +379,24 @@ The writing at the bottom of the video says *using Kurosu's 8 morae list method 
 
 ## Questions I (Fire) might get asked
 
-<p><b>OMG nice translation can I use it for XYZ</b></p>
-<p>Sure, but please credit me if you do. You can link back to this post or just say it's by fire7541 on Tumblr (me).</p>
-<p>You can use it for translyrics, too. I technically cannot stop you, but please do not translate my translation and say it's a translation of Ongentoro's lyrics (example: translating the lyrics into Chinese using my translation as the basis). </p>
-<p>You should know how bad of an idea this is. Originally this said "you may use this as reference for your own translation" but I fucked up. I was only thinking about translyrics. I forgot people actually do that other shit </p>
-<p><b>Can you give me a version without your yapping and just the English translation please for easy copy/pasting</b></p>
-<p><a href="https://sinigang.neocities.org/assets/txt/ongentoro.txt">Sure</a></p>
-<p><b>Hey, your translation could be improved here/Hey, your romanization here is wrong/Hey, I have something to add here/etc.</b></p>
+#### OMG nice translation can I use it for XYZ
+
+Sure, but please credit me and link back to this post if possible.
+
+You can use it for translyrics, too. I technically cannot stop you, but please do not [indirectly translate](https://en.wikipedia.org/wiki/Indirect_translation) my translation. 
+
+#### What if I translated your post *except* your own translations so I'm not indirectly translating?
+
+Okay, sure. You can do that. 
+
+#### Can you give me a version without your yapping and just the English translation please for easy copy/pasting
+
+<a href="https://sinigang.neocities.org/assets/txt/ongentoro.txt">Sure</a>.
+
+#### Hey, your translation could be improved here/Hey, your romanization here is wrong/Hey, I have something to add here/etc.
+
 <p>Not a question. But I'm open to suggestions, feedback, etc. Feel free to <a href="https://www.tumblr.com/new/ask/fire7541">send an ask</a>!</p>
 
 ## Closing thoughts
-Thank you for reading all the way up until the end. It was a lot of fun to do the translation and write the explanations, so I hope you had fun reading it too! </p>
 <p>While I was writing this, an <a href="http://www.nicovideo.jp/watch/sm46293237">Ongentoro Remix by Hasegawa Maigo</a> came out. It's very cool, so I recommend listening to it. The title &#38899;&#28304;&#21520;&#38706;(&#12418;&#12358;&#38899;&#28304;&#12399;&#25074;&#12426;&#25074;Remix), <i>ongentoro (mou ongen wa gorigo rimikkusu</i>) is a pun blending <i>gorigori</i> (being sick of) and <i>rimikkusu</i> (remix). An English translation might be&hellip; "I'm Sick of UTAU-ification Alremix," blending "already" + "remix."</p>
-<p>11/11/2026: A few people have told me that this post has made them get into Calogado/Mayoi Heki/UTAU, and some people have even told me they want to create an UTAU! I cannot describe how overwhelmingly happy I am to hear this. Thank you all so much for your positive reception on this post. And thank you...avogado6...for Ongentoro</p>
-<p>If you finished this post: umm, rate 1-10? JK, don't do that.</p>
+Thank you for reading all the way up until the end. It was a lot of fun to do the translation and write the explanations, so I hope you had fun reading it too! </p>
