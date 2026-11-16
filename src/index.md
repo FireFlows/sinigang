@@ -64,5 +64,10 @@ Adopted from [ritual.sh](https://ritual.sh/resources/adoptables)
 </map>
 <img usemap="#win7widget-compact" src="https://baccyflap.com/noai/win7widget-compact.gif" alt="a Windows 7 style dialog box titled 'The No AI Webring' with a little icon showing a computer chip in a rubbish bin. beside it are three clickable buttons, labeled Previous, Random and Next"> 
 
+<div id="vocaring"></div>
+<link rel="stylesheet" href="https://electric-tenshi.nekoweb.org/vocaring/vocaring.css">
+<script src="https://electric-tenshi.nekoweb.org/vocaring/vocaring-variables.js"></script>
+<script src="https://electric-tenshi.nekoweb.org/vocaring/vocaring-widget.js"></script>
+
 <script src="https://status.cafe/current-status.js?name=fire" defer></script>
 <script src="assets/js/music.js"></script>
