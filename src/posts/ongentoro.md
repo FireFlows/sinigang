@@ -292,7 +292,7 @@ Calogado's saying the "Won't you become an UTAU, too? / … / How's this design?
 > UTAU県警からお知らせ　  
 ギ○ファイル便 ・g○○gle drive・Dropb○xなどでWAV送れは詐欺です！※場合に寄ります　   
 勧誘に注意しましょう！   
-*UTAU kenkai kara oshirase  
+*UTAU kenkei kara oshirase  
 gi\*fairubin g\*\*gle drive dropb\*x nado de WAV okure wa sagi desu! \*baai ni yorimasu  
 kanyuu ni chuui shimashou!*  
 
@@ -300,7 +300,7 @@ This is *also* taken from the tweet in question, besides the "UTAU県警から�
 
 Here's my translation:
 
-> Announcement from UTAU Prefecture police:  
+> Announcement from UTAU Prefectural police:  
 Sending .wav files via Gigafile-bin<sup><a href="#fn6" id="r6">[6]</a></sup>, Google Drive, Dropbox, etc., is a scam! (on a case-by-case basis)  
 Let's exercise caution around solicitations!
 
