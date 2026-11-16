@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>The Ring of Fire</title>
+	<meta charset="UTF-8"> 
+	<link rel="stylesheet" href="/assets/style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<script src="/assets/js/theme.js"></script>
+</head>
+	<body>
+		<header>
+<span style="font-weight:700; font-size:1.75rem;">sinigang.neocities.org</span>
+		</header>
+	<aside>
+		<img src="/assets/img/avatar.png" height="250" class="nomobile" alt="An image of Kasane Teto SV.">
+		<span class="nomobile"><br>My current time: <br><span id="local-time-main"></span>
+		<br><span id="local-time-extra"></span></span>
+			<nav>
+			<ul>
+				<li><a href="/" class="navi">Home</a></li>
+				<li><a href="/about.html" class="navi">About</a></li>
+				<li><a href="/utau.html" class="navi">UTAU</a></li>
+				<li><a href="/posts.html" class="navi">Posts</a></li>
+				<li><a href="/elsewhere.html" class="navi">Elsewhere</a></li>
+				<li><a href="/links.html" class="navi">Links</a></li>
+			</ul>
+		</nav>
+	</aside>
+	<main> 
+		
+	<h1>The Ring of Fire</h1>
+	<style>
+    pre{ text-wrap:wrap;}
+</style>
+<p>The Ring of Fire is a <a href="https://en.wikipedia.org/wiki/Webring">webring</a> I created using <a href="https://petrapixel.neocities.org/coding/webringu">webringu</a>. The name is based off of the <a href="https://en.wikipedia.org/wiki/Ring_of_Fire">Pacific Ring of Fire</a>.</p>
+<h2>How to join</h2>
+<ol>
+<li>Your name must be Fire
+<ul>
+<li>you can have multiple names, just one of them has to be Fire</li>
+</ul>
+</li>
+<li>That's it.</li>
+</ol>
+<h2>Application</h2>
+<p>Please <a href="elsewhere.html">send me an email</a> with:</p>
+<ol>
+<li>the link to your website</li>
+<li>what you would like your title to be</li>
+<li><strong>a link to</strong> your website button (if you have one)</li>
+</ol>
+<h2>Code</h2>
+<div>
+    <a href="https://sinigang.neocities.org/webring"><b>🔥 The Ring of Fire</b></a><br />
+    <a href="https://sinigang.neocities.org/webring?action=previous">← </a>
+    <a href="https://sinigang.neocities.org/webring?action=random">random</a>
+    <a href="https://sinigang.neocities.org/webring?action=next">→ </a>
+</div>
+<pre>
+&lt;div>
+    &lt;a href="https://sinigang.neocities.org/webring">&lt;b>🔥 The Ring of Fire</b>&lt;/a&gt;&lt;br/>
+    &lt;a href="https://sinigang.neocities.org/webring?action=previous">← &lt;/a>
+    &lt;a href="https://sinigang.neocities.org/webring?action=random">random&lt;/a>
+    &lt;a href="https://sinigang.neocities.org/webring?action=next">→ &lt;/a>
+&lt;/div>  
+</pre>
+<p>Feel free to customize the code as much as you would like.</p>
+<h2>Members</h2>
+<div id="webringulist"></div>
+<noscript>Please enable JavaScript to view the member list.</noscript>
+<script>
+  // List of members. You need to update this by hand. 
+  const members = [
+    {
+      url: "https://sinigang.neocities.org/",
+      title: "sinigang",
+    },
+  ];
+</script>
+<script src="https://petrapixel.neocities.org/assets/js/webringu.js?nocache=1"></script>
+
+	</main>
+	<footer>
+		by Fire 2020 - ∞ | <a href="#">Top</a> | <a href="https://github.com/FireFlows/sinigang">GitHub repo</a> |
+	<button id="theme-selector" onclick="toggle()">
+		Toggle theme
+		</button>
+		<br>Page last updated: <span id="lu"></span><br>
+		Site last updated: <span id="wlu"></span>
+	</footer>
+
+<script>
+	function getTime() {
+    const now = new Date();
+
+    const etFormatter = new Intl.DateTimeFormat('en-US', {
+        timeZone: 'America/New_York',
+        hour: '2-digit',
+        minute: '2-digit',
+        second: '2-digit',
+        hour12: true,
+        timeZoneName: 'short'
+    });
+
+    const parts = etFormatter.formatToParts(now);
+
+    let timeStr = "";
+    let tzName = "";
+
+    for (const p of parts) {
+        if (p.type !== "timeZoneName") {
+            timeStr += p.value;
+        } else {
+            tzName = p.value;
+        }
+    }
+
+    const laTime = new Date(now.toLocaleString("en-US", { timeZone: "America/New_York" }));
+    const localTime = new Date();
+
+    document.getElementById('local-time-main').textContent = `${timeStr} ${tzName}`;
+}
+setTheme();
+getTime();
+setInterval(getTime, 1000);
+</script>
+<script src="/assets/js/footer.js"></script>
+</body>
+</html>

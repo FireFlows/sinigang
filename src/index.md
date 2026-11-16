@@ -27,13 +27,10 @@ Slight website revamp; hopefully it looks a little better now! I even added a fe
 <div style=" top: 0; left: 0; width: 95%; height: 415px;" 
 id='player'></div>
 <br>
-    <button onclick="shuff_list()">Shuffle List</button>
-    <button onclick="player.previousVideo()">Back</button>
-    <button onclick="player.nextVideo()">Next </button>
-    
+    <button onclick="shuff_list()">Shuffle again</button>
   </div>
 
-  As the title says. My Vocaloid playlist is [here](https://www.youtube.com/playlist?list=PLFCCsWwB4Mxk). Sometimes, the thumbnail will be the song most recently added to the playlist, but clicking the video (or "Shuffle List") will shuffle the playlist.
+  As the title says. My Vocaloid playlist is [here](https://www.youtube.com/playlist?list=PLFCCsWwB4Mxk). Sometimes, the thumbnail will be the song most recently added to the playlist, but clicking the video (or "Shuffle again") will shuffle the playlist.
 
   "Vocaloid" is used as an umbrella term here. This playlist also includes mashups and covers.
 
@@ -62,12 +59,26 @@ Adopted from [ritual.sh](https://ritual.sh/resources/adoptables)
 <area href="https://baccyflap.com/noai/?rnd" target="_top" shape="rect" coords="102,81,199,105" alt="random" title="random">
 <area href="https://baccyflap.com/noai/?nxt&s=ksn" target="_top" shape="rect" coords="102,116,199,141" alt="next" title="next">
 </map>
+
+
+<div>
+    <a href="https://sinigang.neocities.org/webring"><b>🔥 The Ring of Fire</b></a><br>
+    <a href="https://sinigang.neocities.org/webring?action=previous">← </a>
+    <a href="https://sinigang.neocities.org/webring?action=random">random</a>
+    <a href="https://sinigang.neocities.org/webring?action=next">→ </a>
+</div>  
+<br>
+
 <img usemap="#win7widget-compact" src="https://baccyflap.com/noai/win7widget-compact.gif" alt="a Windows 7 style dialog box titled 'The No AI Webring' with a little icon showing a computer chip in a rubbish bin. beside it are three clickable buttons, labeled Previous, Random and Next"> 
+
+
 
 <div id="vocaring"></div>
 <link rel="stylesheet" href="https://electric-tenshi.nekoweb.org/vocaring/vocaring.css">
 <script src="https://electric-tenshi.nekoweb.org/vocaring/vocaring-variables.js"></script>
 <script src="https://electric-tenshi.nekoweb.org/vocaring/vocaring-widget.js"></script>
+
+
 
 <script src="https://status.cafe/current-status.js?name=fire" defer></script>
 <script src="assets/js/music.js"></script>
