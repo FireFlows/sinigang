@@ -123,6 +123,12 @@ These links are all free, have little/no ads, are browser-based, and are mobile 
 <dt><a href="https://graphemica.com/">Graphemica</a>
 <dd>Explore graphemes
 
+<dt><a href="https://wesleycrobertson.wordpress.com/2026/08/02/explaining-minihen/">Explaining Minihen by Scripting Japan</a>
+<dd>An article looking at Minihen (by Sasuke Haraguchi)'s lyrics.
+
+<dt><a href="https://wesleycrobertson.wordpress.com/2026/02/15/explaining-the-wordplay-in-the-song-%E8%A8%80%E8%91%89%E9%81%8A%E3%81%B3/">Explaining Wordplay in the song Wordplay</a>
+<dd>An article looking at Wordplay (by d.j. xaneiro)'s lyrics.
+
 <dt><a href="https://libraryofbabel.info/">Library of Babel</a> 
 <dd>Explore every book that could ever exist 
 
@@ -131,6 +137,7 @@ These links are all free, have little/no ads, are browser-based, and are mobile 
 
 <dt><a href="https://dood.al/pinktrombone/">Pink Trombone</a> 
 <dd>Use a simulated throat and mouth to create weird sounds
+
 
 </dl>
 

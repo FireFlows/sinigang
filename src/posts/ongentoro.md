@@ -60,7 +60,6 @@ I've made some edits to account for me posting this on a website instead of Tumb
 
 <iframe src="https://www.youtube.com/embed/NQgNP67WSck?si=ksBFqWJK3P-rVVbS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
 ## Title
 
 音源吐露 (*ongentoro*) is a title pun, which makes it difficult to translate. [vgperson calls it "Synth Expression" on her website](https://vgperson.com/vocalhighlights.php?m=2026-03). "Sound Source Revealed" is what the YouTube video claims it's called in English, but I don't like this one.
@@ -102,7 +101,7 @@ During Calogado's part of the [hook](https://en.wiktionary.org/wiki/%E3%82%B5%E3
 
 In Heki's, the background shows spinning compasses. These are kinda Heki's character item. I find this ironic, since he's canonically bad at directions.
 
-<p>Also, the animation transition from the folders to the compasses (and back) is very smooth. I'm a very huge fan.</p>
+Also, the animation transition from the folders to the compasses (and back) is very smooth. I'm a very huge fan.
 
 ### Thumbnail
 
@@ -110,9 +109,8 @@ I have nowhere else good to mention this. I think it's funny that Calogado's in 
 
 YouTube and probably NND set like, automatic thumbnails but I wouldn't be surprised if this was intentional.
 
-<img src="https://64.media.tumblr.com/832f6dfb1f1cbf59b05a862f769c0899/43d6fef636b32b1d-93/s400x600/5a8a905a9b1fccfe4aff6520625d102a452b9616.pnj" alt="Calogado in the NicoNico Douga thumbnail">
-
-<img src="https://64.media.tumblr.com/86f357ec0e24c39d6c9cb3bbbd82de9d/43d6fef636b32b1d-b6/s400x600/c2df9856eec23ddfecef48a88a2a5e10d9150f05.pnj" alt="Heki in the YouTube thumbnail">
+![Calogado in the NicoNico Douga thumbnail](https://64.media.tumblr.com/832f6dfb1f1cbf59b05a862f769c0899/43d6fef636b32b1d-93/s400x600/5a8a905a9b1fccfe4aff6520625d102a452b9616.pnj)
+![Heki in the YouTube thumbnail](https://64.media.tumblr.com/86f357ec0e24c39d6c9cb3bbbd82de9d/43d6fef636b32b1d-b6/s400x600/c2df9856eec23ddfecef48a88a2a5e10d9150f05.pnj)
 
 ## Lyrics/Translation/Translation Notes
 
@@ -138,7 +136,7 @@ Little Mermaid, please be tricked by me!<br>
 In 8 morae and around 200 lines,<br>
 I'll make it by following the recipe</p>
 
-<p>I like how every verse ends with <i>te</i> or <i>de</i> (which is just <a href="https://en.wiktionary.org/wiki/voiced#Adjective">voiced</a> <i>te </i>anyway) except for the last one.</p>
+I like how every verse ends with *te* or *de* (which is just [voiced](https://en.wiktionary.org/wiki/voiced#Adjective) te anyway) except for the last one.
 
 <blockquote class="npf_color_ross">
 声帯をぶち盗って！<br>
@@ -148,63 +146,168 @@ I'm ripping out your vocal cords!
 
 [ぶち](https://en.wiktionary.org/wiki/%E6%89%93%E3%81%A1#Prefix_2) (*buchi*) is a prefix that adds emphasis to a verb, making it more strong, violent, or sudden. 盗る (*toru*) just means to steal — and that's what I originally went with. I decided to change it to "ripping out," though, since the imagery there is much more forceful and violent.
 
-<p>"To steal" and "to record" are pronounced the same way in Japanese, making for a great pun. Unfortunately, I'm not sure how to make this work in English. You can "rip audio" from a video&hellip; but it's not the same.</p>
-<p>When spelled like &#21462;&#12387;&#25163;, <i>totte </i>can mean <a href="https://en.wiktionary.org/wiki/%E5%8F%96%E3%81%A3%E6%89%8B#Noun">handle, grip, or knob</a>. Like door handle, for example. Like how Calogado's on the other side of Heki's door..!? Though I'm not sure if this was intentional or if I'm slowly going crazy.</p>
-<blockquote class="npf_indented"><p><span class="npf_color_ross">&#20154;&#39770;&#23019; &#12393;&#12358;&#12363;&#39449;&#12373;&#12428;&#12390;&#65281;</span><br><i><span class="npf_color_ross">ningyohime douka damasarete!</span></i><br><span class="npf_color_ross">Little Mermaid, please be tricked by me!</span></p>
-</blockquote>
-<p>The Japanese name of The Little Mermaid is <a href="https://ja.wikipedia.org/wiki/%E4%BA%BA%E9%AD%9A%E5%A7%AB">&#20154;&#39770;&#23019;</a> (<i>ningyohime</i>, mermaid princess). Ongentoro makes a few references to The Little Mermaid. I'll talk about both the 1989 Disney movie and the <a href="https://en.wikisource.org/wiki/Hans_Andersen's_Fairy_Tales/The_Little_Mermaid">original 1837 fairy tale</a>, though the movie, being more popular, is probably what's being referenced in particular.</p>
-<p>In the tale, the mermaid's tongue gets cut off by the sea witch, who finds her voice incredibly beautiful. This doesn't happen to Heki (or Ariel, in the movie), but it's another reason why I chose "ripping out." <br><br>While The Little Mermaid is not about sirens, I can't help but think about sirens here. Commonly portrayed as mermaids in fiction, and meant to lure people to their death by their impossibly beautiful singing voice.</p>
-<blockquote class="npf_indented"><p><span class="npf_color_ross">8&#12514;&#12540;&#12521; 200&#12367;&#12425;&#12356;&#12398;&#25991;&#31456;&#12391;</span><br><i><span class="npf_color_ross">hachi moora nihyaku kurai no bunshou de</span></i><br><span class="npf_color_ross">In 8 morae and around 200 lines,</span></p>
-</blockquote>
-<p>This is a reference to <a href="https://note.com/96s_km4osm/n/nff459f924057">a specific reclist created by Kurosu</a><sup><a href="#fn4" id="r4">[4]</a></sup> (first .txt file). Reclists, <a href="https://utau.felinewasteland.com/ref/vocab">short for recording lists, are lists of all the sounds you need to record for a voicebank</a><sup><a href="#fn5" id="r5">[5]</a></sup>. A mora is the <a href="https://en.wikipedia.org/wiki/Mora_(linguistics)">shortest unit of timing, around the same time as a syllable, but importantly not a syllable</a>.</p>
-<p>Since there are a lot of sounds to record, reclists are broken up into lines. Kurosu's 8 morae list method has 8 morae in each line, and really moreso around 150 linesbut I guess 200 is close enough to 150. <a href="https://x.com/avogado6_vocalo/status/1845362271712940449">Calogado loves Kurosu's 8 morae list method.</a></p>
-<blockquote class="npf_indented"><p><span class="npf_color_ross">&#12524;&#12471;&#12500;&#36890;&#12426;&#20316;&#12427;&#12363;&#12425; </span><br><i><span class="npf_color_ross">reshipi doori tsukuru kara</span></i><br><span class="npf_color_ross">I'll make it by following the recipe</span></p>
+"To steal" and "to record" are pronounced the same way in Japanese, making for a great pun. Unfortunately, I'm not sure how to make this work in English. You can "rip audio" from a video… but it's not the same.
+
+When spelled like 取っ手, *totte* can mean [handle, grip, or knob](https://en.wiktionary.org/wiki/%E5%8F%96%E3%81%A3%E6%89%8B#Noun). Like door handle, for example. Like how Calogado's on the other side of Heki's door..!? Though I'm not sure if this was intentional or if I'm slowly going crazy.
+
+<blockquote class="npf_color_ross">
+人魚姫 どうか騙されて！<br>
+<i>ningyohime douka damasarete!</i><br>
+Little Mermaid, please be tricked by me!
 </blockquote>
 
-<img src="https://64.media.tumblr.com/98e7cd3641ad93f4951fdfc98c229be8/43d6fef636b32b1d-a1/s2048x3072/f9803142f6a78361585ed033831e31219cc3631f.pnj" alt="Calogado dressed as a chef, holding a pot with the word wav on top of it.">
+The Japanese name of The Little Mermaid is [人魚姫](https://ja.wikipedia.org/wiki/%E4%BA%BA%E9%AD%9A%E5%A7%AB) (*ningyohime*, mermaid princess). Ongentoro makes a few references to The Little Mermaid. I'll talk about both the 1989 Disney movie and the [original 1837 fairy tale](https://en.wikisource.org/wiki/Hans_Andersen's_Fairy_Tales/The_Little_Mermaid), though the movie, being more popular, is probably what's being referenced in particular.
 
-</div>
-<p>Calogado dresses like a chef when they say this, whipping up a serving of .wav files. WAV files are one of the "ingredients" to create an UTAU; you can't have an UTAU without audio. </p>
-<p>And the "recipe" is the steps to create an UTAU. In The Little Mermaid, there's also a recipe which the sea witch prepares. One of the ingredients to this recipe is the mermaid's tongue, to represent her voice (the movie isn't as grotesque, instead showing an abstraction of Ariel's voice).</p>
-<p>So, we've already established something here: Calogado's the sea witch, and Heki's the mermaid. As the sea witch, Calogado wants to trick the mermaid Heki into giving up his voice. </p>
-<p>While Ariel doesn't know Ursula is stalking her, Heki is well aware he's being stalked by Calogado. Interestingly, like Ursula, Calogado also has a mole on the right side of their face. This could mean nothing.</p>
+In the tale, the mermaid's tongue gets cut off by the sea witch, who finds her voice incredibly beautiful. This doesn't happen to Heki (or Ariel, in the movie), but it's another reason why I chose "ripping out." 
+
+While The Little Mermaid is not about sirens, I can't help but think about sirens here. Commonly portrayed as mermaids in fiction, and meant to lure people to their death by their impossibly beautiful singing voice.
+
+<blockquote class="npf_color_ross">
+8モーラ 200くらいの文章で<br>
+<i>hachi moora nihyaku kurai no bunshou de</i><br>
+In 8 morae and around 200 lines,
+</blockquote>
+
+This is a reference to <a href="https://note.com/96s_km4osm/n/nff459f924057">a specific reclist created by Kurosu</a><sup><a href="#fn4" id="r4">[4]</a></sup> (first .txt file). Reclists, <a href="https://utau.felinewasteland.com/ref/vocab">short for recording lists, are lists of all the sounds you need to record for a voicebank</a><sup><a href="#fn5" id="r5">[5]</a></sup>. A mora is the <a href="https://en.wikipedia.org/wiki/Mora_(linguistics)">shortest unit of timing, around the same time as a syllable, but importantly not a syllable</a>.
+
+Since there are a lot of sounds to record, reclists are broken up into lines. Kurosu's 8 morae list method has 8 morae in each line, and really moreso around 150 linesbut I guess 200 is close enough to 150. <a href="https://x.com/avogado6_vocalo/status/1845362271712940449">Calogado loves Kurosu's 8 morae list method.</a>
+
+<blockquote class="npf_color_ross">
+レシピ通り作るから <br>
+<i>reshipi doori tsukuru kara</i><br>
+I'll make it by following the recipe
+</blockquote>
+
+![Calogado dressed as a chef, holding a pot with the word wav on it](https://64.media.tumblr.com/98e7cd3641ad93f4951fdfc98c229be8/43d6fef636b32b1d-a1/s2048x3072/f9803142f6a78361585ed033831e31219cc3631f.pnj)
+
+Calogado dresses like a chef when they say this, whipping up a serving of .wav files. WAV files are one of the "ingredients" to create an UTAU; you can't have an UTAU without audio. 
+
+And the "recipe" is the steps to create an UTAU. In The Little Mermaid, there's also a recipe which the sea witch prepares. One of the ingredients to this recipe is the mermaid's tongue, to represent her voice (the movie isn't as grotesque, instead showing an abstraction of Ariel's voice).
+
+So, we've already established something here: Calogado's the sea witch, and Heki's the mermaid. As the sea witch, Calogado wants to trick the mermaid Heki into giving up his voice.
+
+While Ariel doesn't know Ursula is stalking her, Heki is well aware he's being stalked by Calogado. Interestingly, like Ursula, Calogado also has a mole on the right side of their face. This could mean nothing.
 
 <img src="https://64.media.tumblr.com/add7c5d754df1557e371f476e3d63a9a/43d6fef636b32b1d-01/s1280x1920/a4e56cea99d942d686d309632a64c9a6149a5140.pnj" alt="An image of Ursula and Calogado side-by-side. Both their moles are circled in red. I've written 'is it worth it!?'">
-</div>
-<p><span class="npf_color_rachel">&#26469;&#12394;&#12356;&#12391;&#65281;</span><br><span class="npf_color_rachel">&#12381;&#12358;&#12420;&#12387;&#12390;&#25276;&#12375;&#12363;&#12369;&#12390;</span><br><span class="npf_color_rachel">&#27877;&#26834;&#12397; &#12356;&#12388;&#12418;&#12394;&#12426;&#12422;&#12365;&#12391;</span><br><span class="npf_color_rachel">&#24190;&#26143;&#38684; &#20309;&#19975;&#22238;&#12398;&#20652;&#20419;</span><br><span class="npf_color_rachel">&#38500;&#38666;&#12395;&#26469;&#12390;&#38512;&#38525;&#24107;</span><br><br><i><span class="npf_color_rachel">konaide! </span></i><br><i><span class="npf_color_rachel">sou yatte oshikakete</span></i><br><i><span class="npf_color_rachel">dorobou ne itsumo nariyuki de</span></i><br><i><span class="npf_color_rachel">ikuseisou nanmankai no saisoku</span></i><br><i><span class="npf_color_rachel">jorei ni kite onmyouji</span></i><br><br><span class="npf_color_rachel">Go away!</span><br><span class="npf_color_rachel">Showing up out of the blue like that</span><br><span class="npf_color_rachel">You thief! I'll never change my mind</span><br><span class="npf_color_rachel">no matter how many times you come knocking.</span><br><span class="npf_color_rachel">Come and perform an exorcism, </span><span class="npf_color_rachel"><a href="https://en.wikipedia.org/wiki/Onmy%C5%8Dji">Onmyouji</a></span><span class="npf_color_rachel">!</span></p>
+
+<p class="npf_color_rachel">
+来ないで！<br>
+そうやって押しかけて<br>  
+泥棒ね いつもなりゆきで<br>
+幾星霜 何万回の催促
+除霊に来て陰陽師</p>
+
+<p class="npf_color_rachel"><i>
+konaide!  <br>
+sou yatte oshikakete<br>
+dorobou ne itsumo nariyuki de<br>
+ikuseisou nanmankai no saisoku<br>
+jorei ni kite onmyouji</i></p>
+
+<p class="npf_color_rachel">
+Go away!<br>
+Showing up out of the blue like that<br>
+You thief! I'll never change my mind<br>
+no matter how many times you come knocking.<br>
+Come and perform an exorcism, <a href="https://en.wikipedia.org/wiki/Onmy%C5%8Dji">Onmyouji!</a></p>
+
 <p>Same thing happens here with the first three verses ending in <i>te</i>/<i>de</i>, except it comes with an extra verse.</p>
-<blockquote class="npf_indented"><p><span class="npf_color_rachel">&#26469;&#12394;&#12356;&#12391;&#65281;</span><br><i><span class="npf_color_rachel">konaide! </span></i><br><span class="npf_color_rachel">Go away!</span></p>
+
+<blockquote class="npf_color_rachel">
+来ないで！<br>
+<i>konaide!</i><br>
+Go away!
 </blockquote>
-<p>Really, this is more of "don't come," but I didn't find that forceful enough. "Don't come!" is also not something we typically exclaim in English. </p>
-<blockquote class="npf_indented"><p><span class="npf_color_rachel">&#12381;&#12358;&#12420;&#12387;&#12390;&#25276;&#12375;&#12363;&#12369;&#12390;</span><br><i><span class="npf_color_rachel">sou yatte oshikakete</span></i><br><span class="npf_color_rachel">Showing up out of the blue like that</span><br><br><span class="npf_color_rachel">&#27877;&#26834;&#12397; &#12356;&#12388;&#12418;&#12394;&#12426;&#12422;&#12365;&#12391;</span><br><i><span class="npf_color_rachel">dorobou ne itsumo nariyuki de</span></i><br><span class="npf_color_rachel">You thief! I'll never change my mind</span></p>
+
+Really, this is more of "don't come," but I didn't find that forceful enough. "Don't come!" is also not something we typically exclaim in English. 
+
+<blockquote class="npf_color_rachel">
+泥棒ね いつもなりゆきで<br>
+<i>dorobou ne itsumo nariyuki de</i><br>
+You thief! I'll never change my mind
 </blockquote>
-<p><a href="https://ja.wiktionary.org/wiki/%E3%81%AA%E3%82%8A%E3%82%86%E3%81%8D">&#12394;&#12426;&#12422;&#12365;</a> (<i>nariyuki</i>) refers to the course of events or result of something. It could also be "by chance," but I highly doubt it's being used here to mean that. It's also an abbreviation for market order, but I highly highly doubt this one. </p>
-<p><span class="npf_color_rachel">&#12356;&#12388;&#12418;&#12394;&#12426;&#12422;&#12365;</span> (<i>itsumo nariyuki</i>) could then be like "this is always the course of events." I've chosen to translate this quite differently, though, because the literal translation is pretty vague (what ends up this way?). See, translation is mostly just translating literally and then rewriting thousands of times until it sounds good.</p>
-<p>The course of events refers to, probably, how Heki always rejects Calogado's <strike>advances</strike> incessant demands of "won't you record a voicebank, too?" even though Calogado's been pressing him tens of thousands of times. So, "I'll never change my mind."</p>
-<blockquote class="npf_indented"><p><span class="npf_color_rachel">&#24190;&#26143;&#38684; &#20309;&#19975;&#22238;&#12398;&#20652;&#20419;</span><br><i><span class="npf_color_rachel">ikuseisou nanmankai no saisoku</span></i><br><span class="npf_color_rachel">no matter how many times you come knocking.</span></p>
+
+[なりゆき](https://ja.wiktionary.org/wiki/%E3%81%AA%E3%82%8A%E3%82%86%E3%81%8D) (*nariyuki*) refers to the course of events or result of something. It could also be "by chance," but I highly doubt it's being used here to mean that. It's also an abbreviation for market order, but I highly highly doubt this one. 
+
+<span class="npf_color_rachel">いつもなりゆき</span> (*itsumo nariyuki*) could then be like "this is always the course of events." I've chosen to translate this quite differently, though, because the literal translation is pretty vague (what ends up this way?). 
+
+The course of events refers to, probably, how Heki always rejects Calogado's ~~advances~~ incessant demands of "won't you record a voicebank, too?" even though Calogado's been pressing him tens of thousands of times. So, "I'll never change my mind."
+
+<blockquote class="npf_color_rachel">
+幾星霜 何万回の催促<br>
+<i>ikuseisou nanmankai no saisoku</i><br>
+no matter how many times you come knocking.
 </blockquote>
-<p>"Come knocking" is &mdash; as you probably know &mdash; an idiom meaning to arrive unannounced. Additionally, Calogado is <i>literally</i> knocking on Heki's door.</p>
-<p><a href="https://en.wiktionary.org/wiki/%E5%B9%BE%E6%98%9F%E9%9C%9C#Noun">&#24190;&#26143;&#38684;</a> is a poetic way of saying "over many years." &#26143;&#38684; (<i>seisou</i>) means "year" but it's a combination of the kanji star + frost. The idea is that <a href="https://www.weblio.jp/content/%E5%B9%BE%E6%98%9F%E9%9C%9C">"lots of stars have risen" and "lots of snow has fallen."</a></p>
-<blockquote class="npf_indented"><p><span class="npf_color_rachel">&#38500;&#38666;&#12395;&#26469;&#12390;&#38512;&#38525;&#24107;</span><br><i><span class="npf_color_rachel">jorei ni kite onmyouji</span></i><br><span class="npf_color_rachel">Come and perform an exorcism, </span><span class="npf_color_rachel"><a href="https://en.wikipedia.org/wiki/Onmy%C5%8Dji">Onmyouji</a></span><span class="npf_color_rachel">!</span></p>
+
+"Come knocking" is — as you probably know — an idiom meaning to arrive unannounced. Additionally, Calogado is *literally* knocking on Heki's door, so that's another reason why I went with that.
+
+[幾星霜](https://en.wiktionary.org/wiki/%E5%B9%BE%E6%98%9F%E9%9C%9C#Noun) is a poetic way of saying "over many years." 星霜 (seisou) means "year" but it's a combination of the kanji star + frost. The idea is that "[lots of stars have risen" and "lots of snow has fallen](https://www.weblio.jp/content/%E5%B9%BE%E6%98%9F%E9%9C%9C)."
+
+<blockquote class="npf_color_rachel">
+除霊に来て陰陽師<br>
+<i>jorei ni kite onmyouji</i><br>
+Come and perform an exorcism, Onmyouji!
 </blockquote>
-<p>An onmyouji exorcises youkai (and also does other stuff), and Calogado is of course an Ongentoro youkai. (The sea witch and an Ongentoro youkai?! Can Heki catch a break?) This reading will be elaborated on in a second.</p>
-<img src="https://64.media.tumblr.com/3571d8535b76ab424f4fea1ab8d01b68/43d6fef636b32b1d-3f/s2048x3072/0a594cf9e4724b05b49c35ea4ad4c09ec37d9f57.pnj" alt="Heki dressed as an onmyouji.">
-</div>
-<p>Heki even dresses like an onmyouji when he says this. Aww, how cute.</p>
-<p><span class="npf_color_ross">&#12354;&#12394;&#12383;&#12418;UTAU&#12395;&#12394;&#12426;&#12414;&#12379;&#12435;&#12363;&#65311;</span><br><span class="npf_color_ross">&#31169;&#12398;&#35328;&#12358;&#12371;&#12392;&#12434;&#32368;&#12426;&#36820;&#12377;&#12384;&#12369;&#12391;&#12377;&#12368;&#12395;UTAU&#12395;&#12394;&#12428;&#12414;&#12377;&#12424;</span><br><span class="npf_color_ross">&#22522;&#26412;&#12479;&#12480;&#12391;&#12377;&#12424;</span><br><span class="npf_color_ross">&#12371;&#12398;&#12487;&#12470;&#12452;&#12531;&#12393;&#12358;&#12391;&#12377;&#12363;&#65311;</span><br><span class="npf_color_ross">&#22934;&#24618;&#12458;&#12531;&#12466;&#12531;&#12488;&#12525;&#12399;&#12356;&#12388;&#12391;&#12418;&#12354;&#12394;&#12383;&#12434;&#29401;&#12387;&#12390;&#12356;&#12414;&#12377;&#65281;</span><br><span class="npf_color_ross">&#36969;&#24230;&#12395;&#39449;&#12373;&#12428;&#12414;&#12375;&#12423;&#12358;&#65281;</span><br><br><i><span class="npf_color_ross">anata mo UTAU ni narimasenka?</span></i><br><i><span class="npf_color_ross">watashi no iu koto o kurikaesu dake sugu ni UTAU ni naremasu yo</span></i><br><i><span class="npf_color_ross">kihon tada desu yo</span></i><br><i><span class="npf_color_ross">kono desain dou desu ka?</span></i><br><i><span class="npf_color_ross">youkai ongentoro wa itsudemo anata o neratteimasu!</span></i><br><i><span class="npf_color_ross">tekido ni damasaremashou!</span></i><br><br><span class="npf_color_ross">Won't you become an UTAU, too?</span><br><span class="npf_color_ross">Repeat after me, and soon you'll be able to.</span><br><span class="npf_color_ross">It's basically free.</span><br><span class="npf_color_ross">How's this design?</span><br><span class="npf_color_ross">The Ongentoro youkai is always after you!</span><br><span class="npf_color_ross">Let yourself be tricked by it (but not too much)!</span></p>
-<p>This whole segment is a reference to <a href="https://x.com/avogado6_vocalo/status/1908040463057289303">this tweet</a> &mdash; and more specifically, the second picture. In fact, the words (almost) are the exact same! (&#28961;&#26009;, <i>muryou</i>, is used there, but off to the side it's shown to be pronounced like &#12479;&#12480;, <i>tada</i>. Both of these words mean "free.")</p>
-<p>Calogado's saying the "Won't you become an UTAU, too? / &hellip; / How's this design?" part; the text below them is "<span class="npf_color_pheobe">The Ongentoro youkai is always after you!</span>" and the text below that is "<span class="npf_color_pheobe">let </span><span class="npf_color_monica">yourself </span><span class="npf_color_ross">be </span><span class="npf_color_rachel">tricked </span><span class="npf_color_niles">by </span><span class="npf_color_chandler">it </span><span class="npf_color_pheobe">(</span><span class="npf_color_monica">but </span><span class="npf_color_ross">not </span><span class="npf_color_rachel">too </span><span class="npf_color_niles">much</span><span class="npf_color_chandler">)</span><span class="npf_color_pheobe">!</span>" So, once again, Calogado's being portrayed as an Ongentoro youkai.</p>
+
+An onmyouji exorcises youkai (and also does other stuff), and Calogado is of course an Ongentoro youkai. (The sea witch and an Ongentoro youkai?! Can Heki catch a break?) This reading will be elaborated on in a second.
+
+![Heki dressed like an onmyouji.](https://64.media.tumblr.com/3571d8535b76ab424f4fea1ab8d01b68/43d6fef636b32b1d-3f/s2048x3072/0a594cf9e4724b05b49c35ea4ad4c09ec37d9f57.pnj)
+
+Heki even dresses like an onmyouji when he says this. Aww, how cute.
+
+
+<p class="npf_color_ross">
+あなたもUTAUになりませんか？<br>
+私の言うことを繰り返すだけですぐにUTAUになれますよ<br>  
+基本タダですよ<br>
+このデザインどうですか？<br>
+妖怪オンゲントロはいつでもあなたを狙っています！<br>
+適度に騙されましょう！</p>
+
+
+<p class="npf_color_ross"><i>
+anata mo UTAU ni narimasenka?<br>
+watashi no iu koto o kurikaesu dake sugu ni UTAU ni naremasu yo<br>
+kihon tada desu yo<br>
+kono desain dou desu ka?<br>
+youkai ongentoro wa itsudemo anata o neratteimasu!<br>
+tekido ni damasaremashou!</i></p>
+
+<p class="npf_color_ross">
+Won't you become an UTAU, too?<br>
+Just repeat after me, and soon you'll be able to.<br>  
+It's basically free.<br>
+How's this design?<br>
+The Ongentoro youkai is always after you!<br>
+Let yourself be tricked by it (but not too much)!</p>
+
+This whole segment is a reference to [a tweet on avogado6's vocalsynth account](https://x.com/avogado6_vocalo/status/1908040463057289303) — and more specifically, the second picture. In fact, the words (almost) are the exact same! (無料, *muryou*, is used there, but off to the side it's shown to be pronounced like タダ, *tada*. Both of these words mean "free.")
+
+Calogado's saying the "Won't you become an UTAU, too? / … / How's this design?" part; the text below them is "<span class="npf_color_pheobe">The Ongentoro youkai is always after you!</span>" and the text below that is "<span class="npf_color_pheobe">let </span><span class="npf_color_monica">yourself </span><span class="npf_color_ross">be </span><span class="npf_color_rachel">tricked </span><span class="npf_color_niles">by </span><span class="npf_color_chandler">it </span><span class="npf_color_pheobe">(</span><span class="npf_color_monica">but </span><span class="npf_color_ross">not </span><span class="npf_color_rachel">too </span><span class="npf_color_niles">much</span><span class="npf_color_chandler">)</span><span class="npf_color_pheobe">!</span>" So, once again, Calogado's being portrayed as an Ongentoro youkai.
+
 <p>That tweet's a bit old, now. I wonder how long Ongentoro's been cooking. Has avogado6 had this idea for a year? or did they just think referencing a tweet they made was funny? Is Hasegawa Maigo the unnamed Voca-P here!? (<a href="https://x.com/hourouhekiheki/status/1901695391919415386">That might be true, since Mayoi Heki was conceptualized before that tweet.</a> In December 2025, <a href="https://x.com/avogado6_vocalo/status/2000891601623883903">Mayoi Heki's recording had been completed</a>, so it took around nine months, like a pregnancy.)</p>
 <p>I am inclined to say, honestly, that it is a possibility avogado6 was already thinking about Ongentoro even as early back as April 2025. </p>
 <p>In the background of this part, there's some text scrolling horizontally (what I like to call "<a href="https://en.wikipedia.org/wiki/Marquee_element">marqueeing</a>") behind Calogado: </p>
-<blockquote class="npf_indented"><p>UTAU&#30476;&#35686;&#12363;&#12425;&#12362;&#30693;&#12425;&#12379;&#12288;<br>&#12462;&#9675;&#12501;&#12449;&#12452;&#12523;&#20415; &#12539;g&#9675;&#9675;gle drive&#12539;Dropb&#9675;x&#12394;&#12393;&#12391;WAV&#36865;&#12428;&#12399;&#35408;&#27450;&#12391;&#12377;&#65281;&#8251;&#22580;&#21512;&#12395;&#23492;&#12426;&#12414;&#12377;&#12288;<br>&#21223;&#35480;&#12395;&#27880;&#24847;&#12375;&#12414;&#12375;&#12423;&#12358;&#65281;<br><i>UTAU kenkai kara oshirase</i><br><i>gi*fairubin g**gle drive dropb*x nado de WAV okure wa sagi desu! *baai ni yorimasu </i><br><i>kanyuu ni chuui shimashou</i>!</p>
-</blockquote>
-<p>This is <i>also</i> taken from the tweet in question, besides the "UTAU&#30476;&#35686;&#12363;&#12425;&#12362;&#30693;&#12425;&#12379;" part, which is new!</p>
-<p>Here's my translation:</p>
-<blockquote class="npf_indented"><p>Announcement from UTAU Prefecture police: <br>Sending .wav files via Gigafile-bin<sup><a href="#fn6" id="r6">[6]</a></sup>, Google Drive, Dropbox, etc., is a scam! (on a case-by-case basis) <br>Let's exercise caution around solicitations!</p>
-</blockquote>
-<p>The idea of an "UTAU prefecture" is one that shows up commonly in avogado6's illustrations.</p>
-<p>If you're curious, Calogado's voice lines are: <span class="npf_color_ross">&#12399;&#12376;&#12417;&#12414;&#12375;&#12390; (</span><span class="npf_color_ross"><i>hajimemashite</i></span><span class="npf_color_ross">, nice to meet you)</span>, <span class="npf_color_ross">&#12360;&#12408;&#12408; (</span><span class="npf_color_ross"><i>ehehe</i></span><span class="npf_color_ross">)</span>, <span class="npf_color_ross">&#12394;&#12435;&#12392; (</span><span class="npf_color_ross"><i>nanto</i></span><span class="npf_color_ross">, well&hellip;)</span>, <span class="npf_color_ross">&#12411;&#12540;&#12425; (</span><span class="npf_color_ross"><i>hoora</i></span><span class="npf_color_ross">, look)</span>, <span class="npf_color_ross">&#12405;&#12405;&#12405; (</span><span class="npf_color_ross"><i>fufufu</i></span><span class="npf_color_ross">)</span>, <span class="npf_color_ross">&#12362;&#12435;&#12370;&#12435;&#12392;&#12429; (</span><span class="npf_color_ross"><i>ongentoro</i></span><span class="npf_color_ross">)</span>.</p>
+
+> UTAU県警からお知らせ　  
+ギ○ファイル便 ・g○○gle drive・Dropb○xなどでWAV送れは詐欺です！※場合に寄ります　   
+勧誘に注意しましょう！   
+*UTAU kenkai kara oshirase  
+gi\*fairubin g\*\*gle drive dropb\*x nado de WAV okure wa sagi desu! \*baai ni yorimasu  
+kanyuu ni chuui shimashou!*  
+
+This is *also* taken from the tweet in question, besides the "UTAU県警からお知らせ" part, which is new!
+
+Here's my translation:
+
+> Announcement from UTAU Prefecture police:  
+Sending .wav files via Gigafile-bin<sup><a href="#fn6" id="r6">[6]</a></sup>, Google Drive, Dropbox, etc., is a scam! (on a case-by-case basis)  
+Let's exercise caution around solicitations!
+
+The idea of an "UTAU prefecture" is one that shows up commonly in avogado6's illustrations.
+
+<p>If you're curious, Calogado's voice lines are: <span class="npf_color_ross">はじめまして  (<i>hajimemashite</i>, nice to meet you)</span>, <span class="npf_color_ross">えへへ (</span><span class="npf_color_ross"><i>ehehe</i></span><span class="npf_color_ross">)</span>, <span class="npf_color_ross">&#12394;&#12435;&#12392; (</span><span class="npf_color_ross"><i>nanto</i></span><span class="npf_color_ross">, well&hellip;)</span>, <span class="npf_color_ross">&#12411;&#12540;&#12425; (</span><span class="npf_color_ross"><i>hoora</i></span><span class="npf_color_ross">, look)</span>, <span class="npf_color_ross">&#12405;&#12405;&#12405; (</span><span class="npf_color_ross"><i>fufufu</i></span><span class="npf_color_ross">)</span>, <span class="npf_color_ross">&#12362;&#12435;&#12370;&#12435;&#12392;&#12429; (</span><span class="npf_color_ross"><i>ongentoro</i></span><span class="npf_color_ross">)</span>.</p>
+
 <p>Technically, these aren't voice lines: they're <a href="https://sarah-beaulieu.com/en/writing-barks-for-video-games">voice <i>barks</i></a>, but whenever I search up the term "voice barks" I get like, 90% actual dog barking, so I'm assuming this is a very obscure term. We're going to keep using "voice lines," okay?</p>
 <p><span class="npf_color_rachel">&#24112;&#12428; &#24112;&#12428; &#12377;&#12368;&#24112;&#12428;</span><br><span class="npf_color_rachel">&#25163;&#20803;&#20837;&#21147;110</span><br><br><span class="npf_color_rachel"><i>kaere kaere sugu kaere</i></span><br><span class="npf_color_rachel"><i>temoto nyuuryoku hyakutooban</i></span></p>
 <p><span class="npf_color_rachel">Leave. Leave! Leave me alone!</span><br><span class="npf_color_rachel">I'm dialing 110.</span></p>
@@ -353,7 +456,7 @@ The writing at the bottom of the video says <span style="color:var(--color-6);">
 
 <img src="https://64.media.tumblr.com/1065cc4737fbdaa9795dde37df7ceec4/43d6fef636b32b1d-e3/s1280x1920/0b67a9b1404e79237113b22d385a8afd97195aa6.pnj" alt="Calogado holds a .wav file in their hands. Their ahoge turns into a heart. Heki prints a .wav file from his mouth.">
 
-Calogado's ahoge also becomes a heart again! OMG... this is too fucking cute. I love how Heki's printing out .wav files from his mouth.
+Calogado's ahoge also becomes a heart again! OMG… this is too fucking cute. I love how Heki's printing out .wav files from his mouth.
 
 <p>After this part, the computer BSoDs. </p>
 <p><span class="npf_color_ross">&#37682;&#38899;&#12362;&#30130;&#12428;&#27096;&#65281;</span><br><span class="npf_color_ross">&#38899;&#28304;&#12398;&#19981;&#20633;&#12399;&#12394;&#12356;&#65311;</span><br><span class="npf_color_ross">&#12486;&#12473;&#12488;&#27468;&#21809;&#12375;&#12390;&#12415;&#12383;&#65311;</span><br><span class="npf_color_ross">&#33394;&#12435;&#12394;&#12456;&#12531;&#12472;&#12531;&#35430;&#12375;&#12390;&#12415;&#12383;&#65311;</span><br><span class="npf_color_ross">&#21033;&#29992;&#35215;&#32004;&#12399;&#35373;&#23450;&#12375;&#12383;&#65311;</span></p>
@@ -422,16 +525,26 @@ Calogado's ahoge also becomes a heart again! OMG... this is too fucking cute. I 
 <p>Honestly, this is a bit difficult, so if you have access to a PC I would recommend using a PC instead.</p>
 
 ### Ongentoro Stalker Solo Practice Video Description
-<p>From <a href="https://www.nicovideo.jp/watch/ss46193726">Niconico Douga shorts</a>. I don't think the description is on YouTube LOL; I'm pretty sure YouTube shorts don't allow descriptions, but I wouldn't know because I don't use that</p>
+<p>From <a href="https://www.nicovideo.jp/watch/ss46193726">Niconico Douga shorts</a>. The YouTube description is different.</p>
 <blockquote class="npf_indented"><p>&#21407;&#20316;(<a href="https://www.nicovideo.jp/watch/sm46062437">sm46062437</a>)&#12364;&#27583;&#22530;&#20837;&#12426;&#12375;&#12390;&#12375;&#12414;&#12387;&#12383;&#12398;&#12391;&#12289;&#35352;&#24565;&#12398;&#12471;&#12519;&#12540;&#12488;&#21205;&#30011;&#12391;&#12377;&#12290;<br>&#12473;&#12488;&#12540;&#12459;&#12540;&#12477;&#12525;&#29992;&#12395;&#12393;&#12358;&#12382;&#12290;</p>
 </blockquote>
 <p>My original video (<a href="https://www.nicovideo.jp/watch/sm46062437">sm46062437</a>) was inducted into the NND Hall of Fame, so I released a commemorative short video.<br>Please enjoy the Stalker Solo Task video.</p>
 <blockquote class="npf_indented"><p>&#37197;&#24067;&#32032;&#26448;<br><a href="https://avogado6.wixsite.com/calogado/music">https://avogado6.wixsite.com/calogado/music</a></p>
 </blockquote>
 <p>Distributed materials<br>h<a href="https://avogado6.wixsite.com/calogado/music">ttps://avogado6.wixsite.com/calogado/music</a></p>
-<blockquote class="npf_indented"><p>&#12304;&#35613;&#36766;&#12305;<br>&#36523;&#20869;&#12494;&#12522;&#12398;&#33258;&#20998;&#12384;&#12369;&#12364;&#27005;&#12375;&#12356;&#12424;&#12358;&#12394;&#20316;&#21697;&#12384;&#12392;&#24605;&#12387;&#12390;&#12362;&#12426;&#12414;&#12375;&#12383;&#12364;&#12289;&#12383;&#12367;&#12373;&#12435;&#12398;&#26041;&#12395;&#35211;&#12390;&#12356;&#12383;&#12384;&#12365;&#12373;&#12425;&#12395;&#12399;&#12383;&#12367;&#12373;&#12435;&#12398;&#20108;&#27425;&#21109;&#20316;&#12434;&#12375;&#12390;&#12367;&#12384;&#12373;&#12426;&#24863;&#28961;&#37327;&#12391;&#12354;&#12426;&#12414;&#12377;&#12290;<br>&#24403;&#20316;&#21697;&#12398;&#12379;&#12356;&#12391;&#38899;&#28304;&#12434;&#37682;&#12387;&#12383;&#12392;&#12356;&#12358;&#12289;UTAU&#12398;&#36650;&#12434;&#24195;&#12370;&#12383;&#12356;&#20154;&#38291;&#12392;&#12375;&#12390;&#23305;&#12375;&#12356;&#22768;&#12418;&#23626;&#12356;&#12390;&#12362;&#12426;&#12414;&#12377;&#12290;<br>&#20170;&#24460;&#12418;&#30342;&#27096;&#12434;UTAU&#12395;&#12377;&#12409;&#12367;&#12289;&#12354;&#12428;&#12420;&#12371;&#12428;&#12420;&#12391;UTAU&#12391;&#27005;&#12375;&#12435;&#12391;&#12356;&#12427;&#27096;&#23376;&#12434;&#12362;&#23626;&#12369;&#12375;&#12390;&#34892;&#12365;&#12383;&#12356;&#12392;&#32771;&#12360;&#12390;&#12356;&#12427;&#25152;&#23384;&#12391;&#12377;&#12290;<br>&#12385;&#12394;&#12415;&#12395;&#12289;&#12385;&#12423;&#12387;&#12392;&#20808;&#12395;&#12394;&#12426;&#12381;&#12358;&#12391;&#12377;&#12364;&#12289;&#26354;&#12398;&#37197;&#20449;&#12418;&#12356;&#12378;&#12428;&#12420;&#12427;&#24863;&#12376;&#12391;&#36914;&#12417;&#12390;&#12356;&#12414;&#12377;&#12290;<br>&#12469;&#12502;&#12473;&#12463;&#12398;&#27665;&#12418;&#27836;&#12395;&#27784;&#12417;&#12424;&#12358;&#12290;</p>
-</blockquote>
-<p>[Words of Thanks]<br>I thought this would be something only I would like, but I've seen many people listen to Ongentoro and create fanworks which fills my heart with so much emotion. I've even seen people say they created an UTAU because of Ongentoro. As a person who wants to expand the UTAU community, I am so happy my voice has also reached them.<br>I intend on sharing a lot more ways to get into UTAU in the future, so everyone can get into it.<br>By the way, it might take a little bit, but I'm also working on eventually pushing Ongentoro onto streaming services.<br>Let's get people who use streaming services to enter the UTAU rabbit hole too.</p>
+
+> 【謝辞】  
+身内ノリの自分だけが楽しいような作品だと思っておりましたが、たくさんの方に見ていただきさらにはたくさんの二次創作をしてくださり感無量であります。  
+当作品のせいで音源を録ったという、UTAUの輪を広げたい人間として嬉しい声も届いております。  
+今後も皆様をUTAUにすべく、あれやこれやでUTAUで楽しんでいる様子をお届けして行きたいと考えている所存です。  
+ちなみに、ちょっと先になりそうですが、曲の配信もいずれやる感じで進めています。  
+サブスクの民も沼に沈めよう。
+
+[Words of Thanks]  
+I thought this would be something only I would like, but I've seen many people listen to Ongentoro and create fanworks which fills my heart with so much emotion. I've even seen people say they created an UTAU because of Ongentoro. As a person who wants to expand the UTAU community, I am so happy my voice has also reached them.  
+I intend on sharing a lot more ways to get into UTAU in the future, so everyone can get into it.  
+By the way, it might take a little bit, but I'm also working on eventually pushing Ongentoro onto streaming services.  
+Let's get people who use streaming services to enter the UTAU rabbit hole too.
 
 ## Ongentoro Project Files
 
@@ -462,34 +575,42 @@ Sure, but please credit me and link back to this post if possible.
 
 You can use it for translyrics, too. I technically cannot stop you, but please do not [indirectly translate](https://en.wikipedia.org/wiki/Indirect_translation) my translation. 
 
-#### What if I translated your post *except* for the stuff you translated? It wouldn't be an indirect tranlsation then, right!?
+#### What if I translated your post *except* for the stuff you translated? It wouldn't be an indirect translation then, right!?
 
 Okay, sure. You can do that. 
 
 ### Can you give me a version without your yapping and just the English translation please for easy copy/pasting
 
-<a href="https://sinigang.neocities.org/assets/txt/ongentoro.txt">Sure</a>.
+[Sure](https://sinigang.neocities.org/assets/txt/ongentoro.txt).
 
 ### Hey, your translation could be improved here/Hey, your romanization here is wrong/Hey, I have something to add here/etc.
 
-<p>Not a question. But I'm open to suggestions, feedback, etc. Feel free to <a href="https://www.tumblr.com/new/ask/fire7541">send an ask</a>!</p>
+Not a question. But I'm open to suggestions, feedback, etc. Feel free to [send me a message](/elsewhere.html).
 
 ### Can you translate and analyze DebitBit please?
 
 Haha, already two steps ahead of you; [I've made a Tumblr post about DebitBit](https://www.tumblr.com/fire7541/830487955029278720/debitbit?source=share), but I don't want to put it on my website just yet.
 
 ## Closing thoughts
-<p>While I was writing this, an <a href="http://www.nicovideo.jp/watch/sm46293237">Ongentoro Remix by Hasegawa Maigo</a> came out. It's very cool, so I recommend listening to it. The title &#38899;&#28304;&#21520;&#38706;(&#12418;&#12358;&#38899;&#28304;&#12399;&#25074;&#12426;&#25074;Remix), <i>ongentoro (mou ongen wa gorigo rimikkusu</i>) is a pun blending <i>gorigori</i> (being sick of) and <i>rimikkusu</i> (remix). An English translation might be&hellip; "I'm Sick of UTAU-ification Alremix," blending "already" + "remix."</p>
-Thank you for reading all the way up until the end. It was a lot of fun to do the translation and write the explanations, so I hope you had fun reading it too! </p>
+
+Thank you for reading all the way up until the end. It was a lot of fun to do the translation and write the explanations, so I hope you had fun reading it too! 
+
+Since you've now been successfully brainwashed of that Calogado, let me recommend some of my favorite Calogado songs: [SONKUHOU by 44e-prone](https://youtu.be/ldnmmf9b47o), [The Weird Tales Explorers!? by Karishire](https://youtu.be/54VQpXKK27s), and [this remix of Ongentoro by Hasegawa Maigo](https://www.nicovideo.jp/watch/sm46293237). (I like to call it "I'm sick of UTAU-ification Alremix, because the original title's a similar pun.)
+
+Some of my favorite covers are [Kyokai's cover of Living Gas Meter by DenkiQuijira](https://youtu.be/UISuKk3CEBI?si=s7CvqLW5a_fRfSbE) featuring Calogado and Mayoi Heki, [Yuinkim's cover of YESMAN by NILFRUITS](https://youtu.be/NZ27K6PZSdg) also featuring Calogado and Mayoi Heki, and [Kanisan's cover of Self-Conference by Tagak](https://youtu.be/2QFf-MkQo3E) featuring Calogado (Yamai).
+
+Let's all enjoy UTAU together~~
 
 ## Footnotes
  <p id="fn1"><a href="#r1">[1]</a> Japanese name order (family name first, given name second)</p>
 
 <p id="fn2"><a href="#r2">[2]</a> For clarity, I'll use they/them for Calogado and he/him for Heki. <a href="https://avogado6.wixsite.com/calogado/qa"> Calogado has no pronoun preference, but Mayoi Heki uses he/him (officially)</a>.
 
-<p id="fn3"><a href="#r3">[3]</a> which exists. I was surprised at first but I guess it makes sense...YouTube has YouTube Shorts, after all. By the way, (if you don't know already,) on NND creators can leave a little message to people who like their video. When you like <a href="https://www.nicovideo.jp/watch/ss46193726">the video on NND</a>, avogado6 comments that it's a "shitty BeatMania." (&#12459;&#12473;&#12398;&#12499;&#12540;&#12488;&#12510;&#12491;&#12450;)</p>
-<p>And if you're curious about <a href="https://www.nicovideo.jp/watch/sm46062437">Ongentoro's like message</a>, it says: "At first, I had plans to make this a duet with <a href="https://avogado6.wixsite.com/calogado/caloon-001">Caloon</a>, but the adults didn't allow me to, so Mayoi Heki was sacrificed instead." (&#24403;&#21021;&#12459;&#12525;&#12540;&#12531;&#12392;&#12398;&#12487;&#12517;&#12456;&#12483;&#12488;&#20104;&#23450;&#12384;&#12387;&#12383;&#12364;&#22823;&#20154;&#12398;&#35377;&#21487;&#12364;&#19979;&#12426;&#12378;&#30495;&#23477;&#12504;&#12461;&#12364;&#29344;&#29298;&#12395;&#12394;&#12387;&#12383;)</p>
-<p>In an alternate universe, perhaps people are shipping Calogado and Caloon. Caloon is literally a folder with an eye on it, so this would be really funny. Damn, I was born in the wrong universe.</p>
+<p id="fn3"><a href="#r3">[3]</a> which exists. I was surprised at first but I guess it makes sense… YouTube has YouTube Shorts, after all. By the way, (if you don't know already,) on NND creators can leave a little message to people who like their video. When you like <a href="https://www.nicovideo.jp/watch/ss46193726">the video on NND</a>, avogado6 comments that it's a "shitty BeatMania." (&#12459;&#12473;&#12398;&#12499;&#12540;&#12488;&#12510;&#12491;&#12450;)</p>
+
+And if you're curious about <a href="https://www.nicovideo.jp/watch/sm46062437">Ongentoro's like message</a>, it says: "At first, I had plans to make this a duet with <a href="https://avogado6.wixsite.com/calogado/caloon-001">Caloon</a>, but the adults didn't allow me to, so Mayoi Heki was sacrificed instead." (当初カローンとのデュエット予定だったが大人の許可が下りず真宵ヘキが犠牲になった)
+
+In an alternate universe, perhaps people are shipping Calogado and Caloon. Caloon is literally a folder with an eye on it, so this would be really funny. Damn, I was born in the wrong universe.
 
 <p id="fn4"><a href="#r4">[4]</a> Their name is &#12367;&#12429;&#24030; which would more accurately be Kuroshuu, but <a href="https://vocadb.net/Ar/53298">VocaDB has it as Kurosu</a>, so I'll use that instead. 
 
