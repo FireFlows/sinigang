@@ -7,7 +7,7 @@ layout: "main.html"
 
 Hi! My name is Fire and I like websites so much I made my own.
 
-My website is mobile-friendly and accessible. I don't have any NSFW on my website but I'm an adult who doesn't care too much about censorshing themselves. In other words, I swear sometimes, and there may be occasional suggestive themes so like if you're a prude be careful.
+My website is mobile-friendly and accessible. I don't have any NSFW on my website but I'm an adult who doesn't care too much about censorsing themselves. In other words, I swear sometimes, and there may be occasional suggestive themes so like if you're a prude be careful.
 
 <span class="showmobile">All times are in [Eastern](https://time.is/ET).</span>
 

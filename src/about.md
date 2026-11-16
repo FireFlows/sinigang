@@ -3,7 +3,7 @@ title: "About"
 layout: "main.html"
 ---
 ## About the Webmaster
-19/they/USA
+19/they/USA. I'm mixed Filipino/white.
 
 My main interests are vocal synthesis, video games, and linguistics. Some of my sub-interests include coding (of course), cute things, and public transportation. In my free time, I like to draw, write, play games, listen to music, scroll social media, and use my computer.
 
