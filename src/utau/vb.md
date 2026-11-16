@@ -77,15 +77,3 @@ ust: <a href="https://youtu.be/sr6DlS0VI-8">まきの</a>
 
 
 </ul>
-<h2><ruby>花火<rt>はなび</rt></ruby>クロ / Hanabi Kuro</h2> </h2>
-<h3>Character Information</h3>
-
-* Birthday: July 22
-* Height: a bit taller than Shiro
-* Age: Unknown (adult)
-* Gender: Male
-* Handedness: Right
-* Likes: Shiro
-* Dislikes: nothing in particular
-
-A strange guy who tends to follow Shiro around. Hanabi Kuro isn't his real name, and he has no relation to Shiro.
