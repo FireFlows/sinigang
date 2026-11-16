@@ -5,7 +5,9 @@ layout: "main.html"
 
 ## Introduction
 
-Nice to see you here. My name is Fire and this is my own personal space away from social media. Accessiblity was one of the core things I had in mind while creating this website. Mobile and any screen size friendly!
+Hi! My name is Fire and I like websites so much I made my own.
+
+My website is mobile-friendly and accessible. I don't have any NSFW on my website but I'm an adult who doesn't care too much about censorshing themselves. In other words, I swear sometimes, and there may be occasional suggestive themes so like if you're a prude be careful.
 
 <span class="showmobile">All times are in [Eastern](https://time.is/ET).</span>
 

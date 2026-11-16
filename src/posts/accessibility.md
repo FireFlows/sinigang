@@ -12,27 +12,17 @@ _This website has autoplay._
 _This website has flashing colors._  
 etc.
 
-And, I mean, it's great that they put the warning before sending me into anaphylactic shock (I'm allergic to non-accessible websites) but **there is no reason why a website shouldn't be accessible**. It is not hard to add a couple lines of code to your CSS to make your website mobile-compatible; autoplay is literally disabled by default (I wonder why); and you don't need to give people a seizure when they click on your website.
+And, I mean, it's great that they put the warning before sending me into anaphylactic shock (I'm allergic to non-accessible websites) but **there is (almost) no reason why a (personal) website shouldn't be accessible**. It is not hard to add a couple lines of code to your CSS to make your website mobile-compatible; autoplay is literally disabled by default (I wonder why); and you don't need to give people a seizure when they click on your website.
 
-Putting a warning on your website tells me you don't care about people who cannot afford a computer, nor do you care about people who cannot afford to be on their computer constantly. People have these intensely elaborate websites, but cannot figure out how to make it accessible!? Like, you're just being lazy. 
+Putting a warning on your website instead of fixing it is just kind of lazy to me. Some people have intensely elaborate websites, and yet, can't figure out how to add like two lines of code in their HTML head? 
 
-...well, I can accept non-mobile friendly websites in some circumstances. Sometimes, things just will never work on a mobile device. There are a couple sites I know of which are just browser games, and they're too beefy to be on a phone. That's fine.
-
-But if your website is just a bunch of information about yourself, I'm more than certain there's a way to make the info mobile-friendly.
+There are some websites that would never work on mobile, even if you tried your damned hardest. But if your website is just a bunch of information about yourself, I'm more than certain there's a way to make the info mobile-friendly.
 
 BTW, accessibility isn't just about mobile-friendliness. (ChatGPT ruined that construction forever but it's really good.) It's also about choosing good color contrast, good fonts, font size, alternate text for images, and more!
 
-Making your website accessible to as many people as possible should be one of the top priorities in a personal website.
-
-## Your website doesn't have to be ugly (to be accessible)
-People seem convinced that a website needs to be minimalist to be accessible, and this is just not true. 
-
-My website is minimalist and mobile-friendly, but this is just because I like minimalism. ~~Also, minimalism is not ugly, just so we're clear on that. Corporate-style minimalism is.~~
-
-To me, the prettiest websites are accessible.
+Making your website accessible to as many people as possible should be one of the top priorities in a personal website. It is one of my top priorities, in a world where [most websites are not accessible to disabled users](https://webaim.org/projects/million/).
 
 ## How my website is accessible
-As a disabled person myself, I take accessibility very seriously*. So, I made this website with accessibility in mind.
 
 * All images have alt text
 * Colors tested for contrast 
@@ -46,7 +36,8 @@ As a disabled person myself, I take accessibility very seriously*. So, I made th
 * Semantic HTML whenever possible
 * Works on any resolution and mobile
 
-*read: I'm autistic about accessible web design
+I plan to add more accessibility features in the future.
+
 <!-- 
 to add
 * skip to main content link
