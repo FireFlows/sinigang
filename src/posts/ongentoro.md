@@ -7,19 +7,19 @@ tags:
 ---
 <style>
     .npf_color_monica{
-        color: #FF8A00;
+        color: #d37f20;
     }
     .npf_color_ross {
-        color: #01CF36
+        color: #0dac35
     }
     .npf_color_rachel {
-        color: #00B8FF;
+        color: #1588b6;
     }
     .npf_color_niles {
-        color: #7C5CFE;
+        color: #6747e9;
     }
     .npf_color_chandler {
-        color: #FF62CE;
+        color: #e74bb6;
     }
     img {
         max-width:80%;
