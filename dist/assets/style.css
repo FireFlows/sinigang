@@ -14,6 +14,8 @@
     --color-5:#422fee; 
     --color-6:#676974;
 }
+body, html{height:100%;}
+
 html{ 
     margin-left: 7.5rem;
     margin-right:10.5rem;

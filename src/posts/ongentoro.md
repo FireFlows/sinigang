@@ -35,6 +35,12 @@ tags:
         max-width:100%;
     }
 
+iframe{
+    width:100%;
+    height: 55vh;
+
+}
+
 
 @media screen and (max-width: 750px) {
     iframe {
@@ -48,7 +54,7 @@ tags:
 
 This was originally [posted to Tumblr](https://www.tumblr.com/fire7541/816918342990544896/ongentoro?source=share) on May 17th, 2026, and I've been updating it ever since. But I thought, hey, why not post it on my website, too!? Especially because social media is hell.
 
-<iframe width="500px" height="315" src="https://www.youtube.com/embed/NQgNP67WSck?si=ksBFqWJK3P-rVVbS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/NQgNP67WSck?si=ksBFqWJK3P-rVVbS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## Title
@@ -69,7 +75,7 @@ This was originally [posted to Tumblr](https://www.tumblr.com/fire7541/816918342
 <p><b>Music Video: In General</b></p>
 <p>The MV is super cute and I like it a lot. It includes fun rhythm game/visual novel segments that you sadly can't play and just have to stare at forlornly.</p>
 <p>When Ongentoro was inducted into the Nico Nico Douga Hall of Fame (100k+ views), avogado6 released an Ongentoro Stalker Solo Practice Video on Niconico Douga Shorts* (later released on YouTube Shorts), which is still not a rhythm game because it's a video. (You can't embed NND videos so here's the upload on YouTube shorts)</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H-YNSBt1AaY?si=RQDaHHkmac5s1ykj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/H-YNSBt1AaY?si=RQDaHHkmac5s1ykj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <p>Anyway, besides the point. I still like the MV, regardless of its interactivity or lack thereof. I also like how it's monochrome (sans the <b><span class="npf_color_pheobe">S</span></b><b><span class="npf_color_monica">t</span></b><b><span class="npf_color_ross">a</span></b><b><span class="npf_color_rachel">l</span></b><b><span class="npf_color_niles">k</span></b><b><span class="npf_color_chandler">e</span></b><b><span class="npf_color_pheobe"">r</span></b> <b><span class="npf_color_monica">S</span></b><b><span class="npf_color_ross">o</span></b><b><span class="npf_color_rachel">l</span></b><b><span class="npf_color_niles">o</span></b> text). In general, the visual simplicity is a extreme charm point for me.</p>
 <p>More on the topic of video games: the music video starts with a "powering up" SFX as Calogado and Heki fly onto the screen. When Heki's calling the police, an action command shows up above him. The end of the video has a game over SFX! </p>
 <p>In general, I love the video game motif. The song 100% sounds like it could be from a video game, even LOL. This was most certainly intentional &mdash; Calogado finds stalking Heki just like a fun video game. </p>
