@@ -37,7 +37,7 @@ body{
     --main-color:#f9f9f9;
     --bg-color: #21222B;
     --aside-color:#3E4051;
-    --color-6: #2C2E3A;
+    --color-6: #B9BBCB;
 }
 
 h1, h2, h3, h4 {
@@ -53,6 +53,11 @@ button {
     border: 2px solid black;
     color: black;
     background-color: white;
+}
+
+blockquote {
+    border-left: 3px solid var(--color-6);
+    padding-left:10px;
 }
 /*
 Colors

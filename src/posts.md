@@ -19,3 +19,13 @@ My thoughts and such
   <li><a href="{{ personal.url }}"> {{ personal.data.title }}</a> <span style="font-size:.7rem;">({{ personal.date.toDateString() }})</span></li>
 {%- endfor -%}
 </ul>
+
+
+<h2 id="personal">Translation</h2>
+Songs I have translated and analyzed maybe a bit too thoroughly
+<ul>
+{%- for translation in collections.translation | reverse -%}
+  <li><a href="{{ translation.url }}"> {{ translation.data.title }}</a> <span style="font-size:.7rem;">({{ translation.date.toDateString() }})</span></li>
+{%- endfor -%}
+</ul>
+
