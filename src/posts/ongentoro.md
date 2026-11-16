@@ -385,7 +385,7 @@ Sure, but please credit me and link back to this post if possible.
 
 You can use it for translyrics, too. I technically cannot stop you, but please do not [indirectly translate](https://en.wikipedia.org/wiki/Indirect_translation) my translation. 
 
-#### What if I translated your post *except* your own translations so I'm not indirectly translating?
+#### What if I translated your post *except* for the stuff you translated? It wouldn't be an indirect tranlsation then, right!?
 
 Okay, sure. You can do that. 
 
