@@ -149,7 +149,6 @@ footer {
 
 }
 h2 {
-    padding-bottom:.125rem;
     width: fit-content;
     border-bottom: 2.75px solid var(--accent-color);
 }
