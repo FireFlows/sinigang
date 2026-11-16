@@ -1,5 +1,5 @@
 ---
-title: "Extensive Ongentoro (音源吐露) Overanalysis"
+title: "Extensive Ongentoro Overanalysis"
 layout: "post.html"
 date: 2026-05-17
 tags: 
@@ -50,7 +50,7 @@ iframe{
 
 </style>
 
-On May 17th, 2026, I published [a Tumblr post](https://www.tumblr.com/fire7541/816918342990544896/ongentoro?source=share) translating and analyzing the song [Ongentoro](https://vocadb.net/S/932592) by [avogado6](https://vocadb.net/Ar/2436). I've made tons of edits to the post since then, and it's garnered some positive reception. My "posts" page has been a bit empty looking so I decided to add this here. I also wanted to spread this post outside of Tumblr so all of you guys can become UTAU too. 
+On May 17th, 2026, I published [a Tumblr post](https://www.tumblr.com/fire7541/816918342990544896/ongentoro?source=share) translating and analyzing the song [Ongentoro](https://vocadb.net/S/932592) by [avogado6](https://vocadb.net/Ar/2436). I've made tons of edits to the post since then, and it's garnered some positive reception. My "posts" page has been a bit empty looking so I decided to add it here. I also wanted to spread this post outside of Tumblr so all of you guys can become UTAU too. 
 
 This assumes little to no knowledge of UTAU or Japanese. It's quite a long post, and I've tried to make it as comfortable to read as possible. This is a living document and content will be added to it (but hopefully not removed)(at least not too much). There are a ton of hyperlinks, and I recommend clicking them if you'd like more information about certain things.
 
