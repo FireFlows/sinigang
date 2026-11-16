@@ -238,6 +238,9 @@ Games that change their answer every day and end in "-le"
 ## Generative artificial intelligence
 <dl>
 
+<dt><a href="https://baccyflap.com/res/robots/">Bot-proofing your website</a>
+<dd>A guide on how to stop (some) AI bots from scraping your website.
+
 <dt><a href="https://www.scientificamerican.com/article/chatgpt-and-gemini-ai-have-uniquely-different-writing-styles/">Each AI Chatbot Has Its Own Distinctive Writing Style—Just as Humans Do</a>
 <dd>An article about chatbot idiolects. Also see "<a href="https://arxiv.org/abs/2502.12150v2">Idiosyncrasies in Large Language Models</a>," a paper diving deeper into the topic.
 

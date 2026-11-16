@@ -33,7 +33,7 @@ id='player'></div>
     
   </div>
 
-  As the title says. My Vocaloid playlist is [here](https://www.youtube.com/playlist?list=PLFCCsWwB4Mxk). Sometimes, the thumbnail will be the song most recently added to the playlist, but clicking the video will shuffle the playlist.
+  As the title says. My Vocaloid playlist is [here](https://www.youtube.com/playlist?list=PLFCCsWwB4Mxk). Sometimes, the thumbnail will be the song most recently added to the playlist, but clicking the video (or "Shuffle List") will shuffle the playlist.
 
   "Vocaloid" is used as an umbrella term here. This playlist also includes mashups and covers.
 
@@ -52,6 +52,17 @@ id='player'></div>
 </div>
 
 Adopted from [ritual.sh](https://ritual.sh/resources/adoptables)
+
+## Webrings
+<iframe src="https://evehibi.nekoweb.org/doodlering/widget.html?theme=default" frameborder=0 margin=0 width=180 height=110></iframe>
+
+ <map name="win7widget-compact">
+<area href="https://baccyflap.com/noai" target="_blank" shape="rect" coords="0,0,216,29" alt="no ai webring" title="no ai webring">
+<area href="https://baccyflap.com/noai/?prv&s=ksn" target="_top" shape="rect" coords="102,45,199,71" alt="previous" title="previous">
+<area href="https://baccyflap.com/noai/?rnd" target="_top" shape="rect" coords="102,81,199,105" alt="random" title="random">
+<area href="https://baccyflap.com/noai/?nxt&s=ksn" target="_top" shape="rect" coords="102,116,199,141" alt="next" title="next">
+</map>
+<img usemap="#win7widget-compact" src="https://baccyflap.com/noai/win7widget-compact.gif" alt="a Windows 7 style dialog box titled 'The No AI Webring' with a little icon showing a computer chip in a rubbish bin. beside it are three clickable buttons, labeled Previous, Random and Next"> 
 
 <script src="https://status.cafe/current-status.js?name=fire" defer></script>
 <script src="assets/js/music.js"></script>
