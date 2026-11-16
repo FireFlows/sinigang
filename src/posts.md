@@ -2,10 +2,14 @@
 title: "Posts"
 layout: "main.html"
 ---
-My posts! Listed in reverse chronological order. 
 
-<h2 id="pinned">Pinned</h2>
-Living documents. Note: the date besides each post is the date the post was last modified, not when it was created.
+I like to write. A lot. Here's a very small fraction of the things I have written. Listed in reverse chronological order. 
+
+Please note that most of these are living documents (along with my website itself). I try to preserve the posts in "personal" though. The date besides each post is the "last updated" date.
+
+
+<h2 id="pinned">Website</h2>
+
 <ul>
 {%- for pinned in collections.pinned | reverse -%}
   <li><a href="{{ pinned.url }}"> {{ pinned.data.title }}</a> <span style="font-size:.7rem;">({{ pinned.date.toDateString() }})</span></li>

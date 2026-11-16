@@ -3,13 +3,26 @@ title: "About"
 layout: "main.html"
 ---
 ## About the Webmaster
-19/they/USA. I'm mixed Filipino/white.
+* 19 years old (04/30/2007)
+* they/them 
+* born, raised, and living in the US East Coast <span class="showmobile">([time right now](https://time.is/ET))</span>
+* autistic ADHDer
+* mixed Filipino/white
+* speaks English and some Japanese
 
-My main interests are vocal synthesis, video games, and linguistics. Some of my sub-interests include coding (of course), cute things, and public transportation. In my free time, I like to draw, write, play games, listen to music, scroll social media, and use my computer.
+### Interests
+* Vocal synths
+* Video games
+* Linguistics
+    * particularly translation and Asian languages
+* Drawing
 
-Yes, I'm autistic. How did you know? I have ADHD too.
+### Sub-interests
+* Coding
+* Cute things
+* Public transportation
+* Collecting things (digital and physical)
 
-My native language is English. I can speak some Japanese, and bits and pieces of Chinese. I can read Hangeul, but I don't really know Korean. In the future, I want to be a linguistics major and translator of Japanese.
 
 ## About the Website
 I made this website on August 18, 2020 for reasons that are beyond me. I left it alone for six years, and then picked it back up in February of 2026 because I was bored and wanted a space away from social media. I abandoned it for a few more months and came back again in July 2026, so I could host my UTAU here.

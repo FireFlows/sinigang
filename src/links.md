@@ -29,6 +29,7 @@ These links are all free, have little/no ads, are browser-based, and are mobile 
 * [Yataragasu's site](https://yatagarasu.nekoweb.org/)
 
 ### Resources
+* [32-bit cafe](https://32bit.cafe/)
 * [Ayano's Neocities Comment Widget](https://virtualobserver.moe/ayano/comment-widget)
 * [codepen](https://codepen.io/)
 * [Deploying Your Site to Neocities](https://nenrikido.neocities.org/blog/post/deploy-site/)

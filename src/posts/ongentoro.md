@@ -1,7 +1,7 @@
 ---
 title: "Extensive Ongentoro Overanalysis"
 layout: "post.html"
-date: 2026-05-17
+date: 2026-11-16
 tags: 
     - translation
 ---
