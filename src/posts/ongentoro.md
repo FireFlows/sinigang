@@ -216,11 +216,16 @@ This was originally [posted to Tumblr](https://www.tumblr.com/fire7541/816918342
 <p>In Ongentoro's description, avogado6 has a Q&amp;A segment where they end every answer with "don't run away," almost acting as Calogado.</p>
 <blockquote class="npf_indented"><p><span class="npf_color_ross">stay up &#37682;&#38899;&#12522;&#12473;&#12488;&#21809;&#12360;&#12390;</span><br><span class="npf_color_ross"><i>stay up jumon tonaete</i></span><br><span class="npf_color_ross">Stay up and chant the spell</span></p>
 </blockquote>
-<p><span class="npf_color_ross">&#37682;&#38899;&#12522;&#12473;&#12488; </span><a href="https://en.wikipedia.org/wiki/Furigana#Other_effects">means "reclist" but it's pronounced like "spell</a>" here. Normally, this would be pronounced <i>rokuon risuto</i>. Reclists are kind of written like incantations or spells; avogado6 uses a reclist a bit later into the song, so you'll see what I mean there.</p>
+<p><span class="npf_color_ross">&#37682;&#38899;&#12522;&#12473;&#12488; </span><a href="https://en.wikipedia.org/wiki/Furigana#Other_effects">means "reclist" but it's pronounced like "spell</a>" (呪文, <i>jumon</i>) here. Normally, this would be pronounced <i>rokuon risuto</i>. Reclists are kind of written like incantations or spells; avogado6 uses a reclist a bit later into the song, so you'll see what I mean there.</p>
+
+<img src="https://64.media.tumblr.com/05c2e2407f6a7aafcf5cbe6dd4dc46ab/43d6fef636b32b1d-f6/s1280x1920/1d05f2a500a11b929a5f56e2754ab00ad23b8bca.pnj" alt="Calogado with a heart ahoge. Heki looks at them, a little disturbed.">
+
+Instead of its typical ア (*a*) for avogado6, Calogado's ahoge is kinda shaped like a heart here. They're really happy! 
+
 <blockquote class="npf_indented"><p><span class="npf_color_ross">&#29579;&#23376;&#27096; &#27836;&#12391;&#25163;&#12434;&#25391;&#12387;&#12390;</span><br><span class="npf_color_ross"><i>oujisama numa de te o futte</i></span><br><span class="npf_color_ross">My dear prince, I'm waving my hand in the mire.</span></p>
 </blockquote>
 <p>The sea witch doesn't meet the prince in the tale, and while she does meet him in the movie (as Vanessa), he never visits her home. This is a 3 minute song that isn't even about The Little Mermaid though so this is probably fine.</p>
-<p><a href="https://ja.wikipedia.org/wiki/%E6%B2%BC">&#27836;</a> is closer to "marsh" than "mire," but in The Little Mermaid, the sea witch is specifically described as living in a mire. It's also <a href="https://jisho.org/word/%E6%B2%BC">slang for obsession or addiction</a>, like how Calogado could be described as being addicted to Heki's voice (or voice synthesis in general!). Perchance.</p>
+<p><a href="https://ja.wikipedia.org/wiki/%E6%B2%BC">&#27836;</a> (<i>numa</i>) is closer to "marsh" than "mire," but in The Little Mermaid, the sea witch is specifically described as living in a mire. It's also <a href="https://jisho.org/word/%E6%B2%BC">slang for obsession or addiction</a>, like how Calogado could be described as being addicted to Heki's voice (or voice synthesis in general!). Perchance.</p>
 <blockquote class="npf_indented"><p><span class="npf_color_ross">1&#38899;&#38542; 1000&#12367;&#12425;&#12356;&#12398;&#35373;&#23450;&#12391;</span><br><span class="npf_color_ross"><i>ichi onkai sen kurai no settei de</i></span><br><span class="npf_color_ross">With a </span><a href="https://vocadb.net/T/4716/utau-monopitch"><span class="npf_color_ross">monopitch</span></a><span class="npf_color_ross"> and around 1000 settings,</span></p>
 </blockquote>
 <p>A voice synthesis program does not automatically know where one note starts and the other ends. You have to tell it where each note name (alias) is by configuring parameters from an oto.ini file. This is called "otoing" in the anglophone UTAU sphere. A program like setParam or vLabeler is used for this; editing the oto.ini file directly is a very bad idea.</p>
@@ -297,6 +302,11 @@ The writing at the bottom of the video says <span style="color:var(--color-6);">
 <blockquote class="npf_indented"><p><span class="npf_color_rachel">&#12406;&#12435;&#30423;&#12425;&#12428;&#65281;</span><br><i><span class="npf_color_rachel">bun dorare!</span></i><br><span class="npf_color_rachel">You're ripping them out!</span></p>
 </blockquote>
 <p>Once again, <i>torare </i>is pronounced like <i>dorare</i>.</p>
+
+<img src="https://64.media.tumblr.com/1065cc4737fbdaa9795dde37df7ceec4/43d6fef636b32b1d-e3/s1280x1920/0b67a9b1404e79237113b22d385a8afd97195aa6.pnj" alt="Calogado holds a .wav file in their hands. Their ahoge turns into a heart. Heki prints a .wav file from his mouth.">
+
+Calogado's ahoge also becomes a heart again! OMG... this is too fucking cute. I love how Heki's printing out .wav files from his mouth.
+
 <p>After this part, the computer BSoDs. </p>
 <p><span class="npf_color_ross">&#37682;&#38899;&#12362;&#30130;&#12428;&#27096;&#65281;</span><br><span class="npf_color_ross">&#38899;&#28304;&#12398;&#19981;&#20633;&#12399;&#12394;&#12356;&#65311;</span><br><span class="npf_color_ross">&#12486;&#12473;&#12488;&#27468;&#21809;&#12375;&#12390;&#12415;&#12383;&#65311;</span><br><span class="npf_color_ross">&#33394;&#12435;&#12394;&#12456;&#12531;&#12472;&#12531;&#35430;&#12375;&#12390;&#12415;&#12383;&#65311;</span><br><span class="npf_color_ross">&#21033;&#29992;&#35215;&#32004;&#12399;&#35373;&#23450;&#12375;&#12383;&#65311;</span></p>
 <p><i><span class="npf_color_ross">rokuon otsukaresama!</span></i><br><i><span class="npf_color_ross">ongen no fubi wa nai?</span></i><br><i><span class="npf_color_ross">tesuto kashou shite mita?</span></i><br><i><span class="npf_color_ross">ironna enjin tameshite mita?</span></i><br><i><span class="npf_color_ross">riyoukiyaku wa settei shita?</span></i></p>
@@ -375,12 +385,26 @@ The writing at the bottom of the video says <span style="color:var(--color-6);">
 </blockquote>
 <p>[Words of Thanks]<br>I thought this would be something only I would like, but I've seen many people listen to Ongentoro and create fanworks which fills my heart with so much emotion. I've even seen people say they created an UTAU because of Ongentoro. As a person who wants to expand the UTAU community, I am so happy my voice has also reached them.<br>I intend on sharing a lot more ways to get into UTAU in the future, so everyone can get into it.<br>By the way, it might take a little bit, but I'm also working on eventually pushing Ongentoro onto streaming services.<br>Let's get people who use streaming services to enter the UTAU rabbit hole too.</p>
 
-### Ongentoro folder
+## Ongentoro Project Files
 
-<p>The song, along with all of its assets (ustx, MV, stem, etc.), are available for free on avogado6's UTAU website. In the folder, there's a .txt file explaining the other files. </p>
-<p>I had a translation of the file here, but I decided to remove it in the end since I didn't want it to become painfully outdated by mistake; it's more likely to change than the lyrics or video descriptions.</p>
-<p>Please check out the assets on <a href="https://avogado6.wixsite.com/calogado/music">avogado6's official UTAU website</a>.</p>
+The song, along with all of its assets (ustx, MV, stem, etc.), are available for free on avogado6's UTAU website. This includes the music video's .psd file. So, let's check out the insides of Ongentoro.
 
+### "Good Boy Hands"
+
+There's two subfolders in Calogado's folder called "good boy hand 1" and "good boy hand 2." (いいこいいこハンド, *iiko iiko hando*)
+
+![Calogado's hand pets Heki.](https://64.media.tumblr.com/3b908cbee2645744ddfd5cb182f95c83/43d6fef636b32b1d-38/s250x400/fd04d86c74e59fb2383b89db71518a48b6181e75.pnj)
+![Ditto, with Calogado's fingers spread out.](https://64.media.tumblr.com/6b725de94a98aa8858e9203c0b2d9550/43d6fef636b32b1d-97/s250x400/b00a640bc9d3d57c6493190a8c8f1d108013609b.pnj)
+
+Yes, Calogado's petting Heki. I didn't move the hands; this is their default position. Petting Mayoi Heki. 
+
+### Calogado Deleted Scene
+
+There's a subfolder in Calogado's folder that shows a scrapped drawing. The folder's called 没 (*botsu*), meaning rejected (manuscript, etc.).
+
+![Calogado's hand is held out, and they're smiling.](https://64.media.tumblr.com/13fa62b41f5fc5730e54c28f8888b814/43d6fef636b32b1d-35/s250x400/fe0860e91efafc6bd1fecc1ec7a3b849c852f382.pnj)
+
+I find this expression absolutely adorable, like Calogado's trying to get a high-five that never comes. What *actually* ended up in the MV looks quite similar to this. 
 
 ## Questions I (Fire) might get asked
 
