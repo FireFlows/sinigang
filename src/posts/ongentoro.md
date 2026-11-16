@@ -25,6 +25,10 @@ tags:
         max-width:80%;
         max-height:50%;
     }
+    .nomobile {
+        max-height:100%;
+        max-width:100%;
+    }
 
 </style>
 <p>Hi. In this post....I will be analyzing the music video and lyrics of <a href="https://vocadb.net/S/932592">Ongentoro</a> by <a href="https://vocadb.net/Ar/2436">avogado6</a>. (I've also translated a few extra things, like the description.)</p>
