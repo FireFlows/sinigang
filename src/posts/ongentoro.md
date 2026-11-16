@@ -408,7 +408,7 @@ I find this expression absolutely adorable, like Calogado's trying to get a high
 
 ## Questions I (Fire) might get asked
 
-#### OMG nice translation can I use it for XYZ
+### OMG nice translation can I use it for XYZ
 
 Sure, but please credit me and link back to this post if possible.
 
@@ -418,15 +418,15 @@ You can use it for translyrics, too. I technically cannot stop you, but please d
 
 Okay, sure. You can do that. 
 
-#### Can you give me a version without your yapping and just the English translation please for easy copy/pasting
+### Can you give me a version without your yapping and just the English translation please for easy copy/pasting
 
 <a href="https://sinigang.neocities.org/assets/txt/ongentoro.txt">Sure</a>.
 
-#### Hey, your translation could be improved here/Hey, your romanization here is wrong/Hey, I have something to add here/etc.
+### Hey, your translation could be improved here/Hey, your romanization here is wrong/Hey, I have something to add here/etc.
 
 <p>Not a question. But I'm open to suggestions, feedback, etc. Feel free to <a href="https://www.tumblr.com/new/ask/fire7541">send an ask</a>!</p>
 
-#### Can you translate and analyze DebitBit please?
+### Can you translate and analyze DebitBit please?
 
 Haha, already two steps ahead of you; [I've made a Tumblr post about DebitBit already](https://www.tumblr.com/fire7541/830487955029278720/debitbit?source=share), but I don't want to put it on my website just yet.
 
