@@ -11,13 +11,16 @@ layout: "main.html"
 * speaks English and some Japanese
 
 ### Interests
+My favorite things of all time
 * Vocal synths
 * Video games
 * Linguistics
     * particularly translation and Asian languages
 * Drawing
+* Writing
 
 ### Sub-interests
+I like these but a bit less
 * Coding
 * Cute things
 * Public transportation
