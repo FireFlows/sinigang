@@ -52,7 +52,7 @@ iframe{
 
 On May 17th, 2026, I published [a Tumblr post](https://www.tumblr.com/fire7541/816918342990544896/ongentoro?source=share) translating and analyzing the song [Ongentoro](https://vocadb.net/S/932592) by [avogado6](https://vocadb.net/Ar/2436). I've made tons of edits to the post since then, and it's garnered some positive reception. My "posts" page has been a bit empty looking so I decided to add it here. I also wanted to spread this post outside of Tumblr so all of you guys can become UTAU too. 
 
-This assumes little to no knowledge of UTAU or Japanese. It's quite a long post, and I've tried to make it as comfortable to read as possible. This is a living document and content will be added to it (but hopefully not removed)(at least not too much). 
+All you need to know for this post is what UTAU is. And if you don't know: they're basically singing voice synthesizers anyone can make. There you go; we're all on the same page, now.
 
 There are a ton of hyperlinks, and I recommend clicking them if you'd like more information about certain things. I also recommend reading all the footnotes.
 
@@ -63,31 +63,52 @@ I've made some edits to account for me posting this on a website instead of Tumb
 
 ## Title
 
-<p>&#38899;&#28304;&#21520;&#38706; (<i>ongentoro</i>) is a title pun, which makes it difficult to translate. <a href="https://vgperson.com/vocalhighlights.php?m=2026-03">vgperson calls it "Synth Expression" on her website</a>. "Sound Source Revealed" is what the YouTube video claims it's called in English, but I don't like this one.</p>
-<p>Avogado6 loves title puns (hey, I do, too!). Their demo song for <a href="https://vocadb.net/Ar/144786">Calogado</a>, <a href="https://www.youtube.com/watch?v=tFcd1Fv7jLM">OREMO UTAU</a>, is a title pun. (OREMO is a program used to record UTAU voicebanks, but "OREMO UTAU" in Japanese &mdash; as &#20474;&#12418;&#27468;&#12358; &mdash; means "I'll sing, too."</p>
-<p>A song they made with v flower, <a href="https://www.youtube.com/watch?v=3qjpOmdZ5uE">&#12408;&#12427; (Heru)</a>, is also a title pun (<i>heru </i>means to diminish but could also be "hell." Both meanings are used in the song).</p>
-<p><a href="https://dic.nicovideo.jp/a/%E3%82%AA%E3%83%B3%E3%82%B2%E3%83%B3%E3%83%88%E3%83%AD">&#12458;&#12531;&#12466;&#12531;&#12488;&#12525;</a> (<i>ongentoro </i>spelled in katakana; link is region-blocked) is a term that mainly prevails in the Japanese vocalsynth community. It's a youkai that utters the spell "don't you want to record a voicebank, too?" (&#12362;&#21069;&#12418;&#38899;&#28304;&#12434;&#37682;&#12425;&#12394;&#12356;&#12363;&#65311;, <i>omae mo </i><i><b>ongen</b></i><i> o </i><i><b>tora</b></i><i>nai ka</i>?)</p>
-<p>&#37682;&#12427; (<i>toru</i>, to record) is <a href="https://en.wiktionary.org/wiki/inflection#English">inflected</a> in both <i>ongen</i><i><b>toro</b></i> and <i><b>toranai</b></i>, but it's still the same base verb. Specifically: <i>toro </i>is in the imperative (commanding you do something) and <i>toranai</i> in the negative (but before <i>ka</i>, it's used to be like "won't you?").</p>
-<p>Basically, the name of the youkai is "record a voicebank!"</p>
-<p>The title of the song is spelled with kanji that mean <a href="https://en.wiktionary.org/wiki/%E9%9F%B3%E6%BA%90#Noun_2">voicebank</a> (&#38899;&#28304;, so this one stays the same lol) and <a href="https://en.wiktionary.org/wiki/%E5%90%90%E9%9C%B2#Japanese">expressing how one really feels</a> (&#21520;&#38706;, so this one is changed!).</p>
-<p>I think Synth Expression is a good translation of the title. I've laid out all the pieces already, so let's put them together: (vocal)<a href="https://en.wiktionary.org/wiki/synth#Noun">synth</a> is a common slang term in the English Vocaloid community used to mean "voicebank;" expression is (obviously) similar to "expressing how one really feels;" but it's also a term used in the UTAU program (and Vocaloid, and related software).</p>
-<p>Unfortunately(?), there's no youkai that haunts the English Vocaloid community, but we can change that together.</p>
-<h2><b>In General</b></h2>
-<p>The main premise is that Calogado (voiced by avogado6) is trying to force <a href="https://vocadb.net/Ar/175965">Mayoi Heki</a><sup><a href="#fn1" id="r1">[1]</a></sup> (voiced by <a href="https://vocadb.net/Ar/100578">Hasegawa Maigo</a>) to sing so they<sup><a href="#fn2" id="r2">[2]</a></sup> can turn him into an UTAU. </p>
-<p><b>Music Video: In General</b></p>
-<p>The MV is super cute and I like it a lot. It includes fun rhythm game/visual novel segments that you sadly can't play and just have to stare at forlornly.</p>
-<p>When Ongentoro was inducted into the Nico Nico Douga Hall of Fame (100k+ views), avogado6 released an Ongentoro Stalker Solo Practice Video on Niconico Douga Shorts<sup><a href="#fn3" id="r3">[3]</a></sup> (later released on YouTube Shorts), which is still not a rhythm game because it's a video. (You can't embed NND videos so here's the upload on YouTube shorts)</p>
+音源吐露 (*ongentoro*) is a title pun, which makes it difficult to translate. [vgperson calls it "Synth Expression" on her website](https://vgperson.com/vocalhighlights.php?m=2026-03). "Sound Source Revealed" is what the YouTube video claims it's called in English, but I don't like this one.
+
+Avogado6 loves title puns (hey, I do, too!). Their demo song for [Calogado](https://vocadb.net/Ar/144786)'s first voicebank, [OREMO UTAU](s://www.youtube.com/watch?v=tFcd1Fv7jLM), has a title pun. (OREMO is a program used to record UTAU voicebanks, but "OREMO UTAU" in Japanese — as 俺も歌う — means "I'll sing, too.")
+
+A song they made with flower, [へる (*heru*)](https://www.youtube.com/watch?v=3qjpOmdZ5uE), is also a title pun (*heru* means to diminish but could also be "hell." Both meanings are used in the song).
+
+[オンゲントロ](https://dic.nicovideo.jp/a/%E3%82%AA%E3%83%B3%E3%82%B2%E3%83%B3%E3%83%88%E3%83%AD) (*ongentoro* spelled in katakana; link is region-blocked) is a term that mainly prevails in the Japanese vocalsynth community. It's a youkai that utters the spell "don't you want to record a voicebank, too?" (お前も音源を録らないか？, *omae mo **ongen** o **tora**nai ka?*)
+
+録る (toru, to record) is [inflected](https://en.wiktionary.org/wiki/inflection#English) in both *ongen**toro*** and ***toranai***, but it's still the same base verb. Specifically: *toro* is in the imperative (commanding you do something) and *toranai* in the negative (but before *ka*, it's used to be like "won't you?").
+
+Basically, the name of the youkai is "record a voicebank!"
+
+The title of the song is spelled with kanji that mean "[voicebank](https://en.wiktionary.org/wiki/%E9%9F%B3%E6%BA%90#Noun_2)" (音源, so it's the same) and [expressing how one really feels](https://en.wiktionary.org/wiki/%E5%90%90%E9%9C%B2#Japanese) (吐露, so this one is changed!).
+
+I think Synth Expression is a good translation of the title. I've laid out all the pieces already, so let's put them together: (vocal)[synth](https://en.wiktionary.org/wiki/synth#Noun) is a common slang term in the English Vocaloid community used to mean "voicebank;" expression is (obviously) similar to "expressing how one really feels;" but it's also a term used in the UTAU program (and Vocaloid, and related software).
+
+Unfortunately(?), there's no youkai that haunts the English Vocaloid community, but we can change that together.
+
+## In General
+
+The main premise is that Calogado (voiced by avogado6) is trying to force <a href="https://vocadb.net/Ar/175965">Mayoi Heki</a><sup><a href="#fn1" id="r1">[1]</a></sup> (voiced by <a href="https://vocadb.net/Ar/100578">Hasegawa Maigo</a>) to sing so they<sup><a href="#fn2" id="r2">[2]</a></sup> can turn him into an UTAU.
+
+### Music Video: In General
+The MV is super cute and I like it a lot. It includes fun rhythm game/visual novel segments that you sadly can't play and just have to stare at forlornly.
+
+When Ongentoro was inducted into the [Vocaloid Hall of Fame](https://vocaloid.fandom.com/wiki/Hall_of_Fame), avogado6 released an Ongentoro Stalker Solo Practice Video on Niconico Douga Shorts<sup><a href="#fn3" id="r3">[3]</a></sup> (later released on YouTube Shorts), which is still not a rhythm game because it's a video. (You can't embed NND videos so here's the upload on YouTube shorts)
+
 <iframe src="https://www.youtube.com/embed/H-YNSBt1AaY?si=RQDaHHkmac5s1ykj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<p>Anyway, besides the point. I still like the MV, regardless of its interactivity or lack thereof. I also like how it's monochrome (sans the <b><span class="npf_color_pheobe">S</span></b><b><span class="npf_color_monica">t</span></b><b><span class="npf_color_ross">a</span></b><b><span class="npf_color_rachel">l</span></b><b><span class="npf_color_niles">k</span></b><b><span class="npf_color_chandler">e</span></b><b><span class="npf_color_pheobe"">r</span></b> <b><span class="npf_color_monica">S</span></b><b><span class="npf_color_ross">o</span></b><b><span class="npf_color_rachel">l</span></b><b><span class="npf_color_niles">o</span></b> text). In general, the visual simplicity is a extreme charm point for me.</p>
-<p>More on the topic of video games: the music video starts with a "powering up" SFX as Calogado and Heki fly onto the screen. When Heki's calling the police, an action command shows up above him. The end of the video has a game over SFX! </p>
-<p>In general, I love the video game motif. The song 100% sounds like it could be from a video game, even LOL. This was most certainly intentional &mdash; Calogado finds stalking Heki just like a fun video game. </p>
-<p>During Calogado's part of the <a href="https://en.wiktionary.org/wiki/%E3%82%B5%E3%83%93">hook</a>, the background shows spinning folders. Folders are kinda Calogado's character item &mdash; their glasses are even in the shape of a folder!</p>
-<p>In Heki's, the background shows spinning compasses. These are kinda Heki's character item. I find this ironic, since he's canonically bad at directions.</p>
+
+Anyway, besides the point. I still like the MV, regardless of its interactivity or lack thereof. I also like how it's monochrome (sans the <b><span class="npf_color_pheobe">S</span></b><b><span class="npf_color_monica">t</span></b><b><span class="npf_color_ross">a</span></b><b><span class="npf_color_rachel">l</span></b><b><span class="npf_color_niles">k</span></b><b><span class="npf_color_chandler">e</span></b><b><span class="npf_color_pheobe">r</span></b> <b><span class="npf_color_monica">S</span></b><b><span class="npf_color_ross">o</span></b><b><span class="npf_color_rachel">l</span></b><b><span class="npf_color_niles">o</span></b> text). In general, the visual simplicity is a extreme charm point for me.
+
+More on the topic of video games: the music video starts with a "powering up" SFX as Calogado and Heki fly onto the screen. When Heki's calling the police, an action command shows up above him. The end of the video has a game over SFX! 
+
+In general, I love the video game motif. The song 100% sounds like it could be from a video game, even LOL. This was most certainly intentional — Calogado finds stalking Heki just like a fun video game. 
+
+During Calogado's part of the [hook](https://en.wiktionary.org/wiki/%E3%82%B5%E3%83%93), the background shows spinning folders. Folders are kinda Calogado's character item — their glasses are even in the shape of a folder!
+
+In Heki's, the background shows spinning compasses. These are kinda Heki's character item. I find this ironic, since he's canonically bad at directions.
+
 <p>Also, the animation transition from the folders to the compasses (and back) is very smooth. I'm a very huge fan.</p>
 
-<p><b>Thumbnail</b></p>
-<p>I have nowhere else good to mention this. I think it's funny that Calogado's in the NicoNico Douga thumbnail but Heki's in the YouTube one.</p>
-<p>YouTube and probably NND set like, automatic thumbnails but I wouldn't be surprised if this was intentional.</p>
+### Thumbnail
+
+I have nowhere else good to mention this. I think it's funny that Calogado's in the NicoNico Douga thumbnail but Heki's in the YouTube one.
+
+YouTube and probably NND set like, automatic thumbnails but I wouldn't be surprised if this was intentional.
 
 <img src="https://64.media.tumblr.com/832f6dfb1f1cbf59b05a862f769c0899/43d6fef636b32b1d-93/s400x600/5a8a905a9b1fccfe4aff6520625d102a452b9616.pnj" alt="Calogado in the NicoNico Douga thumbnail">
 
@@ -95,13 +116,38 @@ I've made some edits to account for me posting this on a website instead of Tumb
 
 ## Lyrics/Translation/Translation Notes
 
-<p>I'm not a native Japanese speaker, but I tried my best. Yes, I did romanize everything myself despite there being a romanization on the Vocaloid Lyrics Wiki. </p>
-<p>Calogado's parts will be in <span class="npf_color_ross">green </span>and Mayoi Heki's in <span class="npf_color_rachel">blue</span>.</p>
-<p><span class="npf_color_ross">&#22768;&#24111;&#12434;&#12406;&#12385;&#30423;&#12387;&#12390;&#65281;</span><br><span class="npf_color_ross">&#20154;&#39770;&#23019; &#12393;&#12358;&#12363;&#39449;&#12373;&#12428;&#12390;&#65281;</span><br><span class="npf_color_ross">8&#12514;&#12540;&#12521; 200&#12367;&#12425;&#12356;&#12398;&#25991;&#31456;&#12391;</span><br><span class="npf_color_ross">&#12524;&#12471;&#12500;&#36890;&#12426;&#20316;&#12427;&#12363;&#12425; </span><br><br><i><span class="npf_color_ross">seitai o buchi totte!</span></i><br><i><span class="npf_color_ross">ningyohime douka damasarete!</span></i><br><i><span class="npf_color_ross">hachi moora nihyaku kurai no bunshou de</span></i><br><i><span class="npf_color_ross">reshipi doori tsukuru kara</span></i><br><br><span class="npf_color_ross">I'm ripping out your vocal cords!</span><br><span class="npf_color_ross">Little Mermaid, please be tricked by me!</span><br><span class="npf_color_ross">In 8 morae and around 200 strings,</span><br><span class="npf_color_ross">I'll make it by following the recipe</span></p>
+I'm not a native Japanese speaker, but I tried my best. Yes, I did romanize everything myself despite there being a romanization on the Vocaloid Lyrics Wiki. 
+
+Calogado's parts will be in <span class="npf_color_ross">green </span>and Mayoi Heki's in <span class="npf_color_rachel">blue</span>.
+
+<p class="npf_color_ross">
+声帯をぶち盗って！<br>
+人魚姫 どうか騙されて！<br>  
+8モーラ 200くらいの文章で <br>
+レシピ通り作るから</p>
+
+<p class="npf_color_ross"><i>
+seitai o buchi totte! <br>
+ningyohime douka damasarete!<br>
+hachi moora nihyaku kurai no bunshou de<br>
+reshipi doori tsukuru kara</i></p>
+
+<p class="npf_color_ross">
+I'm ripping out your vocal cords! <br>
+Little Mermaid, please be tricked by me!<br>
+In 8 morae and around 200 lines,<br>
+I'll make it by following the recipe</p>
+
 <p>I like how every verse ends with <i>te</i> or <i>de</i> (which is just <a href="https://en.wiktionary.org/wiki/voiced#Adjective">voiced</a> <i>te </i>anyway) except for the last one.</p>
-<blockquote class="npf_indented"><p><span class="npf_color_ross">&#22768;&#24111;&#12434;&#12406;&#12385;&#30423;&#12387;&#12390;&#65281;</span><br><i><span class="npf_color_ross">seitai o buchi totte!</span></i><br><span class="npf_color_ross">I'm ripping out your vocal cords!</span></p>
+
+<blockquote class="npf_color_ross">
+声帯をぶち盗って！<br>
+<i>seitai o buchi totte!</i><br>
+I'm ripping out your vocal cords!
 </blockquote>
-<p><a href="https://en.wiktionary.org/wiki/%E6%89%93%E3%81%A1#Prefix_2">&#12406;&#12385;</a> (<i>buchi</i>) is a prefix that adds emphasis to a verb, making it more strong, violent, or sudden. &#30423;&#12427; (<i>toru</i>) just means to steal &mdash; and that's what I originally went with. I decided to change it to "ripping out," though, since the imagery there is much more forceful and violent.</p>
+
+[ぶち](https://en.wiktionary.org/wiki/%E6%89%93%E3%81%A1#Prefix_2) (*buchi*) is a prefix that adds emphasis to a verb, making it more strong, violent, or sudden. 盗る (*toru*) just means to steal — and that's what I originally went with. I decided to change it to "ripping out," though, since the imagery there is much more forceful and violent.
+
 <p>"To steal" and "to record" are pronounced the same way in Japanese, making for a great pun. Unfortunately, I'm not sure how to make this work in English. You can "rip audio" from a video&hellip; but it's not the same.</p>
 <p>When spelled like &#21462;&#12387;&#25163;, <i>totte </i>can mean <a href="https://en.wiktionary.org/wiki/%E5%8F%96%E3%81%A3%E6%89%8B#Noun">handle, grip, or knob</a>. Like door handle, for example. Like how Calogado's on the other side of Heki's door..!? Though I'm not sure if this was intentional or if I'm slowly going crazy.</p>
 <blockquote class="npf_indented"><p><span class="npf_color_ross">&#20154;&#39770;&#23019; &#12393;&#12358;&#12363;&#39449;&#12373;&#12428;&#12390;&#65281;</span><br><i><span class="npf_color_ross">ningyohime douka damasarete!</span></i><br><span class="npf_color_ross">Little Mermaid, please be tricked by me!</span></p>
