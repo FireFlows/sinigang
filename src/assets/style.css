@@ -10,8 +10,8 @@
     --main-color: #161212;
     --bg-color: #f9f9f9;
     --aside-color: #e6e7ee;
-    --accent-color:#EE2F75;
-    --color-5:#422fee; 
+    --accent-color:#ee2f75;
+    --color-5:#A027D0; 
     --color-6:#676974;
 }
 body{height:100%;}
@@ -77,13 +77,12 @@ Thanks for reading.
 */
 a {
     color: var(--main-color);
-    text-decoration-color: var(--accent-color);
+    text-decoration-color: var(--color-5);
     text-decoration-thickness: 2px;
+    text-decoration-style:line;
 }
 a:hover {
-    color:var(--accent-color);
-    text-decoration-color: var(--accent-color);
-    
+    color:var(--color-5);    
 
 }
 ::marker {
