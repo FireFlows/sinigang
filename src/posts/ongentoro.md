@@ -49,10 +49,12 @@ iframe{
 }
 
 </style>
-<p>Hi. In this post....I will be analyzing the music video and lyrics of <a href="https://vocadb.net/S/932592">Ongentoro</a> by <a href="https://vocadb.net/Ar/2436">avogado6</a>. (I've also translated a few extra things, like the description.)</p>
-<p>This assumes you don't know a lot about UTAU, so I may explain things that are obvious to the seasoned UTAU user. However, this should still be <i>enlightening</i> and <i>fun </i>to read regardless of your UTAU skill level.
 
-This was originally [posted to Tumblr](https://www.tumblr.com/fire7541/816918342990544896/ongentoro?source=share) on May 17th, 2026, and I've been updating it ever since. But I thought, hey, why not post it on my website, too!? Especially because social media is hell.
+On May 17th, 2026, I published [a Tumblr post](https://www.tumblr.com/fire7541/816918342990544896/ongentoro?source=share) translating and analyzing the song [Ongentoro](https://vocadb.net/S/932592) by [avogado6](https://vocadb.net/Ar/2436). I've made tons of edits to the post since then, and it's garnered some positive reception. My "posts" page has been a bit empty looking so I decided to add this here. I also wanted to spread this post outside of Tumblr so all of you guys can become UTAU too. 
+
+This assumes little to no knowledge of UTAU or Japanese. It's quite a long post, and I've tried to make it as comfortable to read as possible. This is a living document and content will be added to it (but hopefully not removed)(at least not too much). There are a ton of hyperlinks, and I recommend clicking them if you'd like more information about certain things.
+
+I've made some edits to account for me posting this on a website instead of Tumblr, but otherwise the content is the same on Tumblr and my website (or at least, that's the goal).
 
 <iframe src="https://www.youtube.com/embed/NQgNP67WSck?si=ksBFqWJK3P-rVVbS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
