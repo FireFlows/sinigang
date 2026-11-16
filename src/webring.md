@@ -5,7 +5,7 @@ layout: "main.html"
 <style>
     pre{ text-wrap:wrap;}
 </style>
-The Ring of Fire is a [webring](https://en.wikipedia.org/wiki/Webring) I created using [webringu](https://petrapixel.neocities.org/coding/webringu). The name is based off of the [Pacific Ring of Fire](https://en.wikipedia.org/wiki/Ring_of_Fire).
+The Ring of Fire is a [webring](https://en.wikipedia.org/wiki/Webring) I created using [webringu](https://petrapixel.neocities.org/coding/webringu). The name is based off of the [Pacific Ring of Fire](https://en.wikipedia.org/wiki/Ring_of_Fire). I made it because my name is Fire. 
 
 ## How to join
 1. Your name must be Fire 
