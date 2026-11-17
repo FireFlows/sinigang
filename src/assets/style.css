@@ -7,12 +7,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&display=swap');
 
 :root {
-    --main-color: #161212;
-    --bg-color: #f9f9f9;
-    --aside-color: #e6e7ee;
-    --accent-color:#ee2f75;
-    --color-5:#A027D0; 
-    --color-6:#676974;
+    --main: oklch(13% 0.028 261.692);
+    --bg: oklch(98.5% 0 none);
+    --aside: oklch(92.9% 0.013 255.508);
+    --accent:oklch(59.2% 0.249 0.584);
+    --link:oklch(55.8% 0.288 302.321);
+    --bq:oklch(55.2% 0.016 285.938);
 }
 body{height:100%;}
 
@@ -23,8 +23,8 @@ html{
 }
 body{
     line-height:1.455rem;
-    background-color: var(--bg-color);
-    color: var(--main-color);
+    background-color: var(--bg);
+    color: var(--main);
     font-family: Inter, sans-serif;
     font-size: 1.05rem;
     display: grid;
@@ -36,10 +36,10 @@ body{
 
 }
 [theme="dark"]{
-    --main-color:#f9f9f9;
-    --bg-color: #21222B;
-    --aside-color:#3E4051;
-    --color-6: #a4a7b8;
+    --main:oklch(98.5% 0 none);
+    --bg: #21222B;
+    --aside: #3E4051;
+    --bq: oklch(70.5% 0.015 286.067);
 }
 
 h1, h2, h3, h4 {
@@ -58,39 +58,29 @@ button {
 }
 
 blockquote {
-    border-left: 3px solid var(--color-6);
+    border-left: 3px solid var(--bq);
     padding-left:10px;
 }
 /*
 Colors
-https://coolors.co/21222b-fbfaf8-eaecea-b54098-d81159
-NOTE:
-I would have put this in my /links.html page,
-but I don't like how they seem to be pushing generative AI/LLM shit.
-I'm near-certain that the color palette generator
-on their website does not use genAI (I remember using it a long 
-time ago before genAI, etc.), but this website does have 
-genAI features (locked behind a paywall).
-Thanks for reading. 
-
-- Fire
+https://tailwindcss.com/docs/colors
 */
 a {
-    color: var(--main-color);
-    text-decoration-color: var(--color-5);
+    color: var(--main);
+    text-decoration-color: var(--link);
     text-decoration-thickness: 2px;
     text-decoration-style:line;
 }
 a:hover {
-    color:var(--color-5);    
+    color:var(--link);    
 
 }
 ::marker {
-    color:var(--accent-color);
+    color:var(--accent);
 }
 header{
     grid-area:header;
-    background-color: var(--bg-color);
+    background-color: var(--bg);
     text-align:right;
     padding:1.25rem;
 }
@@ -102,7 +92,7 @@ main {
 }
 aside {
     img {
-        border-bottom: 5px solid var(--bg-color);
+        border-bottom: 5px solid var(--bg);
     }
     grid-area: aside;
     height: fit-content;
@@ -111,7 +101,7 @@ aside {
     text-align: center;
     top:.75rem;
     font-size: 1.125rem;
-    background-color: var(--aside-color);
+    background-color: var(--aside);
 }
 nav {    
     font-weight:bold;
@@ -119,10 +109,10 @@ nav {
 
     list-style-type: none;
     padding:0;
-    background-color: var(--aside-color);
+    background-color: var(--aside);
     }
     li {
-        color: var(--main-color);
+        color: var(--main);
     }
     li a {
         text-align:center;
@@ -130,7 +120,7 @@ nav {
         padding: 5.5px;
         text-decoration:none;    }
 li a:hover:not(.active) {
-    background-color: var(--bg-color);
+    background-color: var(--bg);
 
 }
 
@@ -143,14 +133,14 @@ footer {
     h1 {
     text-indent: .75rem;
     line-height:2.25rem;
-    background-color: var(--aside-color);
+    background-color: var(--aside);
     padding:.225rem;
     border-radius:4px;
 
 }
 h2 {
     width: fit-content;
-    border-bottom: 2.75px solid var(--accent-color);
+    border-bottom: 2.75px solid var(--accent);
 }
 .showmobile {
     display:none;

@@ -24,6 +24,7 @@ These links are all free, have little/no ads, are browser-based, and are mobile 
 * [Bechno Kid's site](https://bechnokid.com)
 * [jb's site](https://jbc.lol)
 * [nomnomnami's site](https://nomnomnami.com)
+* [Poopfart's Place](https://iizpoopfart.neocities.org/)
 * [slash.pages](https://slashpages.net/)
 * [squirrelz.xyz](https://squirrelz.xyz/)
 * [TabF5](https://tabf5.com/)
