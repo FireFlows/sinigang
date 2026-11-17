@@ -423,14 +423,19 @@ Surrounded by 3 devices and 8 software,<br>
 the witch's house lies in wait</p>
 
 <p>The lyrics are fun here since they all end in <i>e</i>. In Japanese, the "r" and "t" sounds are close together, so they rhyme better here. This pattern is broken by the final line, again.</p>
-<blockquote class="npf_indented"><p><span class="npf_color_rachel">&#22768;&#24111;&#12434;&#12406;&#12435;&#30423;&#12425;&#12428;</span><br><span class="npf_color_rachel"><i>seitai o bun dorare</i></span><br><span class="npf_color_rachel">My vocal cords are being ripped out</span></p>
-</blockquote>
+
+<blockquote class="npf_color_rachel">
+声帯をぶん盗られ<br>
+<i>seitai o bun dorare</i><br>
+My vocal cords are being ripped out</blockquote>
+
 <p>&#12406;&#12435; (<i>bun</i>) is <a href="https://en.wiktionary.org/wiki/%E3%81%B6%E3%82%93#Prefix">another way of saying &#12406;&#12385;</a>. BTW: these are not synonyms, they are different versions of the same word, like "don't" vs "do not."</p>
-<p>Here, <i>torare</i> is being pronounced like <i>dorare</i>. (This is not standard at all and never happens<sup><a href="#fn7" id="r7">[7]</a></sup>.) Along with the aforementioned <i>bun</i>, this makes &#12406;&#12435;&#30423;&#12425;&#12428; sound like <a href="https://jisho.org/word/%E5%88%86%E6%8D%95%E3%82%8B">&#20998;&#25429;&#12425;&#12428;</a> (being plundered/captured/seized). </p>
+
+<p>Here, <i>torare</i> is being pronounced like <i>dorare</i>. (This is not standard at all and never happens<sup><a href="#fn7" id="r7">[7]</a></sup>.) Along with the aforementioned <i>bun</i>, this makes ぶん盗られ sound like <a href="https://jisho.org/word/%E5%88%86%E6%8D%95%E3%82%8B">分捕られ</a> (being plundered/captured/seized). </p>
 
 It's probably just in English, but the word "plundered" sort of connects with The Little Mermaid (plunder > ship > prince was on a ship, and that's how the little mermaid meets the prince).
 
-<p>Below, I put a screenshot of Heki's verse (official files <a href="https://avogado6.wixsite.com/calogado/music">from the Ongentoro folder</a>) where you can see the note is &#12393; (<i>do</i>)<i> </i>and not &#12392; (<i>to</i>). I am not crazy.</p>
+Below, I put a screenshot of Heki's verse (official files from [the Ongentoro folder](https://avogado6.wixsite.com/calogado/music)) where you can see the note is ど (*do*) and not と (*to*). I am not crazy.
 
 ![OpenUTAU shows that Heki is specifically saying "dorare" here.](https://64.media.tumblr.com/1fc9e6d2c884a7b36d6bc9be53805fb2/43d6fef636b32b1d-14/s1280x1920/180cf946196609fb1e797209757510ca9a83fd0d.pnj)
 
