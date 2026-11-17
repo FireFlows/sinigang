@@ -41,13 +41,15 @@ tags:
         height:300px;
     }
 }
-
-
 </style>
+
+<!---
+By the way, the images are from the OG Tumblr post but I might end up oHosting them on my site instead
+-->
 
 On May 17th, 2026, I published [a Tumblr post](https://www.tumblr.com/fire7541/816918342990544896/ongentoro?source=share) translating and analyzing the song [Ongentoro](https://vocadb.net/S/932592) by [avogado6](https://vocadb.net/Ar/2436). I've made tons of edits to the post since then, and it's garnered some positive reception. My "posts" page has been a bit empty looking so I decided to add it here. I also wanted to spread this post outside of Tumblr so all of you guys can become UTAU too. 
 
-All you need to know for this post is what UTAU is. And if you don't know: they're basically singing voice synthesizers anyone can make. There you go; we're all on the same page, now.
+All you need to know for this post is what UTAU is. And if you don't know: they're basically singing voice synthesizers that are entirely free, and anyone can make one. There you go; we're all on the same page, now.
 
 There are a ton of hyperlinks, and I recommend clicking them if you'd like more information about certain things. I also recommend reading all the footnotes.
 
@@ -143,7 +145,7 @@ I'm ripping out your vocal cords!
 
 "To steal" and "to record" are pronounced the same way in Japanese, making for a great pun. Unfortunately, I'm not sure how to make this work in English. You can "rip audio" from a video… but it's not the same.
 
-When spelled like 取っ手, *totte* can mean [handle, grip, or knob](https://en.wiktionary.org/wiki/%E5%8F%96%E3%81%A3%E6%89%8B#Noun). Like door handle, for example. Like how Calogado's on the other side of Heki's door..!? Though I'm not sure if this was intentional or if I'm slowly going crazy.
+When spelled like 取っ手, *totte* can mean [handle, grip, or knob](https://en.wiktionary.org/wiki/%E5%8F%96%E3%81%A3%E6%89%8B#Noun). Like door handle, for example. Like how Calogado's on the other side of Heki's door…!? Though I'm not sure if this was intentional or if I'm slowly going crazy.
 
 <blockquote class="npf_color_ross">
 人魚姫 どうか騙されて！<br>
@@ -667,7 +669,7 @@ Well, until we're six feet under, it looks like we're in the same boat!</p>
 <span class="npf_color_ross">声帯をぶち盗って！</span><br>
 <span class="npf_color_rachel">ぶん盗られ！</span><br>
 <span class="npf_color_ross">拐え</span><span class="npf_color_rachel">逃げて</span><br>
-人魚姫
+人魚姫！
 
 <i><span class="npf_color_ross">seitai o buchi totte!</span></i><br><i><span class="npf_color_rachel">bun dorare!</span></i><br><i><span class="npf_color_ross">sarae </span></i><i><span class="npf_color_rachel">nigete</span></i><br><i>ningyohime!</i>
 
@@ -684,34 +686,106 @@ Once again, *torare* is pronounced like *dorare*.
 
 Calogado's ahoge also becomes a heart again! OMG… this is too fucking cute. I love how Heki's printing out .wav files from his mouth.
 
-<p>After this part, the computer BSoDs. </p>
-<p><span class="npf_color_ross">&#37682;&#38899;&#12362;&#30130;&#12428;&#27096;&#65281;</span><br><span class="npf_color_ross">&#38899;&#28304;&#12398;&#19981;&#20633;&#12399;&#12394;&#12356;&#65311;</span><br><span class="npf_color_ross">&#12486;&#12473;&#12488;&#27468;&#21809;&#12375;&#12390;&#12415;&#12383;&#65311;</span><br><span class="npf_color_ross">&#33394;&#12435;&#12394;&#12456;&#12531;&#12472;&#12531;&#35430;&#12375;&#12390;&#12415;&#12383;&#65311;</span><br><span class="npf_color_ross">&#21033;&#29992;&#35215;&#32004;&#12399;&#35373;&#23450;&#12375;&#12383;&#65311;</span></p>
-<p><i><span class="npf_color_ross">rokuon otsukaresama!</span></i><br><i><span class="npf_color_ross">ongen no fubi wa nai?</span></i><br><i><span class="npf_color_ross">tesuto kashou shite mita?</span></i><br><i><span class="npf_color_ross">ironna enjin tameshite mita?</span></i><br><i><span class="npf_color_ross">riyoukiyaku wa settei shita?</span></i></p>
-<p><span class="npf_color_ross">Great job on the recording!</span><br><span class="npf_color_ross">Are there any issues with the voicebank?</span><br><span class="npf_color_ross">Have you made a demo song?</span><br><span class="npf_color_ross">Have you tried out different </span><span class="npf_color_ross"><a href="https://utau.info/start/resamplers/">resamplers</a></span><span class="npf_color_ross">?</span><br><span class="npf_color_ross">Did you create a Terms of Service?</span></p>
-<blockquote class="npf_indented"><p><span class="npf_color_ross">&#33394;&#12435;&#12394;&#12456;&#12531;&#12472;&#12531;&#35430;&#12375;&#12390;&#12415;&#12383;&#65311;</span><br><span class="npf_color_ross">Have you tried out different </span><span class="npf_color_ross"><a href="https://utau.info/start/resamplers/">resamplers</a></span><span class="npf_color_ross">?</span></p>
-</blockquote>
-<p>"Engine" in this case refers to different kinds of resamplers. I know this because when I look up "&#12456;&#12531;&#12472;&#12531; UTAU" I get links to <a href="https://w.atwiki.jp/utaou/pages/65.htmld">different kinds of resamplers</a>. Also, resamplers show up in the video when Calogado mentions different engines.</p>
+After this part, the computer BSoDs. 
+
+
+<p class="npf_color_ross">
+録音お疲れ様！<br>
+音源の不備はない？<br>
+テスト歌唱してみた？<br>
+色んなエンジン試してみた？<br>
+利用規約は設定した？</p>
+
+<p class="npf_color_ross"><i>
+rokuon otsukaresama!<br>
+ongen no fubi wa nai?<br>
+tesuto kashou shite mita?<br>
+ironna enjin tameshite mita?<br>
+riyoukiyaku wa settei shita?</i></p>
+
+<p class="npf_color_ross">
+Great job on the recording!<br>
+Are there any issues with the voicebank?<br>
+Have you made a demo song?<br>
+Have you tried out different <a href="https://utau.info/start/resamplers/">resamplers?</a><br>
+Did you create a Terms of Service?</p>
+
+
+<blockquote class="npf_color_ross">
+色んなエンジン試してみた？<br>
+<i>ironna enjin tameshite mita?</i><br>
+ Have you tried out different resamplers?</blockquote>
+
+"Engine" in this case refers to [different kinds of resamplers](https://w.atwiki.jp/utaou/pages/65.html). I know this because when I look up "エンジン UTAU" I get links to different kinds of resamplers. Also, resamplers show up in the video when Calogado's talking about this.
 
 <img src="https://64.media.tumblr.com/6f33f679188bbd03f4c12c18a1174a01/43d6fef636b32b1d-2a/s1280x1920/80aa66a840cf3ea678ee53cc4726f7008185780a.pnj">
-</div>
-<p><span class="npf_color_ross">&#12394;&#12425;&#25105;&#12293;&#12398;UTAU&#12501;&#12457;&#12523;&#12480;&#12395;&#12424;&#12358;&#12371;&#12381;&#65281;</span><br><span class="npf_color_ross">&#20170;&#26085;&#12363;&#12425;&#21531;&#12418;&#23478;&#26063;&#12384;&#65281;</span><br><br><i><span class="npf_color_ross">nara wareware no UTAU foruda ni youkoso!</span></i><br><i><span class="npf_color_ross">kyou kara kimi mo kazoku da!</span></i></p>
-<p><span class="npf_color_ross">If so&hellip; welcome to our UTAU folder!</span><br><span class="npf_color_ross">You're a part of my family, from now until forever!</span></p>
-<p><span class="npf_color_rachel">&#12362;&#23478;&#12363;&#12360;&#12426;&#12383;&#12356;&hellip;&hellip;</span></p>
-<p><i><span class="npf_color_rachel">ouchi kaeritai......</span></i></p>
-<p><span class="npf_color_rachel">I wanna go home&hellip;</span></p>
-<p><span class="npf_color_ross">&#20309;&#12434;&#35328;&#12387;&#12390;&#12427;&#12398;&#65311;</span><br><span class="npf_color_ross">&#12371;&#12371;&#12364;&#21531;&#12398;&#12362;&#23478;&#12384;&#12424;</span></p>
-<p><i><span class="npf_color_ross">nani o itteru no?</span></i><br><i><span class="npf_color_ross">koko ga kimi no ouchi da yo</span></i></p>
-<p><span class="npf_color_ross">What're you talking about?</span><br><span class="npf_color_ross">This is your home.</span></p>
-<p><span class="npf_color_rachel">&#12399;&#12431;&hellip;</span></p>
-<p><i><span class="npf_color_rachel">hawa...</span></i></p>
-<p><span class="npf_color_rachel">No way...</span></p>
-<p><span class="npf_color_ross">PC&#12364;&#22730;&#12428;&#12427;&#12414;&#12391;&#19968;&#32210;&#12384;&#12397;&#65281;</span></p>
-<p><i><span class="npf_color_ross">shinu made issho da ne!</span></i></p>
-<p><span class="npf_color_ross">You'll be with me until you die!</span></p>
-<p>Looks like it would be read "until your PC breaks" (<i>PC ga kowareru made</i>) but is actually read "until you die."</p>
-<p><span class="npf_color_rachel">&#12405;&#12359;&#65374;&#65374;&#12435;</span></p>
-<p><i><span class="npf_color_rachel">fueeen</span></i></p>
-<p><span class="npf_color_rachel">Nooo!</span></p>
+
+<p class="npf_color_ross">
+なら我々のUTAUフォルダにようこそ！<br>
+今日から君も家族だ！</p>
+
+<p class="npf_color_ross"><i>
+nara wareware no UTAU foruda ni youkoso!<br>
+kyou kara kimi mo kazoku da!</i></p>
+
+<p class="npf_color_ross">
+If so… welcome to our UTAU folder!<br>
+You're also a part of my family, starting from today!</p>
+
+In the Japanese UTAU fandom, sometimes a collection of voicebanks (often your own personal collection, but I've seen like "Calogado family" before) is called a "family." ~~I don't have a good source for this besides I see it sometimes but I know what I see!~~
+
+<p class="npf_color_rachel">
+お家かえりたい……</p>
+
+<p class="npf_color_rachel"><i>
+ouchi kaeritai……</i></p>
+
+<p class="npf_color_rachel">
+I wanna go home…</p>
+
+<p class="npf_color_ross">
+何を言ってるの？<br>
+ここが君のお家だよ</p>
+
+<p class="npf_color_ross"><i>
+nani o itteru no?<br>
+koko ga kimi no ouchi da yo</i></p>
+
+<p class="npf_color_ross">
+What're you talking about?<br>
+This is your home.</p>
+
+<p class="npf_color_rachel">
+はわ…</p>
+
+<p class="npf_color_rachel"><i>
+hawa…</i></p>
+
+<p class="npf_color_rachel">
+No way…</p>
+
+<p class="npf_color_ross">
+<ruby>PCが壊れる<rt>死ぬ</rt></ruby>まで一緒だね！</p>
+
+<p class="npf_color_ross"><i>
+shinu made issho da ne!</i></p>
+
+<p class="npf_color_ross">
+You'll be with me until you die!</p>
+
+![Calogado raises their hands and smiles while Heki cries.](https://64.media.tumblr.com/15595bc848ec80289667343e2bec1e3e/43d6fef636b32b1d-1d/s1280x1920/dd99fe7a5872238acd0d802dabf2e5ffb34067e7.pnj)
+
+Looks like it would be read "until your PC breaks" (*PC ga kowareru made*) but is actually read "until you die." (*shinu made*)
+
+<p class="npf_color_rachel">
+ふぇ～～ん</p>
+
+<p class="npf_color_rachel"><i>
+fueeen</i></p>
+
+<p class="npf_color_rachel">
+Nooo!</p>
+
 <p>If you're curious, the voice lines are: <span class="npf_color_ross">&#12420;&#12387;&#12411;&#12540; (</span><span class="npf_color_ross"><i>yahhoo</i></span><span class="npf_color_ross">, hey!)</span>, <span class="npf_color_ross">&#12363;&#12367;&#12395;&#12435; (</span><span class="npf_color_ross"><i>kakunin</i></span><span class="npf_color_ross">, confirmation)</span>, <span class="npf_color_ross">&#12416;&#12416;&#12416; (</span><span class="npf_color_ross"><i>mumumu</i></span><span class="npf_color_ross">)</span>, <span class="npf_color_ross">&#12393;&#12428;&#12393;&#12428; (</span><span class="npf_color_ross"><i>doredore</i></span><span class="npf_color_ross">, let's see)</span>, <span class="npf_color_ross">&#12384;&#12356;&#12376; (</span><span class="npf_color_ross"><i>daiji</i></span><span class="npf_color_ross">, important)</span>, <span class="npf_color_ross">&#12420;&#12387;&#12383; (</span><span class="npf_color_ross"><i>yatta</i></span><span class="npf_color_ross">, it's done!)</span>, <span class="npf_color_ross">&#12405;&#12353;&#12415;&#12426; (</span><span class="npf_color_ross"><i>famiri</i></span><span class="npf_color_ross">, family)</span>, <span class="npf_color_rachel">&#12362;&#12424;&#12424; (</span><span class="npf_color_rachel"><i>oyoyo</i></span><span class="npf_color_rachel">)</span>, <span class="npf_color_ross">&#12435; (</span><span class="npf_color_ross"><i>n</i></span><span class="npf_color_ross">)</span>, <span class="npf_color_ross">&#12424;&#12358;&#12371;&#12381; (</span><span class="npf_color_ross"><i>youkoso</i></span><span class="npf_color_ross">, welcome)</span>, <span class="npf_color_rachel">&#12399;&#12431; (</span><span class="npf_color_rachel"><i>hawa</i></span><span class="npf_color_rachel">)</span>, <span class="npf_color_ross">&#12356;&#12387;&#12375;&#12423; (</span><span class="npf_color_ross"><i>issho</i></span><span class="npf_color_ross">, together)</span>, <span class="npf_color_rachel">&#12405;&#12359;&#65374;&#65374;&#12435; (</span><span class="npf_color_rachel"><i>fueeen</i></span><span class="npf_color_rachel">)</span>.</p>
 
 
