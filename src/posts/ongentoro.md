@@ -304,7 +304,7 @@ Here's my translation:
 Sending .wav files via Gigafile-bin<sup><a href="#fn6" id="r6">[6]</a></sup>, Google Drive, Dropbox, etc., is a scam! (on a case-by-case basis)  
 Let's exercise caution around solicitations!
 
-The idea of an "UTAU prefecture" is one that shows up commonly in avogado6's illustrations.
+The idea of an "UTAU prefecture" is one that shows up frequently in avogado6's illustrations, [like in this tweet with Nurse Robot Type T and Dr. Dareka](https://x.com/avogado6_vocalo/status/1984115616224358558).
 
 <p>If you're curious, Calogado's voice lines are: <span class="npf_color_ross">はじめまして  (<i>hajimemashite</i>, nice to meet you)</span>, <span class="npf_color_ross">えへへ (</span><span class="npf_color_ross"><i>ehehe</i></span><span class="npf_color_ross">)</span>, <span class="npf_color_ross">&#12394;&#12435;&#12392; (</span><span class="npf_color_ross"><i>nanto</i></span><span class="npf_color_ross">, well&hellip;)</span>, <span class="npf_color_ross">&#12411;&#12540;&#12425; (</span><span class="npf_color_ross"><i>hoora</i></span><span class="npf_color_ross">, look)</span>, <span class="npf_color_ross">&#12405;&#12405;&#12405; (</span><span class="npf_color_ross"><i>fufufu</i></span><span class="npf_color_ross">)</span>, <span class="npf_color_ross">&#12362;&#12435;&#12370;&#12435;&#12392;&#12429; (</span><span class="npf_color_ross"><i>ongentoro</i></span><span class="npf_color_ross">)</span>.</p>
 
