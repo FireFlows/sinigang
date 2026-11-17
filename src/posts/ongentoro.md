@@ -25,26 +25,23 @@ tags:
         color: #dd199f;
     }
     img {
-        max-width:80%;
+        max-width:95%;
         max-height:50%;
+    }
+    iframe {
+        width: 95%;
+        height:500px;
     }
     .nomobile {
         max-height:100%;
         max-width:100%;
     }
-
-iframe{
-    width:95%;
-    height:53.5vh;
-
-}
-
-
-@media screen and (max-width: 750px) {
+@media screen and (max-width:900px){
     iframe {
-        max-width: 100% !important;
+        height:300px;
     }
 }
+
 
 </style>
 
