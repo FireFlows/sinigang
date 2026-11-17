@@ -31,8 +31,9 @@ I like these but a bit less
 * Web browser: Firefox
 * Tablet: iPad A16 (2025)
     * 1st gen Apple Pencil
-* Drawing program: Procreate (iPad), Krita or MSPaint (laptop)
+* Drawing program: Procreate, rarely Clip Studio Paint (iPad), Krita or MSPaint (laptop)
 * Drawing tablet: Wacom Bamboo CTH-670 with OpenTabletDriver
+* Phone: iPhone 11
 * Consoles: LCD 256GB Steam Deck and Nintendo Switch Lite
 
 
