@@ -35,6 +35,7 @@ I like these but a bit less
 * Drawing tablet: Wacom Bamboo CTH-670 with OpenTabletDriver
 * Phone: iPhone 11
 * Consoles: LCD 256GB Steam Deck and Nintendo Switch Lite
+* Microphone: RODE NT-USB Mini
 
 
 ## About the Website
