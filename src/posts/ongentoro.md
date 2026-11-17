@@ -635,7 +635,7 @@ I'll make it by following the recipe</p>
 来ないで！<br>
 そうやって押しかけて<br>  
 泥棒ね いつもなりゆきで<br>
-幾星霜 何万回の催促
+幾星霜 何万回の催促<br>
 成仏してオンゲントロ</p>
 
 <p class="npf_color_rachel"><i>
@@ -795,6 +795,8 @@ Nooo!</p>
 <p>If you're curious, the voice lines are: <span class="npf_color_ross">やっほー (</span><span class="npf_color_ross"><i>yahhoo</i></span><span class="npf_color_ross">, hey!)</span>, <span class="npf_color_ross">かくにん (</span><span class="npf_color_ross"><i>kakunin</i></span><span class="npf_color_ross">, confirmation)</span>, <span class="npf_color_ross">&#12416;&#12416;&#12416; (</span><span class="npf_color_ross"><i>mumumu</i></span><span class="npf_color_ross">)</span>, <span class="npf_color_ross">&#12393;&#12428;&#12393;&#12428; (</span><span class="npf_color_ross"><i>doredore</i></span><span class="npf_color_ross">, let's see)</span>, <span class="npf_color_ross">&#12384;&#12356;&#12376; (</span><span class="npf_color_ross"><i>daiji</i></span><span class="npf_color_ross">, important)</span>, <span class="npf_color_ross">&#12420;&#12387;&#12383; (</span><span class="npf_color_ross"><i>yatta</i></span><span class="npf_color_ross">, it's done!)</span>, <span class="npf_color_ross">&#12405;&#12353;&#12415;&#12426; (</span><span class="npf_color_ross"><i>famiri</i></span><span class="npf_color_ross">, family)</span>, <span class="npf_color_rachel">&#12362;&#12424;&#12424; (</span><span class="npf_color_rachel"><i>oyoyo</i></span><span class="npf_color_rachel">)</span>, <span class="npf_color_ross">&#12435; (</span><span class="npf_color_ross"><i>n</i></span><span class="npf_color_ross">)</span>, <span class="npf_color_ross">&#12424;&#12358;&#12371;&#12381; (</span><span class="npf_color_ross"><i>youkoso</i></span><span class="npf_color_ross">, welcome)</span>, <span class="npf_color_rachel">&#12399;&#12431; (</span><span class="npf_color_rachel"><i>hawa</i></span><span class="npf_color_rachel">)</span>, <span class="npf_color_ross">&#12356;&#12387;&#12375;&#12423; (</span><span class="npf_color_ross"><i>issho</i></span><span class="npf_color_ross">, together)</span>, <span class="npf_color_rachel">&#12405;&#12359;&#65374;&#65374;&#12435; (</span><span class="npf_color_rachel"><i>fueeen</i></span><span class="npf_color_rachel">)</span>.</p>
 
 Calogado forced Heki to become an UTAU, thereby trapping him forever in Calogado's PC! Wow. Calogado really is quite terrifying.
+
+And that's the end of the song Ongentoro! There's still more I have to say though so I'm moving on to the next topic.
 
 ## Extra Translations
 
