@@ -26,6 +26,15 @@ I like these but a bit less
 * Public transportation
 * Collecting things (digital and physical)
 
+### Uses
+* Laptop: Lenovo IdeaPad Slim 3
+* Web browser: Firefox
+* Tablet: iPad A16 (2026)
+    * 1st gen Apple Pencil
+* Drawing program: Procreate (iPad), Krita or MSPaint (laptop)
+* Drawing tablet: Wacom Bamboo CTH-670 with OpenTabletDriver
+* Consoles: LCD 256GB Steam Deck and Nintendo Switch Lite
+
 
 ## About the Website
 ### Accessibility
