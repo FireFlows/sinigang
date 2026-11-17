@@ -32,7 +32,9 @@ I made this website on August 18, 2020 for reasons that are beyond me. I left it
 
 While I didn't use generative AI to create this website (code, writing, art done by me or sourced from humans), genAI is forced on me daily by virtue of being on the internet. Despite trying my best to avoid it. We're all going to hell. 
 
-My website is "licensed" under [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en).
+My website's code is "licensed" under [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en). **No** rights reserved. I encourage you to completely steal my layout and use it for your own site, no credit needed (but much appreciated). 
+
+If you are going to borrow my words or art, please credit me, though.
 
 ### Accessibility
 *See: [/posts/accessibility.html](/posts/accessibility.html)*
