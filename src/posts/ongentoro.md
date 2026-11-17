@@ -652,7 +652,7 @@ Rest in peace, Ongentoro!</p>
 <img src="https://64.media.tumblr.com/4f6bf1e0ac9fb4acda1369f49ae20bfc/43d6fef636b32b1d-b2/s2048x3072/7f1bd970b822db9e2b53091bb5d4d56c1f2d40f5.pnj" alt="Heki throws salt from a bag.">
 
 
-<p>After telling Calogado to rest in peace, Heki throws salt at them. The bag is labeled 食用塩ミネラル (<i>shokuyou shio mineraru</i>) — "edible salt mineral." Salt famously wards off evil spirits.</p>
+After telling Calogado to rest in peace, Heki throws salt at them. The bag is labeled 食用塩ミネラル (*shokuyou shio mineraru*) — "edible salt mineral." Salt famously wards off evil spirits.
 
 <p class="npf_color_ross">
 もう墓まで同じよ運命共同体</p>
