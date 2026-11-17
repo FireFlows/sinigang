@@ -13,10 +13,10 @@ tags:
       color: #cc7a1c;
     }
     .npf_color_ross {
-        color: #05ad2f
+        color: #1abb42;
     }
     .npf_color_rachel {
-        color: #078dc2;
+        color: #1193c7;
     }
     .npf_color_niles {
         color: #5e3aee;
@@ -652,7 +652,7 @@ Rest in peace, Ongentoro!</p>
 <img src="https://64.media.tumblr.com/4f6bf1e0ac9fb4acda1369f49ae20bfc/43d6fef636b32b1d-b2/s2048x3072/7f1bd970b822db9e2b53091bb5d4d56c1f2d40f5.pnj" alt="Heki throws salt from a bag.">
 
 
-<p>After telling Calogado to rest in peace, Heki throws salt at them. The bag is labeled &#39135;&#29992;&#22633;&#12511;&#12493;&#12521;&#12523; (<i>shokuyou shio mineraru</i>), which is "edible salt mineral." Salt famously wards off evil spirits.</p>
+<p>After telling Calogado to rest in peace, Heki throws salt at them. The bag is labeled 食用塩ミネラル (<i>shokuyou shio mineraru</i>) — "edible salt mineral." Salt famously wards off evil spirits.</p>
 
 <p class="npf_color_ross">
 もう墓まで同じよ運命共同体</p>
@@ -663,14 +663,25 @@ mou haka made onaji yo unmeikyoudoutai</i></p>
 <p class="npf_color_ross">
 Well, until we're six feet under, it looks like we're in the same boat!</p>
 
-<p><span class="npf_color_ross">&#22675;&#12414;&#12391;</span> is "until the grave" but that's not really natural, so I translated it as something less literal. And I could've said "until we die," but I wanted to include a reference to graves like the original verse does. Hence, "six feet under."</p>
-<p><span class="npf_color_ross">&#36939;&#21629;&#20849;&#21516;&#20307;</span> is an <a href="https://jisho.org/word/%E9%81%8B%E5%91%BD%E5%85%B1%E5%90%8C%E4%BD%93">expression meaning to share a common destiny, or to be in the same boat</a>. This uses the word &#36939;&#21629; (<i>unmei</i>, fate) and &#20849;&#21516;&#20307; (<i>kyoudoutai</i>, community). Heki is now in the UTAU community forever, because his voice has been stolen and put into .wav files. And now, it's been distributed to everyone with an internet connection.</p>
-<p><span class="npf_color_ross">&#22768;&#24111;&#12434;&#12406;&#12385;&#30423;&#12387;&#12390;&#65281;</span><br><span class="npf_color_rachel">&#12406;&#12435;&#30423;&#12425;&#12428;&#65281;</span><br><span class="npf_color_ross">&#25296;&#12360;</span><span class="npf_color_rachel">&#36867;&#12370;&#12390;</span><br>&#20154;&#39770;&#23019;&#65281;</p>
-<p><i><span class="npf_color_ross">seitai o buchi totte!</span></i><br><i><span class="npf_color_rachel">bun dorare!</span></i><br><i><span class="npf_color_ross">sarae </span></i><i><span class="npf_color_rachel">nigete</span></i><br><i>ningyohime!</i></p>
-<p><span class="npf_color_ross">I'm ripping out your vocal cords!</span><br><span class="npf_color_rachel">You're ripping them out!</span><br><span class="npf_color_ross">I'll kidnap you</span> <span class="npf_color_rachel">Run away</span><br>Little Mermaid!</p>
-<blockquote class="npf_indented"><p><span class="npf_color_rachel">&#12406;&#12435;&#30423;&#12425;&#12428;&#65281;</span><br><i><span class="npf_color_rachel">bun dorare!</span></i><br><span class="npf_color_rachel">You're ripping them out!</span></p>
-</blockquote>
-<p>Once again, <i>torare </i>is pronounced like <i>dorare</i>.</p>
+<span class="npf_color_ross">墓まで</span> (*haka made*) is "until the grave" but that's not really natural, so I translated it as something less literal. And I could've said "until we die," but I wanted to include a reference to graves like the original verse does. Hence, "six feet under."
+
+<span class="npf_color_ross">運命共同体</span> (*unmeikyoudoutai*) is an <a href="https://jisho.org/word/%E9%81%8B%E5%91%BD%E5%85%B1%E5%90%8C%E4%BD%93">expression meaning to share a common destiny, or to be in the same boat</a>. This uses the word 運命 (*unmei*, fate) and 共同体 (*kyoudoutai*, community). Heki is now in the UTAU community forever, because his voice has been stolen and put into .wav files. And now, it's been distributed to everyone with an internet connection.
+
+<span class="npf_color_ross">声帯をぶち盗って！</span><br>
+<span class="npf_color_rachel">ぶん盗られ！</span><br>
+<span class="npf_color_ross">拐え</span><span class="npf_color_rachel">逃げて</span><br>
+人魚姫
+
+<i><span class="npf_color_ross">seitai o buchi totte!</span></i><br><i><span class="npf_color_rachel">bun dorare!</span></i><br><i><span class="npf_color_ross">sarae </span></i><i><span class="npf_color_rachel">nigete</span></i><br><i>ningyohime!</i>
+
+<span class="npf_color_ross">I'm ripping out your vocal cords!</span><br><span class="npf_color_rachel">You're ripping them out!</span><br><span class="npf_color_ross">I'll kidnap you</span> <span class="npf_color_rachel">Run away</span><br>Little Mermaid!
+
+<blockquote class="npf_color_rachel">
+ぶん盗られ！<br>
+<i>bun dorare!</i><br>
+You're ripping them out!</blockquote>
+
+Once again, *torare* is pronounced like *dorare*.
 
 <img src="https://64.media.tumblr.com/1065cc4737fbdaa9795dde37df7ceec4/43d6fef636b32b1d-e3/s1280x1920/0b67a9b1404e79237113b22d385a8afd97195aa6.pnj" alt="Calogado holds a .wav file in their hands. Their ahoge turns into a heart. Heki prints a .wav file from his mouth.">
 
@@ -817,9 +828,16 @@ Haha, already two steps ahead of you; [I've made a Tumblr post about DebitBit](h
 
 Thank you for reading all the way up until the end. It was a lot of fun to do the translation and write the explanations, so I hope you had fun reading it too! 
 
-Since you've now been successfully brainwashed of that Calogado, let me recommend some of my favorite Calogado songs: [SONKUHOU by 44e-prone](https://youtu.be/ldnmmf9b47o), [The Weird Tales Explorers!? by Karishire](https://youtu.be/54VQpXKK27s), and [this remix of Ongentoro by Hasegawa Maigo](https://www.nicovideo.jp/watch/sm46293237). (I like to call it "I'm sick of UTAU-ification Alremix, because the original title's a similar pun.)
+Since you've now been successfully brainwashed of that Calogado, let me recommend some of my favorite Calogado songs: 
 
-Some of my favorite covers are [Kyokai's cover of Living Gas Meter by DenkiQuijira](https://youtu.be/UISuKk3CEBI?si=s7CvqLW5a_fRfSbE) featuring Calogado and Mayoi Heki, [Yuinkim's cover of YESMAN by NILFRUITS](https://youtu.be/NZ27K6PZSdg) also featuring Calogado and Mayoi Heki, and [Kanisan's cover of Self-Conference by Tagak](https://youtu.be/2QFf-MkQo3E) featuring Calogado (Yamai).
+* [SONKUHOU by 44e-prone](https://youtu.be/ldnmmf9b47o)
+* [The Weird Tales Explorers!? by Karishire](https://youtu.be/54VQpXKK27s)
+* [this remix of Ongentoro by Hasegawa Maigo](https://www.nicovideo.jp/watch/sm46293237). (I like to call it "I'm sick of UTAU-ification Alremix, because the original title's a similar pun.)
+
+Some of my favorite covers are:
+* [Kyokai's cover of Living Gas Meter by DenkiQuijira](https://youtu.be/UISuKk3CEBI?si=s7CvqLW5a_fRfSbE) featuring Calogado and Mayoi Heki
+* [Yuinkim's cover of YESMAN by NILFRUITS](https://youtu.be/NZ27K6PZSdg) also featuring Calogado and Mayoi Heki
+* [Kanisan's cover of Self-Conference by Tagak](https://youtu.be/2QFf-MkQo3E) featuring Calogado (Yamai).
 
 Let's all enjoy UTAU together~~
 

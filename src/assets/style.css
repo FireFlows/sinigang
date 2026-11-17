@@ -114,27 +114,26 @@ aside {
     background-color: var(--aside-color);
 }
 nav {    
+    font-weight:bold;
+    ul {
 
-a {
-    color: var(--main-color);
-}
-a:hover {
-    color:var(--accent-color);
-    background-color: var(--bg-color);
-}
-font-weight:bold;
-  ul {
-  list-style-type: none;
-  padding:0;
-}  
-
-    .navi {
-        border:none;
+    list-style-type: none;
+    padding:0;
+    background-color: var(--aside-color);
+    }
+    li {
+        color: var(--main-color);
+    }
+    li a {
         text-align:center;
         display: block;
-        padding: 5px;
-        text-decoration:none;
-    }
+        padding: 5.5px;
+        text-decoration:none;    }
+li a:hover:not(.active) {
+    background-color: var(--bg-color);
+
+}
+
 }
 footer {
     grid-area: footer;
@@ -197,13 +196,22 @@ mobile
     body {
         grid-template-columns:1fr;
         grid-template-areas:
-        "header"
         "aside"
+        "header"
         "main"
         "footer";
         gap:0;
 
   }
+  aside {
+    max-width:100%;
+    position:initial;
+    ul {
+        display:flex;
+        gap: 7px;
+        flex-wrap:wrap;
+        font-size:1.25rem;
+    }}
   header {
     top:0;
     padding-top:.75rem;
@@ -214,21 +222,9 @@ mobile
     margin:1rem;
 
 }
-  aside {
-    margin:0;
-    max-width: 100%;
-    position: initial;
-    ul {
-        display:flex;
-        gap:7px;
-        flex-wrap:wrap;
-        font-size:1.25rem;
+    .nomobile {
+        display:none;
     }
-  }
-
-  .nomobile {
-    display:none;
-  }
   .showmobile {
     display: contents;
   }
