@@ -72,9 +72,3 @@ It's Kasane Teto SV! More specifically, it's their official standing portrait, i
 > In my extremely subjective opinion which you should treat as such, this whole profile thing is a bad idea. It's presence drags social media attitudes to a website of websites that is supposed to be an escape from the social media hellscape of today. At least that is how a lot of people like to present this platform.
 
 I'm inclined to agree with her. In the future, I intend to create an RSS feed for this website for updates instead.
-
-### You're an artist, right? Hey, where's your art!? WHERE IS IT! 
-
-I AM A FUCKING ARTIST!! I just don't see a reason to reupload all of my art on my website since it's already on Twitter and Tumblr... but a lot of people don't use social media, right!? 
-
-So, perhaps I'll make an art archive of my own here but for now please take [this zip file](https://file.garden/alh0moWNqEglM4TP/art.zip) which includes *some* of my art (definitely not all or most but I'll try to keep up with it).

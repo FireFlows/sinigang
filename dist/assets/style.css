@@ -68,8 +68,8 @@ https://tailwindcss.com/docs/colors
 a {
     color: var(--main);
     text-decoration-color: var(--link);
-    text-decoration-thickness: 2px;
-    text-decoration-style:line;
+    text-decoration-thickness: 1px;
+    text-decoration-style:wavy;
 }
 a:hover {
     color:var(--link);    
@@ -186,15 +186,15 @@ mobile
     body {
         grid-template-columns:1fr;
         grid-template-areas:
-        "aside"
         "header"
+        "aside"
         "main"
         "footer";
         gap:0;
 
   }
   aside {
-    max-width:100vh;
+    max-width:100%;
     position:initial;
     ul {
         display:flex;
