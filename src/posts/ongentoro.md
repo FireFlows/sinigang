@@ -109,7 +109,7 @@ YouTube and probably NND set like, automatic thumbnails but I wouldn't be surpri
 ![Calogado in the NicoNico Douga thumbnail](https://64.media.tumblr.com/832f6dfb1f1cbf59b05a862f769c0899/43d6fef636b32b1d-93/s400x600/5a8a905a9b1fccfe4aff6520625d102a452b9616.pnj)
 ![Heki in the YouTube thumbnail](https://64.media.tumblr.com/86f357ec0e24c39d6c9cb3bbbd82de9d/43d6fef636b32b1d-b6/s400x600/c2df9856eec23ddfecef48a88a2a5e10d9150f05.pnj)
 
-## Lyrics/Translation/Translation Notes
+## Video and Lyrics
 
 I'm not a native Japanese speaker, but I tried my best. Yes, I did romanize everything myself despite there being a romanization on the Vocaloid Lyrics Wiki. 
 
@@ -562,21 +562,22 @@ ussu</i></p>
 <p class="npf_color_rachel">
 Okay.</p>
 
-<p><span class="npf_color_ross">_&#12354;&#12354;&#12435;&#12356;&#12354;&#12358;&#12354;&#12356;</span><br><span class="npf_color_rachel">_&#12354;&#12354;&#12435;&#12356;&#12354;&#12358;&#12354;&#12356;</span></p>
+<p><span class="npf_color_ross">_ああんいあうあい</span><br><span class="npf_color_rachel">_ああんいあうあい</span></p>
 <p><i>_aaniauai</i></p>
-<p><span class="npf_color_ross">_&#12356;&#12356;&#12435;&#12358;&#12356;&#12360;&#12356;&#12358;</span><br><span class="npf_color_rachel">_&#12356;&#12356;&#12435;&#12358;&#12356;&#12360;&#12356;&#12358;</span></p>
+<p><span class="npf_color_ross">_いいんういえいう</span><br><span class="npf_color_rachel">_いいんういえいう</span></p>
 <p><i>_iinuieiu</i></p>
-<p><span class="npf_color_ross">_&#12358;&#12358;&#12435;&#12360;&#12358;&#12362;&#12358;&#12360;</span><br><span class="npf_color_rachel">_&#12358;&#12358;&#12435;&#12360;&#12358;&#12362;&#12358;&#12360;</span></p>
+<p><span class="npf_color_ross">_ううんえうおうえ</span><br><span class="npf_color_rachel">_ううんえうおうえ</span></p>
 <p><i>_uuneuoue</i></p>
-<p><span class="npf_color_ross">_&#12360;&#12360;&#12435;&#12362;&#12360;&#12354;&#12360;&#12362;</span><br><span class="npf_color_rachel">_&#12360;&#12360;&#12435;&#12362;&#12360;&#12354;&#12360;&#12362;</span></p>
+<p><span class="npf_color_ross">_ええんおえあえお</span><br><span class="npf_color_rachel">_ええんおえあえお</span></p>
 <p><i>_eenoeaeo</i></p>
-<p><span class="npf_color_ross">_&#12362;&#12362;&#12435;&#12354;&#12362;&#12356;&#12362;&#12354;</span><br><span class="npf_color_rachel">_&#12362;&#12362;&#12435;&#12354;&#12362;&#12356;&#12362;&#12354;</span></p>
+<p><span class="npf_color_ross">_おおんあおいおあ</span><br><span class="npf_color_rachel">_おおんあおいおあ</span></p>
 <p><i>_oonaoioa</i><br><br>
 
 <img src="https://64.media.tumblr.com/f22ce1dc52d83bda9c746ed425537562/43d6fef636b32b1d-db/s1280x1920/aa3f49391e3def06675dd76fdfbea8ec55b639fe.pnj" alt="Calogado and Heki start recording">
 
-The writing at the bottom of the video says <span style="color:var(--color-6);">*using Kurosu's 8 morae list method</span> (&#8251;&#12367;&#12429;&#24030;&#24335;&#65304;&#12514;&#12540;&#12521;&#12522;&#12473;&#12488;&#12434;&#20351;&#29992;, <i>kuroshuu shiki hachi moora risuto o shiyou</i>). This is the reclist I was talking about earlier.</p>
-<p>There's no need to translate this part; or, more, the romanization is the translation.</p>
+The writing at the bottom of the video says <span style="color:var(--color-6);">\*using Kurosu's 8 morae list method</span> (※くろ州式８モーラリストを使用, *kuroshuu shiki hachi moora risuto o shiyou*). This is the reclist I was talking about earlier.
+
+There's no need to translate this part; or, more, the romanization is the translation.
 
 <p class="npf_color_ross">
 その調子です！<br>
@@ -709,6 +710,7 @@ Have you made a demo song?<br>
 Have you tried out different <a href="https://utau.info/start/resamplers/">resamplers?</a><br>
 Did you create a Terms of Service?</p>
 
+After recording and otoing a voicebank, you might want to check for issues, make a demo song, try out different resamplers, or create a terms of service. But you can do way more stuff than this. Like, create a website, for example. 
 
 <blockquote class="npf_color_ross">
 色んなエンジン試してみた？<br>
@@ -774,7 +776,7 @@ You'll be with me until you die!</p>
 
 ![Calogado raises their hands and smiles while Heki cries.](https://64.media.tumblr.com/15595bc848ec80289667343e2bec1e3e/43d6fef636b32b1d-1d/s1280x1920/dd99fe7a5872238acd0d802dabf2e5ffb34067e7.pnj)
 
-Looks like it would be read "until your PC breaks" (*PC ga kowareru made*) but is actually read "until you die." (*shinu made*)
+Looks like it would be read "until my PC breaks" (*PC ga kowareru made*) but is actually read "until you die." (*shinu made*)
 
 <p class="npf_color_rachel">
 ふぇ～～ん</p>
@@ -785,8 +787,9 @@ fueeen</i></p>
 <p class="npf_color_rachel">
 Nooo!</p>
 
-<p>If you're curious, the voice lines are: <span class="npf_color_ross">&#12420;&#12387;&#12411;&#12540; (</span><span class="npf_color_ross"><i>yahhoo</i></span><span class="npf_color_ross">, hey!)</span>, <span class="npf_color_ross">&#12363;&#12367;&#12395;&#12435; (</span><span class="npf_color_ross"><i>kakunin</i></span><span class="npf_color_ross">, confirmation)</span>, <span class="npf_color_ross">&#12416;&#12416;&#12416; (</span><span class="npf_color_ross"><i>mumumu</i></span><span class="npf_color_ross">)</span>, <span class="npf_color_ross">&#12393;&#12428;&#12393;&#12428; (</span><span class="npf_color_ross"><i>doredore</i></span><span class="npf_color_ross">, let's see)</span>, <span class="npf_color_ross">&#12384;&#12356;&#12376; (</span><span class="npf_color_ross"><i>daiji</i></span><span class="npf_color_ross">, important)</span>, <span class="npf_color_ross">&#12420;&#12387;&#12383; (</span><span class="npf_color_ross"><i>yatta</i></span><span class="npf_color_ross">, it's done!)</span>, <span class="npf_color_ross">&#12405;&#12353;&#12415;&#12426; (</span><span class="npf_color_ross"><i>famiri</i></span><span class="npf_color_ross">, family)</span>, <span class="npf_color_rachel">&#12362;&#12424;&#12424; (</span><span class="npf_color_rachel"><i>oyoyo</i></span><span class="npf_color_rachel">)</span>, <span class="npf_color_ross">&#12435; (</span><span class="npf_color_ross"><i>n</i></span><span class="npf_color_ross">)</span>, <span class="npf_color_ross">&#12424;&#12358;&#12371;&#12381; (</span><span class="npf_color_ross"><i>youkoso</i></span><span class="npf_color_ross">, welcome)</span>, <span class="npf_color_rachel">&#12399;&#12431; (</span><span class="npf_color_rachel"><i>hawa</i></span><span class="npf_color_rachel">)</span>, <span class="npf_color_ross">&#12356;&#12387;&#12375;&#12423; (</span><span class="npf_color_ross"><i>issho</i></span><span class="npf_color_ross">, together)</span>, <span class="npf_color_rachel">&#12405;&#12359;&#65374;&#65374;&#12435; (</span><span class="npf_color_rachel"><i>fueeen</i></span><span class="npf_color_rachel">)</span>.</p>
+<p>If you're curious, the voice lines are: <span class="npf_color_ross">やっほー (</span><span class="npf_color_ross"><i>yahhoo</i></span><span class="npf_color_ross">, hey!)</span>, <span class="npf_color_ross">かくにん (</span><span class="npf_color_ross"><i>kakunin</i></span><span class="npf_color_ross">, confirmation)</span>, <span class="npf_color_ross">&#12416;&#12416;&#12416; (</span><span class="npf_color_ross"><i>mumumu</i></span><span class="npf_color_ross">)</span>, <span class="npf_color_ross">&#12393;&#12428;&#12393;&#12428; (</span><span class="npf_color_ross"><i>doredore</i></span><span class="npf_color_ross">, let's see)</span>, <span class="npf_color_ross">&#12384;&#12356;&#12376; (</span><span class="npf_color_ross"><i>daiji</i></span><span class="npf_color_ross">, important)</span>, <span class="npf_color_ross">&#12420;&#12387;&#12383; (</span><span class="npf_color_ross"><i>yatta</i></span><span class="npf_color_ross">, it's done!)</span>, <span class="npf_color_ross">&#12405;&#12353;&#12415;&#12426; (</span><span class="npf_color_ross"><i>famiri</i></span><span class="npf_color_ross">, family)</span>, <span class="npf_color_rachel">&#12362;&#12424;&#12424; (</span><span class="npf_color_rachel"><i>oyoyo</i></span><span class="npf_color_rachel">)</span>, <span class="npf_color_ross">&#12435; (</span><span class="npf_color_ross"><i>n</i></span><span class="npf_color_ross">)</span>, <span class="npf_color_ross">&#12424;&#12358;&#12371;&#12381; (</span><span class="npf_color_ross"><i>youkoso</i></span><span class="npf_color_ross">, welcome)</span>, <span class="npf_color_rachel">&#12399;&#12431; (</span><span class="npf_color_rachel"><i>hawa</i></span><span class="npf_color_rachel">)</span>, <span class="npf_color_ross">&#12356;&#12387;&#12375;&#12423; (</span><span class="npf_color_ross"><i>issho</i></span><span class="npf_color_ross">, together)</span>, <span class="npf_color_rachel">&#12405;&#12359;&#65374;&#65374;&#12435; (</span><span class="npf_color_rachel"><i>fueeen</i></span><span class="npf_color_rachel">)</span>.</p>
 
+Calogado forced Heki to become an UTAU, thereby trapping him forever in Calogado's PC! Wow. Calogado really is quite terrifying.
 
 ## Extra Translations
 
