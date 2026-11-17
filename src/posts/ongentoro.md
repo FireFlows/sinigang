@@ -308,66 +308,200 @@ The idea of an "UTAU prefecture" is one that shows up frequently in avogado6's i
 
 <p>If you're curious, Calogado's voice lines are: <span class="npf_color_ross">はじめまして  (<i>hajimemashite</i>, nice to meet you)</span>, <span class="npf_color_ross">えへへ (</span><span class="npf_color_ross"><i>ehehe</i></span><span class="npf_color_ross">)</span>, <span class="npf_color_ross">&#12394;&#12435;&#12392; (</span><span class="npf_color_ross"><i>nanto</i></span><span class="npf_color_ross">, well&hellip;)</span>, <span class="npf_color_ross">&#12411;&#12540;&#12425; (</span><span class="npf_color_ross"><i>hoora</i></span><span class="npf_color_ross">, look)</span>, <span class="npf_color_ross">&#12405;&#12405;&#12405; (</span><span class="npf_color_ross"><i>fufufu</i></span><span class="npf_color_ross">)</span>, <span class="npf_color_ross">&#12362;&#12435;&#12370;&#12435;&#12392;&#12429; (</span><span class="npf_color_ross"><i>ongentoro</i></span><span class="npf_color_ross">)</span>.</p>
 
-<p>Technically, these aren't voice lines: they're <a href="https://sarah-beaulieu.com/en/writing-barks-for-video-games">voice <i>barks</i></a>, but whenever I search up the term "voice barks" I get like, 90% actual dog barking, so I'm assuming this is a very obscure term. We're going to keep using "voice lines," okay?</p>
-<p><span class="npf_color_rachel">&#24112;&#12428; &#24112;&#12428; &#12377;&#12368;&#24112;&#12428;</span><br><span class="npf_color_rachel">&#25163;&#20803;&#20837;&#21147;110</span><br><br><span class="npf_color_rachel"><i>kaere kaere sugu kaere</i></span><br><span class="npf_color_rachel"><i>temoto nyuuryoku hyakutooban</i></span></p>
-<p><span class="npf_color_rachel">Leave. Leave! Leave me alone!</span><br><span class="npf_color_rachel">I'm dialing 110.</span></p>
-<blockquote class="npf_indented"><p><span class="npf_color_rachel">&#24112;&#12428; &#24112;&#12428; &#12377;&#12368;&#24112;&#12428;</span><br><span class="npf_color_rachel"><i>kaere kaere sugu kaere</i></span><br><span class="npf_color_rachel">Leave. Leave! Leave me alone!</span></p>
-</blockquote>
-<p>&#12377;&#12368;&#24112;&#12428; (<i>sugu kaere</i>) might be translated more literally as "leave right now!" or "leave immediately!" but those 1. don't sound forceful enough (again) 2. don't sound like something someone would say in this situation (a bit too stiff?) 3. don't flow that good. The point of this line is that Heki's exasperated, more or less, and I think "leave me alone" captures that idea well.</p>
-<blockquote class="npf_indented"><p><span class="npf_color_rachel">&#25163;&#20803;&#20837;&#21147;110</span><br><span class="npf_color_rachel"><i>temoto nyuuryoku hyakutooban</i></span><br><span class="npf_color_rachel">I'm dialing 110.</span></p>
-</blockquote>
-<p><a href="https://en.wiktionary.org/wiki/%E6%89%8B%E5%85%A5%E5%8A%9B#Noun">&#25163;&#20837;&#21147;</a> (<i>tenyuuryoku</i>) means "manual input" &mdash; &#25163; (te) means "hand," so it is as literal as you can get. However, <a href="https://en.wiktionary.org/wiki/%E3%81%A6%E3%82%82%E3%81%A8#Noun">&#25163;&#20803;</a> (<i>temoto</i>, area around the hands) is used here instead because Heki's sleeves are too long. Initially, I was going to translate this as "I'm calling 110," but I feel "dialing" is more akin to the meaning of "manual input;" it evokes the idea of pressing numbers on a keypad.<br><br>110 (<i>hyakutoo</i>) is the police number in Japan, so, like, 911. I didn't want to Americanize it, so I left it alone. I was thinking about changing it to "calling the police," but I think explaining that 110 is the police number is enough. </p>
-<p>The <i>ban</i> in <i>hyakutooban </i>is from <a href="https://en.wiktionary.org/wiki/%E7%95%AA#Suffix">&#30058;</a>, meaning "number." It's placed at the end of phone numbers (among other things).</p>
-<p><span class="npf_color_ross">&#20986;&#12379; &#20986;&#12379; &#22768;&#12434;&#20986;&#12379;</span><br><span class="npf_color_ross">&#38899;&#28304;&#37682;&#12425;&#12379;&#12429;WAV&#12501;&#12449;&#12452;&#12523;</span><br><br><span class="npf_color_ross"><i>dase dase koe o dase</i></span><br><span class="npf_color_ross"><i>ongen torasero WAV fairu</i></span><br><br><span class="npf_color_ross">Give up. Give up! Give up your voice!</span><br><span class="npf_color_ross">And let me record it in a .wav file</span></p>
-<blockquote class="npf_indented"><p><span class="npf_color_ross">&#20986;&#12379; &#20986;&#12379; &#22768;&#12434;&#20986;&#12379;</span><br><span class="npf_color_ross"><i>dase dase koe o dase</i></span><br><span class="npf_color_ross">Give up. Give up! Give up your voice!</span></p>
-</blockquote>
-<p>&#20986;&#12379; is really more like "open up" or "come out" than "give up." The reason I translated it to "give up" here is so it flows nicely into &#22768;&#12434;&#20986;&#12379; (<i>koe o dase</i>)&mdash; something like "Open up. Open up! Give up your voice" doesn't work as well. </p>
-<p>The implication (I'm trying to make) is that Heki should "give up" trying to stop Calogado and let them in! Also: in The Little Mermaid, the mermaid literally gives up her voice to the sea witch.</p>
-<blockquote class="npf_indented"><p><span class="npf_color_ross">&#38899;&#28304;&#37682;&#12425;&#12379;&#12429;WAV&#12501;&#12449;&#12452;&#12523;</span><br><span class="npf_color_ross"><i>ongen torasero WAV fairu</i></span><br><span class="npf_color_ross">And let me record it in a .wav file</span></p>
-</blockquote>
-<p>As mentioned previously, Ongentoro comes from <i>ongen </i>+ imperative of <i>toru</i>. The imperative (+ causative) form(s) is(are) used here in <i>ongen torasero</i>. </p>
-<p><span class="npf_color_ross">&#12356;&#12356;&#12391;&#12375;&#12423;&#65311;</span><br><span class="npf_color_ross">&#12397;&#12360; &#12356;&#12356;&#12391;&#12375;&#12423;&#65311;</span><br><span class="npf_color_ross">&#24598;&#12367;&#12394;&#12356;&#12424; &#30342;&#12420;&#12387;&#12390;&#12427;&#12424;</span><br><br><span class="npf_color_ross"><i>ii desho?</i></span><br><span class="npf_color_ross"><i>nee ii desho?</i></span><br><span class="npf_color_ross"><i>kowakunai yo minna yatteru yo</i></span><br><br><span class="npf_color_ross">You don't mind, right?</span><br><span class="npf_color_ross">Hey. You don't mind, right?</span><br><span class="npf_color_ross">Don't be scared. Everyone's doing it.</span></p>
-<p><span class="npf_color_rachel">&#12381;&#12358;&#12384;&#12394;</span><br><span class="npf_color_rachel">&#12435;&#65293;&#12288;&#12381;&#12358;&#12384;&#12394;</span><br><span class="npf_color_rachel">&#12394;&#12425;&#33391;&#12356;&#12363;</span><br><br><span class="npf_color_rachel"><i>soudana</i></span><br><span class="npf_color_rachel"><i>nn soudana</i></span><br><span class="npf_color_rachel"><i>nara iika</i></span><br><br><span class="npf_color_rachel">Really?</span><br><span class="npf_color_rachel">Hmm&hellip;really?</span><br><span class="npf_color_rachel">Well, I guess it's fine, then&hellip;</span></p>
-<p><span class="npf_color_ross">&#33391;&#12356;&#12435;&#12384;&#12397;&#65311;</span><br><br><span class="npf_color_ross"><i>iin da ne?</i></span><br><br><span class="npf_color_ross">It's fine, you said?</span></p>
-<p><span class="npf_color_rachel">&#22768;&#24111;&#12434;&#12406;&#12435;&#30423;&#12425;&#12428;</span><br><span class="npf_color_rachel">&#20154;&#39770;&#23019; &#38520;&#12395;&#25562;&#12370;&#12425;&#12428;&#12390;&#65281;</span><br><span class="npf_color_rachel">3&#12398;&#27231;&#26448; 8&#12398;&#12477;&#12501;&#12488;&#12395;&#22258;&#12414;&#12428;&#12390;</span><br><span class="npf_color_rachel">&#24453;&#12385;&#27083;&#12360;&#12427;&#39764;&#22899;&#12398;&#23478;</span><br><br><span class="npf_color_rachel"><i>seitai o bun dorare</i></span><br><span class="npf_color_rachel"><i>ningyohime riku ni agerarete!</i></span><br><span class="npf_color_rachel"><i>san no kizai hachi no sofuto ni komarete</i></span><br><span class="npf_color_rachel"><i>machikaeru majo no ie</i></span><br><br><span class="npf_color_rachel">My vocal cords are being ripped out</span><br><span class="npf_color_rachel">Little Mermaid, you've been washed ashore!</span><br><span class="npf_color_rachel">Surrounded by 3 devices and 8 software,</span><br><span class="npf_color_rachel">the witch's house lies in wait</span></p>
+Technically, these aren't voice lines: they're [voice *barks*](https://sarah-beaulieu.com/en/writing-barks-for-video-games), but whenever I search up the term "voice barks" I get like, 90% actual dog barking, so I'm assuming this is a very obscure term. We're going to keep using "voice lines," okay?
+
+<p class="npf_color_rachel">
+帰れ 帰れ すぐ帰れ<br>
+手元入力110<br></p>
+
+<p class="npf_color_rachel"><i>
+kaere kaere sugu kaere<br>
+temoto nyuuryoku hyakutooban<br></i></p>
+
+<p class="npf_color_rachel">
+Leave. Leave! Leave me alone!<br>
+I'm dialing 110.</p>
+
+<blockquote class="npf_color_rachel">
+帰れ 帰れ すぐ帰れ<br>
+<i>kaere kaere sugu kaere</i><br>
+Leave. Leave! Leave me alone!</blockquote>
+
+すぐ帰れ (*sugu kaere*) might be translated more literally as "leave right now!" or "leave immediately!" but those 1. don't sound forceful enough (again) 2. don't sound like something someone would say in this situation (a bit too stiff?) 3. don't flow that good. The point of this line is that Heki's exasperated, more or less, and I think "leave me alone" captures that idea well.
+
+<blockquote class="npf_color_rachel">
+手元入力110<br>
+<i>temoto nyuuryoku hyakutooban</i><br>
+I'm dialing 110.</blockquote>
+
+[手入力](https://en.wiktionary.org/wiki/%E6%89%8B%E5%85%A5%E5%8A%9B#Noun) (*tenyuuryoku*) means "manual input" — 手 (te) means "hand," so it is as literal as you can get. However, [手元](https://en.wiktionary.org/wiki/%E3%81%A6%E3%82%82%E3%81%A8#Noun) (*temoto*, area around the hands) is used here instead because Heki's sleeves are too long. Initially, I was going to translate this as "I'm calling 110," but I feel "dialing" is more akin to the meaning of "manual input;" it evokes the idea of pressing numbers on a keypad.
+
+110 (*hyakutoo*) is the police number in Japan, so, like, 911. I didn't want to Americanize it, so I left it alone. I was thinking about changing it to "calling the police," but I think explaining that 110 is the police number is enough.
+
+The *ban* in *hyakutooban* is from [番](https://en.wiktionary.org/wiki/%E7%95%AA#Suffix), meaning "number." It's placed at the end of phone numbers (among other things).
+
+<p class="npf_color_ross">
+出せ 出せ 声を出せ<br>
+音源録らせろWAVファイル<br></p>
+
+<p class="npf_color_ross"><i>
+dase dase koe o dase<br>
+ongen torasero WAV fairu<br></i></p>
+
+<p class="npf_color_ross">
+Give up. Give up! Give up your voice!<br>
+And let me record it in a .wav file</p>
+
+<blockquote class="npf_color_ross">
+出せ 出せ 声を出せ<br>
+<i>dase dase koe o dase</i><br>
+Give up. Give up! Give up your voice!</blockquote>
+
+出せ is really more like "open up" or "come out" than "give up." The reason I translated it to "give up" here is so it flows nicely into 声を出せ (*koe o dase*) — something like "Open up. Open up! Give up your voice" doesn't work as well.
+
+The implication (I'm trying to make) is that Heki should "give up" trying to stop Calogado and let them in! Also: in The Little Mermaid, the mermaid literally gives up her voice to the sea witch.
+
+<blockquote class="npf_color_ross">
+音源録らせろWAVファイル<br>
+<i>ongen torasero WAV fairu</i><br>
+And let me record it in a .wav file</blockquote>
+
+As mentioned previously, Ongentoro comes from *ongen* + imperative of *toru*. The imperative (+ causative) form(s) is(are) used here in *ongen torasero*.
+
+<p class="npf_color_ross">
+いいでしょ？<br>
+ねえ いいでしょ？<br>
+怖くないよ 皆やってるよ</p>
+
+<p class="npf_color_ross"><i>
+ii desho?<br>
+nee ii desho?<br>
+kowakunai yo minna yatteru yo</i></p>
+
+<p class="npf_color_ross">
+You don't mind, right?<br>
+Hey. You don't mind, right?<br>
+Don't be scared. Everyone's doing it.</p>
+
+<p class="npf_color_rachel">
+そうだな<br>
+ん－　そうだな<br>
+なら良いか</p>
+
+<p class="npf_color_rachel"><i>
+soudana<br>
+nn soudana<br>
+nara iika</i></p>
+
+<p class="npf_color_rachel">
+Really?<br>
+Hmm…really?<br>
+Well, I guess it's fine, then…</p>
+
+<p class="npf_color_ross">
+良いんだね？</p>
+
+<p class="npf_color_ross"><i>
+iin da ne?</i></p>
+
+<p class="npf_color_ross">
+It's fine, you said?</p>
+
+<p class="npf_color_rachel">
+声帯をぶん盗られ<br>
+人魚姫 陸に揚げられて！<br>  
+3の機材 8のソフトに囲まれて<br>
+待ち構える魔女の家</p>
+
+<p class="npf_color_rachel"><i>
+seitai o bun dorare<br>
+ningyohime riku ni agerarete!<br>
+san no kizai hachi no sofuto ni komarete<br>
+machikaeru majo no ie</i></p>
+
+<p class="npf_color_rachel">
+My vocal cords are being ripped out<br>
+Little Mermaid, you've been washed ashore!<br>
+Surrounded by 3 devices and 8 software,<br>
+the witch's house lies in wait</p>
+
 <p>The lyrics are fun here since they all end in <i>e</i>. In Japanese, the "r" and "t" sounds are close together, so they rhyme better here. This pattern is broken by the final line, again.</p>
 <blockquote class="npf_indented"><p><span class="npf_color_rachel">&#22768;&#24111;&#12434;&#12406;&#12435;&#30423;&#12425;&#12428;</span><br><span class="npf_color_rachel"><i>seitai o bun dorare</i></span><br><span class="npf_color_rachel">My vocal cords are being ripped out</span></p>
 </blockquote>
 <p>&#12406;&#12435; (<i>bun</i>) is <a href="https://en.wiktionary.org/wiki/%E3%81%B6%E3%82%93#Prefix">another way of saying &#12406;&#12385;</a>. BTW: these are not synonyms, they are different versions of the same word, like "don't" vs "do not."</p>
-<p>Here, <i>torare</i> is being pronounced like <i>dorare</i>. (This is not standard at all and never happens<sup><a href="#fn7" id="r7">[7]</a></sup>) Along with the aforementioned <i>bun</i>, this makes &#12406;&#12435;&#30423;&#12425;&#12428; sound like <a href="https://jisho.org/word/%E5%88%86%E6%8D%95%E3%82%8B">&#20998;&#25429;&#12425;&#12428;</a> (being plundered/captured/seized). </p>
-<p>It's probably just in English, but the word "plundered" sort of connects with The Little Mermaid (plunder &gt; ship &gt; prince was on a ship, and that's how the little mermaid meets the prince).</p>
-<p>Below, I put a screenshot of Heki's verse (official ustx <a href="https://avogado6.wixsite.com/calogado/music">from the Ongentoro folder</a>) where you can see the note is &#12393; (<i>do</i>)<i> </i>and not &#12392; (<i>to</i>). I am not crazy.</p>
+<p>Here, <i>torare</i> is being pronounced like <i>dorare</i>. (This is not standard at all and never happens<sup><a href="#fn7" id="r7">[7]</a></sup>.) Along with the aforementioned <i>bun</i>, this makes &#12406;&#12435;&#30423;&#12425;&#12428; sound like <a href="https://jisho.org/word/%E5%88%86%E6%8D%95%E3%82%8B">&#20998;&#25429;&#12425;&#12428;</a> (being plundered/captured/seized). </p>
 
-<img src="https://64.media.tumblr.com/1fc9e6d2c884a7b36d6bc9be53805fb2/43d6fef636b32b1d-14/s1280x1920/180cf946196609fb1e797209757510ca9a83fd0d.pnj" alt="OpenUTAU shows that Heki is specifically saying 'dorare' here.">
+It's probably just in English, but the word "plundered" sort of connects with The Little Mermaid (plunder > ship > prince was on a ship, and that's how the little mermaid meets the prince).
 
-<blockquote class="npf_indented"><p><span class="npf_color_rachel">&#20154;&#39770;&#23019; &#38520;&#12395;&#25562;&#12370;&#12425;&#12428;&#12390;&#65281;</span><br><span class="npf_color_rachel"><i>ningyohime riku ni agerarete!</i></span><br><span class="npf_color_rachel">Little Mermaid, you've been washed ashore!</span><br><br><span class="npf_color_rachel">3&#12398;&#27231;&#26448; 8&#12398;&#12477;&#12501;&#12488;&#12395;&#22258;&#12414;&#12428;&#12390;</span><br><span class="npf_color_rachel"><i>san no kizai hachi no sofuto ni komarete</i></span><br><span class="npf_color_rachel">Surrounded by 3 devices and 8 software,</span></p>
-</blockquote>
-<p>3 devices:</p>
-<ul><li>Microphone</li>
-<li>PC</li>
-<li>Audio interface</li>
-</ul>
-<p>8 software:</p>
-<ul><li><a href="https://utau.us/install.html">UTAU</a></li>
-<li><a href="https://www.openutau.com/">OpenUTAU</a></li>
-<li><a href="http://nwp8861.web.fc2.com/soft/oremo/index.html">OREMO</a></li>
-<li><a href="http://nwp8861.web.fc2.com/soft/setParam/index.html">setParam</a></li>
-<li><a href="https://github.com/shine5402/KiraWavTar">wavTar</a></li>
-<li><a href="https://w.atwiki.jp/vbmaker/pages/23.html#id_7553c3a2">frqeditor</a></li>
-<li><a href="https://www.izotope.com/en/products/rx.html?">iZotope RX</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Digital_audio_workstation">DAW</a></li>
-</ul>
-<p>This is a list of (not all) the things used to create an UTAU/make music with an UTAU, but you don't need all of these, and there are some things you can substitute with other things (like you can replace OREMO with RecStar).</p>
-<blockquote class="npf_indented"><p><span class="npf_color_rachel">&#24453;&#12385;&#27083;&#12360;&#12427;&#39764;&#22899;&#12398;&#23478;</span><br><span class="npf_color_rachel"><i>machikaeru majo no ie</i></span><br><span class="npf_color_rachel">the witch's house lies in wait</span></p>
-</blockquote>
-<p>The witch's house is of course Calogado's house. In the tale, her house is surrounded by polypi and snakes (in the movie, just polypi, along with her eels Jetsam and Flotsam). Also, her house is made out of human skeletons. So, I'm glad Calogado's is only surrounded by computer stuff.</p>
-<p><span class="npf_color_ross">&#36867;&#12370;&#12427;&#12394;&#65281;</span><br><span class="npf_color_ross">stay up &#37682;&#38899;&#12522;&#12473;&#12488;&#21809;&#12360;&#12390;</span><br><span class="npf_color_ross">&#29579;&#23376;&#27096; &#27836;&#12391;&#25163;&#12434;&#25391;&#12387;&#12390;</span><br><span class="npf_color_ross">1&#38899;&#38542; 1000&#12367;&#12425;&#12356;&#12398;&#35373;&#23450;&#12391;</span><br><span class="npf_color_ross">&#12377;&#12368;&#12395;&#12394;&#12417;&#12425;&#12363;overlap</span><br><br><span class="npf_color_ross"><i>nigeruna!</i></span><br><span class="npf_color_ross"><i>stay up jumon tonaete</i></span><br><span class="npf_color_ross"><i>oujisama numa de te o futte</i></span><br><span class="npf_color_ross"><i>ichi onkai sen kurai no settei de</i></span><br><span class="npf_color_ross"><i>suguni nameraka overlap</i></span><br><br><span class="npf_color_ross">Don't run away!</span><br><span class="npf_color_ross">Stay up and chant the spell</span><br><span class="npf_color_ross">My dear prince, I'm waving my hand in the mire.</span><br><span class="npf_color_ross">With a </span><a href="https://vocadb.net/T/4716/utau-monopitch"><span class="npf_color_ross">monopitch</span></a><span class="npf_color_ross"> and around 1000 settings,</span><br><span class="npf_color_ross">I'll easily have a smooth overlap.</span></p>
-<blockquote class="npf_indented"><p><span class="npf_color_ross">&#36867;&#12370;&#12427;&#12394;&#65281;</span><br><span class="npf_color_ross"><i>nigeruna!</i></span><br><span class="npf_color_ross">Don't run away!</span></p>
-</blockquote>
-<p>In Ongentoro's description, avogado6 has a Q&amp;A segment where they end every answer with "don't run away," almost acting as Calogado.</p>
-<blockquote class="npf_indented"><p><span class="npf_color_ross">stay up &#37682;&#38899;&#12522;&#12473;&#12488;&#21809;&#12360;&#12390;</span><br><span class="npf_color_ross"><i>stay up jumon tonaete</i></span><br><span class="npf_color_ross">Stay up and chant the spell</span></p>
-</blockquote>
-<p><span class="npf_color_ross">&#37682;&#38899;&#12522;&#12473;&#12488; </span><a href="https://en.wikipedia.org/wiki/Furigana#Other_effects">means "reclist" but it's pronounced like "spell</a>" (呪文, <i>jumon</i>) here. Normally, this would be pronounced <i>rokuon risuto</i>. Reclists are kind of written like incantations or spells; avogado6 uses a reclist a bit later into the song, so you'll see what I mean there.</p>
+<p>Below, I put a screenshot of Heki's verse (official files <a href="https://avogado6.wixsite.com/calogado/music">from the Ongentoro folder</a>) where you can see the note is &#12393; (<i>do</i>)<i> </i>and not &#12392; (<i>to</i>). I am not crazy.</p>
+
+![OpenUTAU shows that Heki is specifically saying "dorare" here.](https://64.media.tumblr.com/1fc9e6d2c884a7b36d6bc9be53805fb2/43d6fef636b32b1d-14/s1280x1920/180cf946196609fb1e797209757510ca9a83fd0d.pnj)
+
+<blockquote class="npf_color_rachel">
+3の機材 8のソフトに囲まれて<br>
+<i>san no kizai hachi no sofuto ni komarete</i><br>
+Surrounded by 3 devices and 8 software,</blockquote>
+
+3 devices:
+
+* Microphone
+* PC
+* Audio interface
+
+8 software:
+
+* [UTAU](https://utau.us/install.html)
+* [OpenUTAU](https://www.openutau.com)
+* [OREMO](http://nwp8861.web.fc2.com/soft/oremo/index.html)
+* [setParam](http://nwp8861.web.fc2.com/soft/setParam/index.html)
+* [wavTar](https://github.com/shine5402/KiraWavTar)
+* [frqeditor](https://w.atwiki.jp/vbmaker/pages/23.html#id_7553c3a2)
+* [iZotope RX](https://www.izotope.com/en/products/rx.html)
+* [DAW](https://en.wikipedia.org/wiki/Digital_audio_workstation)
+
+This is a list of (not all) the things used to create an UTAU/make music with an UTAU, but you don't need all of these, and there are some things you can substitute with other things (like you can replace OREMO with RecStar).
+
+<blockquote class="npf_color_rachel">
+待ち構える魔女の家<br>
+<i>machikaeru majo no ie</i><br>
+the witch's house lies in wait</blockquote>
+
+The witch's house is of course Calogado's house. In the tale, her house is surrounded by polypi and snakes (in the movie, just polypi, along with her eels Jetsam and Flotsam). Also, her house is made out of human skeletons. So, I'm glad Calogado's is only surrounded by computer stuff.
+
+<p class="npf_color_ross">
+逃げるな！<br>
+stay up <ruby>録音リスト<rt>呪文</rt></ruby>唱えて<br>  
+王子様 沼で手を振って<br>
+1音階 1000くらいの設定で<br>
+すぐになめらかoverlap</p>
+
+<p class="npf_color_ross"><i>
+nigeruna!<br>
+stay up jumon tonaete<br>
+oujisama numa de te o futte<br>
+ichi onkai sen kurai no settei de
+sugu ni nameraka overlap</i></p>
+
+<p class="npf_color_ross">
+Don't run away!<br>
+Stay up and chant the spell<br>
+My dear prince, I'm waving my hand in the mire.<br>
+With a <a href="https://vocadb.net/T/4716/utau-monopitch">monopitch</a> and around 1000 settings,<br>
+I'll easily have a smooth overlap.</p>
+
+<blockquote class="npf_color_ross">
+逃げるな！<br>
+<i>nigeruna!</i><br>
+Don't run away!</blockquote>
+
+<p>In Ongentoro's description, avogado6 has a Q&A segment where they end every answer with "don't run away," almost acting as Calogado.</p>
+
+<blockquote class="npf_color_ross">
+stay up <ruby>録音リスト<rt>呪文</rt></ruby>唱えて<br>  
+<i>stay up jumon tonaete</i><br>
+Stay up and chant the spell</blockquote>
+
+<span class="npf_color_ross">録音リスト</span> <a href="https://en.wikipedia.org/wiki/Furigana#Other_effects">means "reclist," but it's pronounced like "spell"</a> (呪文, <i>jumon</i>) here. Normally, this would be pronounced <i>rokuon risuto</i>. Reclists are kind of written like incantations or spells; avogado6 uses a reclist a bit later into the song, so you'll see what I mean there.
 
 <img src="https://64.media.tumblr.com/05c2e2407f6a7aafcf5cbe6dd4dc46ab/43d6fef636b32b1d-f6/s1280x1920/1d05f2a500a11b929a5f56e2754ab00ad23b8bca.pnj" alt="Calogado with a heart ahoge. Heki looks at them, a little disturbed.">
 
@@ -379,8 +513,10 @@ Instead of its typical ア (*a*) for avogado6, Calogado's ahoge is kinda shaped 
 <p><a href="https://ja.wikipedia.org/wiki/%E6%B2%BC">&#27836;</a> (<i>numa</i>) is closer to "marsh" than "mire," but in The Little Mermaid, the sea witch is specifically described as living in a mire. It's also <a href="https://jisho.org/word/%E6%B2%BC">slang for obsession or addiction</a>, like how Calogado could be described as being addicted to Heki's voice (or voice synthesis in general!). Perchance.</p>
 <blockquote class="npf_indented"><p><span class="npf_color_ross">1&#38899;&#38542; 1000&#12367;&#12425;&#12356;&#12398;&#35373;&#23450;&#12391;</span><br><span class="npf_color_ross"><i>ichi onkai sen kurai no settei de</i></span><br><span class="npf_color_ross">With a </span><a href="https://vocadb.net/T/4716/utau-monopitch"><span class="npf_color_ross">monopitch</span></a><span class="npf_color_ross"> and around 1000 settings,</span></p>
 </blockquote>
-<p>A voice synthesis program does not automatically know where one note starts and the other ends. You have to tell it where each note name (alias) is by configuring parameters from an oto.ini file. This is called "otoing" in the anglophone UTAU sphere. A program like setParam or vLabeler is used for this; editing the oto.ini file directly is a very bad idea.</p>
-<p>Every configuration is put on a separate line in the oto.ini, like this: </p>
+
+UTAU synthesis programs do not automatically know where one note starts and the other ends. You have to tell it where each note name (alias) is by configuring parameters from an oto.ini file. This is called "otoing" in the anglophone UTAU sphere. A program like setParam or vLabeler is used for this; editing the oto.ini file directly is a very bad idea.
+
+Every configuration is put on a separate line in the oto.ini, like this:
 
 <img src="https://64.media.tumblr.com/2f82d87a25a0656f6e2e86aa73f62961/43d6fef636b32b1d-ec/s500x750/8811efab4978f235b35008cfbf78d170a461e589.pnj" alt="An example oto.ini configuration.">
 
@@ -420,31 +556,79 @@ The writing at the bottom of the video says <span style="color:var(--color-6);">
 <p><span class="npf_color_ross">&#12381;&#12398;&#35519;&#23376;&#12391;&#12377;&#65281;</span><br><span class="npf_color_ross">&#12371;&#12398;&#12414;&#12414;&#28961;&#38480;&#12395;&#37682;&#38899;&#12375;&#12414;&#12375;&#12423;&#12358;&#12397;&#65281;</span></p>
 <p><i><span class="npf_color_ross">sono choushi desu!</span></i><br><i><span class="npf_color_ross">kono mama mugen ni rokuonshimashou ne!</span></i></p>
 <p><span class="npf_color_ross">Great!</span><br><span class="npf_color_ross">Let's record forever, just like this!</span></p>
-<p><span class="npf_color_rachel">&#12360;</span></p>
-<p><i><span class="npf_color_rachel">e</span></i></p>
-<p><span class="npf_color_rachel">What!?</span></p>
+
+<p class="npf_color_rachel">
+え</p>
+
+<p class="npf_color_rachel"><i>
+e</i></p>
+
+<p class="npf_color_rachel">
+What!?</p>
 
 <img src="https://64.media.tumblr.com/8b4ac8fb89ab8d9c7d65218295978868/43d6fef636b32b1d-6e/s1280x1920/815d7b787d688aa8c465d8375488f9106b163c1d.pnj" alt="Calogado and Heki 'finish' recording">
 
 <p>The writing at the bottom of the video is hard to read but (probably) says <span style="color:var(--color-6);">*If you want to implement <a href="https://vocadb.net/T/9346/additional-voice-material">special phonemes</a>, <a href="https://vocadb.net/T/3170/utau-multipitch">multiple pitches</a>, <a href="https://vocadb.net/T/24/append-voicebank">appends</a>, etc., recording could theoretically go on forever</span> (&#8251;&#29305;&#27530;&#38899;&#32032;&#12420;&#22810;&#38899;&#38542;&#12289;&#34920;&#24773;&#38899;&#28304;&#12434;&#23455;&#35013;&#12375;&#12383;&#12356;&#22580;&#21512;&#12289;&#21454;&#37682;&#12364;&#28961;&#38480;&#12395;&#22679;&#12360;&#12427;&#21487;&#33021;&#24615;&#12364;&#12354;&#12427;, <i>tokushu onso ya taonkai, hyoujou ongen o jissou shitai baai, shuuroku ga mugen ni fueru kanousei ga aru</i>).</p>
 
-<p><span class="npf_color_ross">&#22768;&#24111;&#12434;&#12406;&#12385;&#30423;&#12387;&#12390;&#65281;</span><br><span class="npf_color_ross">&#20154;&#39770;&#23019; &#12393;&#12358;&#12363;&#39449;&#12373;&#12428;&#12390;&#65281;</span><br><span class="npf_color_ross">8&#12514;&#12540;&#12521; 200&#12367;&#12425;&#12356;&#12398;&#25991;&#31456;&#12391;</span><br><span class="npf_color_ross">&#12524;&#12471;&#12500;&#36890;&#12426;&#20316;&#12427;&#12363;&#12425;</span></p>
-<p><i><span class="npf_color_ross">seitai o buchi totte!</span></i><br><i><span class="npf_color_ross">ningyohime douka damasarete!</span></i><br><i><span class="npf_color_ross">hachi moora nihyaku kurai no bunshou de</span></i><br><i><span class="npf_color_ross">reshipi doori tsukuru kara</span></i><br><br><span class="npf_color_ross">I'm ripping out your vocal cords!</span><br><span class="npf_color_ross">Little Mermaid, please be tricked by me!</span><br><span class="npf_color_ross">In 8 morae and around 200 strings</span><br><span class="npf_color_ross">I'll make it by following the recipe</span></p>
+<p class="npf_color_ross">
+声帯をぶち盗って！<br>
+人魚姫 どうか騙されて！<br>  
+8モーラ 200くらいの文章で <br>
+レシピ通り作るから</p>
+
+<p class="npf_color_ross"><i>
+seitai o buchi totte! <br>
+ningyohime douka damasarete!<br>
+hachi moora nihyaku kurai no bunshou de<br>
+reshipi doori tsukuru kara</i></p>
+
+<p class="npf_color_ross">
+I'm ripping out your vocal cords! <br>
+Little Mermaid, please be tricked by me!<br>
+In 8 morae and around 200 lines,<br>
+I'll make it by following the recipe</p>
 
 <img src="https://64.media.tumblr.com/e0ab4cd5bdbee4acf8184099de9eeeb4/43d6fef636b32b1d-9d/s2048x3072/092911911ddea620efd36b93dce548b2e14b9d84.pnj" alt="Calogado dressed as a butler, holding a plate of oto.ini">
 
 <p>This time, Calogado dresses like a butler, serving you a plate of oto.ini. Luckily I've already explained what an oto.ini is, so you can get this one!</p>
-<p><span class="npf_color_rachel">&#26469;&#12394;&#12356;&#12391;&#65281;</span><br><span class="npf_color_rachel">&#12381;&#12358;&#12420;&#12387;&#12390;&#25276;&#12375;&#12363;&#12369;&#12390;</span><br><span class="npf_color_rachel">&#27877;&#26834;&#12397; &#12356;&#12388;&#12418;&#12394;&#12426;&#12422;&#12365;&#12391;</span><br><span class="npf_color_rachel">&#24190;&#26143;&#38684; &#20309;&#19975;&#22238;&#12398;&#20652;&#20419;</span><br><span class="npf_color_rachel">&#25104;&#20175;&#12375;&#12390;&#12458;&#12531;&#12466;&#12531;&#12488;&#12525;</span></p>
-<p><i><span class="npf_color_rachel">konaide!</span></i><br><i><span class="npf_color_rachel">sou yatte oshikakete</span></i><br><i><span class="npf_color_rachel">dorobou ne itsumo nariyuki de</span></i><br><i><span class="npf_color_rachel">ikuseisou nanmankai no saisoku</span></i><br><i><span class="npf_color_rachel">joubutsu shite ongentoro</span></i></p>
-<p><span class="npf_color_rachel">Go away!</span><br><span class="npf_color_rachel">Showing up out of the blue like that</span><br><span class="npf_color_rachel">You thief! I'll never change my mind</span><br><span class="npf_color_rachel">no matter how many times you come knocking.</span><br><span class="npf_color_rachel">Rest in peace, Ongentoro!</span></p>
+
+<p class="npf_color_rachel">
+来ないで！<br>
+そうやって押しかけて<br>  
+泥棒ね いつもなりゆきで<br>
+幾星霜 何万回の催促
+成仏してオンゲントロ</p>
+
+<p class="npf_color_rachel"><i>
+konaide!  <br>
+sou yatte oshikakete<br>
+dorobou ne itsumo nariyuki de<br>
+ikuseisou nanmankai no saisoku<br>
+joubutsu shite ongentoro</i></p>
+
+<p class="npf_color_rachel">
+Go away!<br>
+Showing up out of the blue like that<br>
+You thief! I'll never change my mind<br>
+no matter how many times you come knocking.<br>
+Rest in peace, Ongentoro!</p>
+
 <p>I've kind of Americanized "<span class="npf_color_rachel">Rest in peace, Ongentoro!</span>" because <a href="https://en.wiktionary.org/wiki/%E6%88%90%E4%BB%8F#Noun">&#25104;&#20175; is "gaining enlightenment"</a> like attaining nirvana and becoming a Buddha. However, in my defense, it also has a general meaning of <a href="https://jisho.org/word/%E6%88%90%E4%BB%8F">"dying peacefully"</a> i.e. resting in peace.</p>
 
 <img src="https://64.media.tumblr.com/4f6bf1e0ac9fb4acda1369f49ae20bfc/43d6fef636b32b1d-b2/s2048x3072/7f1bd970b822db9e2b53091bb5d4d56c1f2d40f5.pnj" alt="Heki throws salt from a bag.">
-</div>
+
+
 <p>After telling Calogado to rest in peace, Heki throws salt at them. The bag is labeled &#39135;&#29992;&#22633;&#12511;&#12493;&#12521;&#12523; (<i>shokuyou shio mineraru</i>), which is "edible salt mineral." Salt famously wards off evil spirits.</p>
-<p><span class="npf_color_ross">&#12418;&#12358;&#22675;&#12414;&#12391;&#21516;&#12376;&#12424;&#36939;&#21629;&#20849;&#21516;&#20307;</span></p>
-<p><i><span class="npf_color_ross">mou haka made onaji yo unmeikyoudoutai</span></i></p>
-<p><span class="npf_color_ross">Well, until we're six feet under, it looks like we're in the same boat!</span></p>
+
+<p class="npf_color_ross">
+もう墓まで同じよ運命共同体</p>
+
+<p class="npf_color_ross"><i>
+mou haka made onaji yo unmeikyoudoutai</i></p>
+
+<p class="npf_color_ross">
+Well, until we're six feet under, it looks like we're in the same boat!</p>
+
 <p><span class="npf_color_ross">&#22675;&#12414;&#12391;</span> is "until the grave" but that's not really natural, so I translated it as something less literal. And I could've said "until we die," but I wanted to include a reference to graves like the original verse does. Hence, "six feet under."</p>
 <p><span class="npf_color_ross">&#36939;&#21629;&#20849;&#21516;&#20307;</span> is an <a href="https://jisho.org/word/%E9%81%8B%E5%91%BD%E5%85%B1%E5%90%8C%E4%BD%93">expression meaning to share a common destiny, or to be in the same boat</a>. This uses the word &#36939;&#21629; (<i>unmei</i>, fate) and &#20849;&#21516;&#20307; (<i>kyoudoutai</i>, community). Heki is now in the UTAU community forever, because his voice has been stolen and put into .wav files. And now, it's been distributed to everyone with an internet connection.</p>
 <p><span class="npf_color_ross">&#22768;&#24111;&#12434;&#12406;&#12385;&#30423;&#12387;&#12390;&#65281;</span><br><span class="npf_color_rachel">&#12406;&#12435;&#30423;&#12425;&#12428;&#65281;</span><br><span class="npf_color_ross">&#25296;&#12360;</span><span class="npf_color_rachel">&#36867;&#12370;&#12390;</span><br>&#20154;&#39770;&#23019;&#65281;</p>
@@ -493,8 +677,12 @@ Calogado's ahoge also becomes a heart again! OMG… this is too fucking cute. I 
 
 ### Video description 
 
-<blockquote class="npf_indented"><p>&#12415;&#12435;&#12394;&#12418;UTAU&#12395;&#12394;&#12429;&#12358;&#65281;&#65281;&#65281;&#65281;&#65281;&#65281;&#65281;<br><br>&#27468;&#12288;&#12459;&#12525;&#12460;&#12489;(&#36899;&#32154;&#38899;)&#12289;&#30495;&#23477;&#12504;&#12461;<br><a href="https://avogado6.wixsite.com/calogado">https://avogado6.wixsite.com/calogado</a><br>&#22810;&#20998;&#12459;&#12525;&#12460;&#12489;(&#36899;&#32154;&#38899;)&#12392;&#30495;&#23477;&#12504;&#12461;&#12398;&#12487;&#12514;&#12477;&#12531;&#12464;&#12391;&#12377;&#12290;</p>
-</blockquote>
+> みんなもUTAUになろう！！！！！！！
+>
+> 歌　カロガド(連続音)、真宵ヘキ  
+https://avogado6.wixsite.com/calogado  
+多分カロガド(連続音)と真宵ヘキのデモソングです。
+
 <p>Let's all become UTAUs too!!!!!!!<br><br>Singers: Calogado (VCV), Mayoi Heki<br>h<a href="https://avogado6.wixsite.com/calogado">ttps://avogado6.wixsite.com/calogado<br></a>This is Calogado (VCV) and Mayoi Heki's demo song (kind of).</p>
 <p>&#36899;&#32154;&#38899; (<i>renzokuon</i>) is the Japanese term for VCV. Literally "continuous sound." By the way, the term for CV is &#21336;&#29420;&#38899; (<i>tandokuon</i>). Literally "single sound." Calogado has both a VCV and CV voicebank, but Mayoi Heki only has a VCV so that's why it's not specified here.</p>
 <p>"What's a VCV voicebank?" you may ask me, because I haven't explained this and the explanations you get when you look it up are shit.</p>
