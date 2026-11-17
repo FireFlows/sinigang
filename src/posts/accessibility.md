@@ -29,6 +29,7 @@ Making your website accessible to as many people as possible should be one of th
 * Navigable using the tab and arrow keys
 * Semantic HTML whenever possible
 * Works on any resolution and mobile
+* Works with Javascript disabled
 
 I plan to add more accessibility features in the future.
 
