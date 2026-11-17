@@ -204,9 +204,8 @@ mobile
 
   }
   aside {
-    max-width:100%;
+    max-width:100vh;
     position:initial;
-    top:0;
     ul {
         display:flex;
         gap: 7px;
