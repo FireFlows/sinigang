@@ -25,7 +25,7 @@ tags:
         color: #dd199f;
     }
     img {
-        max-width:95%;
+        max-width:65%;
         max-height:50%;
     }
     iframe {
