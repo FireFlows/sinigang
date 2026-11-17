@@ -61,7 +61,7 @@ I've made some edits to account for me posting this on a website instead of Tumb
 
 音源吐露 (*ongentoro*) is a title pun, which makes it difficult to translate. [vgperson calls it "Synth Expression" on her website](https://vgperson.com/vocalhighlights.php?m=2026-03). "Sound Source Revealed" is what the YouTube video claims it's called in English, but I don't like this one.
 
-Avogado6 loves title puns (hey, I do, too!). Their demo song for [Calogado](https://vocadb.net/Ar/144786)'s first voicebank, [OREMO UTAU](s://www.youtube.com/watch?v=tFcd1Fv7jLM), has a title pun. (OREMO is a program used to record UTAU voicebanks, but "OREMO UTAU" in Japanese — as 俺も歌う — means "I'll sing, too.")
+Avogado6 loves title puns (hey, I do, too!). Their demo song for [Calogado](https://vocadb.net/Ar/144786)'s first voicebank, [OREMO UTAU](https://www.youtube.com/watch?v=tFcd1Fv7jLM), has a title pun. (OREMO is a program used to record UTAU voicebanks, but "OREMO UTAU" in Japanese — as 俺も歌う — means "I'll sing, too.")
 
 A song they made with flower, [へる (*heru*)](https://www.youtube.com/watch?v=3qjpOmdZ5uE), is also a title pun (*heru* means to diminish but could also be "hell." Both meanings are used in the song).
 
@@ -655,7 +655,6 @@ Rest in peace, Ongentoro!</p>
 <p>I've kind of Americanized "<span class="npf_color_rachel">Rest in peace, Ongentoro!</span>" because <a href="https://en.wiktionary.org/wiki/%E6%88%90%E4%BB%8F#Noun">成仏 is "gaining enlightenment"</a> like attaining nirvana and becoming a Buddha. However, in my defense, it also has a general meaning of <a href="https://jisho.org/word/%E6%88%90%E4%BB%8F">"dying peacefully"</a> i.e. resting in peace.</p>
 
 <img src="https://64.media.tumblr.com/4f6bf1e0ac9fb4acda1369f49ae20bfc/43d6fef636b32b1d-b2/s2048x3072/7f1bd970b822db9e2b53091bb5d4d56c1f2d40f5.pnj" alt="Heki throws salt from a bag.">
-
 
 After telling Calogado to rest in peace, Heki throws salt at them. The bag is labeled 食用塩ミネラル (*shokuyou shio mineraru*) — "edible salt mineral." Salt famously wards off evil spirits.
 
