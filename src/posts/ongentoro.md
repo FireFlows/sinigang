@@ -686,8 +686,7 @@ Once again, *torare* is pronounced like *dorare*.
 
 Calogado's ahoge also becomes a heart again! OMG… this is too fucking cute. I love how Heki's printing out .wav files from his mouth.
 
-After this part, the computer BSoDs. 
-
+After this part, there's a [blue screen of death](https://en.wikipedia.org/wiki/Blue_screen_of_death). 
 
 <p class="npf_color_ross">
 録音お疲れ様！<br>
