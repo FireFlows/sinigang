@@ -18,7 +18,7 @@ https://oldcompcz.github.io/jgs/joan_stark/
   alternatively you can save them in a another file for safe keeping.
 */
 //mine
-const GOOGLE_FORM_ID = "1FAIpQLScoGz_QbDtoTdXdRmH5dDlIpCo2DNZY-LEg3SKhtHKNSlAcAw";
+const GOOGLE_FORM_ID = "1FAIpQLSfQg3v6RJqt2ReEaOdOsrQLIOfBSCL1AIS6VPtdxW-YcJ695w";
 const IMGUR_ID = "entry.763181044";
 const NAME_ID = "entry.581288048";
 const GOOGLE_SHEET_ID = "1uuOcVPMDa6BOlNa39Y3Ho1lT0eqUC4rOG03R7jyA0bs";
