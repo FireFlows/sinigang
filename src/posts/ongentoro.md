@@ -32,7 +32,7 @@ tags:
         max-height:100%;
         max-width:100%;
     }
-
+sup{line-height:1}
 sup a {
     font-size:.9rem;
     text-decoration: none;
@@ -42,7 +42,7 @@ sup a {
 .videowrapper {
     float: none;
     clear: both;
-    width: 100%;
+    width: 90%;
     position: relative;
     padding-bottom: 56.25%;
     padding-top: 25px;
