@@ -11,3 +11,5 @@ layout: "main.html"
 
 Preferred contact method: Tumblr or email  
 I also have Instagram and Discord but I don't give those out, and TBH I barely use Discord
+
+If you need to contact me but can't do it through any of the above methods try [leaving a comment](comments.html)

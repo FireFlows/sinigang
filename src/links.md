@@ -24,6 +24,7 @@ These links are all free, have little/no ads, are browser-based, and are mobile 
 * [Bechno Kid's site](https://bechnokid.com)
 * [How soon is now?](https://howsoonisnow.org/)
 * [jb's site](https://jbc.lol)
+* [John Doe's page](https://john-doe.neocities.org/)
 * [nomnomnami's site](https://nomnomnami.com)
 * [Poopfart's Place](https://iizpoopfart.neocities.org/)
 * [slash.pages](https://slashpages.net/)
@@ -34,7 +35,6 @@ These links are all free, have little/no ads, are browser-based, and are mobile 
 ### Resources
 * [32-bit cafe](https://32bit.cafe/)
 * [Ayano's Neocities Comment Widget](https://virtualobserver.moe/ayano/comment-widget)
-* [codepen](https://codepen.io/)
 * [Deploying Your Site to Neocities](https://nenrikido.neocities.org/blog/post/deploy-site/)
 * [Eleventy](https://www.11ty.dev/)
     * [Learn Eleventy](https://learneleventy.dev)
@@ -42,7 +42,6 @@ These links are all free, have little/no ads, are browser-based, and are mobile 
 * [Josh W. Comeau's website](https://www.joshwcomeau.com/)
 * [MDN Web Docs](https://developer.mozilla.org/)
 * [Native Neocities hit counter](https://dannarchy.com/tut/tut_002)
-    * I used a slightly modified version of this code for the footer.
 * [Responsive YouTube Shuffled Playlist Player](https://codepen.io/jcb01/pen/ZEKpYgV)
 * [Styling external links, yea or nay?](https://mina86.com/2026/styling-external-links/)
 * [w3 markup validation service](https://validator.w3.org/)

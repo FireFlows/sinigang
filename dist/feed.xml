@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Site Updates</title>
+	<id>https://sinigang.neocities.org/</id>
+	<link rel="alternate" href="https://sinigang.neocities.org/"/>
+	<link rel="self" href="https://sinigang.neocities.org/feed.xml"/>
+	<updated>2026-11-18T05:16:49+00:00</updated>
+	<author>
+		<name>Fire</name>
+	</author>
+	<entry>
+		<title>Welcome</title>
+		<link rel="alternate" type="text/html" href="{{ENTRY.HTML_URL}}"/>
+		<id>https://sinigang.neocities.org</id>
+		<published>2026-11-18T05:16:49+00:00</published>
+		<updated>2026-11-18T05:16:49+00:00</updated>
+		<content type="html">
+		
+		This is my RSS feed. 
+		
+		</content>
+	</entry>
+
+
+</feed>

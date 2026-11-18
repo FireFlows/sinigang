@@ -2,6 +2,8 @@ import { DateTime } from "luxon";
 const TIME_ZONE = "America/New_York";
 export default function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/assets");
+    eleventyConfig.addPassthroughCopy("src/feed.xml");
+
 	eleventyConfig.setInputDirectory('src');
 	eleventyConfig.setOutputDirectory('dist');
   // This will stop the default behaviour of foo.html being turned into foo/index.html
