@@ -38,6 +38,7 @@ sup a {
     text-decoration: none;
     color: var(--link);
 }
+ruby {ruby-overhang:none;}
     sup a:hover {
         color:var(--main);
     }
@@ -491,7 +492,7 @@ The witch's house is of course Calogado's house. In the tale, her house is surro
 
 <p class="npf_color_ross">
 逃げるな！<br>
-stay up <ruby>録音リスト<rt>呪文</rt></ruby>唱えて<br>  
+stay up <ruby><rb>録音リスト</rb><rt>呪文</rt></ruby>唱えて<br>  
 王子様 沼で手を振って<br>
 1音階 1000くらいの設定で<br>
 すぐになめらかoverlap</p>
@@ -518,7 +519,7 @@ Don't run away!</blockquote>
 <p>In Ongentoro's description, avogado6 has a Q&A segment where they end every answer with "don't run away," almost acting as Calogado.</p>
 
 <blockquote class="npf_color_ross">
-stay up <ruby>録音リスト<rt>呪文</rt></ruby>唱えて<br>  
+stay up <ruby><rb>録音リスト</rb><rt>呪文</rt></ruby>唱えて<br>  
 <i>stay up jumon tonaete</i><br>
 Stay up and chant the spell</blockquote>
 
@@ -789,7 +790,7 @@ hawa…</i></p>
 No way…</p>
 
 <p class="npf_color_ross">
-<ruby>PCが壊れる<rt>死ぬ</rt></ruby>まで一緒だね！</p>
+<ruby><rb>PCが壊れる</rb><rt>死ぬ</rt></ruby>まで一緒だね！</p>
 
 <p class="npf_color_ross"><i>
 shinu made issho da ne!</i></p>

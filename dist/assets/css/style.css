@@ -3,7 +3,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&display=swap');
 
 :root {
@@ -40,7 +39,7 @@ body{
 }
 
 h1, h2, h3, h4 {
-    font-family: Bricolage Grotesque, Ubuntu, sans-serif;
+    font-family: Roboto, sans-serif;
     line-height:1.75rem;
      a {
         border:none;
@@ -49,9 +48,10 @@ h1, h2, h3, h4 {
 
 button {
     font-size:90%;
-    border: 2px solid black;
-    color: black;
-    background-color: white;
+    border: 2px solid var(--bq);
+    color: var(--main);
+    padding: 5px 7px;
+    background-color: var(--bg);
 }
 
 blockquote {
@@ -92,6 +92,7 @@ aside {
         border: 5px solid var(--aside);
     }
     grid-area: aside;
+    margin-bottom:1em;
     height: fit-content;
     max-width:250px;
     position: sticky;
@@ -103,10 +104,9 @@ aside {
 nav {    
     font-weight:bold;
     ul {
-
-    list-style-type: none;
-    padding:0;
-    background-color: var(--aside);
+        list-style-type: none;
+        padding:0;
+        background-color: var(--aside);
     }
     li {
         color: var(--main);
@@ -114,9 +114,10 @@ nav {
     li a {
         text-align:center;
         display: block;
-        padding: 5.5px;
-        text-decoration:none;    }
-li a:hover:not(.active) {
+        padding: 5px;
+        text-decoration:none;
+    }
+    li a:hover {
     background-color: var(--bg);
 
 }
