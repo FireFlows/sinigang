@@ -139,9 +139,7 @@ footer {
 }
 h2 {
     width: fit-content;
-    text-decoration: underline;
-    text-decoration-thickness: 2px;
-    text-decoration-color: var(--accent);
+    border-bottom: 3.25px solid var(--accent);
 }
 .showmobile {
     display:none;
