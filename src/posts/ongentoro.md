@@ -32,8 +32,28 @@ tags:
         max-height:100%;
         max-width:100%;
     }
-iframe {
-    width:95%;
+
+sup a {
+    font-size:.9rem;
+    text-decoration: none;
+    color: var(--link)
+}
+
+.videowrapper {
+    float: none;
+    clear: both;
+    width: 100%;
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 25px;
+    height: 0;
+}
+.videowrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 90%;
+    height: 100%;
 }
 
 </style>
@@ -50,7 +70,7 @@ There are a ton of hyperlinks, and I recommend clicking them if you'd like more 
 
 I've made some edits to account for me posting this on a website instead of Tumblr, but otherwise the content is the same on Tumblr and my website (or at least, that's the goal).
 
-<iframe height="512" src="https://www.youtube.com/embed/NQgNP67WSck?si=ksBFqWJK3P-rVVbS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="videowrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/NQgNP67WSck?si=W-QStCqcquPnAG_8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 ## Title
 
@@ -81,7 +101,7 @@ The MV is super cute and I like it a lot. It includes fun rhythm game/visual nov
 
 When Ongentoro was inducted into the [Vocaloid Hall of Fame](https://vocaloid.fandom.com/wiki/Hall_of_Fame), avogado6 released an Ongentoro Stalker Solo Practice Video on Niconico Douga Shorts<sup><a href="#fn3" id="r3">[3]</a></sup> (later released on YouTube Shorts), which is still not a rhythm game because it's a video. (You can't embed NND videos so here's the upload on YouTube shorts)
 
-<iframe height="512" src="https://www.youtube.com/embed/H-YNSBt1AaY?si=RQDaHHkmac5s1ykj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="videowrapper"><iframe height="512" src="https://www.youtube.com/embed/H-YNSBt1AaY?si=RQDaHHkmac5s1ykj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 Anyway, besides the point. I still like the MV, regardless of its interactivity or lack thereof. I also like how it's monochrome (sans the <b><span class="npf_color_pheobe">S</span></b><b><span class="npf_color_monica">t</span></b><b><span class="npf_color_ross">a</span></b><b><span class="npf_color_rachel">l</span></b><b><span class="npf_color_niles">k</span></b><b><span class="npf_color_chandler">e</span></b><b><span class="npf_color_pheobe">r</span></b> <b><span class="npf_color_monica">S</span></b><b><span class="npf_color_ross">o</span></b><b><span class="npf_color_rachel">l</span></b><b><span class="npf_color_niles">o</span></b> text). In general, the visual simplicity is a extreme charm point for me.
 
@@ -933,4 +953,4 @@ In an alternate universe, perhaps people are shipping Calogado and Caloon. Caloo
 
 <p id="fn6"><a href="#r6">[6]</a> a Japan-exclusive file-sharing service. Perhaps, if you wanted to Anglophone-ize this, it'd be mega.nz or mediafire.
 
-<p id="fn7"><a href="#r7">[7]</a> While the Wiktionary article I linked says buchi becomes bun if the verb following it starts with an <i>n</i> or <i>m</i>, neither torare nor dorare start with a nasal. Luckily, in song lyrics you can do whatever you want so this is fine.
+<p id="fn7"><a href="#r7">[7]</a> While the Wiktionary article I linked says buchi becomes bun if the verb following it starts with an <i>n</i> or <i>m</i>, neither <i>torare</i> nor <i>dorare</i> start with a nasal. Luckily, in song lyrics you can do whatever you want so this is fine.
