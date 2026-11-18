@@ -9,7 +9,7 @@ Hi! My name is Fire and I like websites so much I made my own.
 
 My website is mobile-friendly and accessible. I don't have any NSFW on my website but I'm an adult who doesn't care too much about censorsing themselves. In other words, I swear sometimes, and there may be occasional suggestive themes so like if you're a prude be careful.
 
-While you're checking out this site, why don't you [leave a comment](comments.html)?
+While you're checking out this site, why don't you [leave a comment](comments.html) or [draw something](drawbox.html)?
 
 ## Now
 
