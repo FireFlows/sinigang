@@ -36,9 +36,11 @@ sup{line-height:1}
 sup a {
     font-size:.8rem;
     text-decoration: none;
-    color: var(--link)
+    color: var(--link);
 }
-
+    sup a:hover {
+        color:var(--main);
+    }
 .videowrapper {
     float: none;
     clear: both;

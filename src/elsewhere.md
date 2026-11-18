@@ -3,10 +3,9 @@ title: "Elsewhere"
 layout: "main.html"
 ---
 * [Art Fight](https://artfight.net/~0430)
-* [status.cafe](https://status.cafe/users/fire)
+* [Ko-fi](https://ko-fi.com/fire7541)
 * [Tumblr](https://fire7541.tumblr.com)
 * [Twitter](https://twitter.com/fire7541)
-* [Steam](https://steamcommunity.com/id/WantedArsonist/)
 * [VocaDB](https://vocadb.net/profile/sinigang)
 * [realfire7541@gmail.com](mailto:realfire7541@gmail.com) 
 
