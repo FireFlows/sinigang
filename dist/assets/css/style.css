@@ -131,7 +131,6 @@ footer {
     padding:2.25rem;
 }
     h1 {
-    text-indent: .75rem;
     line-height:2.25rem;
     background-color: var(--aside);
     padding:.225rem;
@@ -140,7 +139,9 @@ footer {
 }
 h2 {
     width: fit-content;
-    border-bottom: 2.75px solid var(--accent);
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-decoration-color: var(--accent);
 }
 .showmobile {
     display:none;
@@ -197,9 +198,7 @@ mobile
     max-width:100%;
     position:initial;
     ul {
-        display:flex;
         gap: 7px;
-        flex-wrap:wrap;
         font-size:1.25rem;
     }}
   header {

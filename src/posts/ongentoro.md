@@ -1,7 +1,7 @@
 ---
 title: "Extensive Ongentoro Overanalysis"
 layout: "post.html"
-date: 2026-11-16
+date: 2026-11-17
 tags: 
     - translation
 ---
@@ -540,7 +540,7 @@ I'll easily have a smooth overlap.</blockquote>
 
 Overlap is [where one note fades into the one before it](https://www.reddit.com/r/utau/comments/1f3l1w6/comment/lkf19x8/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button). It's smoother the better it is.
 
-Text on Calogado's cape: <span style="color:var(--color-6);">\*Performance may differ from person to person</span> (※性能には個人差があります *seinou ni wa kojinsa ga arimasu*)
+Text on Calogado's cape: <span style="color:var(--bq);">\*Performance may differ from person to person</span> (※性能には個人差があります *seinou ni wa kojinsa ga arimasu*)
 
 Calogado's wearing a cape, but they aren't the prince… once more, this is probably fine; Heki wears a witch outfit despite not being the sea witch.
 
@@ -580,7 +580,7 @@ Okay.</p>
 
 <img src="https://64.media.tumblr.com/f22ce1dc52d83bda9c746ed425537562/43d6fef636b32b1d-db/s1280x1920/aa3f49391e3def06675dd76fdfbea8ec55b639fe.pnj" alt="Calogado and Heki start recording">
 
-The writing at the bottom of the video says <span style="color:var(--color-6);">\*using Kurosu's 8 morae list method</span> (※くろ州式８モーラリストを使用, *kuroshuu shiki hachi moora risuto o shiyou*). This is the reclist I was talking about earlier.
+The writing at the bottom of the video says <span style="color:var(--bq);">\*using Kurosu's 8 morae list method</span> (※くろ州式８モーラリストを使用, *kuroshuu shiki hachi moora risuto o shiyou*). This is the reclist I was talking about earlier.
 
 There's no need to translate this part; or, more, the romanization is the translation.
 
@@ -607,7 +607,7 @@ What!?</p>
 
 <img src="https://64.media.tumblr.com/8b4ac8fb89ab8d9c7d65218295978868/43d6fef636b32b1d-6e/s1280x1920/815d7b787d688aa8c465d8375488f9106b163c1d.pnj" alt="Calogado and Heki 'finish' recording">
 
-The writing at the bottom of the video is hard to read but (probably) says <span style="color:var(--color-6);">\*If you want to implement [special phonemes](https://vocadb.net/T/9346/additional-voice-material), [multiple pitches](https://vocadb.net/T/3170/utau-multipitch), [appends](https://vocadb.net/T/24/append-voicebank), etc., recording could theoretically go on forever</span> (※特殊音素や多音階、表情音源を実装したい場合、収録が無限に増える可能性がある, *tokushu onso ya taonkai, hyoujou ongen o jissou shitai baai, shuuroku ga mugen ni fueru kanousei ga aru*).
+The writing at the bottom of the video is hard to read but (probably) says <span style="color:var(--bq);">\*If you want to implement [special phonemes](https://vocadb.net/T/9346/additional-voice-material), [multiple pitches](https://vocadb.net/T/3170/utau-multipitch), [appends](https://vocadb.net/T/24/append-voicebank), etc., recording could theoretically go on forever</span> (※特殊音素や多音階、表情音源を実装したい場合、収録が無限に増える可能性がある, *tokushu onso ya taonkai, hyoujou ongen o jissou shitai baai, shuuroku ga mugen ni fueru kanousei ga aru*).
 
 <p class="npf_color_ross">
 声帯をぶち盗って！<br>

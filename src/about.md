@@ -45,7 +45,7 @@ I like these but a bit less
 ### AI
 *Further reading:  [Artificial Intelligence](/posts/ai.html)*
 
-While I didn't use generative AI to create this website (code, writing, art done by me or sourced from humans), genAI is forced on me daily by virtue of being on the internet. Despite trying my best to avoid it. We're all going to hell. 
+Nope.
 
 ### Colophon
 Built with [Eleventy](https://www.11ty.dev/) (and LOVE) using VSCode on a 1920 x 1200 display.
