@@ -65,8 +65,8 @@ https://tailwindcss.com/docs/colors
 a {
     color: var(--main);
     text-decoration-color: var(--link);
-    text-decoration-thickness: 1px;
-    text-decoration-style:wavy;
+    text-decoration-thickness: 2px;
+    text-decoration-style:line;
 }
 a:hover {
     color:var(--link);    
@@ -126,12 +126,12 @@ footer {
     grid-area: footer;
     text-align: center;
     padding:2.25rem;
+    font-size:1rem;
 }
     h1 {
     line-height:2.25rem;
     background-color: var(--aside);
     padding:.225rem;
-    border-radius:4px;
 
 }
 h2 {

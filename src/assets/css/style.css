@@ -126,6 +126,7 @@ footer {
     grid-area: footer;
     text-align: center;
     padding:2.25rem;
+    font-size:1rem;
 }
     h1 {
     line-height:2.25rem;
