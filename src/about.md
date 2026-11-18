@@ -61,6 +61,10 @@ I made this website on August 18, 2020 for reasons that are beyond me. I left it
 ### Sinigang?
 It's a popular Filipino soup. It's pretty sour. A lot of people tend to name themselves after food, so I wanted to try that too.
 
+#### How do you pronounce that?
+
+[/siniˈɡaŋ/](https://en.wiktionary.org/wiki/sinigang#Pronunciation)
+
 ### Who's the character to the left of me (on desktop?)
 
 It's Kasane Teto SV! More specifically, it's their official standing portrait, illustrated by Sakauchi Waka.
