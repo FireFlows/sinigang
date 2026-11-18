@@ -17,14 +17,13 @@
 body{height:100%;}
 body{
     
-    margin-left: 7.5rem;
-    margin-right:10.5rem;
-
-    line-height:1.455rem;
+    margin-left: 7.25rem;
+    margin-right:10rem;
+    line-height:1.625rem;
     background-color: var(--bg);
     color: var(--main);
     font-family: Inter, sans-serif;
-    font-size: 1.05rem;
+    font-size: 1.125rem;
     display: grid;
     grid-template-areas:
         "header  header header  "
@@ -165,13 +164,13 @@ mobile
 */
 @media screen and (max-width:1300px){
     body {
-        margin-left:2.75rem;
+        margin-left:1.75rem;
     }
     
 }
 @media screen and (max-width:900px){
     body {
-        margin-left:1.5rem;
+        margin-left:0.75rem;
 
     }
 }
