@@ -34,7 +34,7 @@ tags:
     }
 sup{line-height:1}
 sup a {
-    font-size:.9rem;
+    font-size:.8rem;
     text-decoration: none;
     color: var(--link)
 }

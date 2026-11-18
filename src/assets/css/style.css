@@ -89,7 +89,7 @@ main {
 }
 aside {
     img {
-        border-bottom: 5px solid var(--bg);
+        border: 5px solid var(--aside);
     }
     grid-area: aside;
     height: fit-content;
@@ -120,7 +120,8 @@ li a:hover:not(.active) {
     background-color: var(--bg);
 
 }
-
+avatar {
+}
 }
 footer {
     grid-area: footer;

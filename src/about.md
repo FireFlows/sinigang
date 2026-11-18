@@ -64,11 +64,3 @@ It's a popular Filipino soup. It's pretty sour. A lot of people tend to name the
 ### Who's the character to the left of me (on desktop?)
 
 It's Kasane Teto SV! More specifically, it's their official standing portrait, illustrated by Sakauchi Waka.
-
-### Why don't you have a site profile?
-
-[From Mevdik](https://mevdik.nekoweb.org/guides/neocities-vs-nekoweb/):
-
-> In my extremely subjective opinion which you should treat as such, this whole profile thing is a bad idea. It's presence drags social media attitudes to a website of websites that is supposed to be an escape from the social media hellscape of today. At least that is how a lot of people like to present this platform.
-
-I'm inclined to agree with her. In the future, I intend to create an RSS feed for this website for updates instead.
