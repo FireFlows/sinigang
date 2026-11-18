@@ -11,8 +11,6 @@ Thanks for viewing
 ## to add
 
 * en/jp switcher? (for at least some content, e.g. terms of use, voicebank)
-* custom 404 page
-* rss feed
 * favicon
 * mobile burger menu?
 * put debitbit post on here
@@ -20,6 +18,8 @@ Thanks for viewing
 * organization of webrings (maybe into some sort of grid thing)
 * more posts! always! kyu! love!
 * https://drawbox.nekoweb.org/
+* # header links
+* move dark/light mode to sidebar
 * /links more links to webrings, fanlistings, etc.
 
 whenever I finish creating my UTAU i want to make a guide to create one cuz 
