@@ -13,14 +13,9 @@ While you're checking out this site, why don't you [leave a comment](comments.ht
 
 ## Now
 
-Currently super obsessed with games about deciphering alien languages. Two fun ones came out recently: Messages from Deep Space and Messages from Aliens. Also, a new Slay the Spire character! Holy shit!
+I've made a lot of progress on my website. I've added a bunch of things, made it less ugly, and even sent in applications for a few webrings, which I've neglected to do for months. Yay yay yay. Unfortunately I've kinda been neglecting everything else for this
 
-Slight website revamp; hopefully it looks a little better now! I even added a feature that I've been wanting to add for a long ass time, which you can see in action a little bit below this.
-
-2026/11/15
-
-## status.cafe widget
-<div id="statuscafe"><div id="statuscafe-username"></div><div id="statuscafe-content"></div></div>
+2026/11/18
 
 ## Random song from my Vocaloid playlist
 
@@ -33,6 +28,11 @@ id='player'></div>
   As the title says. My Vocaloid playlist is [here](https://www.youtube.com/playlist?list=PLFCCsWwB4Mxk). Sometimes, the thumbnail will be the song most recently added to the playlist, but clicking the video (or "Shuffle again") will shuffle the playlist.
 
   "Vocaloid" is used as an umbrella term here. This playlist also includes mashups and covers.
+
+  
+## status.cafe widget
+<div id="statuscafe"><div id="statuscafe-username"></div><div id="statuscafe-content"></div></div>
+
 
 ## Adoptable
 <div style="width: 120px; height: 250px;">

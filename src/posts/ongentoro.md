@@ -851,7 +851,7 @@ https://avogado6.wixsite.com/calogado
 > Q. パソコンを持ってないのでできません！  
 A. 有志の方がスマホでもUTAUを楽しめる環境を整えて下さっています。逃げるな。  
 
-Q. I don't have a PC so I can't do it!  
+Q. I don't have a PC so I can't do it!
 A. Thanks to the work of volunteers, you can make an UTAU even from your phone. Don't run away.
 
 <p>With RecStar (<a href="https://apps.apple.com/tr/app/recstar/id6471727990">Apple</a>/<a href="https://play.google.com/store/apps/details?id=com.sdercolin.recstar&amp;hl=en_US">Android</a>), <a href="https://k-uta.jp/laberu/">Laberu</a>, and <a href="https://k-uta.jp/gakuya/">Gakuya</a>, you can create an UTAU using only your phone. These UTAU are called "mobileloids."</p>
