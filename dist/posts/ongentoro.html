@@ -13,8 +13,11 @@
 		</header>
 	<aside>
 		<img src="/assets/img/avatar.png" height="250" class="nomobile" alt="An image of Kasane Teto SV.">
-		<span class="nomobile"><br>My current time: <br><span id="local-time-main"></span>
-		<br><span id="local-time-extra"></span></span>
+		<span class="nomobile">
+			<br>My current time:<br>
+			<span id="local-time-main"></span><br>
+			<span id="local-time-extra"></span>
+		</span>
 			<nav>
 			<ul>
 				<li><a href="/">Home</a></li>
@@ -555,7 +558,7 @@ Did you create a Terms of Service?</p>
 色んなエンジン試してみた？<br>
 <i>ironna enjin tameshite mita?</i><br>
  Have you tried out different resamplers?</blockquote>
-<p>&quot;Engine&quot; in this case refers to <a href="https://w.atwiki.jp/utaou/pages/65.html">different kinds of resamplers</a>. I know this because when I look up &quot;エンジン UTAU&quot; I get links to different kinds of resamplers. Also, resamplers show up in the video when Calogado's talking about this.</p>
+<p>エンジン (<em>enjin</em>) means &quot;engine,&quot; but here it refers to <a href="https://w.atwiki.jp/utaou/pages/65.html">different kinds of resamplers</a>. I know this because when I look up &quot;エンジン UTAU&quot; I get links to different kinds of resamplers. Also, resamplers show up in the video when Calogado's talking about this.</p>
 <img src="https://64.media.tumblr.com/6f33f679188bbd03f4c12c18a1174a01/43d6fef636b32b1d-2a/s1280x1920/80aa66a840cf3ea678ee53cc4726f7008185780a.pnj">
 <p class="npf_color_ross">
 なら我々のUTAUフォルダにようこそ！<br>
@@ -721,41 +724,7 @@ Let's get people who use streaming services to enter the UTAU rabbit hole too.</
 		Site last updated: <span id="wlu"></span>
 	</footer>
 
-<script>
-	function getTime() {
-    const now = new Date();
-
-    const etFormatter = new Intl.DateTimeFormat('en-US', {
-        timeZone: 'America/New_York',
-        hour: '2-digit',
-        minute: '2-digit',
-        second: '2-digit',
-        hour12: true,
-        timeZoneName: 'short'
-    });
-
-    const parts = etFormatter.formatToParts(now);
-
-    let timeStr = "";
-    let tzName = "";
-
-    for (const p of parts) {
-        if (p.type !== "timeZoneName") {
-            timeStr += p.value;
-        } else {
-            tzName = p.value;
-        }
-    }
-
-    const laTime = new Date(now.toLocaleString("en-US", { timeZone: "America/New_York" }));
-    const localTime = new Date();
-
-    document.getElementById('local-time-main').textContent = `${timeStr} ${tzName}`;
-}
-setTheme();
-getTime();
-setInterval(getTime, 1000);
-</script>
+<script src="assets/js/time.js"></script>
 <script src="/assets/js/footer.js"></script>
 </body>
 </html>

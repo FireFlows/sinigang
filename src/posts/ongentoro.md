@@ -721,7 +721,7 @@ After recording and otoing a voicebank, you might want to check for issues, make
 <i>ironna enjin tameshite mita?</i><br>
  Have you tried out different resamplers?</blockquote>
 
-"Engine" in this case refers to [different kinds of resamplers](https://w.atwiki.jp/utaou/pages/65.html). I know this because when I look up "エンジン UTAU" I get links to different kinds of resamplers. Also, resamplers show up in the video when Calogado's talking about this.
+エンジン (*enjin*) means "engine," but here it refers to [different kinds of resamplers](https://w.atwiki.jp/utaou/pages/65.html). I know this because when I look up "エンジン UTAU" I get links to different kinds of resamplers. Also, resamplers show up in the video when Calogado's talking about this.
 
 <img src="https://64.media.tumblr.com/6f33f679188bbd03f4c12c18a1174a01/43d6fef636b32b1d-2a/s1280x1920/80aa66a840cf3ea678ee53cc4726f7008185780a.pnj">
 

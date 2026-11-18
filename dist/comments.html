@@ -13,8 +13,11 @@
 		</header>
 	<aside>
 		<img src="/assets/img/avatar.png" height="250" class="nomobile" alt="An image of Kasane Teto SV.">
-		<span class="nomobile"><br>My current time: <br><span id="local-time-main"></span>
-		<br><span id="local-time-extra"></span></span>
+		<span class="nomobile">
+			<br>My current time:<br>
+			<span id="local-time-main"></span><br>
+			<span id="local-time-extra"></span>
+		</span>
 			<nav>
 			<ul>
 				<li><a href="/">Home</a></li>
@@ -44,41 +47,7 @@
 		Site last updated: <span id="wlu"></span>
 	</footer>
 
-<script>
-	function getTime() {
-    const now = new Date();
-
-    const etFormatter = new Intl.DateTimeFormat('en-US', {
-        timeZone: 'America/New_York',
-        hour: '2-digit',
-        minute: '2-digit',
-        second: '2-digit',
-        hour12: true,
-        timeZoneName: 'short'
-    });
-
-    const parts = etFormatter.formatToParts(now);
-
-    let timeStr = "";
-    let tzName = "";
-
-    for (const p of parts) {
-        if (p.type !== "timeZoneName") {
-            timeStr += p.value;
-        } else {
-            tzName = p.value;
-        }
-    }
-
-    const laTime = new Date(now.toLocaleString("en-US", { timeZone: "America/New_York" }));
-    const localTime = new Date();
-
-    document.getElementById('local-time-main').textContent = `${timeStr} ${tzName}`;
-}
-setTheme();
-getTime();
-setInterval(getTime, 1000);
-</script>
+<script src="assets/js/time.js"></script>
 <script src="/assets/js/footer.js"></script>
 </body>
 </html>
