@@ -11,6 +11,8 @@ x-content-type-options: nosniff
 	<author>
 		<name>Fire</name>
 	</author>
+
+
 	<entry>
 		<title>Welcome</title>
 		<link rel="alternate" type="text/html" href="{{ENTRY.HTML_URL}}"/>
