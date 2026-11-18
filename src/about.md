@@ -51,7 +51,7 @@ Nope.
 
 ### Avatar
 
-It's Nurse Robot Type T. The illustration is by SuteinuA for the album SOAP.
+My avatar is Nurse Robot Type T. She is a vocal synthesizer. The illustration is by SuteinuA for the album SOAP.
 
 </span>
 
