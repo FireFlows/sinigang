@@ -12,14 +12,15 @@ Thanks for viewing
 
 * en/jp switcher? (for at least some content, e.g. terms of use, voicebank)
 * custom 404 page
-* perhaps i should make /colophon 
 * rss feed
 * favicon
 * mobile burger menu?
-* put ongentoro/debitbit post on here
+* put debitbit post on here
 * revamp of /utau 
 * organization of webrings (maybe into some sort of grid thing)
 * more posts! always! kyu! love!
+* https://drawbox.nekoweb.org/
+* /links more links to webrings, fanlistings, etc.
 
 whenever I finish creating my UTAU i want to make a guide to create one cuz 
 the tutorials we have rn are so fucking ancient bruh like don't piss me off
@@ -38,17 +39,6 @@ whiteborad fox
 
 Sites I'm stalking
 
-My favorite accessible websites
-https://ginacities.com/
-https://yatagarasu.nekoweb.org/
-https://32bit.cafe/
-https://sadgrl.online/ 
-https://stupied.neocities.org/about/
-https://zhongvie.neocities.org/
-https://bechnokid.com/
-https://osteophage.neocities.org/
-
-Etc
 https://eitaku.neocities.org/
 https://azure-valley.neocities.org/ 
 https://hndrline.gg8473.com/fanlisting/
@@ -62,6 +52,7 @@ https://www.kingdomofloathing.com/
 
 About making an rss feed
 https://aboutfeeds.com/
+https://www.reddit.com/r/rss/comments/xl7f7r/how_do_i_create_a_rss_feed_from_my_own_website/
 https://sqvrltastic.art/writing/full-guide-to-rss/
 https://kevincox.ca/2022/05/06/rss-feed-best-practices/
 
@@ -73,13 +64,9 @@ https://kevincox.ca/2022/05/06/rss-feed-best-practices/
 Tutorials
 https://stackoverflow.com/questions/10671174/changing-button-text-onclick
 https://en.wikipedia.org/wiki/Favicon#How_to_use
-https://www.reddit.com/r/rss/comments/xl7f7r/how_do_i_create_a_rss_feed_from_my_own_website/
 https://www.w3schools.com/howto/howto_css_contact_form.asp
-https://www.cloudwards.net/how-to-set-up-an-rss-feed/
 https://www.reddit.com/r/neocities/comments/p2ohhf/martindisks_messy_guide_to_having_custom_fonts_on/
-https://dimden.dev/moonwidget/
 https://www.w3schools.com/howto/howto_js_image_grid.asp
-https://kevincox.ca/2022/05/06/rss-feed-best-practices/
 https://maybecoding.bearblog.dev/adding-a-private-feedback-box-to-bear/
 https://virtualobserver.moe/ayano/comment-widget
 https://zonelets.net
@@ -104,7 +91,6 @@ misc
 https://perfectmotherfuckingwebsite.com/ 
 https://skaetlett.gay/resources/sites-that-waste-your-time
   ** ニュー URL : https://skaetlett.gay/resources/link-bouquet
-https://suboptimalism.neocities.org/writings/undocumented
 https://smoothsailing.asclaria.org/
 https://ranmpy.neocities.org/misc/urls
 https://flashpointarchive.org/

@@ -43,7 +43,7 @@ function getTime() {
     }
 
     document.getElementById("local-time-main").textContent = `${timeStr} ${tzName}`;
-    document.getElementById("local-time-extra").innerHTML, diffText;
+    document.getElementById("local-time-extra"), diffText;
 }
 
 setTheme();
