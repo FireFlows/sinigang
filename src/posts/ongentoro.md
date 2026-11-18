@@ -131,7 +131,7 @@ YouTube and probably NND set like, automatic thumbnails but I wouldn't be surpri
 
 ## Video and Lyrics
 
-I'm not a native Japanese speaker, but I tried my best. Yes, I did romanize everything myself despite there being a romanization on the Vocaloid Lyrics Wiki. 
+I'm not a native Japanese speaker, but I tried my best. I've also explained some of my translation choices. I romanized everything myself.
 
 Calogado's parts will be in <span class="npf_color_ross">green </span>and Mayoi Heki's in <span class="npf_color_rachel">blue</span>.
 
@@ -308,10 +308,7 @@ Calogado's saying the "Won't you become an UTAU, too? / … / How's this design?
 
 > UTAU県警からお知らせ　  
 ギ○ファイル便 ・g○○gle drive・Dropb○xなどでWAV送れは詐欺です！※場合に寄ります　   
-勧誘に注意しましょう！   
-*UTAU kenkei kara oshirase  
-gi\*fairubin g\*\*gle drive dropb\*x nado de WAV okure wa sagi desu! \*baai ni yorimasu  
-kanyuu ni chuui shimashou!*  
+勧誘に注意しましょう！
 
 This is *also* taken from the tweet in question, besides the "UTAU県警からお知らせ" part, which is new!
 
@@ -854,7 +851,7 @@ https://avogado6.wixsite.com/calogado
 > Q. パソコンを持ってないのでできません！  
 A. 有志の方がスマホでもUTAUを楽しめる環境を整えて下さっています。逃げるな。  
 
-Q. I don't have a PC so I can't do it!
+Q. I don't have a PC so I can't do it!  
 A. Thanks to the work of volunteers, you can make an UTAU even from your phone. Don't run away.
 
 <p>With RecStar (<a href="https://apps.apple.com/tr/app/recstar/id6471727990">Apple</a>/<a href="https://play.google.com/store/apps/details?id=com.sdercolin.recstar&amp;hl=en_US">Android</a>), <a href="https://k-uta.jp/laberu/">Laberu</a>, and <a href="https://k-uta.jp/gakuya/">Gakuya</a>, you can create an UTAU using only your phone. These UTAU are called "mobileloids."</p>
