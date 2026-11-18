@@ -17,14 +17,14 @@
 */
 
 // The values in this section are REQUIRED for the widget to work! Keep them in quotes!
-const s_stylePath = '/assets/css/comment-widget.css';
-const s_formId = '1oq1f625pBqtnVT2RrSmTZ8kGV0NBWCwhbKumpv3hlvE';
-const s_nameId = '89213818';
-const s_websiteId = '1629413852';
-const s_textId = '1846560438';
-const s_pageId = '366333466';
-const s_replyId = '1474574316';
-const s_sheetId = '1z49aYX5V0e11KoCs5JPs7y2BjX0awcIQc9tWKlsPgeA';
+const s_stylePath = 'assets/css/comment-widget.css';
+const s_formId = '1FAIpQLSd0XO9YbBumMu--D9Xi6F7uIH2opimIoIQ05d4POQpLw_Y4WA';
+const s_nameId = '2077026242';
+const s_websiteId = '2047736674';
+const s_textId = '2030963099';
+const s_pageId = '1704119477';
+const s_replyId = '557598726';
+const s_sheetId = '1JpGNWendr2BtHKR7xeggSSb_VhtctQxCV4ElKHkUJoM';
 
 // The values below are necessary for accurate timestamps, I've filled it in with EST as an example
 const s_timezone = -5; // Your personal timezone (Example: UTC-5:00 is -5 here, UTC+10:30 would be 10.5)

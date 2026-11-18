@@ -1,4 +1,7 @@
+Content-Type: application/xml; charset=utf-8  # not application/rss+xml
+x-content-type-options: nosniff
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="assets/pretty-feed-v3(1).xsl" type="text/xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<title>Site Updates</title>
 	<id>https://sinigang.neocities.org/</id>
@@ -15,9 +18,9 @@
 		<published>2026-11-18T05:16:49+00:00</published>
 		<updated>2026-11-18T05:16:49+00:00</updated>
 		<content type="html">
-		
-		This is my RSS feed. 
-		
+		Today's changelog: <br>
+		* added comment section<br>
+		* added RSS feed
 		</content>
 	</entry>
 

@@ -114,14 +114,13 @@
     margin-top: 10px;
     margin-bottom: 10px;
     padding: 10px;
-    background-color: rgba(255, 255, 255, .75);
+    background-color: var(--aside);
 }
 .c-reply {
     margin-top: 10px;
     margin-bottom: 10px;
     padding: 10px;
-    background-color: rgba(255, 255, 255, 1);
-    border: 1px dashed #CE98FB;
+    border: 3px solid var(--bg)
 }
 .c-reply:last-child {margin-bottom: 0;}
 
@@ -145,7 +144,7 @@
     margin-top: 10px;
     padding: 0;
     text-align: justify;
-    color: #5E2C49;
+    color: var(--main);
 }
 
 /* Pagination */
