@@ -18,7 +18,6 @@ Thanks for viewing
 * organization of webrings (maybe into some sort of grid thing)
 * more posts! always! kyu! love!
 * https://drawbox.nekoweb.org/
-* fix comments section not working
 * # header links
 * /links more links to webrings, fanlistings, etc.
 * host all pics in /posts/ongentoro on your own website/filegarden

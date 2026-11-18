@@ -65,15 +65,18 @@
 
 #c_widget button, #c_widget input[type=submit] {
     padding: 4px;
+    color: var(--main);
+    background-color: var(--bg);
+    border: 2px solid var(--bq);
 }
 #c_widget button:hover, #c_widget input[type=submit]:hover {
-    color: white;
+    color: var(--bg);
+    background-color: var(--main);
 }
 #c_widget button:disabled, #c_widget input[type=submit]:disabled {opacity: 60%;}
 #c_widget button:disabled:hover, #c_widget input[type=submit]:disabled:hover {
-    background-color: white;
-    color: #CE98FB;
-    border: 1px solid #CE98FB;
+    background-color: var(--bq);
+    color: var(--main);
 }
 
 /* Input section */
@@ -91,7 +94,6 @@
 }
 
 .c-inputWrapper {
-    display: block;
     margin-top: 5px;
     margin-bottom: 5px;
 }
@@ -99,7 +101,7 @@
     padding: 4px;
 	outline: none;
 }
-.c-input:focus {border: 1px solid #FB96D8;}
+.c-input:focus {border: 1px solid var(--main);}
 
 .c-textInput {
     width: calc(100% - 10px);
@@ -132,9 +134,11 @@
     text-decoration: underline;
 }
 .c-site {
-    color: #CE98FB;
+    text-decoration: line;
+    text-decoration-color: var(--link);
+    text-decoration-thickness: 2px;
 }
-.c-site:hover {color: #211F24;}
+.c-site:hover {color: var(--link);}
 .c-timestamp {
     float: right;
     opacity: 60%;

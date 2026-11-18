@@ -36,6 +36,7 @@ I like these but a bit less
 * Phone: iPhone 11
 * Consoles: LCD 256GB Steam Deck and Nintendo Switch Lite
 * Microphone: RODE NT-USB Mini
+* Earbuds: Beats Flex (Black)
 
 
 ## About the Website

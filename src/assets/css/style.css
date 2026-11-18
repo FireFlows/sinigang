@@ -53,6 +53,10 @@ button {
     padding: 5px 7px;
     background-color: var(--bg);
 }
+button:hover {
+    color: var(--bg);
+    background-color: var(--main);
+}
 
 blockquote {
     border-left: 3px solid var(--bq);
