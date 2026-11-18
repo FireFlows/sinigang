@@ -15,13 +15,11 @@
     --bq:oklch(55.2% 0.016 285.938);
 }
 body{height:100%;}
-
-html{ 
+body{
+    
     margin-left: 7.5rem;
     margin-right:10.5rem;
 
-}
-body{
     line-height:1.455rem;
     background-color: var(--bg);
     color: var(--main);
@@ -183,14 +181,13 @@ mobile
     }
     html {margin:0;}
     body {
+        margin:0;
         grid-template-columns:1fr;
         grid-template-areas:
         "header"
         "aside"
         "main"
         "footer";
-        gap:0;
-
   }
   aside {
     max-width:100%;
