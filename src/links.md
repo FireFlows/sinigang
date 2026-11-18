@@ -22,6 +22,7 @@ These links are all free, have little/no ads, are browser-based, and are mobile 
 * [Aid's site](https://zhongvie.neocities.org/)
 * [brennan.day](https://brennan.day)
 * [Bechno Kid's site](https://bechnokid.com)
+* [How soon is now?](https://howsoonisnow.org/)
 * [jb's site](https://jbc.lol)
 * [nomnomnami's site](https://nomnomnami.com)
 * [Poopfart's Place](https://iizpoopfart.neocities.org/)
