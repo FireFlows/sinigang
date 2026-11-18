@@ -1,7 +1,7 @@
 ---
 title: "Extensive Ongentoro Overanalysis"
 layout: "post.html"
-date: 2026-11-17
+date: 2026-11-18
 tags: 
     - translation
 ---
@@ -76,9 +76,9 @@ I've made some edits to account for me posting this on a website instead of Tumb
 
 ## Title
 
-音源吐露 (*ongentoro*) is a title pun, which makes it difficult to translate. [vgperson calls it "Synth Expression" on her website](https://vgperson.com/vocalhighlights.php?m=2026-03). "Sound Source Revealed" is what the YouTube video claims it's called in English, but I don't like this one.
+音源吐露 (*ongentoro*) is a title pun, which makes it difficult to translate. [vgperson calls it "Synth Expression" on her website](https://vgperson.com/vocalhighlights.php?m=2026-03). "Sound Source Revealed" is what the YouTube video claims it's called in English, but I don't know about that one…
 
-Avogado6 loves title puns (hey, I do, too!). Their demo song for [Calogado](https://vocadb.net/Ar/144786)'s first voicebank, [OREMO UTAU](https://www.youtube.com/watch?v=tFcd1Fv7jLM), has a title pun. (OREMO is a program used to record UTAU voicebanks, but "OREMO UTAU" in Japanese — as 俺も歌う — means "I'll sing, too.")
+Avogado6 loves title puns (hey, I do, too; I'm a very punny guy *cue laugh track*). Their demo song for [Calogado](https://vocadb.net/Ar/144786)'s first voicebank, [OREMO UTAU](https://www.youtube.com/watch?v=tFcd1Fv7jLM), has a title pun. (OREMO is a program used to record UTAU voicebanks, but "OREMO UTAU" in Japanese — as 俺も歌う — means "I'll sing, too.")
 
 A song they made with flower, [へる (*heru*)](https://www.youtube.com/watch?v=3qjpOmdZ5uE), is also a title pun (*heru* means to diminish but could also be "hell." Both meanings are used in the song).
 
@@ -90,9 +90,11 @@ Basically, the name of the youkai is "record a voicebank!"
 
 The title of the song is spelled with kanji that mean "[voicebank](https://en.wiktionary.org/wiki/%E9%9F%B3%E6%BA%90#Noun_2)" (音源, so it's the same) and [expressing how one really feels](https://en.wiktionary.org/wiki/%E5%90%90%E9%9C%B2#Japanese) (吐露, so this one is changed!).
 
-I think Synth Expression is a good translation of the title. I've laid out all the pieces already, so let's put them together: (vocal)[synth](https://en.wiktionary.org/wiki/synth#Noun) is a common slang term in the English Vocaloid community used to mean "voicebank;" expression is (obviously) similar to "expressing how one really feels;" but it's also a term used in the UTAU program (and Vocaloid, and related software).
+I think Synth Expression is a good translation of the title. (Vocal)[synth](https://en.wiktionary.org/wiki/synth#Noun) is a common slang term in the English Vocaloid community used to mean "voicebank;" expression is (obviously) similar to "expressing how one really feels," but it's also a term used in the UTAU program (and Vocaloid, and related software).
 
 Unfortunately(?), there's no youkai that haunts the English Vocaloid community, but we can change that together.
+
+Throughout this post, I'll be referring to the song as Ongentoro, because I'm very used to calling it that, to the point where I can't call it anything else.
 
 ## In General
 
@@ -109,7 +111,7 @@ Anyway, besides the point. I still like the MV, regardless of its interactivity 
 
 More on the topic of video games: the music video starts with a "powering up" SFX as Calogado and Heki fly onto the screen. When Heki's calling the police, an action command shows up above him. The end of the video has a game over SFX! 
 
-In general, I love the video game motif. The song 100% sounds like it could be from a video game, even LOL. This was most certainly intentional — Calogado finds stalking Heki just like a fun video game. 
+I love the video game motif. The song 100% sounds like it could be from a video game, even LOL. This was most certainly intentional — Calogado finds stalking Heki just like a fun video game. 
 
 During Calogado's part of the [hook](https://en.wiktionary.org/wiki/%E3%82%B5%E3%83%93), the background shows spinning folders. Folders are kinda Calogado's character item — their glasses are even in the shape of a folder!
 
@@ -162,7 +164,7 @@ I'm ripping out your vocal cords!
 
 "To steal" and "to record" are pronounced the same way in Japanese, making for a great pun. Unfortunately, I'm not sure how to make this work in English. You can "rip audio" from a video… but it's not the same.
 
-When spelled like 取っ手, *totte* can mean [handle, grip, or knob](https://en.wiktionary.org/wiki/%E5%8F%96%E3%81%A3%E6%89%8B#Noun). Like door handle, for example. Like how Calogado's on the other side of Heki's door…!? Though I'm not sure if this was intentional or if I'm slowly going crazy.
+When spelled like 取っ手, *totte* can mean [handle, grip, or knob](https://en.wiktionary.org/wiki/%E5%8F%96%E3%81%A3%E6%89%8B#Noun). Like door handle, for example. Like how Calogado's on the other side of Heki's door…!? Though, I'm not sure if this was intentional or if I'm slowly going crazy.
 
 <blockquote class="npf_color_ross">
 人魚姫 どうか騙されて！<br>
