@@ -18,6 +18,12 @@ I love links. I often say \<a> is my favorite HTML tag. Because it is.
 These links are all free, have little/no ads, are browser-based, and are mobile compatible unless stated otherwise. And are hand-curated lovingly. by me
 
 ## Webmastery
+
+### Design
+* [Guidelines for Brutalist Web Design](https://brutalist-web.design/)
+* [Motherfucking website](https://motherfuckingwebsite.com/)
+    * [Better Motherfucking Website](http://bettermotherfuckingwebsite.com/)
+
 ### Sites I like
 * [Aid's site](https://zhongvie.neocities.org/)
 * [brennan.day](https://brennan.day)
