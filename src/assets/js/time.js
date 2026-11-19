@@ -1,3 +1,6 @@
+// Thank you to https://squirrelz.xyz/ for letting me steal.
+// Basically, all I did was change the timezones.
+
 function getTime() {
     const now = new Date();
 
