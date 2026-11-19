@@ -45,7 +45,7 @@ ruby {ruby-overhang:none;}
 .videowrapper {
     float: none;
     clear: both;
-    width: 75%;
+    width: 80%;
     position: relative;
     padding-bottom: 56.25%;
     padding-top: 25px;
@@ -58,7 +58,11 @@ ruby {ruby-overhang:none;}
     width: 100%;
     height: 100%;
 }
-
+@media screen and (max-width: 1000px) {
+.videowrapper {
+    width:70%;
+}
+}
 </style>
 
 ## Introduction

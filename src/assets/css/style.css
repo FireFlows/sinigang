@@ -192,13 +192,12 @@ mobile
     }
     
 }
-@media screen and (max-width:900px){
+@media screen and (max-width:1200px){
     body {
         margin-left:0.75rem;
 
     }
 }
-@media screen and (max-width: 850px) {
     .show {
         display:block;
     }

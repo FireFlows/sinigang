@@ -20,7 +20,7 @@ Unless otherwise specified, the drawings on this website are mine!
 
 ### Button
 
-I created a button! Please don't hotlink. ~~Well, unless you'd like your link to eventually break~~
+After popular demand ~~like one person asked me a few months ago~~, I finally created a button! Please don't hotlink. ~~Well, unless you'd like your link to eventually break~~
 
 
 <img src="/assets/img/button.jpg" alt="A small button of a black-haired character with red glasses. 'Sinigang' is written to the left." style="image-rendering: pixelated;height:31px;height:50px;">
