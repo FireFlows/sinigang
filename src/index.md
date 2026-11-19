@@ -9,7 +9,7 @@ Hi! My name is Fire and I like websites so much I made my own.
 
 My website is mobile-friendly and accessible. Works best with Javascript enabled (but works fine without it too). I swear on occasion. There may be occasional suggestive themes. The UTAU part of the site has all the words on there but looks a little ugly because I removed all the CSS. Oops. I plan to fix it soon, though.
 
-While you're checking out this site, why don't you [leave a comment](comments.html) or [draw something](drawbox.html)?
+While you're checking out this site, why don't you [sign my guestbook](guestbook.html) or [draw something](drawbox.html)?
 
 ## Now
 

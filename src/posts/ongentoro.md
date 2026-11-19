@@ -665,7 +665,7 @@ You thief! I'll never change my mind<br>
 no matter how many times you come knocking.<br>
 Rest in peace, Ongentoro!</p>
 
-<p>I've kind of Americanized "<span class="npf_color_rachel">Rest in peace, Ongentoro!</span>" because <a href="https://en.wiktionary.org/wiki/%E6%88%90%E4%BB%8F#Noun">成仏 is "gaining enlightenment"</a> like attaining nirvana and becoming a Buddha. However, in my defense, it also has a general meaning of <a href="https://jisho.org/word/%E6%88%90%E4%BB%8F">"dying peacefully"</a> i.e. resting in peace.</p>
+<span class="npf_color_rachel">Rest in peace, Ongentoro!</span> is kind of an Americanization here because <a href="https://en.wiktionary.org/wiki/%E6%88%90%E4%BB%8F#Noun">成仏 is "gaining enlightenment"</a> like attaining nirvana and becoming a Buddha. However, in my defense, it also has a general meaning of <a href="https://jisho.org/word/%E6%88%90%E4%BB%8F">"dying peacefully"</a> i.e. resting in peace.</p>
 
 ![Heki throws salt from a bag.](/assets/img/ongentoro/hekisalt.jpg)
 
@@ -804,7 +804,7 @@ fueeen</i></p>
 <p class="npf_color_rachel">
 Nooo!</p>
 
-<p>If you're curious, the voice lines are: <span class="npf_color_ross">やっほー (</span><span class="npf_color_ross"><i>yahhoo</i></span><span class="npf_color_ross">, hey!)</span>, <span class="npf_color_ross">かくにん (</span><span class="npf_color_ross"><i>kakunin</i></span><span class="npf_color_ross">, confirmation)</span>, <span class="npf_color_ross">&#12416;&#12416;&#12416; (</span><span class="npf_color_ross"><i>mumumu</i></span><span class="npf_color_ross">)</span>, <span class="npf_color_ross">&#12393;&#12428;&#12393;&#12428; (</span><span class="npf_color_ross"><i>doredore</i></span><span class="npf_color_ross">, let's see)</span>, <span class="npf_color_ross">&#12384;&#12356;&#12376; (</span><span class="npf_color_ross"><i>daiji</i></span><span class="npf_color_ross">, important)</span>, <span class="npf_color_ross">&#12420;&#12387;&#12383; (</span><span class="npf_color_ross"><i>yatta</i></span><span class="npf_color_ross">, it's done!)</span>, <span class="npf_color_ross">&#12405;&#12353;&#12415;&#12426; (</span><span class="npf_color_ross"><i>famiri</i></span><span class="npf_color_ross">, family)</span>, <span class="npf_color_rachel">&#12362;&#12424;&#12424; (</span><span class="npf_color_rachel"><i>oyoyo</i></span><span class="npf_color_rachel">)</span>, <span class="npf_color_ross">&#12435; (</span><span class="npf_color_ross"><i>n</i></span><span class="npf_color_ross">)</span>, <span class="npf_color_ross">&#12424;&#12358;&#12371;&#12381; (</span><span class="npf_color_ross"><i>youkoso</i></span><span class="npf_color_ross">, welcome)</span>, <span class="npf_color_rachel">&#12399;&#12431; (</span><span class="npf_color_rachel"><i>hawa</i></span><span class="npf_color_rachel">)</span>, <span class="npf_color_ross">&#12356;&#12387;&#12375;&#12423; (</span><span class="npf_color_ross"><i>issho</i></span><span class="npf_color_ross">, together)</span>, <span class="npf_color_rachel">&#12405;&#12359;&#65374;&#65374;&#12435; (</span><span class="npf_color_rachel"><i>fueeen</i></span><span class="npf_color_rachel">)</span>.</p>
+<p>If you're curious, the voice lines are: <span class="npf_color_ross">やっほー (</span><span class="npf_color_ross"><i>yahhoo</i></span><span class="npf_color_ross">, hey!)</span>, <span class="npf_color_ross">かくにん (</span><span class="npf_color_ross"><i>kakunin</i></span><span class="npf_color_ross">, confirmation)</span>, <span class="npf_color_ross">むむむ (</span><span class="npf_color_ross"><i>mumumu</i></span><span class="npf_color_ross">)</span>, <span class="npf_color_ross">どれどれ  (</span><span class="npf_color_ross"><i>doredore</i></span><span class="npf_color_ross">, let's see)</span>, <span class="npf_color_ross">&#12384;&#12356;&#12376; (</span><span class="npf_color_ross"><i>daiji</i></span><span class="npf_color_ross">, important)</span>, <span class="npf_color_ross">&#12420;&#12387;&#12383; (</span><span class="npf_color_ross"><i>yatta</i></span><span class="npf_color_ross">, it's done!)</span>, <span class="npf_color_ross">&#12405;&#12353;&#12415;&#12426; (</span><span class="npf_color_ross"><i>famiri</i></span><span class="npf_color_ross">, family)</span>, <span class="npf_color_rachel">&#12362;&#12424;&#12424; (</span><span class="npf_color_rachel"><i>oyoyo</i></span><span class="npf_color_rachel">)</span>, <span class="npf_color_ross">&#12435; (</span><span class="npf_color_ross"><i>n</i></span><span class="npf_color_ross">)</span>, <span class="npf_color_ross">&#12424;&#12358;&#12371;&#12381; (</span><span class="npf_color_ross"><i>youkoso</i></span><span class="npf_color_ross">, welcome)</span>, <span class="npf_color_rachel">はわ (</span><span class="npf_color_rachel"><i>hawa</i></span><span class="npf_color_rachel">)</span>, <span class="npf_color_ross">&#12356;&#12387;&#12375;&#12423; (</span><span class="npf_color_ross"><i>issho</i></span><span class="npf_color_ross">, together)</span>, <span class="npf_color_rachel">ふぇ～～ん  (</span><span class="npf_color_rachel"><i>fueeen</i></span><span class="npf_color_rachel">)</span>.</p>
 
 Calogado forced Heki to become an UTAU, thereby trapping him forever in Calogado's PC! Wow. Calogado really is quite terrifying.
 
@@ -820,12 +820,27 @@ And that's the end of the song Ongentoro! There's still more I have to say thoug
 https://avogado6.wixsite.com/calogado  
 多分カロガド(連続音)と真宵ヘキのデモソングです。
 
-<p>Let's all become UTAUs too!!!!!!!<br><br>Singers: Calogado (VCV), Mayoi Heki<br>h<a href="https://avogado6.wixsite.com/calogado">ttps://avogado6.wixsite.com/calogado<br></a>This is Calogado (VCV) and Mayoi Heki's demo song (kind of).</p>
-<p>&#36899;&#32154;&#38899; (<i>renzokuon</i>) is the Japanese term for VCV. Literally "continuous sound." By the way, the term for CV is &#21336;&#29420;&#38899; (<i>tandokuon</i>). Literally "single sound." Calogado has both a VCV and CV voicebank, but Mayoi Heki only has a VCV so that's why it's not specified here.</p>
-<p>"What's a VCV voicebank?" you may ask me, because I haven't explained this and the explanations you get when you look it up are shit.</p>
+Let's all become UTAU too!!!!!!!  
+
+Singers: Calogado (VCV), Mayoi Heki  
+https://avogado6.wixsite.com/calogado    
+This is Calogado (VCV) and Mayoi Heki's demo song (kind of).
+
+----
+
+連続音(*renzokuon*) is the Japanese term for VCV. Literally "continuous sound." By the way, the term for CV is 単独音 (*tandokuon*). Literally "single sound." 
+
+Calogado has both a VCV and CV voicebank, but Mayoi Heki only has a VCV so that's why it's not specified here.
+
+"What's a VCV voicebank?" you may ask, then, because I haven't explained this and the explanations you get when you look it up are shit.
+
 <p>Firstly, I'll explain what a CV voicebank is. CV (consonant-vowel) voicebanks are (usually) made by recording mora one at a time, so instead of &#12354;&#12354;&#12435;&#12356;&#12354;&#12358;&#12354;&#12356;.wav, you have &#12354;.wav, &#12435;.wav, etc. These are very easy to make, but the sound isn't as smooth as a VCV.</p>
-<p>VCV (vowel-consonant-vowel) is smoother than CV since the vowel (or nasal &#12435;) of the previous note is used for the start of the next note. For example, <i>ohayo</i> would be phonemized as [- o] [o &#12399;] [a &#12424;]. In CV, this would just be [o] [ha] [yo].</p>
-<p>Since you have to oto 7 different times for the same mora, VCV is more time-consuming. But it's all worth it for the <i>nameraka </i>overlap.</p>
+<p>VCV (vowel-consonant-vowel) is smoother than CV since the vowel (or nasal &#12435;) of the previous note is used for the start of the next note. For example, <i>ohayo</i> would be as [- o] [o &#12399;] [a &#12424;]. In CV, this would just be [o] [ha] [yo].  
+
+Since you have to oto 7 different times for the same mora, VCV is more time-consuming. But it's all worth it for the <i>nameraka </i>overlap. 
+
+----
+
 <blockquote class="npf_indented"><p>&#24819;&#23450;&#12373;&#12428;&#12427;&#36074;&#21839;</p>
 </blockquote>
 <p>Questions I might get asked</p>

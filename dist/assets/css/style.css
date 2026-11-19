@@ -96,16 +96,16 @@ aside {
         border: 5px solid var(--aside);
     }
     grid-area: aside;
-    height: 670px;
+    height: 750px;
     max-width:250px;
     position: sticky;
     text-align: center;
-    top:.75rem;
+    top:.5rem;
     font-size: 1.125rem;
     background-color: var(--aside);
 }
 nav {    
-    font-weight:bold;
+    font-weight:600;
     ul {
         list-style-type: none;
         padding:0;
@@ -196,7 +196,7 @@ mobile
   aside {
     max-width:100%;
     position:initial;
-    height:325px;
+    height:400px;
     ul {
         gap: 7px;
         font-size:1.25rem;

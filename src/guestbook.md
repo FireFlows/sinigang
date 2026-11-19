@@ -1,5 +1,5 @@
 ---
-title: "Comments"
+title: "Guestbook"
 layout: "main.html"
 ---
 <span class="d-js-required">
@@ -11,4 +11,4 @@ Created using [Ayano's Comment Widget](https://virtualobserver.moe/ayano/comment
 
 </span>
 
-<noscript>Please enable Javascript to use the comments!</span>
+<noscript>Please enable Javascript to use the guestbook!</span></noscript>
