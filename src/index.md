@@ -78,6 +78,11 @@ Adopted from [ritual.sh](https://ritual.sh/resources/adoptables)
 <script src="https://electric-tenshi.nekoweb.org/vocaring/vocaring-variables.js"></script>
 <script src="https://electric-tenshi.nekoweb.org/vocaring/vocaring-widget.js"></script>
 
+## Button
+
+I created a button! Please don't hotlink.
+
+![A small button of a black-haired character with red glasses. "Sinigang" is written to the left.](/assets/img/button.jpg)
 
 
 <script src="https://status.cafe/current-status.js?name=fire" defer></script>

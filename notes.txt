@@ -14,6 +14,7 @@ Thanks for viewing
 * mobile burger menu?
 * put debitbit post on here
 * revamp of /utau 
+* finish feed.xml page
 * organization of webrings (maybe into some sort of grid thing)
 * more posts! always! kyu! love!
 * # header links
