@@ -29,21 +29,21 @@ function getTime() {
     const diffMs = laTime - localTime;
     const diffHours = diffMs / (1000 * 60 * 60);
 
-    let diffText = "";
+    let diffText = " ";
 
     if (Math.abs(diffHours) < 0.1) {
-        diffText = "we have the same timezone!";
+        diffText = "...we share a timezone!";
     } else {
         const rounded = Math.round(diffHours);
         if (rounded > 0) {
-            diffText = `${rounded}h ahead of you`;
+            diffText = `...${rounded}h ahead of you`;
         } else {
-            diffText = `${Math.abs(rounded)}h behind you`;
+            diffText = `...${Math.abs(rounded)}h behind you`;
         }
     }
 
     document.getElementById("local-time-main").textContent = `${timeStr} ${tzName}`;
-    document.getElementById("local-time-extra"), diffText;
+    document.getElementById("local-time-extra").innerHTML = diffText;
 }
 
 setTheme();

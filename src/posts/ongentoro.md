@@ -126,8 +126,8 @@ I have nowhere else good to mention this. I think it's funny that Calogado's in 
 
 YouTube and probably NND set like, automatic thumbnails but I wouldn't be surprised if this was intentional.
 
-![Calogado in the NicoNico Douga thumbnail](https://64.media.tumblr.com/832f6dfb1f1cbf59b05a862f769c0899/43d6fef636b32b1d-93/s400x600/5a8a905a9b1fccfe4aff6520625d102a452b9616.pnj)
-![Heki in the YouTube thumbnail](https://64.media.tumblr.com/86f357ec0e24c39d6c9cb3bbbd82de9d/43d6fef636b32b1d-b6/s400x600/c2df9856eec23ddfecef48a88a2a5e10d9150f05.pnj)
+![Calogado in the NicoNico Douga thumbnail](/assets/img/ongentoro/nndsamune.jpg)
+![Heki in the YouTube thumbnail](/assets/img/ongentoro/ytsamune.jpg)
 
 ## Video and Lyrics
 
@@ -195,7 +195,7 @@ Since there are a lot of sounds to record, reclists are broken up into lines. Ku
 I'll make it by following the recipe
 </blockquote>
 
-![Calogado dressed as a chef, holding a pot with the word wav on it](https://64.media.tumblr.com/98e7cd3641ad93f4951fdfc98c229be8/43d6fef636b32b1d-a1/s2048x3072/f9803142f6a78361585ed033831e31219cc3631f.pnj)
+![Calogado dressed as a chef, holding a pot with the word wav on it](/assets/img/ongentoro/calochef.jpg)
 
 Calogado dresses like a chef when they say this, whipping up a serving of .wav files. WAV files are one of the "ingredients" to create an UTAU; you can't have an UTAU without audio. 
 
@@ -205,7 +205,7 @@ So, we've already established something here: Calogado's the sea witch, and Heki
 
 While Ariel doesn't know Ursula is stalking her, Heki is well aware he's being stalked by Calogado. Interestingly, like Ursula, Calogado also has a mole on the right side of their face. This could mean nothing.
 
-<img src="https://64.media.tumblr.com/add7c5d754df1557e371f476e3d63a9a/43d6fef636b32b1d-01/s1280x1920/a4e56cea99d942d686d309632a64c9a6149a5140.pnj" alt="An image of Ursula and Calogado side-by-side. Both their moles are circled in red. I've written 'is it worth it!?'">
+![An image of Ursula and Calogado side-by-side. Both their moles are circled in red. I've written "is it worth it!?"](/assets/img/ongentoro/isitworthit.jpg)
 
 <p class="npf_color_rachel">
 来ないで！<br>
@@ -268,7 +268,7 @@ Come and perform an exorcism, Onmyouji!
 
 An onmyouji exorcises youkai (and also does other stuff), and Calogado is of course an Ongentoro youkai. (The sea witch and an Ongentoro youkai?! Can Heki catch a break?) This reading will be elaborated on in a second.
 
-![Heki dressed like an onmyouji.](https://64.media.tumblr.com/3571d8535b76ab424f4fea1ab8d01b68/43d6fef636b32b1d-3f/s2048x3072/0a594cf9e4724b05b49c35ea4ad4c09ec37d9f57.pnj)
+![Heki dressed like an onmyouji.](/assets/img/ongentoro/hekionmyouji.jpg)
 
 Heki even dresses like an onmyouji when he says this. Aww, how cute.
 
@@ -454,7 +454,7 @@ It's probably just in English, but the word "plundered" sort of connects with Th
 
 Below, I put a screenshot of Heki's verse (official files from [the Ongentoro folder](https://avogado6.wixsite.com/calogado/music)) where you can see the note is ど (*do*) and not と (*to*). I am not crazy.
 
-![OpenUTAU shows that Heki is specifically saying "dorare" here.](https://64.media.tumblr.com/1fc9e6d2c884a7b36d6bc9be53805fb2/43d6fef636b32b1d-14/s1280x1920/180cf946196609fb1e797209757510ca9a83fd0d.pnj)
+![OpenUTAU shows that Heki is specifically saying "dorare" here.](/assets/img/ongentoro/dorare.jpg)
 
 <blockquote class="npf_color_rachel">
 3の機材 8のソフトに囲まれて<br>
@@ -522,9 +522,9 @@ Stay up and chant the spell</blockquote>
 
 <span class="npf_color_ross">録音リスト</span> <a href="https://en.wikipedia.org/wiki/Furigana#Other_effects">means "reclist," but it's pronounced like "spell"</a> (呪文, <i>jumon</i>) here. Normally, this would be pronounced <i>rokuon risuto</i>. Reclists are kind of written like incantations or spells; avogado6 uses a reclist a bit later into the song, so you'll see what I mean there.
 
-<img src="https://64.media.tumblr.com/05c2e2407f6a7aafcf5cbe6dd4dc46ab/43d6fef636b32b1d-f6/s1280x1920/1d05f2a500a11b929a5f56e2754ab00ad23b8bca.pnj" alt="Calogado with a heart ahoge. Heki looks at them, a little disturbed.">
+![Calogado with a heart ahoge. Heki looks at them, a little disturbed.](/assets/img/ongentoro/stayup.jpg)
 
-Instead of its typical ア (*a*) for avogado6, Calogado's ahoge is kinda shaped like a heart here. They're really happy! 
+Instead of its typical ア (*a*) for *a*vogado6, Calogado's ahoge is kinda shaped like a heart here. They're really happy! 
 
 <blockquote class="npf_color_ross">
 王子様 沼で手を振って<br>
@@ -544,7 +544,7 @@ UTAU synthesis programs do not automatically know where one note starts and the 
 
 Every configuration is put on a separate line in the oto.ini, like this:
 
-<img src="https://64.media.tumblr.com/2f82d87a25a0656f6e2e86aa73f62961/43d6fef636b32b1d-ec/s500x750/8811efab4978f235b35008cfbf78d170a461e589.pnj" alt="An example oto.ini configuration.">
+![An example oto.ini configuration.](/assets/img/ongentoro/otoini.jpg)
 
 Each line is showing the .wav file name (first), the alias (second), and the parameters (third).
 
@@ -561,7 +561,7 @@ Text on Calogado's cape: <span style="color:var(--bq);">\*Performance may differ
 
 Calogado's wearing a cape, but they aren't the prince… once more, this is probably fine; Heki wears a witch outfit despite not being the sea witch.
 
-<img src="https://64.media.tumblr.com/ee82a170acf1403503cc9efeb86eb589/43d6fef636b32b1d-1d/s1280x1920/1303d2bc2799c6d08f251e6c1d70ae7d8a28511d.pnj" alt="Calogado dressed as a prince.">
+![Calogado dressed as a prince.](/assets/img/ongentoro/caloprince.jpg)
 
 <p class="npf_color_ross">
 は～い！<br>
@@ -595,7 +595,7 @@ Okay.</p>
 <p><span class="npf_color_ross">_おおんあおいおあ</span><br><span class="npf_color_rachel">_おおんあおいおあ</span></p>
 <p><i>_oonaoioa</i><br><br>
 
-<img src="https://64.media.tumblr.com/f22ce1dc52d83bda9c746ed425537562/43d6fef636b32b1d-db/s1280x1920/aa3f49391e3def06675dd76fdfbea8ec55b639fe.pnj" alt="Calogado and Heki start recording">
+![Calogado and Heki start recording](/assets/img/ongentoro/aaniauai.jpg)
 
 The writing at the bottom of the video says <span style="color:var(--bq);">\*using Kurosu's 8 morae list method</span> (※くろ州式８モーラリストを使用, *kuroshuu shiki hachi moora risuto o shiyou*). This is the reclist I was talking about earlier.
 
@@ -622,7 +622,7 @@ e</i></p>
 <p class="npf_color_rachel">
 What!?</p>
 
-<img src="https://64.media.tumblr.com/8b4ac8fb89ab8d9c7d65218295978868/43d6fef636b32b1d-6e/s1280x1920/815d7b787d688aa8c465d8375488f9106b163c1d.pnj" alt="Calogado and Heki 'finish' recording">
+![Calogado and Heki "finish recording"](/assets/img/ongentoro/rokuonkansei.jpg)
 
 The writing at the bottom of the video is hard to read but (probably) says <span style="color:var(--bq);">\*If you want to implement [special phonemes](https://vocadb.net/T/9346/additional-voice-material), [multiple pitches](https://vocadb.net/T/3170/utau-multipitch), [appends](https://vocadb.net/T/24/append-voicebank), etc., recording could theoretically go on forever</span> (※特殊音素や多音階、表情音源を実装したい場合、収録が無限に増える可能性がある, *tokushu onso ya taonkai, hyoujou ongen o jissou shitai baai, shuuroku ga mugen ni fueru kanousei ga aru*).
 
@@ -644,7 +644,7 @@ Little Mermaid, please be tricked by me!<br>
 In 8 morae and around 200 lines,<br>
 I'll make it by following the recipe</p>
 
-<img src="https://64.media.tumblr.com/e0ab4cd5bdbee4acf8184099de9eeeb4/43d6fef636b32b1d-9d/s2048x3072/092911911ddea620efd36b93dce548b2e14b9d84.pnj" alt="Calogado dressed as a butler, holding a plate of oto.ini">
+![Calogado dressed as a butler, holding a plate of oto.ini.](/assets/img/ongentoro/calobutler.jpg)
 
 <p>This time, Calogado dresses like a butler, serving you a plate of oto.ini. Luckily I've already explained what an oto.ini is, so you can get this one!</p>
 
@@ -671,7 +671,7 @@ Rest in peace, Ongentoro!</p>
 
 <p>I've kind of Americanized "<span class="npf_color_rachel">Rest in peace, Ongentoro!</span>" because <a href="https://en.wiktionary.org/wiki/%E6%88%90%E4%BB%8F#Noun">成仏 is "gaining enlightenment"</a> like attaining nirvana and becoming a Buddha. However, in my defense, it also has a general meaning of <a href="https://jisho.org/word/%E6%88%90%E4%BB%8F">"dying peacefully"</a> i.e. resting in peace.</p>
 
-<img src="https://64.media.tumblr.com/4f6bf1e0ac9fb4acda1369f49ae20bfc/43d6fef636b32b1d-b2/s2048x3072/7f1bd970b822db9e2b53091bb5d4d56c1f2d40f5.pnj" alt="Heki throws salt from a bag.">
+![Heki throws salt from a bag.](/assets/img/ongentoro/hekisalt.jpg)
 
 After telling Calogado to rest in peace, Heki throws salt at them. The bag is labeled 食用塩ミネラル (*shokuyou shio mineraru*) — "edible salt mineral." Salt famously wards off evil spirits.
 
@@ -704,7 +704,7 @@ You're ripping them out!</blockquote>
 
 Once again, *torare* is pronounced like *dorare*.
 
-<img src="https://64.media.tumblr.com/1065cc4737fbdaa9795dde37df7ceec4/43d6fef636b32b1d-e3/s1280x1920/0b67a9b1404e79237113b22d385a8afd97195aa6.pnj" alt="Calogado holds a .wav file in their hands. Their ahoge turns into a heart. Heki prints a .wav file from his mouth.">
+![Calogado holds a .wav file in their hands. Their ahoge turns into a heart (again). Heki prints a .wav file from his mouth.](/assets/img/ongentoro/wav%20file%20get.jpg)
 
 Calogado's ahoge also becomes a heart again! OMG… this is too fucking cute. I love how Heki's printing out .wav files from his mouth.
 
@@ -740,7 +740,7 @@ After recording and otoing a voicebank, you might want to check for issues, make
 
 エンジン (*enjin*) means "engine," but here it refers to [different kinds of resamplers](https://w.atwiki.jp/utaou/pages/65.html). I know this because when I look up "エンジン UTAU" I get links to different kinds of resamplers. Also, resamplers show up in the video when Calogado's talking about this.
 
-<img src="https://64.media.tumblr.com/6f33f679188bbd03f4c12c18a1174a01/43d6fef636b32b1d-2a/s1280x1920/80aa66a840cf3ea678ee53cc4726f7008185780a.pnj">
+![Calogado is surrounded by multiple resamplers.](/assets/img/ongentoro/caloengine.jpg)
 
 <p class="npf_color_ross">
 なら我々のUTAUフォルダにようこそ！<br>
@@ -795,7 +795,7 @@ shinu made issho da ne!</i></p>
 <p class="npf_color_ross">
 You'll be with me until you die!</p>
 
-![Calogado raises their hands and smiles while Heki cries.](https://64.media.tumblr.com/15595bc848ec80289667343e2bec1e3e/43d6fef636b32b1d-1d/s1280x1920/dd99fe7a5872238acd0d802dabf2e5ffb34067e7.pnj)
+![Calogado raises their hands and smiles while Heki cries.](/assets/img/ongentoro/shinumade.jpg)
 
 Looks like it would be read "until my PC breaks" (*PC ga kowareru made*) but is actually read "until you die." (*shinu made*)
 
@@ -889,8 +889,8 @@ The song, along with all of its assets (ustx, MV, stem, etc.), are available for
 
 There's two subfolders in Calogado's folder called "good boy hand 1" and "good boy hand 2." (いいこいいこハンド, *iiko iiko hando*)
 
-![Calogado's hand pets Heki.](https://64.media.tumblr.com/3b908cbee2645744ddfd5cb182f95c83/43d6fef636b32b1d-38/s250x400/fd04d86c74e59fb2383b89db71518a48b6181e75.pnj)
-![Ditto, with Calogado's fingers spread out.](https://64.media.tumblr.com/6b725de94a98aa8858e9203c0b2d9550/43d6fef636b32b1d-97/s250x400/b00a640bc9d3d57c6493190a8c8f1d108013609b.pnj)
+![Calogado's hand pets Heki.](/assets/img/ongentoro/iiko1.jpg)
+![Ditto, with Calogado's fingers spread out.](/assets/img/ongentoro/iiko2.jpg)
 
 Yes, Calogado's petting Heki. I didn't move the hands; this is their default position. Petting Mayoi Heki. 
 
@@ -898,7 +898,7 @@ Yes, Calogado's petting Heki. I didn't move the hands; this is their default pos
 
 There's a subfolder in Calogado's folder that shows a scrapped drawing. The folder's called 没 (*botsu*), meaning rejected (manuscript, etc.).
 
-![Calogado's hand is held out, and they're smiling.](https://64.media.tumblr.com/13fa62b41f5fc5730e54c28f8888b814/43d6fef636b32b1d-35/s250x400/fe0860e91efafc6bd1fecc1ec7a3b849c852f382.pnj)
+![Calogado's hand is held out, and they're smiling.](/assets/img/ongentoro/botsu.jpg)
 
 I find this expression absolutely adorable, like Calogado's trying to get a high-five that never comes. What *actually* ended up in the MV looks quite similar to this. 
 

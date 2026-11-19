@@ -16,12 +16,9 @@ Thanks for viewing
 * revamp of /utau 
 * organization of webrings (maybe into some sort of grid thing)
 * more posts! always! kyu! love!
-* https://drawbox.nekoweb.org/
 * # header links
 * /links more links to webrings, fanlistings, etc.
-* host all pics in /posts/ongentoro on your own website/filegarden
 * https://webmeji.neocities.org/ ?
-* how do i get to display the extra time lol
 
 *I'm still figuring out how to display some parts in the #extra translations part; specifically, my commentary
 maybe it should be a different color? But I don't know. Like

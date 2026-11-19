@@ -57,6 +57,7 @@ These links are all free, have little/no ads, are browser-based, and are mobile 
 
 #### Resource lists
 * [Resource list for the personal web](https://discourse.32bit.cafe/t/resources-list-for-the-personal-web/49)
+* [Rentry Resource](https://rentryresource.neocities.org/)
 * [Resource webring](https://pixelsafari.neocities.org/webring/)
 * [ribo.zone's webcraft supplies](https://ribo.zone/free/)
 * [Rice's bookmarks](https://rice.place/bookmark.html)
