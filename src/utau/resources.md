@@ -15,7 +15,7 @@ Some links are only available in Japanese and will be marked with (JA).
 * [UTAU](https://utau2008.xrea.jp/)
 ### Recording
 * [RecStar](https://github.com/sdercolin/recstar/)
-### Configuration
+### Configuration / Otoing
 * [Laberu](https://k-uta.jp/laberu/)
 * [setParam](https://web.archive.org/web/20250406181659/https://osdn.net/users/nwp8861/pf/setParam/files/)
 * [vLabeler](https://vlabeler.com)

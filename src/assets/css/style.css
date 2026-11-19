@@ -9,8 +9,8 @@
     --main: oklch(13% 0.028 261.692);
     --bg: oklch(98.5% 0 none);
     --aside: oklch(92.9% 0.013 255.508);
-    --accent:oklch(48.082% 0.07906 155.171);
-    --link:oklch(58.8% 0.158 241.966);
+    --accent:oklch(70.7% 0.022 261.325);
+    --link:oklch(54.1% 0.281 293.009);
     --bq:oklch(55.2% 0.016 285.938);
 }
 body{height:100%;}
@@ -141,7 +141,7 @@ footer {
 }
 h2 {
     width: fit-content;
-    border-bottom: 3.25px solid var(--accent);
+    border-bottom: 2px solid var(--accent);
 }
 .showmobile {
     display:none;

@@ -26,13 +26,14 @@ These links are all free, have little/no ads, are browser-based, and are mobile 
 
 ### Sites I like
 * [Aid's site](https://zhongvie.neocities.org/)
-* [brennan.day](https://brennan.day)
+* [Brennan's Weblog](https://brennan.day)
 * [Bechno Kid's site](https://bechnokid.com)
 * [How soon is now?](https://howsoonisnow.org/)
 * [jb's site](https://jbc.lol)
 * [John Doe's page](https://john-doe.neocities.org/)
 * [nomnomnami's site](https://nomnomnami.com)
-* [Poopfart's Place](https://iizpoopfart.neocities.org/)
+* [Poopfart's Place](https://iizpoopfart.neocities.org/) not yet mobile compatible 
+* [Skep's Place](https://skep.place/)
 * [Slushie's site](https://slushiecafe.neocities.org/)
 * [squirrelz.xyz](https://squirrelz.xyz/)
 * [TabF5](https://tabf5.com/)

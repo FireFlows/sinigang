@@ -61,6 +61,8 @@ ruby {ruby-overhang:none;}
 
 </style>
 
+## Introduction
+
 On May 17th, 2026, I published [a Tumblr post](https://www.tumblr.com/fire7541/816918342990544896/ongentoro?source=share) translating and analyzing the song [Ongentoro](https://vocadb.net/S/932592) by [avogado6](https://vocadb.net/Ar/2436). I've made tons of edits to the post since then, and it's garnered some positive reception. My "posts" page has been a bit empty looking so I decided to add it here. I also wanted to spread this post outside of Tumblr so all of you guys can become UTAU too. 
 
 All you need to know for this post is what UTAU is. And if you don't know: they're basically singing voice synthesizers that are entirely free, and anyone can make one. Freeware Vocaloid. There you go; we're all on the same page, now.
@@ -936,6 +938,16 @@ Not a question. But I'm open to suggestions, feedback, etc. Feel free to [send m
 ### Can you translate and analyze DebitBit please?
 
 Haha, already two steps ahead of you; [I've made a Tumblr post about DebitBit](https://www.tumblr.com/fire7541/830487955029278720/debitbit?source=share), but I don't want to put it on my website just yet.
+
+### I'm sold. I want to make an UTAU now. How do I do it?
+
+Feline Wasteland has [a pretty good tutorial on this](https://utau.felinewasteland.com/ref/firstvb)! I was thinking about writing my own tutorial as well (the more the better). I've also compiled [a bunch of links regarding UTAU creation and distribution](/utau/resources.html).
+
+I wouldn't say making an UTAU is *that* complicated, it mostly just takes a very long time.
+
+#### Can you help me make an UTAU?
+
+I would be more than happy to answer any questions for you. However, I'm basically still an UTAU noob, and I do a lot of things that are bad practice, so you're probably better off asking people more experienced than me.
 
 ## Closing thoughts
 

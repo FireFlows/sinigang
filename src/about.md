@@ -36,6 +36,7 @@ I like these but a bit less
 * Phone: iPhone 11
 * Tablet: iPad A16 (2025)
     * 1st gen Apple Pencil
+* UTAU: OpenUTAU, OREMO, RecStar
 * Web browser: Firefox
 
 <!--
