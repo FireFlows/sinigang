@@ -38,6 +38,9 @@ I like these but a bit less
     * 1st gen Apple Pencil
 * Web browser: Firefox
 
+<!--
+make a table?-->
+
 ## About the Website
 ### Accessibility
 *See: [Accessibility](/posts/accessibility.html)*
