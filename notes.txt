@@ -15,7 +15,7 @@ Thanks for viewing
 * put debitbit post on here
 * revamp of /utau 
 * finish feed.xml page
-* organization of webrings (maybe into some sort of grid thing)
+* organization of webrings (maybe into some sort of grid thing) like jbc.lol
 * more posts! always! kyu! love!
 * # header links
 * /links more links to webrings, fanlistings, etc.

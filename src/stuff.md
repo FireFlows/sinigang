@@ -47,10 +47,11 @@ Adopted from [ritual.sh](https://ritual.sh/resources/adoptables)
 
 </span>
 
+### Clique
+
+<a href="https://bungle.online/clique"><img src="/assets/img/angel.png" alt="Angel resting upon a computer"></a>
 
 ### Webrings
-<iframe src="https://evehibi.nekoweb.org/doodlering/widget.html?theme=default" frameborder=0 margin=0 width=180 height=110></iframe>
-
  <map name="win7widget-compact">
 <area href="https://baccyflap.com/noai" target="_blank" shape="rect" coords="0,0,216,29" alt="no ai webring" title="no ai webring">
 <area href="https://baccyflap.com/noai/?prv&s=ksn" target="_top" shape="rect" coords="102,45,199,71" alt="previous" title="previous">
@@ -69,6 +70,11 @@ Adopted from [ritual.sh](https://ritual.sh/resources/adoptables)
 
 <img usemap="#win7widget-compact" src="https://baccyflap.com/noai/win7widget-compact.gif" alt="a Windows 7 style dialog box titled 'The No AI Webring' with a little icon showing a computer chip in a rubbish bin. beside it are three clickable buttons, labeled Previous, Random and Next"> 
 
+<details>
+    <summary>Not yet a part of</summary>
+
+
+<iframe src="https://evehibi.nekoweb.org/doodlering/widget.html?theme=default" frameborder=0 margin=0 width=180 height=110></iframe>
 
 
 <div id="vocaring"></div>
@@ -76,3 +82,4 @@ Adopted from [ritual.sh](https://ritual.sh/resources/adoptables)
 <script src="https://electric-tenshi.nekoweb.org/vocaring/vocaring-variables.js"></script>
 <script src="https://electric-tenshi.nekoweb.org/vocaring/vocaring-widget.js"></script>
 
+</details>
