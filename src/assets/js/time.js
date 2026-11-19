@@ -35,13 +35,13 @@ function getTime() {
     let diffText = " ";
 
     if (Math.abs(diffHours) < 0.1) {
-        diffText = "...we share a timezone!";
+        diffText = "…we share a timezone!";
     } else {
         const rounded = Math.round(diffHours);
         if (rounded > 0) {
-            diffText = `...${rounded}h ahead of you`;
+            diffText = `…${rounded}h ahead of you`;
         } else {
-            diffText = `...${Math.abs(rounded)}h behind you`;
+            diffText = `…${Math.abs(rounded)}h behind you`;
         }
     }
 
