@@ -12,32 +12,31 @@ layout: "main.html"
 
 ### Interests
 My favorite things of all time
-* Vocal synths
-* Video games
+* Drawing
 * Linguistics
     * particularly translation and Asian languages
-* Drawing
+* Video games
+* Vocal synths
 * Writing
 
 ### Sub-interests
 I like these but a bit less
 * Coding
+* Collecting things (digital and physical)
 * Cute things
 * Public transportation
-* Collecting things (digital and physical)
 
 ### Uses
-* Laptop: Lenovo IdeaPad Slim 3
-* Web browser: Firefox
-* Tablet: iPad A16 (2025)
-    * 1st gen Apple Pencil
+* Consoles: LCD 256GB Steam Deck and Nintendo Switch Lite
 * Drawing program: Procreate, rarely Clip Studio Paint (iPad), Krita or MSPaint (laptop)
 * Drawing tablet: Wacom Bamboo CTH-670 with OpenTabletDriver
-* Phone: iPhone 11
-* Consoles: LCD 256GB Steam Deck and Nintendo Switch Lite
-* Microphone: RODE NT-USB Mini
 * Earbuds: Beats Flex (Black)
-
+* Laptop: Lenovo IdeaPad Slim 3
+* Microphone: RODE NT-USB Mini
+* Phone: iPhone 11
+* Tablet: iPad A16 (2025)
+    * 1st gen Apple Pencil
+* Web browser: Firefox
 
 ## About the Website
 ### Accessibility
