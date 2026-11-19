@@ -26,6 +26,7 @@ I created a button! Please don't hotlink. ~~Well, unless you'd like your link to
 
 ## Fun
 
+<span class="d-js-required">
 
 ### Adoptable
 <div style="width: 120px; height: 250px;">
@@ -42,6 +43,9 @@ I created a button! Please don't hotlink. ~~Well, unless you'd like your link to
 </div>
 
 Adopted from [ritual.sh](https://ritual.sh/resources/adoptables)
+
+</span>
+
 
 ### Webrings
 <iframe src="https://evehibi.nekoweb.org/doodlering/widget.html?theme=default" frameborder=0 margin=0 width=180 height=110></iframe>

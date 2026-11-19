@@ -8,13 +8,20 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<script src="/assets/js/theme.js"></script>
 </head>
+<noscript>
+    <style>
+        .d-js-required {
+            display: none;
+        }
+    </style>
+</noscript>
 	<body>
 		<header>
 		<span style="font-weight:700; font-size:2rem;">sinigang.neocities.org</span>
 		</header>
 	<aside>
 		<img aria-hidden="true" src="/assets/img/avatar.png" height="240" class="nomobile" alt="">
-		<span class="nomobile">
+		<span class="nomobile d-js-required">
 			<br>My current time:<br>
 			<span id="local-time-main"></span><br>
 			<span id="local-time-extra"></span>
@@ -25,12 +32,12 @@
 				<li><a href="/about.html">About</a></li>
 				<li><a href="/utau.html">UTAU</a></li>
 				<li><a href="/posts.html">Posts</a></li>
-				<li><a href="/art.html">Art</a></li>
+				<li><a href="/stuff.html">Web Stuff</a></li>
 				<li><a href="/elsewhere.html">Elsewhere</a></li>
 				<li><a href="/links.html">Links</a></li>
 			</ul>
 		</nav>
-		<button id="theme-selector" onclick="toggle()">
+		<button id="theme-selector" class="d-js-required" onclick="toggle()">
 		Toggle theme
 		</button>
 	</aside>
@@ -50,8 +57,8 @@
 	</main>
 	<footer>
 		by Fire 2020 - ∞ | <a href="#">Top</a> | <a href="https://github.com/FireFlows/sinigang">GitHub repo</a>
-		<br>Page last updated: <span id="lu"></span><br>
-		Site last updated: <span id="wlu"></span>
+		<span class="d-js-required"><br>Page last updated: <span id="lu"></span><br>
+		Site last updated: <span id="wlu"></span></span>
 	</footer>
 
 <script src="/assets/js/time.js"></script>

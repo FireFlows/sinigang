@@ -4,15 +4,18 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" type="image/x-icon" href="..\images\isda_noboarder.png">
-    <title>DRAWBOX</title>
+    <title>Drawbox</title>
      <!--generic drawbox styling -->
      <link href="/assets/css/drawbox.css" rel="stylesheet" type="text/css" media="all">
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 </head>
 <body>
+
+
  <div class="flex tutorial">
   <div class="drawbox_con left">
         <h1>Drawbox</h1> 
+        <p><noscript>The drawbox does not work without Javascript; please enable Javascript to use it.</noscript></p>
     <div class="des" id="des1">
         <p><a href="/index.html">back to home</a></p>
     </div>
@@ -114,6 +117,6 @@
     <hr>
     <br>
     <script src="/assets/js/drawbox.js"></script>
-   
+</span>
 </body>
 </html>

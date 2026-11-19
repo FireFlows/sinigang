@@ -8,13 +8,20 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<script src="/assets/js/theme.js"></script>
 </head>
+<noscript>
+    <style>
+        .d-js-required {
+            display: none;
+        }
+    </style>
+</noscript>
 	<body>
 		<header>
 		<span style="font-weight:700; font-size:2rem;">sinigang.neocities.org</span>
 		</header>
 	<aside>
 		<img aria-hidden="true" src="/assets/img/avatar.png" height="240" class="nomobile" alt="">
-		<span class="nomobile">
+		<span class="nomobile d-js-required">
 			<br>My current time:<br>
 			<span id="local-time-main"></span><br>
 			<span id="local-time-extra"></span>
@@ -25,12 +32,12 @@
 				<li><a href="/about.html">About</a></li>
 				<li><a href="/utau.html">UTAU</a></li>
 				<li><a href="/posts.html">Posts</a></li>
-				<li><a href="/art.html">Art</a></li>
+				<li><a href="/stuff.html">Web Stuff</a></li>
 				<li><a href="/elsewhere.html">Elsewhere</a></li>
 				<li><a href="/links.html">Links</a></li>
 			</ul>
 		</nav>
-		<button id="theme-selector" onclick="toggle()">
+		<button id="theme-selector" class="d-js-required" onclick="toggle()">
 		Toggle theme
 		</button>
 	</aside>
@@ -49,39 +56,39 @@
 <h3>Interests</h3>
 <p>My favorite things of all time</p>
 <ul>
-<li>Vocal synths</li>
-<li>Video games</li>
+<li>Drawing</li>
 <li>Linguistics
 <ul>
 <li>particularly translation and Asian languages</li>
 </ul>
 </li>
-<li>Drawing</li>
+<li>Video games</li>
+<li>Vocal synths</li>
 <li>Writing</li>
 </ul>
 <h3>Sub-interests</h3>
 <p>I like these but a bit less</p>
 <ul>
 <li>Coding</li>
+<li>Collecting things (digital and physical)</li>
 <li>Cute things</li>
 <li>Public transportation</li>
-<li>Collecting things (digital and physical)</li>
 </ul>
 <h3>Uses</h3>
 <ul>
+<li>Consoles: LCD 256GB Steam Deck and Nintendo Switch Lite</li>
+<li>Drawing program: Procreate, rarely Clip Studio Paint (iPad), Krita or MSPaint (laptop)</li>
+<li>Drawing tablet: Wacom Bamboo CTH-670 with OpenTabletDriver</li>
+<li>Earbuds: Beats Flex (Black)</li>
 <li>Laptop: Lenovo IdeaPad Slim 3</li>
-<li>Web browser: Firefox</li>
+<li>Microphone: RODE NT-USB Mini</li>
+<li>Phone: iPhone 11</li>
 <li>Tablet: iPad A16 (2025)
 <ul>
 <li>1st gen Apple Pencil</li>
 </ul>
 </li>
-<li>Drawing program: Procreate, rarely Clip Studio Paint (iPad), Krita or MSPaint (laptop)</li>
-<li>Drawing tablet: Wacom Bamboo CTH-670 with OpenTabletDriver</li>
-<li>Phone: iPhone 11</li>
-<li>Consoles: LCD 256GB Steam Deck and Nintendo Switch Lite</li>
-<li>Microphone: RODE NT-USB Mini</li>
-<li>Earbuds: Beats Flex (Black)</li>
+<li>Web browser: Firefox</li>
 </ul>
 <h2>About the Website</h2>
 <h3>Accessibility</h3>
@@ -110,8 +117,8 @@
 	</main>
 	<footer>
 		by Fire 2020 - ∞ | <a href="#">Top</a> | <a href="https://github.com/FireFlows/sinigang">GitHub repo</a>
-		<br>Page last updated: <span id="lu"></span><br>
-		Site last updated: <span id="wlu"></span>
+		<span class="d-js-required"><br>Page last updated: <span id="lu"></span><br>
+		Site last updated: <span id="wlu"></span></span>
 	</footer>
 
 <script src="/assets/js/time.js"></script>
