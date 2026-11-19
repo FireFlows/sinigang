@@ -9,8 +9,8 @@
     --main: oklch(13% 0.028 261.692);
     --bg: oklch(98.5% 0 none);
     --aside: oklch(92.9% 0.013 255.508);
-    --accent:oklch(52.5% 0.223 3.958);
-    --link:oklch(55.8% 0.288 302.321);
+    --accent:oklch(48.082% 0.07906 155.171);
+    --link:oklch(58.8% 0.158 241.966);
     --bq:oklch(55.2% 0.016 285.938);
 }
 body{height:100%;}
@@ -96,7 +96,7 @@ aside {
         border: 5px solid var(--aside);
     }
     grid-area: aside;
-    height: fit-content;
+    height: 670px;
     max-width:250px;
     position: sticky;
     text-align: center;
@@ -109,6 +109,7 @@ nav {
     ul {
         list-style-type: none;
         padding:0;
+        margin:5px;
         background-color: var(--aside);
     }
     li {
@@ -117,7 +118,7 @@ nav {
     li a {
         text-align:center;
         display: block;
-        padding: 5px;
+        padding: 7px;
         text-decoration:none;
     }
     li a:hover {
@@ -195,6 +196,7 @@ mobile
   aside {
     max-width:100%;
     position:initial;
+    height:325px;
     ul {
         gap: 7px;
         font-size:1.25rem;
