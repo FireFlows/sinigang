@@ -9,24 +9,18 @@ Anything that isn't words. IDK. I'll think more about how to sort this later but
 
 ### Art
 
-I've been drawing since I was 9-10 years old; I've been drawing digitally for basically that same time. Drawing is one of my favorite pastimes, and over the years I've made a bunch of art. 
+I love to draw. I've created [a zip file](https://file.garden/alh0moWNqEglM4TP/art.zip) which includes *some* of my art (definitely not all or most but I'll try to keep up with it). It's mostly UTAU fanart; the older drawings are Hundred Line fanart; I basically exclusively draw fanart.
 
-I moostly post my art to Tumblr and Twitter. I use Tumblr like an art archive of sorts, but I know this is probably bad practice.
-
-Perhaps I'll make an art gallery here in the future. Right now I'm lazy so take [this zip file](https://file.garden/alh0moWNqEglM4TP/art.zip) which includes *some* of my art (definitely not all or most but I'll try to keep up with it). It's mostly UTAU fanart; the older drawings are Hundred Line fanart; I basically exclusively draw fanart.
-
-Unless otherwise specified, the drawings on here are mine!
+Unless otherwise specified, the drawings on this website are mine!
 
 #### Guidelines
-* Personal use OK
-* Reposting outside of Tumblr/Twitter OK 
- 
-as long as I am credited, it's fine!
-
+* Personal use OK 
+    * Please credit me if using for PFP, banner, etc. ("by fire7541 on Twitter/Tumblr; by sinigang.neocities.org")
+* Reposting outside of Tumblr/Twitter OK (with credit)
 
 ### Button
 
-I created a button! Please don't hotlink.
+I created a button! Please don't hotlink. ~~Well, unless you'd like your link to eventually break~~
 
 ![A small button of a black-haired character with red glasses. "Sinigang" is written to the left.](/assets/img/button.jpg)
 
