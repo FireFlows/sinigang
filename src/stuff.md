@@ -22,7 +22,8 @@ Unless otherwise specified, the drawings on this website are mine!
 
 I created a button! Please don't hotlink. ~~Well, unless you'd like your link to eventually break~~
 
-![A small button of a black-haired character with red glasses. "Sinigang" is written to the left.](/assets/img/button.jpg)
+
+<img src="/assets/img/button.jpg" alt="A small button of a black-haired character with red glasses. 'Sinigang' is written to the left." style="image-rendering: pixelated;height:31px;height:3%;">
 
 ## Fun
 
