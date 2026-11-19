@@ -59,16 +59,12 @@ My avatar is Nurse Robot Type T. She is a vocal synthesizer. The illustration is
 ### Colophon
 Built with [Eleventy](https://www.11ty.dev/) (and LOVE) using VSCode on a 1920 x 1200 display.
 
+The favicon is [Toss Face's rabbit face emoji](https://emojipedia.org/toss-face/1.6/rabbit-face). I use the font Roboto for the header and Inter for the body. My website's design was inspired by brutalism and minimalism; the most important part of my website is the words written on it.
+
 ### "Copyright"
 My website's code is "licensed" under [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en). **No** rights reserved. I encourage you to completely steal my layout and use it for your own site, no credit needed (but much appreciated). 
 
 If you are going to borrow the content of this site, please credit me, though.
-
-### Design
-The most important part of this website is its words and content. But I wanted to have a little fun with it too; I was inspired by minimalism and brutalism, though I wouldn't exactly call my website brutalist or minimalist.
-
-The header font is Roboto and the body font is Inter.
-
 
 ### Origins
 I made this website on August 18, 2020 for reasons that are beyond me. I left it alone for six years, and then picked it back up in February of 2026 because I was bored and wanted a space away from social media. I abandoned it for a few more months and came back again in July 2026, so I could host my UTAU here.
