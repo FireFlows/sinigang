@@ -20,10 +20,11 @@ Unless otherwise specified, the drawings on this website are mine!
 
 ### Button
 
-After popular demand ~~like one person asked me a few months ago~~, I finally created a button! Please don't hotlink. ~~Well, unless you'd like your link to eventually break~~
+After popular demand ~~like one person asked me a few months ago~~, I finally created not just one, but *two* buttons! Please don't hotlink. ~~Well, unless you'd like your link to eventually break~~
 
+<img src="/assets/img/button.jpg" alt="A small button of a black-haired character with red glasses. Their mouth is opem 'Sinigang' is written to the left." style="image-rendering: pixelated;height:31px;height:50px;">
+<img src="/assets/img/buttonALT.jpg" alt="Ditto, with no mouth." style="image-rendering: pixelated;height:31px;height:50px;">
 
-<img src="/assets/img/button.jpg" alt="A small button of a black-haired character with red glasses. 'Sinigang' is written to the left." style="image-rendering: pixelated;height:31px;height:50px;">
 
 ## Fun
 
