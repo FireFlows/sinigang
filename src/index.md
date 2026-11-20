@@ -7,7 +7,9 @@ layout: "main.html"
 
 Hi! My name is Fire and I like websites so much I made my own.
 
-My website is mobile-friendly and accessible. Works best with Javascript enabled (but works fine without it too). I swear on occasion. There may be occasional suggestive themes. The UTAU part of the site has all the words on there but looks a little ugly because I removed all the CSS. Oops. I plan to fix it soon, though.
+My website is mobile-friendly and accessible. Works best with Javascript enabled (but works fine without it too). Mainly tested on Firefox, but also tested on Chrome and Safari so it should work on basically anything.
+
+I swear on occasion. There may be occasional suggestive themes. The UTAU part of the site has all the words on there but looks a little ugly because I removed all the CSS. Oops. I plan to fix it soon, though.
 
 While you're checking out this site, why don't you [sign my guestbook](guestbook.html) or [draw something](drawbox.html)?
 

@@ -60,7 +60,7 @@ My avatar is Nurse Robot Type T. She is a vocal synthesizer. The illustration is
 </span>
 
 ### Colophon
-Built with [Eleventy](https://www.11ty.dev/) (and LOVE) using VSCode on a 1920 x 1200 display.
+Built with [Eleventy](https://www.11ty.dev/) (and LOVE) using VSCode on a 1920 x 1200 display. 
 
 The favicon is [Toss Face's rabbit face emoji](https://emojipedia.org/toss-face/1.6/rabbit-face). I use the font Roboto for the header and Inter for the body. My website's design was inspired by brutalism and minimalism; the most important part of my website is the words written on it.
 
