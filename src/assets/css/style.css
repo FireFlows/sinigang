@@ -203,7 +203,6 @@ mobile
     }
     body {
         margin:0;
-        font-size:1rem;
         grid-template-columns:100%;
         grid-template-areas:
         "header"
@@ -235,4 +234,10 @@ mobile
   .showmobile {
     display: contents;
   }
+}
+
+@media screen and (max-width: 600px) {
+    body {
+        font-size:1rem;
+    }
 }
