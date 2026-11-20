@@ -947,7 +947,7 @@ Not a question. But I'm open to suggestions, feedback, etc. Feel free to [send m
 
 ### Can you translate and analyze DebitBit please?
 
-Haha, already two steps ahead of you; [I've made a Tumblr post about DebitBit](https://www.tumblr.com/fire7541/830487955029278720/debitbit?source=share), but I don't want to put it on my website just yet.
+[I did it already](debitbit.html).
 
 ### I'm sold. I want to make an UTAU now. How do I do it?
 
