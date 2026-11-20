@@ -13,9 +13,9 @@
     --link:oklch(54.1% 0.281 293.009);
     --bq:oklch(55.2% 0.016 285.938);
 }
-body{height:100%;zoom:120%;}
+
 body{
-    
+    zoom:120%;
     margin-left: 4.25rem;
     margin-right:10rem;
     line-height:1.625rem;
@@ -202,10 +202,9 @@ mobile
     .show {
         display:block;
     }
-    html {margin:0;}
     body {
         margin:0;
-        grid-template-columns:1fr;
+        grid-template-columns:100%;
         grid-template-areas:
         "header"
         "aside"
