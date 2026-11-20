@@ -4,7 +4,7 @@ layout: "main.html"
 ---
 ## About the Webmaster
 * 19 years old (04/30/2007)
-* they/them 
+* they/them
 * US East Coaster <span class="showmobile">([time right now](https://time.is/ET))</span>
 * autistic ADHDer
 * mixed Filipino/white

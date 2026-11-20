@@ -9,11 +9,17 @@
     --main: oklch(13% 0.028 261.692);
     --bg: oklch(98.5% 0 none);
     --aside: oklch(92.9% 0.013 255.508);
-    --accent:oklch(70.7% 0.022 261.325);
-    --link:oklch(54.1% 0.281 293.009);
-    --bq:oklch(55.2% 0.016 285.938);
+    --accent:oklch(68.5% 0.169 237.323);
+    --link:oklch(49.1% 0.27 292.581);
+    --bq:oklch(70.7% 0.022 261.325);
 }
 
+    dt{line-height:1.5rem;}
+    dd{
+        line-height:1.75rem;
+        padding-left:5px;
+        border-left: 3px solid var(--bq);
+    }
 body{
     margin-left: 4.25rem;
     margin-right:10rem;
@@ -278,9 +284,9 @@ mobile
 
 @media screen and (max-width: 600px) {
     body {
-        font-size:1rem;
+        font-size:1.125rem;
     }
     footer {
-        font-size:.75rem;
+        font-size:.95rem;
     }
 }

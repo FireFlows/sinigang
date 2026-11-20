@@ -2,16 +2,9 @@
 title: "Links"
 layout: "main.html"
 ---
-<style>
-    dt{line-height:1.75rem;}
-    dd{line-height:1.5rem;}
-</style>
-<span aria-hidden="true">
 
-*Also see: [/utau/resources.html](/utau/resources.html)*  
-*Also see: [/posts/accessibility.html#links](/posts/accessibility.html#links)*
-
-</span>
+*Also see: [UTAU resources](/utau/resources.html)*  
+*Also see: [Accessibility links](/posts/accessibility.html#links)*
 
 I love links. I often say \<a> is my favorite HTML tag. Because it is.
 
