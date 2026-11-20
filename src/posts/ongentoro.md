@@ -25,8 +25,8 @@ tags:
         color: #dd199f;
     }
     img {
-        max-width:55%;
-        max-height:50%;
+        max-width:95%;
+        max-height:100%;
     }
     .nomobile {
         max-height:100%;
