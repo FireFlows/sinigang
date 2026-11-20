@@ -43,6 +43,8 @@ I like these but a bit less
 make a table?-->
 
 ## About the Website
+*Also see: [100 Questions, Answered](100q.html)*
+
 ### Accessibility
 *See: [Accessibility](/posts/accessibility.html)*
 

@@ -33,6 +33,7 @@ These links are all free, have little/no ads, are browser-based, and are mobile 
 * [John Doe's page](https://john-doe.neocities.org/)
 * [nomnomnami's site](https://nomnomnami.com)
 * [Poopfart's Place](https://iizpoopfart.neocities.org/) not yet mobile compatible 
+* [reigen.moe](https://reigen.moe) flashing lights
 * [Skep's Place](https://skep.place/)
 * [Slushie's site](https://slushiecafe.neocities.org/)
 * [squirrelz.xyz](https://squirrelz.xyz/)

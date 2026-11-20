@@ -6,24 +6,7 @@ tags:
     - translation
 ---
 <style>
-    .npf_color_pheobe {
-        color: #db2408;
-    }
-    .npf_color_monica{
-      color: #cc7a1c;
-    }
-    .npf_color_ross {
-        color: #1abb42;
-    }
-    .npf_color_rachel {
-        color: #1193c7;
-    }
-    .npf_color_niles {
-        color: #5e3aee;
-    }
-    .npf_color_chandler {
-        color: #dd199f;
-    }
+
     img {
         max-width:60%;
         max-height:100%;
@@ -32,29 +15,6 @@ tags:
         max-height:100%;
         max-width:100%;
     }
-sup{line-height:1}
-sup a {
-    font-size:.8rem;
-    text-decoration: none;
-    color: var(--link);
-}
-.videowrapper {
-    float: none;
-    clear: both;
-    width: 80%;
-    position: relative;
-    padding-bottom: 56.25%;
-    padding-top: 25px;
-    height: 0;
-}
-.videowrapper iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-}
-
 @media screen and (max-width: 700px) {
     img {
         max-width:70%;

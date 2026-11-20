@@ -9,7 +9,9 @@ Anything that isn't words. IDK. I'll think more about how to sort this later but
 
 ### Art
 
-I love to draw. I've created [a zip file](https://file.garden/alh0moWNqEglM4TP/art.zip) which includes *some* of my art (definitely not all or most but I'll try to keep up with it). It's mostly UTAU fanart; the older drawings are Hundred Line fanart; I basically exclusively draw fanart.
+I love to draw. I've created [a zip file](https://file.garden/alh0moWNqEglM4TP/art.zip) which includes *some* of my art (definitely not all or most but I'll try to keep up with it). It's mostly UTAU fanart; the older drawings are Hundred Line fanart; I basically exclusively draw fanart. 
+
+Alternatively, take a look through [my Tumblr #my art tag](https://www.fire7541.tumblr.com/tagged/my%20art).
 
 Unless otherwise specified, the drawings on this website are mine!
 
