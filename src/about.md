@@ -103,7 +103,16 @@ This is also not OK. My pronouns are not he/him
 > 
 > I am glad the warning is there, but I think more websites should strive to be accessibility-friendly even if it is annoying or ruins your aesthetic; seeing these warnings makes me honestly a bit sad.  
 
-This is OK.
+This is OK!
+
+> I saw a post that was like "even if it's annoying more websites should have accessibility features" and I am inclined to agree
+
+This is OK! As long as you're not directly quoting me, I am fine with being vaguely gestured at. We can't all have photographic memory.
+
+> I was inspired by a post I saw to add more accessibility features to my website.
+
+This is OK! See above. (Of course, I think it'd be best to link the post in question, but I really don't care.) 
+
 </details>
 
 ### Origins
