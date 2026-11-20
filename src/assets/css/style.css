@@ -24,7 +24,7 @@ body{
     font-size: 1.125rem;
     display: grid;
     grid-template-areas:
-        "aside  header header  "
+        ". header header  "
         " aside main main  "
         " . footer footer ";
     grid-template-columns: 275px 60% 10%;
@@ -239,5 +239,8 @@ mobile
 @media screen and (max-width: 600px) {
     body {
         font-size:1rem;
+    }
+    footer {
+        font-size:.75rem;
     }
 }
