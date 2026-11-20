@@ -609,6 +609,12 @@ The writing at the bottom of the video says <span style="color:var(--bq);">\*usi
 
 There's no need to translate this part; or, more, the romanization is the translation.
 
+In the background is OREMO, the previously-mentioned UTAU recording software that avogado6 likes to use. Here's what the actual OREMO program looks like:
+
+![A screenshot of the OREMO program.](/assets/img/ongentoro/oremo.png)
+
+It's pretty similar to the video.
+
 <p class="npf_color_ross">
 その調子です！<br>
 このまま無限に録音しましょうね！</p>
@@ -633,6 +639,15 @@ What!?</p>
 ![Calogado and Heki "finish recording"](/assets/img/ongentoro/rokuonkansei.jpg)
 
 The writing at the bottom of the video is hard to read but (probably) says <span style="color:var(--bq);">\*If you want to implement [special phonemes](https://vocadb.net/T/9346/additional-voice-material), [multiple pitches](https://vocadb.net/T/3170/utau-multipitch), [appends](https://vocadb.net/T/24/append-voicebank), etc., recording could theoretically go on forever</span> (※特殊音素や多音階、表情音源を実装したい場合、収録が無限に増える可能性がある, *tokushu onso ya taonkai, hyoujou ongen o jissou shitai baai, shuuroku ga mugen ni fueru kanousei ga aru*).
+
+In the background of this part, there are multiple UTAU-related things shown (also shown in the screenshot above):
+
+* OREMO
+* frqeditor
+* various reclists
+    * Kurosi's 8 morae one
+    * consonant sounds
+    * breathy vowels
 
 <p class="npf_color_ross">
 声帯をぶち盗って！<br>
