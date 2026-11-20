@@ -70,6 +70,42 @@ Do whatever you want with my code and website layout. Take a few ideas for inspi
 
 As for the content of this site, you may also do basically whatever, but please credit me and link back if you're copying/pasting chunks of my writing/art.
 
+<details><summary>Example</summary>
+
+
+
+> I am glad the warning is there, but I think more websites should strive to be accessibility-friendly even if it is annoying or ruins your aesthetic; seeing these warnings makes me honestly a bit sad.   
+>
+> I wrote this BTW
+
+This is not OK. No you didn't
+
+
+> I am glad the warning is there, but I think more websites should strive to be accessibility-friendly even if it is annoying or ruins your aesthetic; seeing these warnings makes me honestly a bit sad.   
+>
+> Whoever wrote this is an absolute genius
+
+This is also not OK. Please credit me and link back to me, because I know you know who wrote this since you're copying verbatim.
+
+> Fire says on their website: 
+> 
+> I am glad the warning is there, but I think more websites should strive to be accessibility-friendly even if it is annoying or ruins your aesthetic; seeing these warnings makes me honestly a bit sad.   
+
+This is also not OK. Please link to the page you got it from, or at least just my website. No one knows who "Fire" is automatically.
+
+> Fire says [on his website](/posts/20260721.html): 
+> 
+> I am glad the warning is there, but I think more websites should strive to be accessibility-friendly even if it is annoying or ruins your aesthetic; seeing these warnings makes me honestly a bit sad.  
+
+This is also not OK. My pronouns are not he/him
+
+> Fire says [on their website](/posts/20260721.html): 
+> 
+> I am glad the warning is there, but I think more websites should strive to be accessibility-friendly even if it is annoying or ruins your aesthetic; seeing these warnings makes me honestly a bit sad.  
+
+This is OK.
+</details>
+
 ### Origins
 I made this website on August 18, 2020 for reasons that are beyond me. I left it alone for six years, and then picked it back up in February of 2026 because I was bored and wanted a space away from social media. I abandoned it for a few more months and came back again in July 2026, so I could host my UTAU here.
 
