@@ -71,13 +71,15 @@ sup a {
 
 ## Introduction
 
-On May 17th, 2026, I published [a Tumblr post](https://www.tumblr.com/fire7541/816918342990544896/ongentoro?source=share) translating and analyzing the song [Ongentoro](https://vocadb.net/S/932592) by [avogado6](https://vocadb.net/Ar/2436). I've made tons of edits to the post since then, and it's garnered some positive reception. My "posts" page has been a bit empty looking so I decided to add it here. I also wanted to spread this post outside of Tumblr so all of you guys can become UTAU too. 
+On May 17th, 2026, I published [a Tumblr post](https://www.tumblr.com/fire7541/816918342990544896/ongentoro?source=share) translating and analyzing the song [Ongentoro](https://vocadb.net/S/932592) by [avogado6](https://vocadb.net/Ar/2436). I've made tons of edits to the post since then, and it's garnered some positive reception. 
+
+My "posts" page has been a bit empty looking so I decided to add it here. I also wanted to spread this post outside of Tumblr so all of you guys can become UTAU too. 
 
 All you need to know for this post is what UTAU is. And if you don't know: they're basically singing voice synthesizers that are entirely free, and anyone can make one. Freeware Vocaloid. There you go; we're all on the same page, now.
 
 There are a ton of hyperlinks, and I recommend clicking them if you'd like more information about certain things. I also recommend reading all the footnotes.
 
-I've made some edits to account for me posting this on a website instead of Tumblr, but otherwise the content is the same on Tumblr and my website (or at least, that's the goal).
+I've made some edits to account for me posting this on a website instead of Tumblr. Currently, this version is the **most updated version** but I plan to make the same/similar edits to my Tumblr post. Eventually. It's coming.
 
 <div class="videowrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/NQgNP67WSck?si=W-QStCqcquPnAG_8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
