@@ -78,40 +78,39 @@ As for the content of this site, you may also do basically whatever, but please 
 >
 > I wrote this BTW
 
-This is not OK. No you didn't
-
+**This is not OK.** No you didn't
 
 > "I am glad the warning is there, but I think more websites should strive to be accessibility-friendly even if it is annoying or ruins your aesthetic; seeing these warnings makes me honestly a bit sad."   
 >
 > Whoever wrote this is an absolute genius
 
-This is also not OK. Please credit me and link back to me, because I know you know who wrote this since you're copying verbatim.
+**This is also not OK.** Please credit me and link back to me, because I know you know who wrote this since you're copying verbatim.
 
 > Fire says on their website: 
 > 
 > "I am glad the warning is there, but I think more websites should strive to be accessibility-friendly even if it is annoying or ruins your aesthetic; seeing these warnings makes me honestly a bit sad."
 
-This is also not OK. Please link to the page you got it from, or at least just my website. No one knows who "Fire" is automatically.
+**This is also not OK.** Please link to the page you got it from, or at least just my website. No one knows who "Fire" is automatically.
 
-> Fire says [on his website](/posts/20260721.html): 
+> Fire says [on his website](/posts/accessibility.html): 
 > 
 > "I am glad the warning is there, but I think more websites should strive to be accessibility-friendly even if it is annoying or ruins your aesthetic; seeing these warnings makes me honestly a bit sad." 
 
-This is also not OK. My pronouns are not he/him
+**This is also not OK.** My pronouns are not he/him
 
-> Fire says [on their website](/posts/20260721.html): 
+> Fire says [on their website](/posts/accessibility.html): 
 > 
 > "I am glad the warning is there, but I think more websites should strive to be accessibility-friendly even if it is annoying or ruins your aesthetic; seeing these warnings makes me honestly a bit sad." 
 
-This is OK!
+**This is OK!**
 
 > I saw a post that was like "even if it's annoying more websites should have accessibility features" and I am inclined to agree
 
-This is also OK! As long as you're not directly quoting me, I am fine with being vaguely gestured at. We can't all have photographic memory.
+**This is also OK!** As long as you're not directly quoting me, I am fine with being vaguely gestured at. We can't all have photographic memory.
 
 > I was inspired by a post I saw to add more accessibility features to my website.
 
-This is also OK! See above. (Of course, I think it'd be best to link the post in question, but I really don't care.) 
+**This is also OK!** See above. (Of course, I think it'd be best to link the post in question, but I really don't care.) 
 
 </details>
 
