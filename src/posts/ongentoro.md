@@ -1,7 +1,7 @@
 ---
 title: "Extensive Ongentoro Overanalysis"
 layout: "post.html"
-date: 2026-11-18
+date: 2026-11-20
 tags: 
     - translation
 ---
@@ -581,7 +581,7 @@ ima kara watashi no iu koto o kurikaeshite kudasainee!</i></p>
 
 <p class="npf_color_ross">
 Alright!<br>
-Just repeat after me!</p>
+Please repeat after me!</p>
 
 <p class="npf_color_rachel">
 うっす</p>
