@@ -17,7 +17,7 @@
 body{
     margin-left: 4.25rem;
     margin-right:10rem;
-    line-height:1.625rem;
+    line-height:1.6rem;
     background-color: var(--bg);
     color: var(--main);
     font-family: Inter, sans-serif;
@@ -203,6 +203,7 @@ mobile
     }
     body {
         margin:0;
+        font-size:1rem;
         grid-template-columns:100%;
         grid-template-areas:
         "header"
