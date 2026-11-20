@@ -13,7 +13,7 @@
     --link:oklch(54.1% 0.281 293.009);
     --bq:oklch(55.2% 0.016 285.938);
 }
-body{height:100%;}
+body{height:100%;zoom:120%;}
 body{
     
     margin-left: 4.25rem;

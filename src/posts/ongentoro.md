@@ -25,7 +25,7 @@ tags:
         color: #dd199f;
     }
     img {
-        max-width:65%;
+        max-width:55%;
         max-height:50%;
     }
     .nomobile {
@@ -38,10 +38,6 @@ sup a {
     text-decoration: none;
     color: var(--link);
 }
-ruby {ruby-overhang:none;}
-    sup a:hover {
-        color:var(--main);
-    }
 .videowrapper {
     float: none;
     clear: both;
@@ -57,12 +53,6 @@ ruby {ruby-overhang:none;}
     left: 0;
     width: 100%;
     height: 100%;
-}
-
-@media screen and (max-width: 1000px) {
-.videowrapper {
-    width:70%;
-}
 }
 </style>
 
