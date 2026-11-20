@@ -81,7 +81,7 @@ As for the content of this site, you may also do basically whatever, but please 
 This is not OK. No you didn't
 
 
-> I am glad the warning is there, but I think more websites should strive to be accessibility-friendly even if it is annoying or ruins your aesthetic; seeing these warnings makes me honestly a bit sad.   
+> "I am glad the warning is there, but I think more websites should strive to be accessibility-friendly even if it is annoying or ruins your aesthetic; seeing these warnings makes me honestly a bit sad."   
 >
 > Whoever wrote this is an absolute genius
 
@@ -89,19 +89,19 @@ This is also not OK. Please credit me and link back to me, because I know you kn
 
 > Fire says on their website: 
 > 
-> I am glad the warning is there, but I think more websites should strive to be accessibility-friendly even if it is annoying or ruins your aesthetic; seeing these warnings makes me honestly a bit sad.   
+> "I am glad the warning is there, but I think more websites should strive to be accessibility-friendly even if it is annoying or ruins your aesthetic; seeing these warnings makes me honestly a bit sad."
 
 This is also not OK. Please link to the page you got it from, or at least just my website. No one knows who "Fire" is automatically.
 
 > Fire says [on his website](/posts/20260721.html): 
 > 
-> I am glad the warning is there, but I think more websites should strive to be accessibility-friendly even if it is annoying or ruins your aesthetic; seeing these warnings makes me honestly a bit sad.  
+> "I am glad the warning is there, but I think more websites should strive to be accessibility-friendly even if it is annoying or ruins your aesthetic; seeing these warnings makes me honestly a bit sad." 
 
 This is also not OK. My pronouns are not he/him
 
 > Fire says [on their website](/posts/20260721.html): 
 > 
-> I am glad the warning is there, but I think more websites should strive to be accessibility-friendly even if it is annoying or ruins your aesthetic; seeing these warnings makes me honestly a bit sad.  
+> "I am glad the warning is there, but I think more websites should strive to be accessibility-friendly even if it is annoying or ruins your aesthetic; seeing these warnings makes me honestly a bit sad." 
 
 This is OK!
 
