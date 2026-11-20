@@ -84,8 +84,6 @@ These links are all free, have little/no ads, are browser-based, and are mobile 
 ### Classic games
 <dl>
 
-<dt><a href="https://classic-majong.com">Classic Mahjong</a>
-
 <dt><a href="https://lichess.org">Lichess</a>
 
 <dt><a href="https://solitaireowl.com">Solitaire Owl</a>
@@ -217,9 +215,6 @@ Games that change their answer every day and end in "-le"
 
 ### Misc
 <dl>
-
-<dt><a href="https://dumby.neocities.org/casino">Dumby's Casino</a> 
-<dd>Let's go gambling!!
 
 <dt><a href="https://www.coderelay.io/fontemon.html#player">Fontemon</a>
 <dd>The World's First Video Game in a Font. Pokemon fan game
