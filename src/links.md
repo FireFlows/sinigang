@@ -229,7 +229,7 @@ Games that change their answer every day and end in "-le"
 <dt><a href="https://novelgame.jp/">Novel Game</a> 
 <dd>Japanese website where people can upload their own visual novels. Works with Japanese popup dictionaries like Yomitan and rikaikun
 
-<dt><a href="https://microfictiongames.neocities.org/">Micro Fiction Game Jam</dd>
+<dt><a href="https://microfictiongames.neocities.org/">Micro Fiction Game Jam</a></dd>
 <dd>A jam where people try to design a game in 280 characters (or less), fitting a certain theme. 
 
 <dt><a href="https://internet-janitor.itch.io/wigglypaint">Wiggly Paint</a>
