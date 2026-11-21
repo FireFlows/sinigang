@@ -71,7 +71,8 @@ These links are all free, have little/no ads, are browser-based, and are mobile 
 * [Teppy's Layouts](https://teppyslayouts.neocities.org/)
 
 ### Meta
-* [r/neocities frequently asked questions and (my) answers](https://mevdik.nekoweb.org/guides/r-neocities-faq-and-my-answers)
+* [Finding the Neocities "Algorithm"](https://mew151.neocities.org/cyber/neocities)
+* [r/neocities frequently asked questions and (my) answers](https://mevdik.nekoweb.org/guides/r-neocities-faq-and-my-answers) (by Mevdik)
 * [Some Undocumented Neocities Mechanics](https://suboptimalism.neocities.org/writings/undocumented)
 
 ## Fun and Games
