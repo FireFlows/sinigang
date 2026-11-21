@@ -2,27 +2,30 @@
 title: "Voicebanks"
 layout: "utaumain.html"
 ---
-<h2><ruby>花火<rt>はなび</rt></ruby>シロ / Hanabi Shiro</h2> 
+## <ruby>花火<rt>はなび</rt></ruby>シロ / Hanabi Shiro</h2> 
+
 <img style="margin:1.125rem;max-height:450px;max-width:85%;border:2.5px solid #333333;" alt ="A reference image of my UTAU, Hanabi Shiro." src="/assets/img/shiroref.png">
-<h3>Character Information</h3>
-<ul>
-<li>Birthday: March 14th</li>
-<li>Height: 5'3 in (160cm)</li>
-<li>Age: 19</li>
-<li>Gender: None</li>
-<li>Handedness: Ambidextrous, but prefers right hand</li>
-<li>Likes: scented pens, random number tables, drawing</li>
-<li>Dislikes: people</li>
-</ul>
-<p>A robot who killed their creator after being fed the sum of all human knowledge.</p>
-<p>Since then, they've dedicated the rest of their life to learning new things. They write what they learn on their bandages, and then eat the bandages to fully digest the information (so they say).</p>
-</ul>
 
-<hr>
+### Character Information
+* Birthday: March 14th
+* Height: 5'3 in (160cm) 
+* Age: 19
+* Gender: None
+* Handedness: Ambidextrous, but prefers right
+* Likes: scented pens, random number tables, drawing
+* Dislikes: people
 
-<h3>Download</h3>
-<p>Please read and accept the <a href="tou.html">Terms of Use</a> before downloading.</p>
-<h4>JA VCV</h4>
+A robot who killed their creator after being fed the sum of all human knowledge.
+
+Since then, they've dedicated the rest of their life to learning new things. They write what they learn on their bandages, and then eat the bandages to fully digest the information (so they say).
+
+----
+
+### Download
+
+Please read and accept the <a href="tou.html">Terms of Use</a> before downloading.
+
+### JA VCV
 
 <img class="side" style="margin:1.125rem;max-height:250px;max-width:85%;border:2.5px solid #333333" alt="Shiro's portrait for their VCV." src="/assets/img/vcv.png" >
 
@@ -31,6 +34,7 @@ layout: "utaumain.html"
 * Voice/oto/illust: Fire
 
 The voicebank also comes with some extra phonemes I recorded under a folder called おまけ. Some phonemes can be used for rudimentary English pronunciation.  
+
 * あ・: /ʔ/  
 * a 5: /ɫ/  
 * a T: /θ/   
@@ -69,11 +73,10 @@ ust: <a href="https://youtu.be/sr6DlS0VI-8">まきの</a>
 
 <a href="https://bowlroll.net/file/361800">Alternate download link (bowlroll)</a>
 
-<h3>Extra Information</h3>
-<ul>
-<li><a href="https://artfight.net/character/9677619.hanabi-shiro">Art Fight profile</a></li>
-<li><a href="extra.html">Creation notes</a></li>
-<li><a href="https://www.tumblr.com/fire7541/tagged/utaulog">Development logs (on Tumblr)</a></li>
+----
 
+### Extra Information
 
-</ul>
+* [Art Fight profile](https://artfight.net/character/9677619.hanabi-shiro)
+* [Creation notes](https://sinigang.neocities.org/utau/extra.html)
+* [Development logs (on Tumblr)](https://www.tumblr.com/fire7541/tagged/utaulog)
