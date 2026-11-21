@@ -1,10 +1,16 @@
 ---
-title: "Welcome"
+title: "Home"
 layout: "utaumain.html"
 ---
 
-Welcome to my website's UTAU zone. A lot of things are still a major work in progress, so please mind the mess. 
+Hi, my name is Fire and I love UTAU so much I created one! Click the links at the top to learn more!!!
 
-Currently, I have one released voicebank (Hanabi Shiro's VCV). I released them on October 4th, 2026. I am working on their Japanese CVVC and English CVVC (release date unknown, but I am working on it!).
+Current:
+* hanabi shiro - released oct 4 2026 (vcv)
 
-**I am in the process of redesigning this part of the website!!! I know it's a little ugly right now but all the words are still there!! Thank you.**
+Planned:
+
+* revamp of shiro's vb (sometime in 2027)
+* shiro eng vb (ditto)
+* new vb: hanabi kuro (!?)
+* inanimate utau voicebank!?!?!

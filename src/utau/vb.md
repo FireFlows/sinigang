@@ -3,7 +3,7 @@ title: "Voicebanks"
 layout: "utaumain.html"
 ---
 <h2><ruby>花火<rt>はなび</rt></ruby>シロ / Hanabi Shiro</h2> 
-<img class="side" style="margin:1.125rem;max-height:450px;max-width:85%;border:2.5px solid #333333;" alt ="A reference image of my UTAU, Hanabi Shiro." src="/assets/img/shiroref.png">
+<img style="margin:1.125rem;max-height:450px;max-width:85%;border:2.5px solid #333333;" alt ="A reference image of my UTAU, Hanabi Shiro." src="/assets/img/shiroref.png">
 <h3>Character Information</h3>
 <ul>
 <li>Birthday: March 14th</li>

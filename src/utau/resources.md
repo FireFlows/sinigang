@@ -4,26 +4,30 @@ layout: "/utaumain.html"
 ---
 I love collecting links, so I've synthesized (haha) a list of various UTAU resources. Everything listed below is 100% free, and a lot of these are open source. 
 
-Some links are only available in Japanese and will be marked with (JA).
+Some links are only available in Japanese and will be marked with (JA). Links that work on your browser are marked with (browser).
 
 ## Programs
 ### Engine
 * [OpenUTAU](https://openutau.com)
     * [OpenUTAU Wiki](https://github.com/openutau/OpenUtau/wiki)
     * [OpenUTAU Mobile](https://github.com/vocoder712/OpenUtauMobile)
-* [Utalet](https://k-uta.jp/utalet/)
+* [PRINTmov Vocal](https://printmov.com/web-synth/) (browser)
+* [Utalet](https://k-uta.jp/utalet/) (browser)
 * [UTAU](https://utau2008.xrea.jp/)
+
 ### Recording
 * [RecStar](https://github.com/sdercolin/recstar/)
-### Configuration / Otoing
-* [Laberu](https://k-uta.jp/laberu/)
+
+### Configuration (Otoing)
+* [Laberu](https://k-uta.jp/laberu/) (browser)
 * [setParam](https://web.archive.org/web/20250406181659/https://osdn.net/users/nwp8861/pf/setParam/files/)
 * [vLabeler](https://vlabeler.com)
+
 ### Audio Postprocessing
 * [Audacity](https://www.audacityteam.org/)
 ### Misc
 * [frqeditor](https://klad.tubs.wtf/resources/frqeditor-conversion-tutorial)
-* [Gakuya](https://k-uta.jp/gakuya/) 
+* [Gakuya](https://k-uta.jp/gakuya/) (browser)
 * [Resamplers and wavtools](https://utau-4-you.tumblr.com/post/714525209418481664/resamplerwavtool-directory)
 * [UtaFormatix](https://sdercolin.github.io/utaformatix3/)
 

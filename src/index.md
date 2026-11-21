@@ -11,13 +11,11 @@ My website is mobile-friendly and accessible. Works best with Javascript enabled
 
 I swear on occasion. There may be occasional suggestive themes. The UTAU part of the site has all the words on there but looks a little ugly because I removed all the CSS. Oops. I plan to fix it soon, though.
 
-While you're checking out this site, why don't you [sign my guestbook](guestbook.html) or [draw something](drawbox.html)?
+While you're here, why don't you [sign my guestbook](guestbook.html) or [draw something](drawbox.html)?
 
 ## Now
 
-I've made a lot of progress on my website. I've added a bunch of things, made it less ugly, and even sent in applications for a few webrings, which I've neglected to do for months. Yay yay yay. Unfortunately I've kinda been neglecting everything else for this
-
-2026/11/18
+Today's my aunt's birthday! I revamped the UTAU part of my website so it should look less ugly now. You may argue it is still a little ugly but I like simplicity. Check out the songs I have below in my status.cafe and Vocaloid playlist.
 
 <span class="d-js-required">
 
@@ -30,9 +28,6 @@ id='player'></div>
   </div>
 
   As the title says. My Vocaloid playlist is [here](https://www.youtube.com/playlist?list=PLFCCsWwB4Mxk). Sometimes, the thumbnail will be the song most recently added to the playlist, but clicking the video (or "Shuffle again") will shuffle the playlist.
-
-  "Vocaloid" is used as an umbrella term here. This playlist also includes mashups and covers.
-
   
 ## status.cafe widget
 <div id="statuscafe"><div id="statuscafe-username"></div><div id="statuscafe-content"></div></div>
