@@ -25,6 +25,7 @@ I like these but a bit less
 * Collecting things (digital and physical)
 * Cute things
 * Public transportation
+* Purple (color)
 
 ### Uses
 * Consoles: LCD 256GB Steam Deck and Nintendo Switch Lite
