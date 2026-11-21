@@ -23,6 +23,9 @@ Yes. Especially because my otoing is terrible.
 ### Can I change their clothes/hair/gender/species/etc?
 Yeah that's fine.
 
+### Can I use other pronouns for them?
+Yeah I just use they/them to accentuate that they don't have a gender
+
 ## What's not okay
 Do not use my voicebank in songs made with generative AI or videos with AI generated images.
 

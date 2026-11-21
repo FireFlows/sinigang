@@ -78,7 +78,7 @@ The current design reference I have on Art Fight! From July 3, 2026. How cute.
 
 If you're wondering what's under their clothes — nothing. No nipples, no genitals, nothing. [Asexual Drake](<https://knowyourmeme.com/sensitive/memes/love-this-asexual-drake-just-platonic-vibes>) vibes.
 
-**Personality**
+### Personality
 
 Their personality is based slightly off of mine, just like their design.
 
@@ -90,7 +90,7 @@ And before I came up with that, I had the idea that they got fed so much knowled
 
 Despite being very intelligent, they're nerfed from not being very sociable. Like me, except my intelligence is only average, high average if you're being generous. While it's impossible for robots to have neurodevelopmental disorders since they do not have neurons, they have a lot of autistic and ADHD traits. Because I have autism and ADHD. See, I don't know how to write characters without them being Myself Lite. That's why I could never be a fiction author. Nonfiction, maybe.
 
-**Factoids**
+### Factoids 
 
 <ul>
 <li>Birthday: March 14th</li>
