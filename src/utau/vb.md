@@ -13,7 +13,7 @@ layout: "utaumain.html"
 * Gender: None
 * Handedness: Ambidextrous, but prefers right
 * Likes: scented pens, random number tables, drawing
-* Dislikes: people
+* Dislikes: people, crowded places
 
 A robot who killed their creator after being fed the sum of all human knowledge.
 
