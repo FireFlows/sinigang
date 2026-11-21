@@ -72,7 +72,9 @@ footer {
 nav a {
     padding:10px;
 }
-
+@media screen and (max-width:1000px){
+    body {padding:5%;}
+}
 .side {
     float:right;
     @media screen and (max-width:600px) {
