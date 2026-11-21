@@ -110,3 +110,6 @@ Since they're a highly-advanced robot, I thought they should be ambidextrous. Th
 
 They like scented pens because when they eat scented ink, it almost tastes like the real thing. They like random number tables because they're unpredictable, and they're a fan of strings of information in general due to their totally possible autism. (But I only wanted to list up to 3 things for "likes," so it leaves more room for interpretation of their character.)
 
+### Creator
+
+You may ask who this mysterious creator is... and, well, I don't have an answer to this because I wanted it to be vague so it can be interpreted in many ways. I like to think their creator is me. Or you. Or anyone who downloads their voicebank. Or, it could even be Kuro, I guess.
