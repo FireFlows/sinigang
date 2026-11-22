@@ -14,14 +14,14 @@ ps on my mother i have never seen oklch dafaq
 Ok u can convert it to normal
 */
 :root {
-    --main: #000;
+    --main: #181818;
     --bg: #ffffff;
     --aside: #f1f1f1;
     --accent:#8a5cf5;
     --bq:#99a1af;
 }
 [theme="dark"]{
-    --main:#fafafa;
+    --main:#fff;
     --bg: #222222;
     --aside: #353535;
     --bq: #9f9fa9;

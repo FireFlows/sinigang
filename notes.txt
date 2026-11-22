@@ -12,14 +12,15 @@ Thanks for viewing
 
 * en/jp switcher? (for at least some content, e.g. terms of use, voicebank)
 * mobile burger menu?
-* put debitbit post on here
-* revamp of /utau 
 * finish feed.xml page
 * organization of webrings (maybe into some sort of grid thing) like jbc.lol
 * more posts! always! kyu! love!
 * # header links
 * /links more links to webrings, fanlistings, etc.
 * https://webmeji.neocities.org/ ?
+* improved posts page that lets me have multiple
+posts under the same category without being WEIRD 
+see https://maia.crimew.gay/
 
 *I'm still figuring out how to display some parts in the #extra translations part; specifically, my commentary
 maybe it should be a different color? But I don't know. Like
@@ -38,6 +39,9 @@ Hand-curated list of links related to different topics.
 - wiggly paintb
 magma 
 whiteborad fox
+
+# environment 
+https://www.websitecarbon.com/
 
 Sites I'm stalking
 
@@ -63,31 +67,6 @@ https://kevincox.ca/2022/05/06/rss-feed-best-practices/
 * wiktionary.org universal dictionary
 * Urban dictoinary good for slang terms
 
-Tutorials
-https://stackoverflow.com/questions/10671174/changing-button-text-onclick
-https://en.wikipedia.org/wiki/Favicon#How_to_use
-https://www.w3schools.com/howto/howto_css_contact_form.asp
-https://www.reddit.com/r/neocities/comments/p2ohhf/martindisks_messy_guide_to_having_custom_fonts_on/
-https://www.w3schools.com/howto/howto_js_image_grid.asp
-https://maybecoding.bearblog.dev/adding-a-private-feedback-box-to-bear/
-https://virtualobserver.moe/ayano/comment-widget
-https://zonelets.net
-https://pepelsbey.dev/articles/native-light-dark/
-https://hidde.blog/dark-light/
-
-Resources
-https://codepen.io/ 
-https://rice.place/bookmark.html
-https://humantooth.neocities.org/linkout
-https://99gifshop.neocities.org/
-https://adriansblinkiecollection.neocities.org/
-https://discourse.32bit.cafe/t/resources-list-for-the-personal-web/49
-https://pixelsafari.neocities.org/webring/
-https://vv0ltz.neocities.org/resources
-https://paintbbs.sakura.ne.jp/poti/
-https://web.archive.org/web/20250806115336/https://drawbox.nekoweb.org/
-https://htmlcheatsheet.com/
-
 misc
 
 https://perfectmotherfuckingwebsite.com/ 
@@ -97,17 +76,3 @@ https://smoothsailing.asclaria.org/
 https://ranmpy.neocities.org/misc/urls
 https://flashpointarchive.org/
 https://pudding.cool/
-
-https://flashpointarchive.org/
-
-
-My favorite free opensource applications and websites
-* neocities.org
-* openutau.com
-* archiveofourown.org
-* vocadb.net
-* vndb.org
-* wikipedia.org
-* krita
-* godot
-* blender 
