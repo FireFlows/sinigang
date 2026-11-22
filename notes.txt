@@ -13,6 +13,9 @@ Thanks for viewing
 * en/jp switcher? (for at least some content, e.g. terms of use, voicebank)
 * mobile burger menu?
 * finish feed.xml page
+* draw self portrait for your about page
+* buy custom domain sinigang.net ?
+* get custom domain utau.sinigang.net ?
 * organization of webrings (maybe into some sort of grid thing) like jbc.lol
 * more posts! always! kyu! love!
 * # header links
@@ -22,8 +25,6 @@ Thanks for viewing
 posts under the same category without being WEIRD 
 see https://maia.crimew.gay/
 
-*I'm still figuring out how to display some parts in the #extra translations part; specifically, my commentary
-maybe it should be a different color? But I don't know. Like
 
 whenever I finish creating my UTAU i want to make a guide to create one cuz 
 the tutorials we have rn are so fucking ancient bruh like don't piss me off
