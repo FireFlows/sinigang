@@ -29,8 +29,8 @@ id='player'></div>
     <button onclick="shuff_list()">Shuffle again</button>
   </div>
 
-  As the title says. My Vocaloid playlist is [here](https://www.youtube.com/playlist?list=PLFCCsWwB4Mxk). Sometimes, the thumbnail will be the song most recently added to the playlist, but clicking the video (or "Shuffle again") will shuffle the playlist.
-  
+Plays a (randomized) song from my [playlist](https://www.youtube.com/playlist?list=PLFCCsWwB4Mxk). The playlist starts shuffled, but you can always click "shuffle again."
+
 ## status.cafe widget
 <div id="statuscafe"><div id="statuscafe-username"></div><div id="statuscafe-content"></div></div>
 
