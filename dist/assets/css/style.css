@@ -17,14 +17,14 @@ INSPIRED BY OBSIDIAN
 :root {
     --main: #181818;
     --bg: #fafafa;
-    --aside: #f1f1f1;
+    --aside: #e9e9e9;
     --accent:#8652FF;
     --bq:#606A7B;
 }
 [theme="dark"]{
     --main:#fff;
-    --bg: #292929;
-    --aside: #353535;
+    --bg: #222;
+    --aside: #313131;
     --bq: #B4B4BB;
 }
 /* these are specifically for things that i've 
