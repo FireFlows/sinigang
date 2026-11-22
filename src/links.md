@@ -36,6 +36,7 @@ These links are all free, have little/no ads, are browser-based, and are mobile 
 
 ### Resources
 * [32-bit cafe](https://32bit.cafe/)
+    * [32-bit cafe's resource list for the personal web](https://discourse.32bit.cafe/t/resources-list-for-the-personal-web/49)
 * [Ayano's Neocities Comment Widget](https://virtualobserver.moe/ayano/comment-widget)
 * [Deploying Your Site to Neocities](https://nenrikido.neocities.org/blog/post/deploy-site/)
 * [Eleventy](https://www.11ty.dev/)

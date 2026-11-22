@@ -8,7 +8,6 @@ function getTime() {
         timeZone: 'America/New_York',
         hour: 'numeric',
         minute: '2-digit',
-        second: '2-digit',
         hour12: true,
         timeZoneName: 'short'
     });
@@ -51,4 +50,4 @@ function getTime() {
 
 setTheme();
 getTime();
-setInterval(getTime, 1000);
+setInterval(getTime, 10000);
