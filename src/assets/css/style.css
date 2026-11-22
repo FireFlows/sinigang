@@ -322,7 +322,7 @@ Responsiveness
 works fine no matter the zoom level,
 but i stopped at around 400%
 */
-@media screen and (max-width:415px){
+@media screen and (max-width:375px){
     aside {height:170px;}
 }
 
