@@ -20,12 +20,16 @@
 		<span aria-hidden="true" style="font-weight:700; font-size:2rem;">sinigang.neocities.org</span>
 		</header>
 	<aside>
+		<a class="skip-to-content-link" href="#main">
+  Skip to content
+</a>
 		<img aria-hidden="true" src="/assets/img/avatar.png" height="240" class="nomobile" alt="">
 		<span class="nomobile d-js-required">
 			<br>My current time:<br>
 			<span id="local-time-main"></span><br>
 			<span id="local-time-extra"></span>
-		</span>
+		</span><br>
+
 			<nav>
 			<ul>
 				<li><a href="/">Home</a></li>
@@ -43,7 +47,7 @@
 		Toggle theme
 		</button>
 	</aside>
-	<main> 
+	<main id="main"> 
 		
 	<h1>Accessibility</h1>
     <p>Filed under: 
@@ -59,15 +63,15 @@ etc.</p>
 <p>Making your website accessible to as many people as possible should be one of the top priorities in a personal website. It is one of my top priorities, in a world where <a href="https://webaim.org/projects/million/">most websites are not accessible to disabled users</a>.</p>
 <h2>How my website is accessible</h2>
 <ul>
-<li><em>Most</em> images have alt text
-<ul>
-<li>currently the images on <a href="debitbit.html">Extensive DebitBit analysis</a> do <em>not</em> have alt text but I am working on it</li>
-</ul>
-</li>
 <li>Colors tested for contrast
 <ul>
 <li>with WebAIM's color contrast checker</li>
 <li>my eyesight is also just not very good so the colors are also tested against my eyeballs</li>
+</ul>
+</li>
+<li><em>Most</em> images have alt text
+<ul>
+<li>currently the images on <a href="debitbit.html">Extensive DebitBit analysis</a> do <em>not</em> have alt text but I am working on it</li>
 </ul>
 </li>
 <li>Language text set to &quot;en&quot; on all pages</li>
@@ -81,19 +85,11 @@ etc.</p>
 </li>
 <li>Navigable using the tab and arrow keys</li>
 <li>Semantic HTML whenever possible</li>
+<li>Skip to main content link</li>
 <li>Works on any resolution and mobile</li>
 <li>Works with Javascript disabled</li>
 </ul>
 <p>I plan to add more accessibility features in the future.</p>
-<!-- 
-to add
-* skip to main content link
-* figure out how to get external links the aria-hidden thingy
-* hide features that do not work with javascript
-    * current time
-    * page/site last updated script
-    * status.cafe widget
--->
 <h2 id="links">Links</h2>
 <ul>
 <li><a href="https://accessible-webmastery.neocities.org/">Accessible Webmastery</a></li>

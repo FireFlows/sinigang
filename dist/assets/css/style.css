@@ -48,8 +48,19 @@ analyses. actually those are the only 2 for now */
 .npf_color_chandler {
     color: #c2218f;
 }
-
-
+.skip-to-content-link {
+      z-index:-99;
+  margin:.25rem;
+  padding:.25rem;
+  position:absolute
+}
+:focus {
+    color:var(--main);
+}
+.skip-to-content-link:focus {
+  z-index:99;
+  position:relative
+}
 body{
     margin-left: 4.25rem;
     margin-right:10rem;
@@ -167,8 +178,10 @@ aside {
     img {
         border: 5px solid var(--aside);
     }
-    grid-area: aside;
-    height: 750px;
+    height:32%;
+    min-height:750px;
+    max-height: 900px;
+    grid-area: aside;    
     max-width:250px;
     position: sticky;
     text-align: center;
@@ -178,6 +191,7 @@ aside {
 }
 nav {    
     font-weight:600;
+    
     ul {
         list-style-type: none;
         padding:0;
@@ -195,7 +209,6 @@ nav {
     li a:hover {
     background-color: var(--bg);
     color: var(--accent);
-
 }
 
 }
@@ -251,13 +264,12 @@ Responsiveness
     body {
         margin-left:1.75rem;
     }
-    
 }
 @media screen and (max-width:1200px){
     body {
         margin-left:0.75rem;
-
     }
+
 }
 @media screen and (max-width: 1000px) {
     /* entering "mobile mode" */
@@ -275,9 +287,10 @@ Responsiveness
         "footer";
   }
   aside {
+    min-height:70px;
     max-width:100%;
     position:initial;
-    height:80px;
+    height:15vh;
     ul {
         gap: 7px;
         font-size:1.25rem;
@@ -305,11 +318,10 @@ Responsiveness
     display: contents;
   }
 }
-@media screen and (max-width:950px){
-    aside{height:80px;}
-}
-@media screen and (max-width:833px){
-    aside{height:125px;}
+@media screen and (max-width:850px){
+    aside {
+        height:20vh;
+    }
 }
 @media screen and (max-width: 600px) {
     /*phone sizes and such*/
@@ -320,15 +332,4 @@ Responsiveness
     footer {
         font-size:.95rem;
     }
-}
-/*REALLY wanted to make sure this website still
-works fine no matter the zoom level,
-but i stopped at around 400%
-*/
-@media screen and (max-width:375px){
-    aside {height:170px;}
-}
-
-@media screen and (max-width:280px){
-    aside {height:215px;}
 }

@@ -18,11 +18,12 @@ Making your website accessible to as many people as possible should be one of th
 
 ## How my website is accessible
 
-* *Most* images have alt text 
-    * currently the images on [Extensive DebitBit analysis](debitbit.html) do *not* have alt text but I am working on it
+
 * Colors tested for contrast 
     * with WebAIM's color contrast checker
     * my eyesight is also just not very good so the colors are also tested against my eyeballs
+* *Most* images have alt text 
+    * currently the images on [Extensive DebitBit analysis](debitbit.html) do *not* have alt text but I am working on it
 * Language text set to "en" on all pages
 * Legible text at 200% zoom (and beyond)
 * Minimal distractions
@@ -31,20 +32,12 @@ Making your website accessible to as many people as possible should be one of th
     * no autoplaying audio, videos, GIFs, etc.
 * Navigable using the tab and arrow keys
 * Semantic HTML whenever possible
+* Skip to main content link
 * Works on any resolution and mobile
 * Works with Javascript disabled
 
 I plan to add more accessibility features in the future.
 
-<!-- 
-to add
-* skip to main content link
-* figure out how to get external links the aria-hidden thingy
-* hide features that do not work with javascript
-    * current time
-    * page/site last updated script
-    * status.cafe widget
--->
 
 <h2 id="links">Links</h2>
 
