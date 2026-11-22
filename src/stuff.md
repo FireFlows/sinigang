@@ -62,8 +62,6 @@ I am an [EDM/drum and bass](https://reef.kingdra.net/) connoisseur
 
 [fan](https://reef.kingdra.net/) & artist, writer, animator (rarely), translator (rarely), cover artist (rarely)
 
-[gore](https://petrapixel.neocities.org/cliques) / as long as it isn't real
-
 [Internet Obsession](https://lockheart.love/collections/cliques) ! everything
 
 [Language Learning](https://lockheart.love/collections/cliques) ! English (forever), Japanese, Chinese, any I find interesting
