@@ -16,16 +16,16 @@ INSPIRED BY OBSIDIAN
 */
 :root {
     --main: #181818;
-    --bg: #ffffff;
+    --bg: #fafafa;
     --aside: #f1f1f1;
     --accent:#8652FF;
-    --bq:#99a1af;
+    --bq:#606A7B;
 }
 [theme="dark"]{
     --main:#fff;
-    --bg: #222222;
+    --bg: #292929;
     --aside: #353535;
-    --bq: #9f9fa9;
+    --bq: #B4B4BB;
 }
 /* these are specifically for things that i've 
 reposted from Tumblr like my ongentoro and debitbit 
@@ -57,7 +57,7 @@ body{
     background-color: var(--bg);
     color: var(--main);
     font-family: Inter, sans-serif;
-    font-size: 1.15rem;
+    font-size: 1.125rem;
     display: grid;
     grid-template-areas:
         ". header header  "

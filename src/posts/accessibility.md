@@ -1,7 +1,7 @@
 ---
 title: "Accessibility"
 layout: "post.html"
-date: 2026-11-15
+date: 2026-11-22
 tags: 
     - pinned
 ---
@@ -21,9 +21,7 @@ Making your website accessible to as many people as possible should be one of th
 * *Most* images have alt text 
     * currently the images on [Extensive DebitBit analysis](debitbit.html) do *not* have alt text but I am working on it
 * Colors tested for contrast 
-    * the WebAim contrast checker is a little incorrect on my site; the font size is *slightly* bigger than normal (1.15rem as opposed to 1rem), so some colors that are actually fine show up as an error.
-        * just wanted to put this here if anyone tries to jebait me like "oh but *here* it says that your colors don't have good contrast, ooh you're not following your own rules. 
-        * I am. OK?
+    * with WebAIM's color contrast checker
     * my eyesight is also just not very good so the colors are also tested against my eyeballs
 * Language text set to "en" on all pages
 * Legible text at 200% zoom (and beyond)
