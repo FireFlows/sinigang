@@ -58,6 +58,8 @@ Adopted from [ritual.sh](https://ritual.sh/resources/adoptables)
 
 ![ ](https://ballonlea.net/img/tfc-sw-arb1.png) I am [angelic](https://ballonlea.net/trickyfox/)
 
+I am an [EDM/drum and bass](https://reef.kingdra.net/) connoisseur
+
 [fan](https://reef.kingdra.net/) & artist, writer, animator (rarely), translator (rarely), cover artist (rarely)
 
 [gore](https://petrapixel.neocities.org/cliques) / as long as it isn't real
@@ -78,9 +80,9 @@ Adopted from [ritual.sh](https://ritual.sh/resources/adoptables)
 
 [VSynth](https://toonilumi.neocities.org/text_cliques) ♫ Hatsune Miku, vflower, Kasane Teto, Adachi Rei, Nurse Robot Type T, Gekiyaku, Calogado, Mayoi Heki, Defoko, Michishirube Kiro, Denka Shaa ... (goes on indefinitely)
 
-Fave Calogado variant > Yamai. This is a clique I just made up
+Fave Calogado variant : Yamai. This is a clique I just made up
 
-Fave Vocaloid Producers > Yomitan Akane, r-906, john, Satou no Kanzume, Sheeno Mirin, NILFRUTS, frog96, Sasuke Haraguchi, FLAVOR FOLEY, iyowa, Onuma Parsley, Masarada, I made this one up too sorry
+Fave Vocaloid Producers : d.j. xaneiro, FLAVOR FOLEY, frog96, iyowa, john, Masarada, NILFRUITS, Onuma Parsley, r-906, Sasuke Haraguchi, Satou no Kanzume, Sheeno Mirin, Yomitan Akane, I made this one up too sorry
 
 ### Webrings
  <map name="win7widget-compact">
