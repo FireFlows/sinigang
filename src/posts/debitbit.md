@@ -6,6 +6,10 @@ tags:
     - translation
 ---
 <style>
+img {
+    max-width:60%;
+    max-height:100%;
+}
 .nomobile {
     max-height:100%;
     max-width:100%;
