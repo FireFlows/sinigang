@@ -17,7 +17,7 @@ While you're here, why don't you [sign my guestbook](guestbook.html) or [draw so
 
 Today's my aunt's birthday! I revamped the UTAU part of my website so it should look less ugly now. You may argue it is still a little ugly but I like simplicity. Check out the songs I have below in my status.cafe and Vocaloid playlist.
 
-November 20, 2026
+November 21, 2026
 
 <span class="d-js-required">
 
