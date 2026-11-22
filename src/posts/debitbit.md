@@ -6,25 +6,20 @@ tags:
     - translation
 ---
 <style>
-
-    img {
-        max-width:60%;
-        max-height:100%;
-    }
-    .nomobile {
-        max-height:100%;
-        max-width:100%;
-    }
+.nomobile {
+    max-height:100%;
+    max-width:100%;
+}
 @media screen and (max-width: 700px) {
     img {
-        max-width:70%;
-        max-height:100%;
+    max-width:70%;
+    max-height:100%;
     }
 }
 @media screen and (max-width: 600px) {
     img {
-        max-width:100%;
-        max-height:100%;
+    max-width:100%;
+    max-height:100%;
     }
 }
 </style>

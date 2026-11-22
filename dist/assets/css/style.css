@@ -43,14 +43,21 @@ body{
 
 }
 
-
+sup{
+    line-height:1
+}
+sup a {
+    font-size:.8rem;
+    text-decoration: none;
+    color: var(--accent);
+}
+sup a:hover {
+    color: var(--main);
+}
 /* headers */
 h1, h2, h3, h4 {
     font-family: Roboto, sans-serif;
     line-height:1.75rem;
-     a {
-        border:none;
-     }
 }
 
 h1 {
@@ -199,12 +206,8 @@ analyses. actually those are the only 2 for now */
 .npf_color_chandler {
     color: #dd199f;
 }
-sup{line-height:1}
-sup a {
-    font-size:.8rem;
-    text-decoration: none;
-    color: var(--accent);
-}
+
+
 .videowrapper {
     float: none;
     clear: both;
