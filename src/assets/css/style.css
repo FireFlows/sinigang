@@ -18,7 +18,7 @@ INSPIRED BY OBSIDIAN
     --main: #181818;
     --bg: #ffffff;
     --aside: #f1f1f1;
-    --accent:#6B31F2;
+    --accent:#763cff;
     --bq:#99a1af;
 }
 [theme="dark"]{
@@ -27,14 +27,37 @@ INSPIRED BY OBSIDIAN
     --aside: #353535;
     --bq: #9f9fa9;
 }
+/* these are specifically for things that i've 
+reposted from Tumblr like my ongentoro and debitbit 
+analyses. actually those are the only 2 for now */
+.npf_color_pheobe {
+    color: #db2408;
+}
+.npf_color_monica{
+    color: #d48429;
+}
+.npf_color_ross {
+    color: #1abb42;
+}
+.npf_color_rachel {
+    color: #2f9fca;
+}
+.npf_color_niles {
+    color: #5e3aee;
+}
+.npf_color_chandler {
+    color: #c2218f;
+}
+
+
 body{
     margin-left: 4.25rem;
     margin-right:10rem;
-    line-height:1.6rem;
+    line-height:1.55rem;
     background-color: var(--bg);
     color: var(--main);
     font-family: Inter, sans-serif;
-    font-size: 1.125rem;
+    font-size: 1.15rem;
     display: grid;
     grid-template-areas:
         ". header header  "
@@ -134,7 +157,7 @@ header{
     padding:1.25rem;
 }
 li {
-    line-height:1.55rem;
+    line-height:1.65rem;
 }
 main {
     grid-area: main;
@@ -184,28 +207,6 @@ footer {
 }
 .showmobile {
     display:none;
-}
-
-/* these are specifically for things that i've 
-reposted from Tumblr like my ongentoro and debitbit 
-analyses. actually those are the only 2 for now */
-.npf_color_pheobe {
-    color: #db2408;
-}
-.npf_color_monica{
-    color: #cc7a1c;
-}
-.npf_color_ross {
-    color: #1abb42;
-}
-.npf_color_rachel {
-    color: #1193c7;
-}
-.npf_color_niles {
-    color: #5e3aee;
-}
-.npf_color_chandler {
-    color: #dd199f;
 }
 
 
