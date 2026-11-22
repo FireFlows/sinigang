@@ -313,7 +313,7 @@ Responsiveness
 @media screen and (max-width: 600px) {
     /*phone sizes and such*/
     body {
-        font-size:1rem;
+        font-size:1.1rem;
     }
     main {margin:1rem;}
     footer {

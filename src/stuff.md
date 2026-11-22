@@ -50,9 +50,37 @@ Adopted from [ritual.sh](https://ritual.sh/resources/adoptables)
 
 </span>
 
-### Clique
+### Cliques
 
 <a href="https://bungle.online/clique"><img src="/assets/img/angel.png" alt="Angel resting upon a computer"></a>
+
+[Alien Stage](https://avenue4strangerz.nekoweb.org/cliques#alien-stage) ✦ ALL CHARACTER fan!
+
+![ ](https://ballonlea.net/img/tfc-sw-arb1.png) I am [angelic](https://ballonlea.net/trickyfox/)
+
+[fan](https://reef.kingdra.net/) & artist, writer, animator (rarely), translator (rarely), cover artist (rarely)
+
+[gore](https://petrapixel.neocities.org/cliques) / as long as it isn't real
+
+[Internet Obsession](https://lockheart.love/collections/cliques) ! everything
+
+[Language Learning](https://lockheart.love/collections/cliques) ! English (forever), Japanese, Chinese, any I find interesting
+
+[OBJECTION!](https://juni.nekoweb.org/clique) ![A pixel sprite of Miles Edgeworth](https://file.garden/ap9zhThc9Sjs3Rtr/aapixels/edgeworth.png) ![Pheonix Wright](https://file.garden/ap9zhThc9Sjs3Rtr/aapixels/phoenix.png) ![Maya Fey](https://file.garden/ap9zhThc9Sjs3Rtr/aapixels/mayafey.png) ![Ema Skye](https://file.garden/ap9zhThc9Sjs3Rtr/aapixels/emaskye.png) ![Franziska von Karma](https://file.garden/ap9zhThc9Sjs3Rtr/aapixels/franziska.png) ![Blue Badger](https://file.garden/ap9zhThc9Sjs3Rtr/aapixels/bluebadger.png)
+
+[OTF](https://cliqued.wings.nu/fandom.php) / Vocaloid 
+
+[rainbow](https://cliqued.wings.nu/various.php) 🌈 PURPLE!!! all shades, but the one used on this website is #8652FF
+
+[scented](https://scented.minty.nu/) / ube
+
+[~~un~~problematic blorbo](https://reef.kingdra.net/) > Eito Aotsuki
+
+[VSynth](https://toonilumi.neocities.org/text_cliques) ♫ Hatsune Miku, vflower, Kasane Teto, Adachi Rei, Nurse Robot Type T, Gekiyaku, Calogado, Mayoi Heki, Defoko, Michishirube Kiro, Denka Shaa ... (goes on indefinitely)
+
+Fave Calogado variant > Yamai. This is a clique I just made up
+
+Fave Vocaloid Producers > Yomitan Akane, r-906, john, Satou no Kanzume, Sheeno Mirin, NILFRUTS, frog96, Sasuke Haraguchi, FLAVOR FOLEY, iyowa, Onuma Parsley, Masarada, I made this one up too sorry
 
 ### Webrings
  <map name="win7widget-compact">
