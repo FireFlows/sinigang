@@ -178,9 +178,7 @@ aside {
     img {
         border: 5px solid var(--aside);
     }
-    height:32%;
-    min-height:750px;
-    max-height: 900px;
+    max-height: 750px; /* how dafaq does this work Am I a genius*/
     grid-area: aside;    
     max-width:250px;
     position: sticky;

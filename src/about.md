@@ -5,7 +5,7 @@ layout: "main.html"
 ## About the Webmaster
 * 19 years old (04/30/2007)
 * they/them
-* US East Coaster <span class="showmobile">([time right now](https://time.is/ET))</span>
+* US East Coaster (North Carolina) <span class="showmobile">([time right now](https://time.is/ET))</span>
 * autistic ADHDer
 * mixed Filipino/white
 * speaks English and some Japanese
@@ -15,6 +15,7 @@ My favorite things of all time
 * Drawing
 * Linguistics
     * particularly translation and Asian languages
+* Purple!!!
 * Video games
 * Vocal synths
 * Writing
@@ -25,7 +26,6 @@ I like these but a bit less
 * Collecting things (digital and physical)
 * Cute things
 * Public transportation
-* Purple (color)
 
 ### Uses
 * Consoles: LCD 256GB Steam Deck and Nintendo Switch Lite
