@@ -1,8 +1,8 @@
 ---
 title: "Extensive Ongentoro Overanalysis"
 layout: "post.html"
-date: 2026-11-20
-tags: 
+date: 2026-11-22
+tags:
     - translation
 ---
 <style>
@@ -445,7 +445,7 @@ Surrounded by 3 devices and 8 software,</blockquote>
 * [iZotope RX](https://www.izotope.com/en/products/rx.html)
 * [DAW](https://en.wikipedia.org/wiki/Digital_audio_workstation)
 
-This is a list of (not all) the things used to create an UTAU/make music with an UTAU, but you don't need all of these, and there are some things you can substitute with other things (like you can replace OREMO with RecStar).
+This is a list of (not all) the things used to create an UTAU/make music with an UTAU, but you don't need all of these, and there are some things you can substitute with other things (like you can replace OREMO with [RecStar](https://github.com/sdercolin/recstar), another popular, more recent UTAU recording software.).
 
 <blockquote class="npf_color_rachel">
 待ち構える魔女の家<br>
@@ -812,46 +812,56 @@ Singers: Calogado (VCV), Mayoi Heki
 https://avogado6.wixsite.com/calogado    
 This is Calogado (VCV) and Mayoi Heki's demo song (kind of).
 
-----
+<details><summary>What's a VCV?</summary>
 
-連続音(*renzokuon*) is the Japanese term for VCV. Literally "continuous sound." By the way, the term for CV is 単独音 (*tandokuon*). Literally "single sound." 
+連続音 (*renzokuon*) is the Japanese term for VCV. Literally "continuous sound." By the way, the term for CV is 単独音 (*tandokuon*). Literally "single sound." 
 
-Calogado has both a VCV and CV voicebank, but Mayoi Heki only has a VCV so that's why it's not specified here.
+Calogado has both a VCV and CV voicebank, but Mayoi Heki only has a VCV so that's why it's not specified here. But now you might be asking, what's a VCV? What's a CV, even? And what's the difference!? 
 
-"What's a VCV voicebank?" you may ask, then, because I haven't explained this and the explanations you get when you look it up are shit.
+Don't worry, I don't mind explaining. Firstly, a CV (consonant-vowel) voicebank is made by otoing one mora at a time. So *kakikukeko*.wav is split into *ka*, *ki*, *ku*, etc. Though, most CVs are made by recording one .wav file at a time, like *ka*.wav, *ki*.wav, *ku*.wav, etc. So, they're very simple to make (most people's first VBs are CV), but not as smooth as a VCV.
 
-<p>Firstly, I'll explain what a CV voicebank is. CV (consonant-vowel) voicebanks are (usually) made by recording mora one at a time, so instead of &#12354;&#12354;&#12435;&#12356;&#12354;&#12358;&#12354;&#12356;.wav, you have &#12354;.wav, &#12435;.wav, etc. These are very easy to make, but the sound isn't as smooth as a VCV.</p>
-<p>VCV (vowel-consonant-vowel) is smoother than CV since the vowel (or nasal &#12435;) of the previous note is used for the start of the next note. For example, <i>ohayo</i> would be as [- o] [o &#12399;] [a &#12424;]. In CV, this would just be [o] [ha] [yo].  
+VCV (vowel-consonant-vowel) voicebanks are made by including the vowel (or syllabic *n*) from the previous note in the start of the next note. For example, if you were trying to make your UTAU sing *ohayo*:
 
-Since you have to oto 7 different times for the same mora, VCV is more time-consuming. But it's all worth it for the <i>nameraka </i>overlap. 
+* CV would have the notes [o] [ha] [yo];
+* VCV would have the notes [- o] [a ha] [a yo].
 
-----
+This is more time-consuming but it does sound smoother. We need that *nameraka* overlap. 
 
-<blockquote class="npf_indented"><p>&#24819;&#23450;&#12373;&#12428;&#12427;&#36074;&#21839;</p>
-</blockquote>
-<p>Questions I might get asked</p>
-<blockquote class="npf_indented"><p>Q. OREMO&#12399;Mac&#12384;&#12392;&#36215;&#21205;&#12391;&#12365;&#12394;&#12356;&#12398;&#12391;&#37682;&#38899;&#12391;&#12365;&#12414;&#12379;&#12435;&#65281;<br>A. RecStar&#12364;&#12354;&#12426;&#12414;&#12377;&#12290;&#36867;&#12370;&#12427;&#12394;&#12290;</p>
-</blockquote>
-<p>Q. OREMO doesn't work on my Mac so I can't record anything!<br>A. There's <a href="https://github.com/sdercolin/recstar">RecStar</a>. Don't run away.</p>
-<blockquote class="npf_indented"><p>Q. &#36899;&#32154;&#38899;&#12398;&#37682;&#38899;&#12399;&#22823;&#22793;&#12391;&#12391;&#12365;&#12414;&#12379;&#12435;&#65281;<br>A. &#21336;&#29420;&#38899;&#12420;CVVC&#12289;&#12414;&#12383;&#12399;&#26089;&#12356;BPM&#12398;&#37682;&#38899;&#12384;&#12392;&#27604;&#36611;&#30340;&#27005;&#12391;&#12377;&#12290;&#36867;&#12370;&#12427;&#12394;&#12290;</p>
-</blockquote>
-<p>Q. It's way too hard to record a VCV so I can't do it!<br>A. There's CV and CVVC, and recording with a fast BPM isn't too difficult. Don't run away.</p>
+</details>
+
+> 想定される質問
+
+Questions I might get asked
+
+> Q. OREMOはMacだと起動できないので録音できません！
+> A. RecStarがあります。逃げるな。
+
+Q. OREMO doesn't work on my Mac so I can't record anything!
+A. There's RecStar. Don't run away.
+
+> Q. 連続音の録音は大変でできません！
+> A. 単独音やCVVC、または早いBPMの録音だと比較的楽です。逃げるな。
+
+Q. It's way too hard to record a VCV so I can't do it!
+A. There's CV and CVVC, and recording with a fast BPM isn't too difficult. Don't run away.
+
 <p>Surprisingly, CVVC is seem easier to record than VCV despite there being more letters in CVVC. </p>
-<blockquote class="npf_indented"><p>Q. &#22768;&#12364;&#20986;&#12379;&#12394;&#12356;&#12398;&#12391;&#12391;&#12365;&#12414;&#12379;&#12435;&#65281;<br>A. &#28961;&#29983;&#29289;&#38899;&#28304;&#12387;&#12390;&#12398;&#12364;&#12354;&#12426;&#12414;&#12377;&#12290;&#36867;&#12370;&#12427;&#12394;&#12290;</p>
-</blockquote>
-<p>Q. I'm unable to use my voice so I can't do it!<br>A. There are <a href="https://vocadb.net/T/7018/inanimate-vocal-synth">UTAU made from inanimate objects</a>. Don't run away.</p>
-<blockquote class="npf_indented"><p>Q. &#21407;&#38899;&#35373;&#23450;&#12364;&#38627;&#12375;&#12367;&#12390;&#12391;&#12365;&#12414;&#12379;&#12435;&#65281;<br>A. &#12381;&#12398;&#25163;&#12398;&#29467;&#32773;&#12364;&#12383;&#12367;&#12373;&#12435;&#12356;&#12425;&#12387;&#12375;&#12419;&#12427;&#12398;&#12391;&#30456;&#35527;&#12375;&#12390;&#12415;&#12414;&#12375;&#12423;&#12358;&#12290;&#36867;&#12370;&#12427;&#12394;&#12290;</p>
-</blockquote>
-<p>Q. Otoing is too difficult so I can't do it!<br>A. You can consult a lot of people who are experts in that kind of thing. Don't run away.</p>
-<p><a href="https://w.atwiki.jp/vbmaker/pages/17.html">&#21407;&#38899;&#35373;&#23450;</a> (<i>genon settei</i>) is what the English UTAU community refers to as otoing. Literally "fundamental tone settings." It's fun finding out how much Japanese UTAU terms differ from English ones LOL.</p>
+
+> Q. 声が出せないのでできません！
+> A. 無生物音源ってのがあります。逃げるな。
+
+Q. Otoing is too difficult so I can't do it!  
+A. You can consult a lot of people who are experts in that kind of thing. Don't run away.
+
+[原音設定](https://w.atwiki.jp/vbmaker/pages/17.html) (*genon settei*) is what the English UTAU community refers to as otoing. Literally "fundamental tone settings. It's interesting how different its origins are from the English term.
 
 > Q. パソコンを持ってないのでできません！  
-A. 有志の方がスマホでもUTAUを楽しめる環境を整えて下さっています。逃げるな。  
+> A. 有志の方がスマホでもUTAUを楽しめる環境を整えて下さっています。逃げるな。  
 
 Q. I don't have a PC so I can't do it!  
 A. Thanks to the work of volunteers, you can make an UTAU even from your phone. Don't run away.
 
-<p>With RecStar (<a href="https://apps.apple.com/tr/app/recstar/id6471727990">Apple</a>/<a href="https://play.google.com/store/apps/details?id=com.sdercolin.recstar&amp;hl=en_US">Android</a>), <a href="https://k-uta.jp/laberu/">Laberu</a>, and <a href="https://k-uta.jp/gakuya/">Gakuya</a>, you can create an UTAU using only your phone. These UTAU are called "mobileloids."</p>
+<p>With RecStar (yes it is also a mobile app) (<a href="https://apps.apple.com/tr/app/recstar/id6471727990">Apple</a>/<a href="https://play.google.com/store/apps/details?id=com.sdercolin.recstar&amp;hl=en_US">Android</a>), <a href="https://k-uta.jp/laberu/">Laberu</a>, and <a href="https://k-uta.jp/gakuya/">Gakuya</a>, you can create an UTAU using only your phone. These UTAU are called "mobileloids."</p>
 <p>Honestly, this is a bit difficult, so if you have access to a PC I would recommend using a PC instead.</p>
 
 ### Ongentoro Stalker Solo Practice Video Description
@@ -860,10 +870,12 @@ From [Niconico Douga shorts](https://www.nicovideo.jp/watch/ss46193726). The You
 > 原作(sm46062437)が殿堂入りしてしまったので、記念のショート動画です。  
 ストーカーソロ用にどうぞ。
 
-<p>My original video (<a href="https://www.nicovideo.jp/watch/sm46062437">sm46062437</a>) was inducted into the Vocaloid Hall of Fame, so I released a commemorative short video.<br>Please enjoy the Stalker Solo Task video.</p>
-<blockquote class="npf_indented"><p>&#37197;&#24067;&#32032;&#26448;<br><a href="https://avogado6.wixsite.com/calogado/music">https://avogado6.wixsite.com/calogado/music</a></p>
-</blockquote>
-<p>Distributed materials<br>h<a href="https://avogado6.wixsite.com/calogado/music">ttps://avogado6.wixsite.com/calogado/music</a></p>
+My [original work](https://www.nicovideo.jp/watch/ss46193726) was inducted into the Vocaloid Hall of Fame, so I released a commemorative short video.  
+Please enjoy the "for Stalker Solo use" video.
+
+>配布素材
+
+[Distributed assets](https://avogado6.wixsite.com/calogado/music)
 
 > 【謝辞】  
 身内ノリの自分だけが楽しいような作品だと思っておりましたが、たくさんの方に見ていただきさらにはたくさんの二次創作をしてくださり感無量であります。  
