@@ -4,21 +4,28 @@
 @import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&display=swap');
-
+/*
+Colors
+https://tailwindcss.com/docs/colors &
+https://coolors.co/generate
+warning these sites are kinda ai cucks 
+so i am not linking them in /links FUCK YOU
+ps on my mother i have never seen oklch dafaq 
+Ok u can convert it to normal
+*/
 :root {
-    --main: oklch(13% 0.028 261.692);
-    --bg: oklch(98.5% 0 none);
-    --aside: oklch(92.9% 0.013 255.508);
-    --accent:oklch(49.1% 0.27 292.581);
-    --link:oklch(51.678% 0.21419 293.441);
-    --bq:oklch(70.7% 0.022 261.325);
+    --main: #000;
+    --bg: #ffffff;
+    --aside: #e6e6e6;
+    --accent:#8a5cf5;
+    --bq:#99a1af;
 }
-    dt{line-height:1.5rem;}
-    dd{
-        line-height:1.75rem;
-        padding-left:5px;
-        border-left: 3px solid var(--bq);
-    }
+[theme="dark"]{
+    --main:#fafafa;
+    --bg: #222222;
+    --aside: #353535;
+    --bq: #9f9fa9;
+}
 body{
     margin-left: 4.25rem;
     margin-right:10rem;
@@ -35,13 +42,9 @@ body{
     grid-template-columns: 275px 60% 10%;
 
 }
-[theme="dark"]{
-    --main:oklch(98.5% 0 none);
-    --bg: #21222B;
-    --aside: #3E4051;
-    --bq: oklch(70.5% 0.015 286.067);
-}
 
+
+/* headers */
 h1, h2, h3, h4 {
     font-family: Roboto, sans-serif;
     line-height:1.75rem;
@@ -49,6 +52,18 @@ h1, h2, h3, h4 {
         border:none;
      }
 }
+
+h1 {
+    line-height:2.25rem;
+    background-color: var(--aside);
+    padding:.225rem;
+
+}
+h2 {
+    width: fit-content;
+    border-bottom: 2px solid var(--accent);
+}
+
 details {
   border: 2px solid var(--main);
   padding: 0.5em 0.5em 0;
@@ -68,7 +83,12 @@ details[open] {
 details[open] summary {
   margin-bottom: 0.5em;
 }
-
+    dt{line-height:1.5rem;}
+    dd{
+        line-height:1.75rem;
+        padding-left:5px;
+        border-left: 3px solid var(--bq);
+    }
 button {
     font-size:90%;
     border: 2px solid var(--bq);
@@ -85,13 +105,10 @@ blockquote {
     border-left: 3px solid var(--bq);
     padding-left:10px;
 }
-/*
-Colors
-https://tailwindcss.com/docs/colors
-*/
+
 a {
-    color: var(--link);
-    text-decoration-color: var(--link);
+    color: var(--accent);
+    text-decoration-color: var(--accent);
     text-decoration-thickness: 1px;
     text-decoration-style:line;
 }
@@ -114,6 +131,7 @@ li {
 main {
     grid-area: main;
 }
+
 aside {
     img {
         border: 5px solid var(--aside);
@@ -145,7 +163,7 @@ nav {
     }
     li a:hover {
     background-color: var(--bg);
-    color: var(--link);
+    color: var(--accent);
 
 }
 
@@ -156,19 +174,13 @@ footer {
     padding:2.25rem;
     font-size:1rem;
 }
-    h1 {
-    line-height:2.25rem;
-    background-color: var(--aside);
-    padding:.225rem;
-
-}
-h2 {
-    width: fit-content;
-    border-bottom: 2px solid var(--accent);
-}
 .showmobile {
     display:none;
 }
+
+/* these are specifically for things that i've 
+reposted from Tumblr like my ongentoro and debitbit 
+analyses. actually those are the only 2 for now */
 .npf_color_pheobe {
     color: #db2408;
 }
@@ -191,7 +203,7 @@ sup{line-height:1}
 sup a {
     font-size:.8rem;
     text-decoration: none;
-    color: var(--link);
+    color: var(--accent);
 }
 .videowrapper {
     float: none;
@@ -228,7 +240,7 @@ sup a {
 }
 
 /*
-mobile
+Responsiveness
 */
 @media screen and (max-width:1300px){
     body {
@@ -243,6 +255,7 @@ mobile
     }
 }
 @media screen and (max-width: 1000px) {
+    /* entering "mobile mode" */
     .show {
         display:block;
     }
@@ -276,8 +289,7 @@ mobile
   }
  
   main {
-    padding:0;
-    margin:1rem;
+    margin:2rem;
 
 }
     .nomobile {
@@ -294,13 +306,19 @@ mobile
     aside{height:125px;}
 }
 @media screen and (max-width: 600px) {
+    /*phone sizes and such*/
     body {
         font-size:1rem;
     }
+    main {margin:1rem;}
     footer {
         font-size:.95rem;
     }
 }
+/*REALLY wanted to make sure this website still
+works fine no matter the zoom level,
+but i stopped at around 400%
+*/
 @media screen and (max-width:415px){
     aside {height:170px;}
 }

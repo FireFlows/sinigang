@@ -84,8 +84,9 @@ On October 14th, 2026, I published [a post analyzing DebitBit](https://www.tumbl
 <p><i><span class="npf_color_ross">haai tooku mite</span></i><br><i><span class="npf_color_ross">kanashii genjitsu choukushi dekitenai nee</span></i></p>
 <p><span class="npf_color_ross">Okay, look far away.</span><br><span class="npf_color_ross">You can't gaze at your pitiful reality, eh?</span></p>
 <p>The font makes &#35222; look like &#35222;. This is another older variant of the same kanji.</p>
-<div class="npf_row"><figure class="tmblr-full" data-orig-height="534" data-orig-width="869"><img src="https://64.media.tumblr.com/d480199a131c29820e5686e2f46c44dd/c0f4117360640ed5-29/s1280x1920/cb6d396a61d0562c916b23610955bb6464ccb4b3.pnj" data-orig-height="534" data-orig-width="869" srcset="https://64.media.tumblr.com/d480199a131c29820e5686e2f46c44dd/c0f4117360640ed5-29/s1280x1920/cb6d396a61d0562c916b23610955bb6464ccb4b3.pnj 869w" sizes="(max-width: 869px) 100vw, 869px"></figure>
-</div>
+
+<img src="https://64.media.tumblr.com/d480199a131c29820e5686e2f46c44dd/c0f4117360640ed5-29/s1280x1920/cb6d396a61d0562c916b23610955bb6464ccb4b3.pnj">
+
 <p>If you can't make out the text on the eye test, it's &#29694;&#23455; (<i>genjitsu</i>, reality).</p>
 <p>Dissociation from reality is another theme of this song that's shown through its lyrics, composition, and music video. Even the font is weird!</p>
 <p><span class="npf_color_ross">&#12399;&#12540;&#12356;&#25163;&#38283;&#12356;&#12390;&#12540;</span><br><span class="npf_color_ross"><i>&#12473;&#12510;&#12507;&#12392;&#23396;&#29420;&#12434;&#25569;&#12387;&#12390;&#38626;&#12373;&#12394;&#12356;&#12397;&#65374;</i></span></p>
@@ -103,8 +104,7 @@ On October 14th, 2026, I published [a post analyzing DebitBit](https://www.tumbl
 <p><span class="npf_color_ross"><i>karorii kafein shishitsu</i></span><span class="npf_color_ross"> </span><span class="npf_color_ross"><i>doushitsu</i></span><br><i><span class="npf_color_ross">suki deshou? nee suki deshou?</span></i></p>
 <p><span class="npf_color_ross">Calories, caffeine, lipids, carbs;</span><br><span class="npf_color_ross">you like those, right? Hey. You like those, right?</span></p>
 <p>I'm not sure if it's accidentally or on purpose, but the<span class="npf_color_ross"> </span><span class="npf_color_ross"><i>suki deshou? nee suki deshou?</i></span><i> </i>is similar to the <i><span class="npf_color_ross">ii desho? nee ii desho?</span></i> in Ongentoro. I've decided to translate them similarly, too. Not like there's many other directions you can go, though.</p>
-<div class="npf_row"><figure class="tmblr-full" data-orig-height="332" data-orig-width="373"><img src="https://64.media.tumblr.com/c89ac9c2895e5b7aed370989dcae8ba0/c0f4117360640ed5-03/s400x600/137c6a5ff81b136c33421d66140d9391b5d6622d.pnj" data-orig-height="332" data-orig-width="373" srcset="https://64.media.tumblr.com/c89ac9c2895e5b7aed370989dcae8ba0/c0f4117360640ed5-03/s400x600/137c6a5ff81b136c33421d66140d9391b5d6622d.pnj 373w" sizes="(max-width: 373px) 100vw, 373px"></figure>
-</div>
+<img src="https://64.media.tumblr.com/c89ac9c2895e5b7aed370989dcae8ba0/c0f4117360640ed5-03/s400x600/137c6a5ff81b136c33421d66140d9391b5d6622d.pnj">
 <p><span class="npf_color_ross">&#12509;&#12486;&#12481;&#12288;&#12456;&#12490;&#12489;&#12522;&#12288;&#12521;&#12540;&#12513;&#12531;&#12288;&#12362;&#37202;</span><br><span class="npf_color_ross">&#22909;&#12365;&#12391;&#12375;&#12423;&#12358;&#65311;&#12397;&#12360;&#22909;&#12365;&#12391;&#12375;&#12423;&#12358;&#65311;</span></p>
 <p><i><span class="npf_color_ross">potechi enadori raamen osake</span></i><br><i><span class="npf_color_ross">suki deshou? nee suki deshou?</span></i></p>
 <p><span class="npf_color_ross">Potato chips, energy drinks, ramen, alcohol;</span><br><span class="npf_color_ross">you like those, right? Hey. You like those, right?</span></p>
@@ -112,8 +112,7 @@ On October 14th, 2026, I published [a post analyzing DebitBit](https://www.tumbl
 <p><i><span class="npf_color_ross">geemu tabako netto yafukashi</span></i><br><i><span class="npf_color_ross">suki deshou? nee suki deshou?</span></i></p>
 <p><span class="npf_color_ross">Video games, cigarettes, the internet, staying up late;</span><br><span class="npf_color_ross">you like those, right? Hey. You like those, right?</span></p>
 <p><a href="https://en.wikipedia.org/wiki/Furigana#Other_effects">Read as "SNS"</a> (<b>s</b>ocial <b>n</b>etworking <b>s</b>ervice: social media) but pronounced as "internet" (<i>netto</i>). This change is kind of interesting to me since &#12493;&#12483;&#12488; could fit where "SNS" is on Calogado's torso.</p>
-<div class="npf_row"><figure class="tmblr-full" data-orig-height="280" data-orig-width="304"><img src="https://64.media.tumblr.com/e284b678998fd7927b7d2b5735e0908f/c0f4117360640ed5-6e/s400x600/a29f4fbbe64686b4429fee95117a9a581d147b4d.pnj" data-orig-height="280" data-orig-width="304" srcset="https://64.media.tumblr.com/e284b678998fd7927b7d2b5735e0908f/c0f4117360640ed5-6e/s400x600/a29f4fbbe64686b4429fee95117a9a581d147b4d.pnj 304w" sizes="(max-width: 304px) 100vw, 304px"></figure>
-</div>
+<img src="https://64.media.tumblr.com/e284b678998fd7927b7d2b5735e0908f/c0f4117360640ed5-6e/s400x600/a29f4fbbe64686b4429fee95117a9a581d147b4d.pnj">
 <p>To be fair, one of the first things you think when you think "internet" isn't Wikipedia, or online dictionaries, or Steam. Social media is basically what the internet is at this point... </p>
 <p><span class="npf_color_ross">&#33258;&#22549;&#33853;&#12288;&#23517;&#19981;&#36275;&#12288;&#12469;&#12508;&#12426;&#12288;&#27178;&#30528;</span><br><span class="npf_color_ross">&#22909;&#12365;&#12391;&#12375;&#12423;&#12358;&#65311;&#12487;&#12499;&#12483;&#12488;&#12499;&#12483;&#12488;</span></p>
 <p><i><span class="npf_color_ross">jidaraku nebusoku sabori ouchaku</span></i><br><i><span class="npf_color_ross">suki deshou? debitto bitto</span></i></p>
@@ -144,7 +143,7 @@ On October 14th, 2026, I published [a post analyzing DebitBit](https://www.tumbl
 </blockquote>
 <p><i>A "debit" is a withdrawal from a bank account, and "bit" is "the smallest amount," so I like the lyrics' feeling at 1:05 of "living by borrowing health will eventually put your account into debt."</i></p>
 <p>Health is money, your account is your life...and "debt" is death. You'll die if you keep indulging yourself. Even small amounts add up. Something like that.</p>
-<div class="npf_row"><figure class="tmblr-full" data-orig-height="579" data-orig-width="1045"><img src="https://64.media.tumblr.com/9263c98223a691542ea8b2920d0b098e/c0f4117360640ed5-98/s1280x1920/ec5430ef08030e0d2f1eca9680df337526f9222b.pnj" data-orig-height="579" data-orig-width="1045" srcset="https://64.media.tumblr.com/9263c98223a691542ea8b2920d0b098e/c0f4117360640ed5-98/s1280x1920/ec5430ef08030e0d2f1eca9680df337526f9222b.pnj 1045w" sizes="(max-width: 1045px) 100vw, 1045px"></figure>
+<img src="https://64.media.tumblr.com/9263c98223a691542ea8b2920d0b098e/c0f4117360640ed5-98/s1280x1920/ec5430ef08030e0d2f1eca9680df337526f9222b.pnj">
 </div>
 <p>(This is 1:05, by the way.)</p>
 <p><span class="npf_color_ross">&#20182;&#20154;&#12398;&#24341;&#12365;&#20986;&#29289;</span><br><span class="npf_color_ross">&#21531;&#12398;&#21561;&#12365;&#20986;&#29289;</span></p>
