@@ -9,7 +9,9 @@ Anything that isn't words. IDK. I'll think more about how to sort this later but
 
 ### Art
 
-I love to draw. I've created [a zip file](https://file.garden/alh0moWNqEglM4TP/art.zip) which includes *some* of my art (definitely not all or most but I'll try to keep up with it). It's mostly UTAU fanart; the older drawings are Hundred Line fanart; I basically exclusively draw fanart. 
+I love to draw. I've created [a zip file](https://file.garden/alh0moWNqEglM4TP/art.zip) which includes *some* of my art (definitely not all or most but I'll try to keep up with it). Please read the "readme" file!
+
+It's mostly UTAU fanart; the older drawings are Hundred Line fanart; I basically exclusively draw fanart. 
 
 Alternatively, take a look through [my Tumblr #my art tag](https://www.fire7541.tumblr.com/tagged/my%20art).
 
@@ -22,33 +24,13 @@ Unless otherwise specified, the drawings on this website are mine!
 
 ### Button
 
-After popular demand ~~like one person asked me a few months ago~~, I finally created not just one, but *two* buttons! Please don't hotlink. ~~Well, unless you'd like your link to eventually break~~
+After popular demand ~~like one person asked me a few months ago~~, I finally created not just one, but *two* buttons!
 
 <img src="/assets/img/button.jpg" alt="A small button of a black-haired character with red glasses. Their mouth is opem 'Sinigang' is written to the left." style="image-rendering: pixelated;height:31px;height:50px;">
 <img src="/assets/img/buttonALT.jpg" alt="Ditto, with no mouth." style="image-rendering: pixelated;height:31px;height:50px;">
 
 
 ## Fun
-
-<span class="d-js-required">
-
-### Adoptable
-<div style="width: 120px; height: 250px;">
-<script src="https://ritual.sh/js/adoptables/lavalamp.js"
-        data-bg-color-1="#cc60f4"
-        data-bg-color-2="#f30c74"
-        data-blob-color-1="#4a06ff"
-        data-blob-color-2="#ff46df"
-        data-case-color="#333333"
-        data-blob-count="6"
-        data-speed="1.0"
-        data-blob-size="1.0">
-</script>
-</div>
-
-Adopted from [ritual.sh](https://ritual.sh/resources/adoptables)
-
-</span>
 
 ### Cliques
 
