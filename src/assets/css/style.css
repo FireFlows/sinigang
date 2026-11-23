@@ -159,8 +159,8 @@ a:hover {
 
 }
 a:visited {
-    color:#47948A;
-    text-decoration-color:#47948A;
+    color:#d337d3;
+    text-decoration-color:#d337d3;
 }
 a:visited:hover {
     color:var(--main);
