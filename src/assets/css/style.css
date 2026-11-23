@@ -161,9 +161,9 @@ a:hover {
 a:visited {
     color:#47948A;
     text-decoration-color:#47948A;
-    :hover {
-        color: var(--main);
-    }
+}
+a:visited:hover {
+    color:var(--main);
 }
 ::marker {
     color:var(--accent);
