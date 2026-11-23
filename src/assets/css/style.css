@@ -158,6 +158,10 @@ a:hover {
     color:var(--main);    
 
 }
+a:visited {
+    color:#47948A;
+    text-decoration-color:#47948A;
+}
 ::marker {
     color:var(--accent);
 }
@@ -196,12 +200,11 @@ nav {
         margin:5px;
         background-color: var(--aside);
     }
-    li a {
+    li a, li a:visited {
         text-align:center;
         display: block;
         padding: 7px;
         color: var(--main);
-
         text-decoration:none;
     }
     li a:hover {
