@@ -138,7 +138,6 @@
     text-decoration: line;
     text-decoration-color: var(--link);
     text-decoration-thickness: 1px;
-
 }
 .c-site:hover {color: var(--link);}
 .c-timestamp {
