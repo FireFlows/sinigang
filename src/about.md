@@ -62,11 +62,6 @@ My avatar is Nurse Robot Type T. The illustration is by SuteinuA for the album S
 
 </span>
 
-### Carbon 
-
-<div id="wcb" class="carbonbadge wcb-d"></div>
-<script src="https://unpkg.com/website-carbon-badges@1.1.3/b.min.js" defer></script>
-
 ### Colophon
 Built with [Eleventy](https://www.11ty.dev/) (and LOVE) using VSCode on a 1920 x 1200 display. 
 
