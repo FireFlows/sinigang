@@ -212,7 +212,6 @@ nav {
     }
     li a:hover {
     background-color: var(--bg);
-    color: var(--accent);
 }
 
 }

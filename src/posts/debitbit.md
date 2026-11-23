@@ -37,9 +37,9 @@ On October 14th, 2026, I published [a post analyzing DebitBit](https://www.tumbl
 
 ## Title
 
-<p>The first thing I thought when I saw the title "DebitBit" was, what the fuck is a <i>debit bit</i>?</p>
+The first thing I thought when I saw the title "DebitBit" was, what the fuck is a *debit bit*?
 
-<p>And&hellip; this is a little play on words using "debit" and "bit" (=small amount of something). I also think "debit" can be interpreted as "de-bit," even though it would not be pronounced like that (you'd write de-bit as &#12487;&#12451;&#12499;&#12483;&#12488; in Japanese).&nbsp;</p>
+And… this is a little play on words using "debit" and "bit" (=small amount of something). I also think "debit" can be interpreted as "de-bit," even though it would not be pronounced like that (you'd write de-bit as ディビット in Japanese). 
 
 [Officially, the English title is DebitBit](https://avogado6.lnk.to/DebitBit), so that's how it's written here.
 
@@ -47,12 +47,16 @@ On October 14th, 2026, I published [a post analyzing DebitBit](https://www.tumbl
 
 ## Song and MV: in general
 <p>I love it. It reminds me of<a href="https://youtu.be/uXZkGWbyvcM"> Loveit? by biz and ZERA featuring LOLUET</a>.</p>
-<p>The composition is strange and exactly the kind of music that I love to listen to, so when I heard it for the first time I was absolutely enamored with it. The MV is perfectly complementary in weirdness.</p>
-<p>There's a lack of color, like in Ongentoro, with black, white (more of an off-white blue-greenish color), and red being the only colors used. It fits the song. After all, <span style="color: #ff4930">red </span>is the color of blood!</p>
+
+The composition is strange and exactly the kind of music that I love to listen to, so when I heard it for the first time I was absolutely enamored with it. The MV is perfectly complementary in weirdness.
+
+<p>There's a lack of color, like in Ongentoro, with black, white (more of an off-white blue-greenish color), and red being the only colors used. It fits the song. After all, <span class="npf_color_pheobe">red </span>is the color of blood!</p>
 <p>One word that I'd use to describe both the song and music video is <i>grotesque</i>.<a href="https://vocadb.net/S/1021885"> On VocaDB</a>, one of the tags for DebitBit is "<a href="https://vocadb.net/T/4753/ero-guro">eroguro</a>." I get this tag. It is a little erotic.</p>
 <p>And that's the reason why everyone has been freaking out about Calogado (Yamai) online. They're super sexy and<a href="https://en.wiktionary.org/wiki/%E5%8A%A9%E3%81%91%E5%B9%B3#Japanese"> </a><a href="https://en.wiktionary.org/wiki/%E5%8A%A9%E3%81%91%E5%B9%B3#Japanese"><i>dosukebe</i></a>*. A <i>dosukebe </i>nurse, if you will. </p>
-<p>See, I've been saying Yamai was my favorite Calogado design for a while, but it took everyone else a couple months to catch up to me. That's no problem for me &mdash; I'm an early innovator.</p>
-<p>One of my favorite parts of the MV isn't a part of the MV at all: it's how avogado6 released pretty much every single asset for DebitBit for free on their website! You can experiment with the music, illustration, and even the DaVinci Resolve project!</p>
+See, I've been saying Yamai was my favorite Calogado design for a while, but it took everyone else a couple months to catch up to me. That's no problem for me — I'm an early innovator.
+
+One of my favorite parts of the MV isn't a part of the MV at all: it's how avogado6 released pretty much every single asset for DebitBit for free on their website! You can experiment with the music, illustration, and even the DaVinci Resolve project!
+
 <p>*<a href="https://en.wiktionary.org/wiki/%E3%81%A9#Etymology_2"><i>do </i></a><a href="https://en.wiktionary.org/wiki/%E3%81%A9#Etymology_2">is an intensifier</a>. So <i>dosukebe </i>might be "super pervert(ed)."</p>
 <h2><b>Lyrics &amp; Romanization &amp; Translation &amp; Analysis</b></h2>
 <p>Lyrics/romanization/translation in <span class="npf_color_ross">green</span>; notes are in whatever color your text normally is. Reminder: I am not fluent in Japanese, I'm a hobbyist trying their best. Please feel free to correct me if you see any issues.</p>
