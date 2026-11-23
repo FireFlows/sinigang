@@ -27,6 +27,7 @@ img {
     }
 }
 </style>
+
 ## Introduction
 
 On October 14th, 2026, I published [a post analyzing DebitBit](https://www.tumblr.com/fire7541/830487955029278720/debitbit?source=share) to Tumblr and I decided I would also post it on my website. This is a "sequel" to my [post about Ongentoro](ongentoro.html). ~~Currently the formatting is kind of bad because I just copied and pasted it directly from Tumblr but I will format it better soon OK thanks~~

@@ -16,6 +16,7 @@ These links are all free, have little/no ads, are browser-based, and are mobile 
 * [Guidelines for Brutalist Web Design](https://brutalist-web.design/)
 * [Motherfucking website](https://motherfuckingwebsite.com/)
     * [Better Motherfucking Website](http://bettermotherfuckingwebsite.com/)
+* [Website Carbon](https://www.websitecarbon.com/)
 
 ### Sites I like
 * [Aid's site](https://zhongvie.neocities.org/)
