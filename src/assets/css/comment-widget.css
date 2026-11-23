@@ -100,10 +100,12 @@
 .c-input {
     padding: 4px;
 	outline: none;
+    color:black;
 }
 .c-input:focus {border: 1px solid var(--main);}
 
 .c-textInput {
+    color:black;
     width: calc(100% - 10px);
     max-width: 900px;
     resize: none;
@@ -131,12 +133,11 @@
     margin: 0;
     margin-right: 10px;
     padding: 0;
-    text-decoration: underline;
 }
 .c-site {
     text-decoration: line;
     text-decoration-color: var(--link);
-    text-decoration-thickness: 2px;
+    text-decoration-thickness: 1px;
 }
 .c-site:hover {color: var(--link);}
 .c-timestamp {
