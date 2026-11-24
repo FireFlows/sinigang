@@ -13,7 +13,7 @@ I love to draw. I've created [a zip file](https://file.garden/alh0moWNqEglM4TP/a
 
 It's mostly UTAU fanart; the older drawings are Hundred Line fanart; I basically exclusively draw fanart. 
 
-Alternatively, take a look through [my Tumblr #my art tag](https://www.fire7541.tumblr.com/tagged/my%20art).
+Alternatively, take a look through [my Tumblr #my art tag](https://www.tumblr.com/fire7541/tagged/my%20art).
 
 Unless otherwise specified, the drawings on this website are mine!
 
