@@ -318,9 +318,12 @@ Games that change their answer every day and end in "-le"
 </dl>
 
 ## Misc
+<dl>
 
 <dt><a href="https://genderdysphoria.fyi/en/">That's Gender Dysphoria, FYI / The Gender Dysphoria Bible</a>
-<dd>An in-depth look into gender dysphoria.
+<dd>An in-depth look into gender dysphoria. 
+
+</dl>
 
 ## Graveyard
 Links that no longer work. May they rest in peace
