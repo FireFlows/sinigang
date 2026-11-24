@@ -64,6 +64,9 @@ Fave Calogado variant : Yamai. This is a clique I just made up
 
 Fave Vocaloid Producers : d.j. xaneiro, FLAVOR FOLEY, frog96, iyowa, john, Masarada, NILFRUITS, Onuma Parsley, r-906, Sasuke Haraguchi, Satou no Kanzume, Sheeno Mirin, Yomitan Akane, I made this one up too sorry
 
+### Fanlistings
+[![Miku Fanlisting](/assets/img/mikuv250x50.png)](https://mikufan3939.neocities.org/fanlist/home)
+
 ### Webrings
  <map name="win7widget-compact">
 <area href="https://baccyflap.com/noai" target="_blank" shape="rect" coords="0,0,216,29" alt="no ai webring" title="no ai webring">
