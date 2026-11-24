@@ -27,6 +27,7 @@ These links are all free, have little/no ads, are browser-based, and are mobile 
 * [Ismail's website](https://ismile.neocities.org/)
 * [jb's site](https://jbc.lol)
 * [John Doe's page](https://john-doe.neocities.org/)
+* [Nonexistent Fandoms Fandom](https://nonexistentfandomsfandom.neocities.org/index.html)
 * [nomnomnami's site](https://nomnomnami.com)
 * [Poopfart's Place](https://iizpoopfart.neocities.org/) not yet mobile compatible 
 * [reigen.moe](https://reigen.moe) flashing lights

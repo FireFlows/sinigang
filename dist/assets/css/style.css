@@ -24,7 +24,7 @@ INSPIRED BY OBSIDIAN
 [theme="dark"]{
     --main:#f2f2f9;
     --bg: #18151b;
-    --aside: #2c2c3c;
+    --aside: #252533;
     --bq: #B4B4BB;
 }
 /* these are specifically for things that i've 
@@ -290,11 +290,13 @@ Responsiveness
         "footer";
   }
   aside {
+
     min-height:70px;
     max-width:100%;
     position:initial;
     height:15vh;
     ul {
+       
         gap: 7px;
         font-size:1.25rem;
         display:flex;
