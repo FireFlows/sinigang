@@ -331,6 +331,7 @@ Responsiveness
     body {
         font-size:1rem;
     }
+    li {line-height:1.45rem;}
     main {margin:1rem;}
     footer {
         font-size:.95rem;

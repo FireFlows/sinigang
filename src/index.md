@@ -13,9 +13,11 @@ I swear on occasion and there may be occasional suggestive themes.
 
 ## Now
 
-Today's my aunt's birthday! I revamped the UTAU part of my website so it should look less ugly now. You may argue it is still a little ugly but I like simplicity. Check out the songs I have below in my status.cafe and Vocaloid playlist.
+I've been obsessively playing The Mesage from Deep Space. It's so good. I think my favorite character is Bautista, I feel a real kinship towards him. I have to take actual notes on paper and bring out my calc (slang for calculator if you didn't know) for it LOL.
 
-November 21, 2026
+I never thought I would be excited to do math before, but I guess I kind of am now.
+
+November 23, 2026
 
 <span class="d-js-required">
 
