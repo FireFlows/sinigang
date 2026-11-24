@@ -84,6 +84,8 @@ These links are all free, have little/no ads, are browser-based, and are mobile 
 ### Classic games
 <dl>
 
+<dt><a href="https://classic-mahjong.com/">Classic Mahjong</a>
+
 <dt><a href="https://lichess.org">Lichess</a>
 
 <dt><a href="https://solitaireowl.com">Solitaire Owl</a>
@@ -149,7 +151,7 @@ These links are all free, have little/no ads, are browser-based, and are mobile 
 
 </dl>
 
-### Lists of lists of lists
+### Game lists and compilations
 <dl>
 <dt><a href="https://rentry.co/tumblr-webgames">Browser Games, Interactive Fiction, Tools & More </a>
 <dd>Originally a series of Tumblr posts.
@@ -163,7 +165,7 @@ These links are all free, have little/no ads, are browser-based, and are mobile 
 <dd>Various things created by Neal Agarwal of Absurd Trolley Problems, The Password Game, etc. fame
 
 <dt><a href="https://ncase.me">ncase.me</a>
-<dd>Educational, fun interactive articles that are easy to understand. Also see <a href="https://explorabl.es/">Explorable Explorations</a> for similar articles
+<dd>Educational, fun interactive articles that are easy to understand. Also see <a href="https://explorabl.es/">Explorable Explorations</a> for similar articles (curated by Nicky Case)
 
 <dt><a href="https://theuselessweb.com">The Useless Web</a> 
 <dd>Classic time-waster
@@ -319,3 +321,8 @@ Games that change their answer every day and end in "-le"
 
 <dt><a href="https://genderdysphoria.fyi/en/">That's Gender Dysphoria, FYI / The Gender Dysphoria Bible</a>
 <dd>An in-depth look into gender dysphoria.
+
+## Graveyard
+Links that no longer work. May they rest in peace
+
+* [Dumby's Casino](https://dumby.neocities.org/casino)
