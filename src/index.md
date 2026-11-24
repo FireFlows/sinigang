@@ -17,6 +17,8 @@ I've been obsessively playing The Mesage from Deep Space. It's so good. I think 
 
 I never thought I would be excited to do math before, but I guess I kind of am now.
 
+I can't stop messing around with the colors on my site; if you see it change a lot I apologize.
+
 November 23, 2026
 
 <span class="d-js-required">
