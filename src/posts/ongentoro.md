@@ -980,4 +980,4 @@ In an alternate universe, perhaps people are shipping Calogado and Caloon. Caloo
 
 <p id="fn6"><a href="#r6">[6]</a> a Japan-exclusive file-sharing service. Perhaps, if you wanted to Anglophone-ize this, it'd be mega.nz or mediafire.
 
-<p id="fn7"><a href="#r7">[7]</a> While the Wiktionary article I linked says buchi becomes bun if the verb following it starts with an <i>n</i> or <i>m</i>, neither <i>torare</i> nor <i>dorare</i> start with a nasal. Luckily, in song lyrics you can do whatever you want so this is fine.
+<p id="fn7"><a href="#r7">[7]</a> While the Wiktionary article I linked says <i>buchi</i> becomes <i>bun</i> if the verb following it starts with an <i>n</i> or <i>m</i>, neither <i>torare</i> nor <i>dorare</i> start with a nasal. Luckily, in song lyrics you can do whatever you want so this is fine.
