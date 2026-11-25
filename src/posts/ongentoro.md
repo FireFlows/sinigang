@@ -193,7 +193,7 @@ Go away!<br>
 Showing up out of the blue like that<br>
 You thief! I'll never change my mind<br>
 no matter how many times you come knocking.<br>
-Come and perform an exorcism, <a href="https://en.wikipedia.org/wiki/Onmy%C5%8Dji">Onmyouji!</a></p>
+Come and perform an exorcism, <a href="https://en.wikipedia.org/wiki/Onmy%C5%8Dji">Onmyouji</a>!</p>
 
 <p>Same thing happens here with the first three verses ending in <i>te</i>/<i>de</i>, except it comes with an extra verse.</p>
 
@@ -710,7 +710,7 @@ riyoukiyaku wa settei shita?</i></p>
 Great job on the recording!<br>
 Are there any issues with the voicebank?<br>
 Have you made a demo song?<br>
-Have you tried out different <a href="https://utau.info/start/resamplers/">resamplers?</a><br>
+Have you tried out different <a href="https://utau.info/start/resamplers/">resamplers</a>?<br>
 Did you create a Terms of Service?</p>
 
 After recording and otoing a voicebank, you might want to check for issues, make a demo song, try out different resamplers, or create a terms of service. But you can do way more stuff than this. Like, create a website, for example. 
