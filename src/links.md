@@ -20,7 +20,7 @@ These links are all free, have little/no ads, are browser-based, and are mobile 
 
 ### Sites I like
 * [Aid's site](https://zhongvie.neocities.org/)
-* [Axetrax1's Calogado Dungeon](https://axetrax1.neocities.org/calogado/home)*
+* [Axetrax1's Calogado Dungeon](https://axetrax1.neocities.org/calogado/home)* not mobile compatible
 * [Brennan's Weblog](https://brennan.day)
 * [Bechno Kid's site](https://bechnokid.com)
 * [How soon is now?](https://howsoonisnow.org/)
