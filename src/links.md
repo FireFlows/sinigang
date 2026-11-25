@@ -20,6 +20,7 @@ These links are all free, have little/no ads, are browser-based, and are mobile 
 
 ### Sites I like
 * [Aid's site](https://zhongvie.neocities.org/)
+* [Axetrax1's Calogado Dungeon](https://axetrax1.neocities.org/calogado/home)*
 * [Brennan's Weblog](https://brennan.day)
 * [Bechno Kid's site](https://bechnokid.com)
 * [How soon is now?](https://howsoonisnow.org/)
@@ -36,6 +37,8 @@ These links are all free, have little/no ads, are browser-based, and are mobile 
 * [squirrelz.xyz](https://squirrelz.xyz/)
 * [TabF5](https://tabf5.com/)
 * [Yataragasu's site](https://yatagarasu.nekoweb.org/)
+
+*I don't know what to call this. I'm surprised I just found it. Man. Honestly, I was thinking about making a "Calogado" section on my website too, but then I thought "maybe that's too embarrassing..." But maybe.... Fuck... I'm thinking about it real hard.
 
 ### Resources
 * [32-bit cafe](https://32bit.cafe/)
