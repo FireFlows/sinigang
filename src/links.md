@@ -28,6 +28,7 @@ These links are all free, have little/no ads, are browser-based, and are mobile 
 * [Ismail's website](https://ismile.neocities.org/)
 * [jb's site](https://jbc.lol)
 * [John Doe's page](https://john-doe.neocities.org/)
+* [Layercake](https://layercake.moe/)
 * [Nonexistent Fandoms Fandom](https://nonexistentfandomsfandom.neocities.org/index.html)
 * [nomnomnami's site](https://nomnomnami.com)
 * [Poopfart's Place](https://iizpoopfart.neocities.org/) not yet mobile compatible 
@@ -49,6 +50,7 @@ These links are all free, have little/no ads, are browser-based, and are mobile 
     * [Learn Eleventy](https://learneleventy.dev)
 * [HTML for people](https://htmlforpeople.com)
 * [Josh W. Comeau's website](https://www.joshwcomeau.com/)
+* [Loveberry](https://loveberry.nekoweb.org/)
 * [MDN Web Docs](https://developer.mozilla.org/)
 * [Native Neocities hit counter](https://dannarchy.com/tut/tut_002)
 * [Responsive YouTube Shuffled Playlist Player](https://codepen.io/jcb01/pen/ZEKpYgV)
