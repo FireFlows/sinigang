@@ -4,6 +4,7 @@ layout: "main.html"
 ---
 * [Art Fight](https://artfight.net/~0430)
 * [Ko-fi](https://ko-fi.com/fire7541)
+* [Neocities site profile](https://neocities.org/site/sinigang)
 * [Tumblr](https://fire7541.tumblr.com)
 * [Twitter](https://twitter.com/fire7541)
 * [VocaDB](https://vocadb.net/profile/sinigang)
