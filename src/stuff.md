@@ -86,16 +86,16 @@ Fave Vocaloid Producers : d.j. xaneiro, FLAVOR FOLEY, frog96, iyowa, john, Masar
 
 <img usemap="#win7widget-compact" src="https://baccyflap.com/noai/win7widget-compact.gif" alt="a Windows 7 style dialog box titled 'The No AI Webring' with a little icon showing a computer chip in a rubbish bin. beside it are three clickable buttons, labeled Previous, Random and Next"> 
 
+<div id="vocaring"></div>
+<link rel="stylesheet" href="https://electric-tenshi.nekoweb.org/vocaring/vocaring.css">
+<script src="https://electric-tenshi.nekoweb.org/vocaring/vocaring-variables.js"></script>
+<script src="https://electric-tenshi.nekoweb.org/vocaring/vocaring-widget.js"></script>
+
 <details>
     <summary>Not yet a part of</summary>
 
 
 <iframe src="https://evehibi.nekoweb.org/doodlering/widget.html?theme=default" frameborder=0 margin=0 width=180 height=110></iframe>
 
-
-<div id="vocaring"></div>
-<link rel="stylesheet" href="https://electric-tenshi.nekoweb.org/vocaring/vocaring.css">
-<script src="https://electric-tenshi.nekoweb.org/vocaring/vocaring-variables.js"></script>
-<script src="https://electric-tenshi.nekoweb.org/vocaring/vocaring-widget.js"></script>
 
 </details>
