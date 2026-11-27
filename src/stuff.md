@@ -91,11 +91,6 @@ Fave Vocaloid Producers : d.j. xaneiro, FLAVOR FOLEY, frog96, iyowa, john, Masar
 <script src="https://electric-tenshi.nekoweb.org/vocaring/vocaring-variables.js"></script>
 <script src="https://electric-tenshi.nekoweb.org/vocaring/vocaring-widget.js"></script>
 
-<details>
-    <summary>Not yet a part of</summary>
-
-
 <iframe src="https://evehibi.nekoweb.org/doodlering/widget.html?theme=default" frameborder=0 margin=0 width=180 height=110></iframe>
 
-
-</details>
+<div id="wwbtn"><a href="https://webmasterwebring.netlify.app"><img src="https://file.garden/ZrZSgsrYfQXsO7QH/ww/50x50.png"></a><br><a href="https://webmasterwebring.netlify.app?sinigang-previous">prev</a> <a href="https://webmasterwebring.netlify.app?sinigang-random">?</a> <a href="https://webmasterwebring.netlify.app?sinigang-next">next</a>
